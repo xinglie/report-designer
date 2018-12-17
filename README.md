@@ -8,3 +8,9 @@ https://xinglie.github.io/report-designer/absolute.html
 
 ### flow layout
 https://xinglie.github.io/report-designer/page.html
+
+### iot demo
+https://xinglie.github.io/report-designer/iot.html
+
+## support project
+![wepay](https://xinglie.github.io/report-designer/wepay.jpg)
