@@ -12,5 +12,8 @@ https://xinglie.github.io/report-designer/page.html
 ### iot demo
 https://xinglie.github.io/report-designer/iot.html
 
+## snapshot
+![snapshot](https://xinglie.github.io/report-designer/snapshot.jpg)
+
 ## support project
 ![wepay](https://xinglie.github.io/report-designer/wepay.jpg)
