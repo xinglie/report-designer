@@ -13,7 +13,7 @@ https://xinglie.github.io/report-designer/page.html
 https://xinglie.github.io/report-designer/iot.html
 
 ## snapshot
-![snapshot](https://xinglie.github.io/report-designer/snapshot.jpg)
+![snapshot](https://xinglie.github.io/report-designer/snapshot.png)
 
 ## support project
 ![wepay](https://xinglie.github.io/report-designer/wepay.jpg)
