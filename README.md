@@ -12,6 +12,10 @@ https://xinglie.github.io/report-designer/page.html
 ### iot demo
 https://xinglie.github.io/report-designer/iot.html
 
+
+### iot display demo
+https://xinglie.github.io/report-designer/display.html
+
 ## snapshot
 ![snapshot](https://xinglie.github.io/report-designer/snapshot.png)
 
