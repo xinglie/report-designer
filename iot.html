@@ -5,10 +5,10 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
         <link type="image/x-icon" href="//img.alicdn.com/tfs/TB1rJ95wwTqK1RjSZPhXXXfOFXa-200-200.png" rel="shortcut icon">
         <title>Loading</title>
-        <style>@keyframes load{0%{width:0}100%{width:98%}}.outer{background:#e6e6e6;position:fixed;left:50%;top:50%;width:300px;margin:-20px 0 0 -150px;height:2px;}.inner{width:0%;background:#4d7fff;height:100%;animation:load 3s forwards;margin-bottom:-2px;}</style>
+        <style>html,body,.app{height:100%;overflow:hidden}@keyframes load{0%{width:0}100%{width:98%}}.outer{background:#e6e6e6;position:fixed;left:50%;top:50%;width:300px;margin:-20px 0 0 -150px;height:2px;}.inner{width:0%;background:#4d7fff;height:100%;animation:load 3s forwards;margin-bottom:-2px;}</style>
     </head>
     <body>
-        <div id="app"><div class="outer"><div class="inner"></div></div></div>
+        <div id="app" class="app"><div class="outer"><div class="inner"></div></div></div>
         <script src="//cdn.bootcss.com/echarts/4.2.0-rc.2/echarts.min.js"></script>
         <script id="boot" type="text/javascript" src="dist/iot.js"></script>
         <script>
