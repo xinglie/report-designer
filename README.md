@@ -1,5 +1,5 @@
 # report-designer
-web report designer, like youdata and asktempo.com
+🚀 element as image ,text etc. visiual editor. web report designer, like youdata and asktempo.com.可视化、大屏、编辑器、设计器、数据分析、报表设计、元素编辑、可视化页面编辑、组件化、区块化、表单设计
 
 ## 预览
 
