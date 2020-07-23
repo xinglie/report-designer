@@ -16,6 +16,9 @@ https://xinglie.github.io/report-designer/iot.html
 ### iot展示demo
 https://xinglie.github.io/report-designer/display.html
 
+### 介绍及讨论
+https://github.com/xinglie/report-designer/issues/1
+
 ## 联系我
 微信ID：qq84685009
 
