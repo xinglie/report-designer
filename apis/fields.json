@@ -1,0 +1,164 @@
+{
+    "data": [
+        {
+            "name": "地区测试",
+            "url": "apis/area.json",
+            "id": 1,
+            "fields": [
+                {
+                    "name": "河北",
+                    "id": "area_13"
+                },
+                {
+                    "name": "山西",
+                    "id": "area_14"
+                },
+                {
+                    "name": "内蒙古",
+                    "id": "area_15"
+                },
+                {
+                    "name": "辽宁",
+                    "id": "area_21"
+                },
+                {
+                    "name": "吉林",
+                    "id": "area_22"
+                },
+                {
+                    "name": "黑龙江",
+                    "id": "area_23"
+                },
+                {
+                    "name": "江苏",
+                    "id": "area_32"
+                },
+                {
+                    "name": "浙江",
+                    "id": "area_33"
+                },
+                {
+                    "name": "安徽",
+                    "id": "area_34"
+                },
+                {
+                    "name": "福建",
+                    "id": "area_35"
+                },
+                {
+                    "name": "江西",
+                    "id": "area_36"
+                },
+                {
+                    "name": "山东",
+                    "id": "area_37"
+                },
+                {
+                    "name": "河南",
+                    "id": "area_41"
+                },
+                {
+                    "name": "湖北",
+                    "id": "area_42"
+                },
+                {
+                    "name": "湖南",
+                    "id": "area_43"
+                },
+                {
+                    "name": "广东",
+                    "id": "area_44"
+                },
+                {
+                    "name": "广西",
+                    "id": "area_45"
+                },
+                {
+                    "name": "海南",
+                    "id": "area_46"
+                },
+                {
+                    "name": "四川",
+                    "id": "area_51"
+                },
+                {
+                    "name": "贵州",
+                    "id": "area_52"
+                },
+                {
+                    "name": "云南",
+                    "id": "area_53"
+                },
+                {
+                    "name": "西藏",
+                    "id": "area_54"
+                },
+                {
+                    "name": "陕西",
+                    "id": "area_61"
+                },
+                {
+                    "name": "甘肃",
+                    "id": "area_62"
+                },
+                {
+                    "name": "青海",
+                    "id": "area_63"
+                },
+                {
+                    "name": "宁夏",
+                    "id": "area_64"
+                },
+                {
+                    "name": "新疆",
+                    "id": "area_65"
+                }
+            ]
+        },
+        {
+            "name": "报表字段测试",
+            "url": "apis/report.json",
+            "id": 2,
+            "fields": [
+                {
+                    "name": "展现量",
+                    "id": "f1"
+                },
+                {
+                    "name": "点击量",
+                    "id": "f2"
+                },
+                {
+                    "name": "点击率",
+                    "id": "f3"
+                },
+                {
+                    "name": "关注",
+                    "id": "f4"
+                },
+                {
+                    "name": "收藏量",
+                    "id": "f5"
+                },
+                {
+                    "name": "成交量",
+                    "id": "f6"
+                },
+                {
+                    "name": "成效金额",
+                    "id": "f7"
+                },
+                {
+                    "name": "千次展现成本",
+                    "id": "f8"
+                },
+                {
+                    "name": "预售金额",
+                    "id": "f9"
+                }
+            ]
+        }
+    ],
+    "status": 1,
+    "message": ""
+}
