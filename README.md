@@ -19,7 +19,7 @@ https://xinglie.github.io/report-designer/display.html
 ## 介绍及讨论
 https://github.com/xinglie/report-designer/issues/1
 
-## 联系我
+## 交个朋友
 微信ID：qq84685009
 
 ## 示例截屏
