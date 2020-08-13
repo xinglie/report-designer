@@ -23,11 +23,11 @@ https://xinglie.github.io/report-designer/display.html
 https://xinglie.github.io/printer-editor/
 
 
-## 交个朋友
+## 交流
 微信ID：qq84685009
 
 ## 示例截屏
 ![snapshot](https://xinglie.github.io/report-designer/snapshot.png)
 
-## 支持项目发展
+## 支持项目
 ![wepay](https://xinglie.github.io/report-designer/wepay.jpg)
