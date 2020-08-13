@@ -12,9 +12,11 @@ https://xinglie.github.io/report-designer/page.html
 ### iot应用demo
 https://xinglie.github.io/report-designer/iot.html
 
-
 ### iot展示demo
 https://xinglie.github.io/report-designer/display.html
+
+### 打印设计demo
+https://xinglie.github.io/printer-editor/
 
 ## 介绍及讨论
 https://github.com/xinglie/report-designer/issues/1
