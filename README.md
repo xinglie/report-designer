@@ -8,25 +8,25 @@ https://github.com/xinglie/report-designer/issues/1
 ## 预览
 
 ### 绝对定位布局 
-https://xinglie.github.io/report-designer/absolute.html
+示例：https://xinglie.github.io/report-designer/absolute.html
+源码：https://github.com/xinglie/report-designer/tree/absolute (代码较旧，联系我获取最新代码)
 
 ### 流式布局
-https://xinglie.github.io/report-designer/page.html
+示例：https://xinglie.github.io/report-designer/page.html
+源码：联系我获取
 
-### iot应用demo
-https://xinglie.github.io/report-designer/iot.html
+### 物联网设计器
+示例：https://xinglie.github.io/report-designer/iot.html
+源码：联系我获取
 
-### iot展示demo
-https://xinglie.github.io/report-designer/display.html
-
-### 打印设计demo
-https://xinglie.github.io/printer-editor/
+### 打印设计器
+源码及示例：https://xinglie.github.io/printer-editor/
 
 
 ## 交流
 微信ID：qq84685009
 
-## 示例截屏
+## 物联网设计器截屏
 ![snapshot](https://xinglie.github.io/report-designer/snapshot.png)
 
 ## 支持项目
