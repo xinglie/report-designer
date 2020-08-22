@@ -9,14 +9,17 @@ https://github.com/xinglie/report-designer/issues/1
 
 ### 绝对定位布局 
 示例：https://xinglie.github.io/report-designer/absolute.html
+
 源码：https://github.com/xinglie/report-designer/tree/absolute (代码较旧，联系我获取最新代码)
 
 ### 流式布局
 示例：https://xinglie.github.io/report-designer/page.html
+
 源码：联系我获取
 
 ### 物联网设计器
 示例：https://xinglie.github.io/report-designer/iot.html
+
 源码：联系我获取
 
 ### 打印设计器
