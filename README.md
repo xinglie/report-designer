@@ -29,5 +29,5 @@ https://github.com/xinglie/report-designer/issues/1
 ## 交流
 微信ID：qq84685009 (star都不给一个的，就不要加微信要源码了)
 
-## 通用设计器(原物联网设计器)截屏
+## 通用设计器截屏
 ![snapshot](https://xinglie.github.io/report-designer/snapshot.png)
