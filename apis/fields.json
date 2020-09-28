@@ -157,6 +157,33 @@
                     "id": "f9"
                 }
             ]
+        },
+        {
+            "name": "人物信息测试",
+            "url": "apis/person.json",
+            "id": 3,
+            "fields": [
+                {
+                    "name": "姓名",
+                    "id": "name"
+                },
+                {
+                    "name": "性别",
+                    "id": "gender"
+                },
+                {
+                    "name": "地址",
+                    "id": "addr"
+                },
+                {
+                    "name": "身份证号",
+                    "id": "idn"
+                },
+                {
+                    "name": "头像",
+                    "id": "avatar"
+                }
+            ]
         }
     ],
     "status": 1,

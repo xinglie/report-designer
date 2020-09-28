@@ -1,6 +1,452 @@
 {
     "data": [
         {
+            "title": "人物信息",
+            "stage": {
+                "page": {
+                    "width": 600,
+                    "height": 400,
+                    "background": "#ffffff",
+                    "backgroundImage": "",
+                    "backgroundRepeat": "full",
+                    "backgroundWidth": 0,
+                    "backgroundHeight": 0,
+                    "positionXOffset": 0,
+                    "positionYOffset": 0
+                },
+                "groups": [],
+                "elements": [
+                    {
+                        "id": "e_221",
+                        "type": "data-celltable",
+                        "props": {
+                            "rows": [
+                                {
+                                    "cols": [
+                                        {
+                                            "width": 517,
+                                            "height": 60,
+                                            "rowspan": 1,
+                                            "colspan": 2,
+                                            "paddingBottom": 5,
+                                            "paddingTop": 5,
+                                            "paddingLeft": 5,
+                                            "paddingRight": 5,
+                                            "hpos": "center",
+                                            "vpos": "center",
+                                            "alpha": 1,
+                                            "type": "text",
+                                            "textLetterspacing": 0,
+                                            "textForecolor": "#000000",
+                                            "textFontsize": 16,
+                                            "textFontfamily": "Microsoft YaHei",
+                                            "textStyleBold": true,
+                                            "textStyleUnderline": false,
+                                            "textStyleItalic": false,
+                                            "textStyleStrike": false,
+                                            "textContent": "人物信息绑定测试"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "cols": [
+                                        {
+                                            "height": 50,
+                                            "width": 258.5,
+                                            "rowspan": 1,
+                                            "colspan": 1,
+                                            "paddingLeft": 5,
+                                            "paddingTop": 5,
+                                            "paddingRight": 5,
+                                            "paddingBottom": 5,
+                                            "hpos": "flex-start",
+                                            "vpos": "flex-start",
+                                            "alpha": 1,
+                                            "type": "text",
+                                            "textLetterspacing": 0,
+                                            "textForecolor": "#000000",
+                                            "textFontsize": 14,
+                                            "textFontfamily": "Microsoft YaHei",
+                                            "textStyleBold": false,
+                                            "textStyleUnderline": false,
+                                            "textStyleItalic": false,
+                                            "textStyleStrike": false,
+                                            "textContent": "",
+                                            "bindKey": "name",
+                                            "bindName": "姓名"
+                                        },
+                                        {
+                                            "height": 151.50862068965517,
+                                            "width": 258.5,
+                                            "rowspan": 3,
+                                            "colspan": 1,
+                                            "paddingLeft": 5,
+                                            "paddingTop": 5,
+                                            "paddingRight": 5,
+                                            "paddingBottom": 5,
+                                            "hpos": "center",
+                                            "vpos": "center",
+                                            "alpha": 1,
+                                            "type": "image",
+                                            "bindKey": "avatar",
+                                            "bindName": "头像",
+                                            "imageMaxWidth": -1,
+                                            "imageMaxHeight": 140,
+                                            "fixedHeight": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "cols": [
+                                        {
+                                            "height": 50.75431034482759,
+                                            "width": 258.5,
+                                            "rowspan": 1,
+                                            "colspan": 1,
+                                            "paddingLeft": 5,
+                                            "paddingTop": 5,
+                                            "paddingRight": 5,
+                                            "paddingBottom": 5,
+                                            "hpos": "flex-start",
+                                            "vpos": "flex-start",
+                                            "alpha": 1,
+                                            "type": "text",
+                                            "textLetterspacing": 0,
+                                            "textForecolor": "#000000",
+                                            "textFontsize": 14,
+                                            "textFontfamily": "Microsoft YaHei",
+                                            "textStyleBold": false,
+                                            "textStyleUnderline": false,
+                                            "textStyleItalic": false,
+                                            "textStyleStrike": false,
+                                            "textContent": "",
+                                            "bindKey": "gender",
+                                            "bindName": "性别"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "cols": [
+                                        {
+                                            "colspan": 1,
+                                            "rowspan": 1,
+                                            "width": 258.5,
+                                            "height": 50.75431034482759,
+                                            "paddingBottom": 5,
+                                            "paddingTop": 5,
+                                            "paddingLeft": 5,
+                                            "paddingRight": 5,
+                                            "hpos": "flex-start",
+                                            "vpos": "flex-start",
+                                            "alpha": 1,
+                                            "type": "text",
+                                            "textLetterspacing": 0,
+                                            "textForecolor": "#000000",
+                                            "textFontsize": 14,
+                                            "textFontfamily": "Microsoft YaHei",
+                                            "textStyleBold": false,
+                                            "textStyleUnderline": false,
+                                            "textStyleItalic": false,
+                                            "textStyleStrike": false,
+                                            "textContent": "",
+                                            "bindKey": "idn",
+                                            "bindName": "身份证号"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "cols": [
+                                        {
+                                            "width": 517,
+                                            "height": 40,
+                                            "rowspan": 1,
+                                            "colspan": 2,
+                                            "paddingBottom": 5,
+                                            "paddingTop": 5,
+                                            "paddingLeft": 5,
+                                            "paddingRight": 5,
+                                            "hpos": "flex-start",
+                                            "vpos": "flex-start",
+                                            "alpha": 1,
+                                            "type": "text",
+                                            "textLetterspacing": 0,
+                                            "textForecolor": "#000000",
+                                            "textFontsize": 14,
+                                            "textFontfamily": "Microsoft YaHei",
+                                            "textStyleBold": false,
+                                            "textStyleUnderline": false,
+                                            "textStyleItalic": false,
+                                            "textStyleStrike": false,
+                                            "textContent": "",
+                                            "bindKey": "addr",
+                                            "bindName": "地址"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "bindUrl": "apis/person.json",
+                            "bindId": "3",
+                            "x": 34,
+                            "y": 69,
+                            "width": 518,
+                            "height": 252,
+                            "alpha": 1,
+                            "borderwidth": 1,
+                            "bordertype": "solid",
+                            "bordercolor": "#000000",
+                            "ename": "单元格"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "地区绑定",
+            "stage": {
+                "page": {
+                    "width": 800,
+                    "height": 396,
+                    "background": "#ffffff",
+                    "backgroundImage": "",
+                    "backgroundRepeat": "full",
+                    "backgroundWidth": 0,
+                    "backgroundHeight": 0,
+                    "positionXOffset": 0,
+                    "positionYOffset": 0
+                },
+                "groups": [],
+                "elements": [
+                    {
+                        "id": "e_604",
+                        "type": "data-celltable",
+                        "props": {
+                            "rows": [
+                                {
+                                    "cols": [
+                                        {
+                                            "height": 40,
+                                            "width": 600,
+                                            "rowspan": 1,
+                                            "colspan": 3,
+                                            "paddingLeft": 5,
+                                            "paddingTop": 5,
+                                            "paddingRight": 5,
+                                            "paddingBottom": 5,
+                                            "hpos": "center",
+                                            "vpos": "center",
+                                            "alpha": 1,
+                                            "textLetterspacing": 0,
+                                            "textForecolor": "#000000",
+                                            "textFontsize": 18,
+                                            "textFontfamily": "Microsoft YaHei",
+                                            "textStyleBold": true,
+                                            "textStyleUnderline": false,
+                                            "textStyleItalic": false,
+                                            "textStyleStrike": false,
+                                            "textContent": "地区绑定打印测试",
+                                            "type": "text"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "cols": [
+                                        {
+                                            "height": 40,
+                                            "width": 200,
+                                            "rowspan": 1,
+                                            "colspan": 1,
+                                            "paddingLeft": 5,
+                                            "paddingTop": 5,
+                                            "paddingRight": 5,
+                                            "paddingBottom": 5,
+                                            "hpos": "flex-start",
+                                            "vpos": "flex-start",
+                                            "alpha": 1,
+                                            "bindKey": "area_13",
+                                            "bindName": "河北",
+                                            "textLetterspacing": 0,
+                                            "textForecolor": "#000000",
+                                            "textFontsize": 14,
+                                            "textFontfamily": "Microsoft YaHei",
+                                            "textStyleBold": false,
+                                            "textStyleUnderline": false,
+                                            "textStyleItalic": true,
+                                            "textStyleStrike": false,
+                                            "textContent": "",
+                                            "type": "text"
+                                        },
+                                        {
+                                            "height": 40,
+                                            "width": 400,
+                                            "rowspan": 1,
+                                            "colspan": 2,
+                                            "paddingBottom": 5,
+                                            "paddingTop": 5,
+                                            "paddingLeft": 5,
+                                            "paddingRight": 5,
+                                            "hpos": "flex-start",
+                                            "vpos": "flex-start",
+                                            "alpha": 1,
+                                            "bindKey": "area_15",
+                                            "bindName": "内蒙古",
+                                            "textLetterspacing": 0,
+                                            "textForecolor": "#000000",
+                                            "textFontsize": 14,
+                                            "textFontfamily": "Microsoft YaHei",
+                                            "textStyleBold": true,
+                                            "textStyleUnderline": false,
+                                            "textStyleItalic": false,
+                                            "textStyleStrike": false,
+                                            "textContent": "",
+                                            "type": "text"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "cols": [
+                                        {
+                                            "width": 200,
+                                            "height": 80,
+                                            "rowspan": 2,
+                                            "colspan": 1,
+                                            "paddingBottom": 5,
+                                            "paddingTop": 5,
+                                            "paddingLeft": 5,
+                                            "paddingRight": 5,
+                                            "hpos": "flex-start",
+                                            "vpos": "flex-start",
+                                            "alpha": 1,
+                                            "bindKey": "area_23",
+                                            "bindName": "黑龙江",
+                                            "textLetterspacing": 0,
+                                            "textForecolor": "#000000",
+                                            "textFontsize": 14,
+                                            "textFontfamily": "Microsoft YaHei",
+                                            "textStyleBold": false,
+                                            "textStyleUnderline": false,
+                                            "textStyleItalic": false,
+                                            "textStyleStrike": false,
+                                            "textContent": "",
+                                            "type": "text"
+                                        },
+                                        {
+                                            "height": 40,
+                                            "width": 200,
+                                            "rowspan": 1,
+                                            "colspan": 1,
+                                            "paddingBottom": 5,
+                                            "paddingTop": 5,
+                                            "paddingLeft": 5,
+                                            "paddingRight": 5,
+                                            "hpos": "flex-start",
+                                            "vpos": "flex-start",
+                                            "alpha": 1,
+                                            "bindKey": "area_34",
+                                            "bindName": "安徽"
+                                        },
+                                        {
+                                            "width": 200,
+                                            "height": 120,
+                                            "rowspan": 3,
+                                            "colspan": 1,
+                                            "paddingBottom": 5,
+                                            "paddingTop": 5,
+                                            "paddingLeft": 5,
+                                            "paddingRight": 5,
+                                            "hpos": "flex-end",
+                                            "vpos": "flex-start",
+                                            "alpha": 1,
+                                            "bindKey": "area_35",
+                                            "bindName": "福建",
+                                            "textLetterspacing": 0,
+                                            "textForecolor": "#000000",
+                                            "textFontsize": 14,
+                                            "textFontfamily": "Microsoft YaHei",
+                                            "textStyleBold": false,
+                                            "textStyleUnderline": false,
+                                            "textStyleItalic": true,
+                                            "textStyleStrike": false,
+                                            "textContent": "",
+                                            "type": "text"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "cols": [
+                                        {
+                                            "height": 40,
+                                            "width": 200,
+                                            "rowspan": 1,
+                                            "colspan": 1,
+                                            "paddingBottom": 0,
+                                            "paddingTop": 5,
+                                            "paddingLeft": 5,
+                                            "paddingRight": 5,
+                                            "hpos": "flex-start",
+                                            "vpos": "flex-end",
+                                            "alpha": 1,
+                                            "bindKey": "area_37",
+                                            "bindName": "山东",
+                                            "textLetterspacing": 0,
+                                            "textForecolor": "#000000",
+                                            "textFontsize": 14,
+                                            "textFontfamily": "Microsoft YaHei",
+                                            "textStyleBold": false,
+                                            "textStyleUnderline": true,
+                                            "textStyleItalic": false,
+                                            "textStyleStrike": false,
+                                            "textContent": "",
+                                            "type": "text"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "cols": [
+                                        {
+                                            "width": 400,
+                                            "height": 40,
+                                            "rowspan": 1,
+                                            "colspan": 2,
+                                            "paddingBottom": 5,
+                                            "paddingTop": 5,
+                                            "paddingLeft": 5,
+                                            "paddingRight": 5,
+                                            "hpos": "center",
+                                            "vpos": "center",
+                                            "alpha": 1,
+                                            "bindKey": "area_41",
+                                            "bindName": "河南",
+                                            "textLetterspacing": 0,
+                                            "textForecolor": "#000000",
+                                            "textFontsize": 14,
+                                            "textFontfamily": "Microsoft YaHei",
+                                            "textStyleBold": false,
+                                            "textStyleUnderline": false,
+                                            "textStyleItalic": false,
+                                            "textStyleStrike": false,
+                                            "textContent": "",
+                                            "type": "text"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "bindUrl": "apis/area.json",
+                            "bindId": "1",
+                            "x": 109,
+                            "y": 82,
+                            "width": 601,
+                            "height": 201,
+                            "alpha": 1,
+                            "borderwidth": 1,
+                            "bordertype": "solid",
+                            "bordercolor": "#000000",
+                            "ename": "单元格"
+                        }
+                    }
+                ]
+            }
+        },
+        {
             "title": "准考证",
             "stage": {
                 "page": {
@@ -44,16 +490,8 @@
                                                         "letterspacing": 0,
                                                         "background": "",
                                                         "forecolor": "#000000",
-                                                        "style": {
-                                                            "bold": false,
-                                                            "underline": false,
-                                                            "italic": false,
-                                                            "strike": false
-                                                        },
-                                                        "align": {
-                                                            "h": "center",
-                                                            "v": "center"
-                                                        },
+                                                        "hpos": "center",
+                                                        "vpos": "center",
                                                         "text": "准考证示例"
                                                     }
                                                 }
@@ -84,16 +522,8 @@
                                                         "letterspacing": 0,
                                                         "background": "",
                                                         "forecolor": "#000000",
-                                                        "style": {
-                                                            "bold": false,
-                                                            "underline": false,
-                                                            "italic": false,
-                                                            "strike": false
-                                                        },
-                                                        "align": {
-                                                            "h": "center",
-                                                            "v": "center"
-                                                        },
+                                                        "hpos": "center",
+                                                        "vpos": "center",
                                                         "text": "姓名"
                                                     }
                                                 }
@@ -116,16 +546,8 @@
                                                         "letterspacing": 0,
                                                         "background": "",
                                                         "forecolor": "#000000",
-                                                        "style": {
-                                                            "bold": false,
-                                                            "underline": false,
-                                                            "italic": false,
-                                                            "strike": false
-                                                        },
-                                                        "align": {
-                                                            "h": "center",
-                                                            "v": "center"
-                                                        },
+                                                        "hpos": "center",
+                                                        "vpos": "center",
                                                         "text": "[绑定姓名]"
                                                     }
                                                 }
@@ -152,16 +574,8 @@
                                                         "letterspacing": 0,
                                                         "background": "",
                                                         "forecolor": "#000000",
-                                                        "style": {
-                                                            "bold": false,
-                                                            "underline": false,
-                                                            "italic": false,
-                                                            "strike": false
-                                                        },
-                                                        "align": {
-                                                            "h": "center",
-                                                            "v": "center"
-                                                        },
+                                                        "hpos": "center",
+                                                        "vpos": "center",
                                                         "text": "性别"
                                                     }
                                                 }
@@ -188,16 +602,8 @@
                                                         "letterspacing": 0,
                                                         "background": "",
                                                         "forecolor": "#000000",
-                                                        "style": {
-                                                            "bold": false,
-                                                            "underline": false,
-                                                            "italic": false,
-                                                            "strike": false
-                                                        },
-                                                        "align": {
-                                                            "h": "center",
-                                                            "v": "center"
-                                                        },
+                                                        "hpos": "center",
+                                                        "vpos": "center",
                                                         "text": "[绑定性别]"
                                                     }
                                                 }
@@ -255,16 +661,8 @@
                                                         "letterspacing": 0,
                                                         "background": "",
                                                         "forecolor": "#000000",
-                                                        "style": {
-                                                            "bold": false,
-                                                            "underline": false,
-                                                            "italic": false,
-                                                            "strike": false
-                                                        },
-                                                        "align": {
-                                                            "h": "center",
-                                                            "v": "center"
-                                                        },
+                                                        "hpos": "center",
+                                                        "vpos": "center",
                                                         "text": "准考证号"
                                                     }
                                                 }
@@ -287,16 +685,8 @@
                                                         "letterspacing": 0,
                                                         "background": "",
                                                         "forecolor": "#000000",
-                                                        "style": {
-                                                            "bold": false,
-                                                            "underline": false,
-                                                            "italic": false,
-                                                            "strike": false
-                                                        },
-                                                        "align": {
-                                                            "h": "center",
-                                                            "v": "center"
-                                                        },
+                                                        "hpos": "center",
+                                                        "vpos": "center",
                                                         "text": "[绑定准考证号]"
                                                     }
                                                 }
@@ -331,16 +721,8 @@
                                                         "letterspacing": 0,
                                                         "background": "",
                                                         "forecolor": "#000000",
-                                                        "style": {
-                                                            "bold": false,
-                                                            "underline": false,
-                                                            "italic": false,
-                                                            "strike": false
-                                                        },
-                                                        "align": {
-                                                            "h": "center",
-                                                            "v": "center"
-                                                        },
+                                                        "hpos": "center",
+                                                        "vpos": "center",
                                                         "text": "身份证号"
                                                     }
                                                 }
@@ -363,16 +745,8 @@
                                                         "letterspacing": 0,
                                                         "background": "",
                                                         "forecolor": "#000000",
-                                                        "style": {
-                                                            "bold": false,
-                                                            "underline": false,
-                                                            "italic": false,
-                                                            "strike": false
-                                                        },
-                                                        "align": {
-                                                            "h": "center",
-                                                            "v": "center"
-                                                        },
+                                                        "hpos": "center",
+                                                        "vpos": "center",
                                                         "text": "[绑定身份证号]"
                                                     }
                                                 }
@@ -407,16 +781,8 @@
                                                         "letterspacing": 0,
                                                         "background": "",
                                                         "forecolor": "#000000",
-                                                        "style": {
-                                                            "bold": false,
-                                                            "underline": false,
-                                                            "italic": false,
-                                                            "strike": false
-                                                        },
-                                                        "align": {
-                                                            "h": "center",
-                                                            "v": "center"
-                                                        },
+                                                        "hpos": "center",
+                                                        "vpos": "center",
                                                         "text": "所在地址"
                                                     }
                                                 }
@@ -439,16 +805,8 @@
                                                         "letterspacing": 0,
                                                         "background": "",
                                                         "forecolor": "#000000",
-                                                        "style": {
-                                                            "bold": false,
-                                                            "underline": false,
-                                                            "italic": false,
-                                                            "strike": false
-                                                        },
-                                                        "align": {
-                                                            "h": "center",
-                                                            "v": "center"
-                                                        },
+                                                        "hpos": "center",
+                                                        "vpos": "center",
                                                         "text": "[绑定所在地址]"
                                                     }
                                                 }
@@ -481,16 +839,8 @@
                                                         "letterspacing": 0,
                                                         "background": "",
                                                         "forecolor": "#000000",
-                                                        "style": {
-                                                            "bold": false,
-                                                            "underline": false,
-                                                            "italic": false,
-                                                            "strike": false
-                                                        },
-                                                        "align": {
-                                                            "h": "center",
-                                                            "v": "center"
-                                                        },
+                                                        "hpos": "center",
+                                                        "vpos": "center",
                                                         "text": "考点地址"
                                                     }
                                                 }
@@ -515,16 +865,8 @@
                                                         "letterspacing": 0,
                                                         "background": "",
                                                         "forecolor": "#000000",
-                                                        "style": {
-                                                            "bold": false,
-                                                            "underline": false,
-                                                            "italic": false,
-                                                            "strike": false
-                                                        },
-                                                        "align": {
-                                                            "h": "center",
-                                                            "v": "center"
-                                                        },
+                                                        "hpos": "center",
+                                                        "vpos": "center",
                                                         "text": "[绑定考点地址]"
                                                     }
                                                 }
@@ -553,16 +895,8 @@
                                                         "letterspacing": 0,
                                                         "background": "",
                                                         "forecolor": "#000000",
-                                                        "style": {
-                                                            "bold": false,
-                                                            "underline": false,
-                                                            "italic": false,
-                                                            "strike": false
-                                                        },
-                                                        "align": {
-                                                            "h": "center",
-                                                            "v": "center"
-                                                        },
+                                                        "hpos": "center",
+                                                        "vpos": "center",
                                                         "text": "文化程度"
                                                     }
                                                 }
@@ -587,16 +921,8 @@
                                                         "letterspacing": 0,
                                                         "background": "",
                                                         "forecolor": "#000000",
-                                                        "style": {
-                                                            "bold": false,
-                                                            "underline": false,
-                                                            "italic": false,
-                                                            "strike": false
-                                                        },
-                                                        "align": {
-                                                            "h": "center",
-                                                            "v": "center"
-                                                        },
+                                                        "hpos": "center",
+                                                        "vpos": "center",
                                                         "text": "[绑定文化程度]"
                                                     }
                                                 }
@@ -663,16 +989,8 @@
                             "letterspacing": 0,
                             "background": "",
                             "forecolor": "#000000",
-                            "style": {
-                                "bold": false,
-                                "underline": false,
-                                "italic": false,
-                                "strike": false
-                            },
-                            "align": {
-                                "h": "center",
-                                "v": "center"
-                            },
+                            "hpos": "center",
+                            "vpos": "center",
                             "text": "数学试卷测试"
                         }
                     },
@@ -691,16 +1009,8 @@
                             "letterspacing": 0,
                             "background": "",
                             "forecolor": "#000000",
-                            "style": {
-                                "bold": false,
-                                "underline": false,
-                                "italic": false,
-                                "strike": false
-                            },
-                            "align": {
-                                "h": "flex-start",
-                                "v": "center"
-                            },
+                            "hpos": "flex-start",
+                            "vpos": "center",
                             "text": "如图，在△ABC中，∠C=90°。AC=4，BC=3。让△ABC绕A点逆时针旋转，使点C落在AB的E点上，点B落在D点上，求EB的长度？"
                         }
                     },
@@ -740,16 +1050,8 @@
                             "letterspacing": 0,
                             "background": "",
                             "forecolor": "#000000",
-                            "style": {
-                                "bold": false,
-                                "underline": false,
-                                "italic": false,
-                                "strike": false
-                            },
-                            "align": {
-                                "h": "center",
-                                "v": "center"
-                            },
+                            "hpos": "center",
+                            "vpos": "center",
                             "text": "A"
                         }
                     },
@@ -768,16 +1070,8 @@
                             "letterspacing": 0,
                             "background": "",
                             "forecolor": "#000000",
-                            "style": {
-                                "bold": false,
-                                "underline": false,
-                                "italic": false,
-                                "strike": false
-                            },
-                            "align": {
-                                "h": "center",
-                                "v": "center"
-                            },
+                            "hpos": "center",
+                            "vpos": "center",
                             "text": "B"
                         }
                     },
@@ -796,16 +1090,8 @@
                             "letterspacing": 0,
                             "background": "",
                             "forecolor": "#000000",
-                            "style": {
-                                "bold": false,
-                                "underline": false,
-                                "italic": false,
-                                "strike": false
-                            },
-                            "align": {
-                                "h": "center",
-                                "v": "center"
-                            },
+                            "hpos": "center",
+                            "vpos": "center",
                             "text": "C"
                         }
                     },
@@ -824,16 +1110,8 @@
                             "letterspacing": 0,
                             "background": "",
                             "forecolor": "#000000",
-                            "style": {
-                                "bold": false,
-                                "underline": false,
-                                "italic": false,
-                                "strike": false
-                            },
-                            "align": {
-                                "h": "center",
-                                "v": "center"
-                            },
+                            "hpos": "center",
+                            "vpos": "center",
                             "text": "D"
                         }
                     },
@@ -852,16 +1130,8 @@
                             "letterspacing": 0,
                             "background": "",
                             "forecolor": "#000000",
-                            "style": {
-                                "bold": false,
-                                "underline": false,
-                                "italic": false,
-                                "strike": false
-                            },
-                            "align": {
-                                "h": "center",
-                                "v": "center"
-                            },
+                            "hpos": "center",
+                            "vpos": "center",
                             "text": "E"
                         }
                     },
@@ -901,16 +1171,9 @@
                             "letterspacing": 0,
                             "background": "",
                             "forecolor": "#000000",
-                            "style": {
-                                "bold": true,
-                                "underline": false,
-                                "italic": false,
-                                "strike": false
-                            },
-                            "align": {
-                                "h": "flex-start",
-                                "v": "center"
-                            },
+                            "styleBold": true,
+                            "hpos": "flex-start",
+                            "vpos": "center",
                             "text": "求方程组"
                         }
                     },
@@ -979,40 +1242,40 @@
                 "groups": [],
                 "elements": [
                     {
-                        "id": "em_257",
+                        "id": "e_28",
                         "type": "flow-connector",
                         "props": {
-                            "linkFromId": "em_265",
+                            "linkFromId": "e_26",
                             "linkFromKey": "p7",
-                            "linkToId": "em_115",
+                            "linkToId": "e_27",
                             "linkToKey": "p7",
-                            "x": 145,
-                            "y": 433,
-                            "textPointX": 178,
-                            "textPointY": 433,
-                            "textX": 138,
-                            "textY": 423,
-                            "width": 220,
-                            "height": 178,
+                            "x": 104,
+                            "y": 459,
+                            "textPointX": 174,
+                            "textPointY": 459,
+                            "textX": 134,
+                            "textY": 449,
+                            "width": 261,
+                            "height": 151,
                             "points": [
                                 {
-                                    "x": 145,
-                                    "y": 433
+                                    "x": 104,
+                                    "y": 459
                                 },
                                 {
                                     "x": 365,
-                                    "y": 433
+                                    "y": 459
                                 }
                             ],
-                            "startX": 145,
-                            "startY": 611,
+                            "startX": 104,
+                            "startY": 610,
                             "lineType": "polyline",
                             "ctrl1X": 57,
                             "ctrl1Y": 123,
                             "ctrl2X": 257,
                             "ctrl2Y": 123,
                             "endX": 365,
-                            "endY": 457,
+                            "endY": 489,
                             "startArrow": 1,
                             "endArrow": 2,
                             "alpha": 1,
@@ -1034,36 +1297,36 @@
                         }
                     },
                     {
-                        "id": "em_254",
+                        "id": "e_30",
                         "type": "flow-connector",
                         "props": {
-                            "linkFromId": "em_121",
+                            "linkFromId": "e_29",
                             "linkFromKey": "p4",
-                            "linkToId": "em_265",
+                            "linkToId": "e_26",
                             "linkToKey": "p6",
-                            "x": 145,
-                            "y": 651,
-                            "textPointX": 204,
-                            "textPointY": 702,
-                            "textX": 164,
-                            "textY": 692,
-                            "width": 116,
-                            "height": 51,
+                            "x": 104,
+                            "y": 650,
+                            "textPointX": 176,
+                            "textPointY": 743,
+                            "textX": 136,
+                            "textY": 733,
+                            "width": 157,
+                            "height": 93,
                             "points": [
                                 {
-                                    "x": 145,
-                                    "y": 702
+                                    "x": 104,
+                                    "y": 743
                                 }
                             ],
                             "startX": 261,
-                            "startY": 701,
+                            "startY": 742,
                             "lineType": "polyline",
                             "ctrl1X": 57,
                             "ctrl1Y": 123,
                             "ctrl2X": 257,
                             "ctrl2Y": 123,
-                            "endX": 145,
-                            "endY": 651,
+                            "endX": 104,
+                            "endY": 650,
                             "startArrow": 1,
                             "endArrow": 2,
                             "alpha": 1,
@@ -1085,40 +1348,40 @@
                         }
                     },
                     {
-                        "id": "em_224",
+                        "id": "e_33",
                         "type": "flow-connector",
                         "props": {
-                            "linkFromId": "em_86",
+                            "linkFromId": "e_31",
                             "linkFromKey": "p4",
-                            "linkToId": "em_297",
+                            "linkToId": "e_32",
                             "linkToKey": "p4",
-                            "x": 237,
-                            "y": 314,
-                            "textPointX": 245,
-                            "textPointY": 314,
-                            "textX": 205,
-                            "textY": 304,
-                            "width": 28,
-                            "height": 718,
+                            "x": 231,
+                            "y": 329,
+                            "textPointX": 244,
+                            "textPointY": 329,
+                            "textX": 204,
+                            "textY": 319,
+                            "width": 34,
+                            "height": 751,
                             "points": [
                                 {
-                                    "x": 237,
-                                    "y": 314
+                                    "x": 231,
+                                    "y": 329
                                 },
                                 {
-                                    "x": 237,
-                                    "y": 1032
+                                    "x": 231,
+                                    "y": 1080
                                 }
                             ],
                             "startX": 261,
-                            "startY": 313,
+                            "startY": 328,
                             "lineType": "polyline",
                             "ctrl1X": 57,
                             "ctrl1Y": 123,
                             "ctrl2X": 257,
                             "ctrl2Y": 123,
                             "endX": 265,
-                            "endY": 1032,
+                            "endY": 1080,
                             "startArrow": 1,
                             "endArrow": 2,
                             "alpha": 1,
@@ -1140,306 +1403,43 @@
                         }
                     },
                     {
-                        "id": "em_153",
+                        "id": "e_36",
                         "type": "flow-connector",
                         "props": {
-                            "linkFromId": "em_124",
+                            "linkFromId": "e_34",
                             "linkFromKey": "p5",
-                            "linkToId": "em_268",
+                            "linkToId": "e_35",
                             "linkToKey": "p6",
                             "x": 469,
-                            "y": 766,
-                            "textPointX": 565,
-                            "textPointY": 807,
-                            "textX": 525,
-                            "textY": 797,
-                            "width": 96,
-                            "height": 58,
+                            "y": 814,
+                            "textPointX": 595,
+                            "textPointY": 867,
+                            "textX": 555,
+                            "textY": 857,
+                            "width": 128,
+                            "height": 53,
                             "points": [
                                 {
-                                    "x": 565,
-                                    "y": 824
+                                    "x": 597,
+                                    "y": 867
                                 }
                             ],
                             "startX": 469,
-                            "startY": 823,
-                            "lineType": "polyline",
-                            "ctrl1X": 57,
-                            "ctrl1Y": 123,
-                            "ctrl2X": 257,
-                            "ctrl2Y": 123,
-                            "endX": 565,
-                            "endY": 766,
-                            "startArrow": 1,
-                            "endArrow": 2,
-                            "alpha": 1,
-                            "linewidth": 2,
-                            "dash": 0,
-                            "color": "#000000",
-                            "text": "否",
-                            "textWidth": 80,
-                            "textHeight": 20,
-                            "textFontsize": 12,
-                            "textFontfamily": "Microsoft YaHei",
-                            "textLetterspacing": 0,
-                            "textBackground": "",
-                            "textForecolor": "#000000",
-                            "textRotate": 0,
-                            "textPosition": 0.73,
-                            "textOffsetX": -50,
-                            "textOffsetY": 0
-                        }
-                    },
-                    {
-                        "id": "em_90",
-                        "type": "flow-connector",
-                        "props": {
-                            "linkFromId": "em_268",
-                            "linkFromKey": "p7",
-                            "linkToId": "em_121",
-                            "linkToKey": "p5",
-                            "x": 469,
-                            "y": 702,
-                            "textPointX": 529,
-                            "textPointY": 702,
-                            "textX": 489,
-                            "textY": 692,
-                            "width": 96,
-                            "height": 24,
-                            "points": [
-                                {
-                                    "x": 565,
-                                    "y": 702
-                                },
-                                {
-                                    "x": 493,
-                                    "y": 702
-                                }
-                            ],
-                            "startX": 565,
-                            "startY": 726,
-                            "lineType": "polyline",
-                            "ctrl1X": 57,
-                            "ctrl1Y": 123,
-                            "ctrl2X": 257,
-                            "ctrl2Y": 123,
-                            "endX": 469,
-                            "endY": 701,
-                            "startArrow": 1,
-                            "endArrow": 2,
-                            "alpha": 1,
-                            "linewidth": 2,
-                            "dash": 0,
-                            "color": "#000000",
-                            "text": "",
-                            "textWidth": 80,
-                            "textHeight": 20,
-                            "textFontsize": 12,
-                            "textFontfamily": "Microsoft YaHei",
-                            "textLetterspacing": 0,
-                            "textBackground": "",
-                            "textForecolor": "#000000",
-                            "textRotate": 0,
-                            "textPosition": 0.5,
-                            "textOffsetX": 0,
-                            "textOffsetY": 0
-                        }
-                    },
-                    {
-                        "id": "em_113",
-                        "type": "flow-connector",
-                        "props": {
-                            "linkFromId": "em_262",
-                            "linkFromKey": "p7",
-                            "linkToId": "em_86",
-                            "linkToKey": "p5",
-                            "x": 469,
-                            "y": 314,
-                            "textPointX": 529,
-                            "textPointY": 314,
-                            "textX": 489,
-                            "textY": 304,
-                            "width": 96,
-                            "height": 24,
-                            "points": [
-                                {
-                                    "x": 565,
-                                    "y": 314
-                                },
-                                {
-                                    "x": 493,
-                                    "y": 314
-                                }
-                            ],
-                            "startX": 565,
-                            "startY": 338,
-                            "lineType": "polyline",
-                            "ctrl1X": 57,
-                            "ctrl1Y": 123,
-                            "ctrl2X": 257,
-                            "ctrl2Y": 123,
-                            "endX": 469,
-                            "endY": 313,
-                            "startArrow": 1,
-                            "endArrow": 2,
-                            "alpha": 1,
-                            "linewidth": 2,
-                            "dash": 0,
-                            "color": "#000000",
-                            "text": "",
-                            "textWidth": 80,
-                            "textHeight": 20,
-                            "textFontsize": 12,
-                            "textFontfamily": "Microsoft YaHei",
-                            "textLetterspacing": 0,
-                            "textBackground": "",
-                            "textForecolor": "#000000",
-                            "textRotate": 0,
-                            "textPosition": 0.5,
-                            "textOffsetX": 0,
-                            "textOffsetY": 0
-                        }
-                    },
-                    {
-                        "id": "em_110",
-                        "type": "flow-connector",
-                        "props": {
-                            "linkFromId": "em_115",
-                            "linkFromKey": "p5",
-                            "linkToId": "em_262",
-                            "linkToKey": "p6",
-                            "x": 469,
-                            "y": 378,
-                            "textPointX": 565,
-                            "textPointY": 487,
-                            "textX": 525,
-                            "textY": 477,
-                            "width": 96,
-                            "height": 122,
-                            "points": [
-                                {
-                                    "x": 565,
-                                    "y": 500
-                                }
-                            ],
-                            "startX": 469,
-                            "startY": 499,
-                            "lineType": "polyline",
-                            "ctrl1X": 57,
-                            "ctrl1Y": 123,
-                            "ctrl2X": 257,
-                            "ctrl2Y": 123,
-                            "endX": 565,
-                            "endY": 378,
-                            "startArrow": 1,
-                            "endArrow": 2,
-                            "alpha": 1,
-                            "linewidth": 2,
-                            "dash": 0,
-                            "color": "#000000",
-                            "text": "否",
-                            "textWidth": 80,
-                            "textHeight": 20,
-                            "textFontsize": 12,
-                            "textFontfamily": "Microsoft YaHei",
-                            "textLetterspacing": 0,
-                            "textBackground": "",
-                            "textForecolor": "#000000",
-                            "textRotate": 0,
-                            "textPosition": 0.5,
-                            "textOffsetX": -50,
-                            "textOffsetY": 0
-                        }
-                    },
-                    {
-                        "id": "em_88",
-                        "type": "flow-connector",
-                        "props": {
-                            "linkFromId": "em_280",
-                            "linkFromKey": "p6",
-                            "linkToId": "em_297",
-                            "linkToKey": "p7",
-                            "x": 365,
-                            "y": 955,
-                            "textPointX": 365,
-                            "textPointY": 978,
-                            "textX": 325,
-                            "textY": 968,
-                            "width": 0,
-                            "height": 47,
-                            "points": [
-                                {
-                                    "x": 365,
-                                    "y": 979
-                                }
-                            ],
-                            "startX": 365,
-                            "startY": 955,
-                            "lineType": "polyline",
-                            "ctrl1X": 57,
-                            "ctrl1Y": 123,
-                            "ctrl2X": 257,
-                            "ctrl2Y": 123,
-                            "endX": 365,
-                            "endY": 1002,
-                            "startArrow": 1,
-                            "endArrow": 2,
-                            "alpha": 1,
-                            "linewidth": 2,
-                            "dash": 0,
-                            "color": "#000000",
-                            "text": "",
-                            "textWidth": 80,
-                            "textHeight": 20,
-                            "textFontsize": 12,
-                            "textFontfamily": "Microsoft YaHei",
-                            "textLetterspacing": 0,
-                            "textBackground": "",
-                            "textForecolor": "#000000",
-                            "textRotate": 0,
-                            "textPosition": 0.5,
-                            "textOffsetX": 0,
-                            "textOffsetY": 0
-                        }
-                    },
-                    {
-                        "id": "em_85",
-                        "type": "flow-connector",
-                        "props": {
-                            "linkFromId": "em_124",
-                            "linkFromKey": "p6",
-                            "linkToId": "em_280",
-                            "linkToKey": "p7",
-                            "x": 365,
-                            "y": 866,
-                            "textPointX": 365,
-                            "textPointY": 880,
-                            "textX": 325,
-                            "textY": 870,
-                            "width": 0,
-                            "height": 29,
-                            "points": [
-                                {
-                                    "x": 365,
-                                    "y": 890
-                                }
-                            ],
-                            "startX": 365,
                             "startY": 866,
                             "lineType": "polyline",
                             "ctrl1X": 57,
                             "ctrl1Y": 123,
                             "ctrl2X": 257,
                             "ctrl2Y": 123,
-                            "endX": 365,
-                            "endY": 895,
+                            "endX": 597,
+                            "endY": 814,
                             "startArrow": 1,
                             "endArrow": 2,
                             "alpha": 1,
                             "linewidth": 2,
                             "dash": 0,
                             "color": "#000000",
-                            "text": "是",
+                            "text": "否",
                             "textWidth": 80,
                             "textHeight": 20,
                             "textFontsize": 12,
@@ -1448,49 +1448,49 @@
                             "textBackground": "",
                             "textForecolor": "#000000",
                             "textRotate": 0,
-                            "textPosition": 0.5,
-                            "textOffsetX": 20,
-                            "textOffsetY": 0
+                            "textPosition": 0.7,
+                            "textOffsetX": -66,
+                            "textOffsetY": -14
                         }
                     },
                     {
-                        "id": "em_82",
+                        "id": "e_37",
                         "type": "flow-connector",
                         "props": {
-                            "linkFromId": "em_121",
-                            "linkFromKey": "p6",
-                            "linkToId": "em_124",
-                            "linkToKey": "p7",
-                            "x": 365,
-                            "y": 744,
-                            "textPointX": 365,
-                            "textPointY": 762,
-                            "textX": 325,
-                            "textY": 752,
-                            "width": 0,
-                            "height": 37,
+                            "linkFromId": "e_35",
+                            "linkFromKey": "p7",
+                            "linkToId": "e_29",
+                            "linkToKey": "p5",
+                            "x": 469,
+                            "y": 743,
+                            "textPointX": 548,
+                            "textPointY": 743,
+                            "textX": 508,
+                            "textY": 733,
+                            "width": 128,
+                            "height": 31,
                             "points": [
                                 {
-                                    "x": 365,
-                                    "y": 768
+                                    "x": 597,
+                                    "y": 743
                                 }
                             ],
-                            "startX": 365,
-                            "startY": 744,
+                            "startX": 597,
+                            "startY": 774,
                             "lineType": "polyline",
                             "ctrl1X": 57,
                             "ctrl1Y": 123,
                             "ctrl2X": 257,
                             "ctrl2Y": 123,
-                            "endX": 365,
-                            "endY": 781,
+                            "endX": 469,
+                            "endY": 742,
                             "startArrow": 1,
                             "endArrow": 2,
                             "alpha": 1,
                             "linewidth": 2,
                             "dash": 0,
                             "color": "#000000",
-                            "text": "是",
+                            "text": "",
                             "textWidth": 80,
                             "textHeight": 20,
                             "textFontsize": 12,
@@ -1500,41 +1500,143 @@
                             "textForecolor": "#000000",
                             "textRotate": 0,
                             "textPosition": 0.5,
-                            "textOffsetX": 20,
+                            "textOffsetX": 0,
                             "textOffsetY": 0
                         }
                     },
                     {
-                        "id": "em_79",
+                        "id": "e_39",
                         "type": "flow-connector",
                         "props": {
-                            "linkFromId": "em_118",
+                            "linkFromId": "e_38",
+                            "linkFromKey": "p7",
+                            "linkToId": "e_31",
+                            "linkToKey": "p5",
+                            "x": 469,
+                            "y": 329,
+                            "textPointX": 589,
+                            "textPointY": 329,
+                            "textX": 549,
+                            "textY": 319,
+                            "width": 181,
+                            "height": 60,
+                            "points": [
+                                {
+                                    "x": 650,
+                                    "y": 329
+                                }
+                            ],
+                            "startX": 650,
+                            "startY": 389,
+                            "lineType": "polyline",
+                            "ctrl1X": 57,
+                            "ctrl1Y": 123,
+                            "ctrl2X": 257,
+                            "ctrl2Y": 123,
+                            "endX": 469,
+                            "endY": 328,
+                            "startArrow": 1,
+                            "endArrow": 2,
+                            "alpha": 1,
+                            "linewidth": 2,
+                            "dash": 0,
+                            "color": "#000000",
+                            "text": "",
+                            "textWidth": 80,
+                            "textHeight": 20,
+                            "textFontsize": 12,
+                            "textFontfamily": "Microsoft YaHei",
+                            "textLetterspacing": 0,
+                            "textBackground": "",
+                            "textForecolor": "#000000",
+                            "textRotate": 0,
+                            "textPosition": 0.5,
+                            "textOffsetX": 0,
+                            "textOffsetY": 0
+                        }
+                    },
+                    {
+                        "id": "e_40",
+                        "type": "flow-connector",
+                        "props": {
+                            "linkFromId": "e_27",
+                            "linkFromKey": "p5",
+                            "linkToId": "e_38",
+                            "linkToKey": "p6",
+                            "x": 469,
+                            "y": 429,
+                            "textPointX": 611,
+                            "textPointY": 532,
+                            "textX": 571,
+                            "textY": 522,
+                            "width": 181,
+                            "height": 103,
+                            "points": [
+                                {
+                                    "x": 650,
+                                    "y": 532
+                                }
+                            ],
+                            "startX": 469,
+                            "startY": 531,
+                            "lineType": "polyline",
+                            "ctrl1X": 57,
+                            "ctrl1Y": 123,
+                            "ctrl2X": 257,
+                            "ctrl2Y": 123,
+                            "endX": 650,
+                            "endY": 429,
+                            "startArrow": 1,
+                            "endArrow": 2,
+                            "alpha": 1,
+                            "linewidth": 2,
+                            "dash": 0,
+                            "color": "#000000",
+                            "text": "否",
+                            "textWidth": 80,
+                            "textHeight": 20,
+                            "textFontsize": 12,
+                            "textFontfamily": "Microsoft YaHei",
+                            "textLetterspacing": 0,
+                            "textBackground": "",
+                            "textForecolor": "#000000",
+                            "textRotate": 0,
+                            "textPosition": 0.5,
+                            "textOffsetX": -113,
+                            "textOffsetY": -27
+                        }
+                    },
+                    {
+                        "id": "e_42",
+                        "type": "flow-connector",
+                        "props": {
+                            "linkFromId": "e_41",
                             "linkFromKey": "p6",
-                            "linkToId": "em_121",
+                            "linkToId": "e_32",
                             "linkToKey": "p7",
                             "x": 365,
-                            "y": 615,
+                            "y": 1006,
                             "textPointX": 365,
-                            "textPointY": 637,
+                            "textPointY": 1028,
                             "textX": 325,
-                            "textY": 627,
+                            "textY": 1018,
                             "width": 0,
                             "height": 44,
                             "points": [
                                 {
                                     "x": 365,
-                                    "y": 639
+                                    "y": 1036
                                 }
                             ],
                             "startX": 365,
-                            "startY": 615,
+                            "startY": 1006,
                             "lineType": "polyline",
                             "ctrl1X": 57,
                             "ctrl1Y": 123,
                             "ctrl2X": 257,
                             "ctrl2Y": 123,
                             "endX": 365,
-                            "endY": 659,
+                            "endY": 1050,
                             "startArrow": 1,
                             "endArrow": 2,
                             "alpha": 1,
@@ -1556,36 +1658,36 @@
                         }
                     },
                     {
-                        "id": "em_76",
+                        "id": "e_43",
                         "type": "flow-connector",
                         "props": {
-                            "linkFromId": "em_115",
+                            "linkFromId": "e_34",
                             "linkFromKey": "p6",
-                            "linkToId": "em_118",
+                            "linkToId": "e_41",
                             "linkToKey": "p7",
                             "x": 365,
-                            "y": 542,
+                            "y": 909,
                             "textPointX": 365,
-                            "textPointY": 558,
+                            "textPointY": 927,
                             "textX": 325,
-                            "textY": 548,
+                            "textY": 917,
                             "width": 0,
-                            "height": 33,
+                            "height": 37,
                             "points": [
                                 {
                                     "x": 365,
-                                    "y": 566
+                                    "y": 939
                                 }
                             ],
                             "startX": 365,
-                            "startY": 542,
+                            "startY": 909,
                             "lineType": "polyline",
                             "ctrl1X": 57,
                             "ctrl1Y": 123,
                             "ctrl2X": 257,
                             "ctrl2Y": 123,
                             "endX": 365,
-                            "endY": 575,
+                            "endY": 946,
                             "startArrow": 1,
                             "endArrow": 2,
                             "alpha": 1,
@@ -1607,138 +1709,36 @@
                         }
                     },
                     {
-                        "id": "em_73",
+                        "id": "e_44",
                         "type": "flow-connector",
                         "props": {
-                            "linkFromId": "em_112",
+                            "linkFromId": "e_29",
                             "linkFromKey": "p6",
-                            "linkToId": "em_115",
+                            "linkToId": "e_34",
                             "linkToKey": "p7",
                             "x": 365,
-                            "y": 426,
+                            "y": 785,
                             "textPointX": 365,
-                            "textPointY": 441,
+                            "textPointY": 804,
                             "textX": 325,
-                            "textY": 431,
+                            "textY": 794,
                             "width": 0,
-                            "height": 31,
+                            "height": 39,
                             "points": [
                                 {
                                     "x": 365,
-                                    "y": 450.00000000000006
+                                    "y": 815
                                 }
                             ],
                             "startX": 365,
-                            "startY": 426,
+                            "startY": 785,
                             "lineType": "polyline",
                             "ctrl1X": 57,
                             "ctrl1Y": 123,
                             "ctrl2X": 257,
                             "ctrl2Y": 123,
                             "endX": 365,
-                            "endY": 457,
-                            "startArrow": 1,
-                            "endArrow": 2,
-                            "alpha": 1,
-                            "linewidth": 2,
-                            "dash": 0,
-                            "color": "#000000",
-                            "text": "",
-                            "textWidth": 80,
-                            "textHeight": 20,
-                            "textFontsize": 12,
-                            "textFontfamily": "Microsoft YaHei",
-                            "textLetterspacing": 0,
-                            "textBackground": "",
-                            "textForecolor": "#000000",
-                            "textRotate": 0,
-                            "textPosition": 0.5,
-                            "textOffsetX": 0,
-                            "textOffsetY": 0
-                        }
-                    },
-                    {
-                        "id": "em_70",
-                        "type": "flow-connector",
-                        "props": {
-                            "linkFromId": "em_86",
-                            "linkFromKey": "p6",
-                            "linkToId": "em_112",
-                            "linkToKey": "p7",
-                            "x": 365,
-                            "y": 356,
-                            "textPointX": 365,
-                            "textPointY": 371,
-                            "textX": 325,
-                            "textY": 361,
-                            "width": 0,
-                            "height": 30,
-                            "points": [
-                                {
-                                    "x": 365,
-                                    "y": 380
-                                }
-                            ],
-                            "startX": 365,
-                            "startY": 356,
-                            "lineType": "polyline",
-                            "ctrl1X": 57,
-                            "ctrl1Y": 123,
-                            "ctrl2X": 257,
-                            "ctrl2Y": 123,
-                            "endX": 365,
-                            "endY": 386,
-                            "startArrow": 1,
-                            "endArrow": 2,
-                            "alpha": 1,
-                            "linewidth": 2,
-                            "dash": 0,
-                            "color": "#000000",
-                            "text": "",
-                            "textWidth": 80,
-                            "textHeight": 20,
-                            "textFontsize": 12,
-                            "textFontfamily": "Microsoft YaHei",
-                            "textLetterspacing": 0,
-                            "textBackground": "",
-                            "textForecolor": "#000000",
-                            "textRotate": 0,
-                            "textPosition": 0.5,
-                            "textOffsetX": 0,
-                            "textOffsetY": 0
-                        }
-                    },
-                    {
-                        "id": "em_67",
-                        "type": "flow-connector",
-                        "props": {
-                            "linkFromId": "em_57",
-                            "linkFromKey": "p6",
-                            "linkToId": "em_86",
-                            "linkToKey": "p7",
-                            "x": 365,
-                            "y": 242,
-                            "textPointX": 365,
-                            "textPointY": 256,
-                            "textX": 325,
-                            "textY": 246,
-                            "width": 0,
-                            "height": 29,
-                            "points": [
-                                {
-                                    "x": 365,
-                                    "y": 266.00000000000006
-                                }
-                            ],
-                            "startX": 365,
-                            "startY": 242,
-                            "lineType": "polyline",
-                            "ctrl1X": 57,
-                            "ctrl1Y": 123,
-                            "ctrl2X": 257,
-                            "ctrl2Y": 123,
-                            "endX": 365,
-                            "endY": 271,
+                            "endY": 824,
                             "startArrow": 1,
                             "endArrow": 2,
                             "alpha": 1,
@@ -1760,25 +1760,280 @@
                         }
                     },
                     {
-                        "id": "em_100",
+                        "id": "e_46",
                         "type": "flow-connector",
                         "props": {
-                            "linkFromId": "em_40",
+                            "linkFromId": "e_45",
                             "linkFromKey": "p6",
-                            "linkToId": "em_57",
+                            "linkToId": "e_29",
+                            "linkToKey": "p7",
+                            "x": 365,
+                            "y": 660,
+                            "textPointX": 365,
+                            "textPointY": 680,
+                            "textX": 325,
+                            "textY": 670,
+                            "width": 0,
+                            "height": 40,
+                            "points": [
+                                {
+                                    "x": 365,
+                                    "y": 690
+                                }
+                            ],
+                            "startX": 365,
+                            "startY": 660,
+                            "lineType": "polyline",
+                            "ctrl1X": 57,
+                            "ctrl1Y": 123,
+                            "ctrl2X": 257,
+                            "ctrl2Y": 123,
+                            "endX": 365,
+                            "endY": 700,
+                            "startArrow": 1,
+                            "endArrow": 2,
+                            "alpha": 1,
+                            "linewidth": 2,
+                            "dash": 0,
+                            "color": "#000000",
+                            "text": "",
+                            "textWidth": 80,
+                            "textHeight": 20,
+                            "textFontsize": 12,
+                            "textFontfamily": "Microsoft YaHei",
+                            "textLetterspacing": 0,
+                            "textBackground": "",
+                            "textForecolor": "#000000",
+                            "textRotate": 0,
+                            "textPosition": 0.5,
+                            "textOffsetX": 0,
+                            "textOffsetY": 0
+                        }
+                    },
+                    {
+                        "id": "e_47",
+                        "type": "flow-connector",
+                        "props": {
+                            "linkFromId": "e_27",
+                            "linkFromKey": "p6",
+                            "linkToId": "e_45",
+                            "linkToKey": "p7",
+                            "x": 365,
+                            "y": 574,
+                            "textPointX": 365,
+                            "textPointY": 597,
+                            "textX": 325,
+                            "textY": 587,
+                            "width": 0,
+                            "height": 46,
+                            "points": [
+                                {
+                                    "x": 365,
+                                    "y": 604
+                                }
+                            ],
+                            "startX": 365,
+                            "startY": 574,
+                            "lineType": "polyline",
+                            "ctrl1X": 57,
+                            "ctrl1Y": 123,
+                            "ctrl2X": 257,
+                            "ctrl2Y": 123,
+                            "endX": 365,
+                            "endY": 620,
+                            "startArrow": 1,
+                            "endArrow": 2,
+                            "alpha": 1,
+                            "linewidth": 2,
+                            "dash": 0,
+                            "color": "#000000",
+                            "text": "是",
+                            "textWidth": 80,
+                            "textHeight": 20,
+                            "textFontsize": 12,
+                            "textFontfamily": "Microsoft YaHei",
+                            "textLetterspacing": 0,
+                            "textBackground": "",
+                            "textForecolor": "#000000",
+                            "textRotate": 0,
+                            "textPosition": 0.5,
+                            "textOffsetX": 20,
+                            "textOffsetY": 0
+                        }
+                    },
+                    {
+                        "id": "e_49",
+                        "type": "flow-connector",
+                        "props": {
+                            "linkFromId": "e_48",
+                            "linkFromKey": "p6",
+                            "linkToId": "e_27",
+                            "linkToKey": "p7",
+                            "x": 365,
+                            "y": 447,
+                            "textPointX": 365,
+                            "textPointY": 468,
+                            "textX": 325,
+                            "textY": 458,
+                            "width": 0,
+                            "height": 42,
+                            "points": [
+                                {
+                                    "x": 365,
+                                    "y": 477.00000000000006
+                                }
+                            ],
+                            "startX": 365,
+                            "startY": 447,
+                            "lineType": "polyline",
+                            "ctrl1X": 57,
+                            "ctrl1Y": 123,
+                            "ctrl2X": 257,
+                            "ctrl2Y": 123,
+                            "endX": 365,
+                            "endY": 489,
+                            "startArrow": 1,
+                            "endArrow": 2,
+                            "alpha": 1,
+                            "linewidth": 2,
+                            "dash": 0,
+                            "color": "#000000",
+                            "text": "",
+                            "textWidth": 80,
+                            "textHeight": 20,
+                            "textFontsize": 12,
+                            "textFontfamily": "Microsoft YaHei",
+                            "textLetterspacing": 0,
+                            "textBackground": "",
+                            "textForecolor": "#000000",
+                            "textRotate": 0,
+                            "textPosition": 0.5,
+                            "textOffsetX": 0,
+                            "textOffsetY": 0
+                        }
+                    },
+                    {
+                        "id": "e_50",
+                        "type": "flow-connector",
+                        "props": {
+                            "linkFromId": "e_31",
+                            "linkFromKey": "p6",
+                            "linkToId": "e_48",
+                            "linkToKey": "p7",
+                            "x": 365,
+                            "y": 371,
+                            "textPointX": 365,
+                            "textPointY": 389,
+                            "textX": 325,
+                            "textY": 379,
+                            "width": 0,
+                            "height": 36,
+                            "points": [
+                                {
+                                    "x": 365,
+                                    "y": 401
+                                }
+                            ],
+                            "startX": 365,
+                            "startY": 371,
+                            "lineType": "polyline",
+                            "ctrl1X": 57,
+                            "ctrl1Y": 123,
+                            "ctrl2X": 257,
+                            "ctrl2Y": 123,
+                            "endX": 365,
+                            "endY": 407,
+                            "startArrow": 1,
+                            "endArrow": 2,
+                            "alpha": 1,
+                            "linewidth": 2,
+                            "dash": 0,
+                            "color": "#000000",
+                            "text": "",
+                            "textWidth": 80,
+                            "textHeight": 20,
+                            "textFontsize": 12,
+                            "textFontfamily": "Microsoft YaHei",
+                            "textLetterspacing": 0,
+                            "textBackground": "",
+                            "textForecolor": "#000000",
+                            "textRotate": 0,
+                            "textPosition": 0.5,
+                            "textOffsetX": 0,
+                            "textOffsetY": 0
+                        }
+                    },
+                    {
+                        "id": "e_52",
+                        "type": "flow-connector",
+                        "props": {
+                            "linkFromId": "e_51",
+                            "linkFromKey": "p6",
+                            "linkToId": "e_31",
+                            "linkToKey": "p7",
+                            "x": 365,
+                            "y": 246,
+                            "textPointX": 365,
+                            "textPointY": 266,
+                            "textX": 325,
+                            "textY": 256,
+                            "width": 0,
+                            "height": 40,
+                            "points": [
+                                {
+                                    "x": 365,
+                                    "y": 276.00000000000006
+                                }
+                            ],
+                            "startX": 365,
+                            "startY": 246,
+                            "lineType": "polyline",
+                            "ctrl1X": 57,
+                            "ctrl1Y": 123,
+                            "ctrl2X": 257,
+                            "ctrl2Y": 123,
+                            "endX": 365,
+                            "endY": 286,
+                            "startArrow": 1,
+                            "endArrow": 2,
+                            "alpha": 1,
+                            "linewidth": 2,
+                            "dash": 0,
+                            "color": "#000000",
+                            "text": "是",
+                            "textWidth": 80,
+                            "textHeight": 20,
+                            "textFontsize": 12,
+                            "textFontfamily": "Microsoft YaHei",
+                            "textLetterspacing": 0,
+                            "textBackground": "",
+                            "textForecolor": "#000000",
+                            "textRotate": 0,
+                            "textPosition": 0.5,
+                            "textOffsetX": 20,
+                            "textOffsetY": 0
+                        }
+                    },
+                    {
+                        "id": "e_54",
+                        "type": "flow-connector",
+                        "props": {
+                            "linkFromId": "e_53",
+                            "linkFromKey": "p6",
+                            "linkToId": "e_51",
                             "linkToKey": "p7",
                             "x": 365,
                             "y": 171,
                             "textPointX": 365,
-                            "textPointY": 186,
+                            "textPointY": 188,
                             "textX": 325,
-                            "textY": 176,
+                            "textY": 178,
                             "width": 0,
-                            "height": 31,
+                            "height": 35,
                             "points": [
                                 {
                                     "x": 365,
-                                    "y": 195
+                                    "y": 201
                                 }
                             ],
                             "startX": 365,
@@ -1789,7 +2044,7 @@
                             "ctrl2X": 257,
                             "ctrl2Y": 123,
                             "endX": 365,
-                            "endY": 202,
+                            "endY": 206,
                             "startArrow": 1,
                             "endArrow": 2,
                             "alpha": 1,
@@ -1811,7 +2066,7 @@
                         }
                     },
                     {
-                        "id": "em_40",
+                        "id": "e_53",
                         "type": "flow-terminator",
                         "props": {
                             "textX": 285,
@@ -1835,15 +2090,15 @@
                         }
                     },
                     {
-                        "id": "em_57",
+                        "id": "e_51",
                         "type": "flow-process",
                         "props": {
                             "textX": 285,
-                            "textY": 202,
+                            "textY": 206,
                             "textWidth": 160,
                             "textHeight": 40,
                             "x": 285,
-                            "y": 202,
+                            "y": 206,
                             "width": 160,
                             "height": 40,
                             "rotate": 0,
@@ -1859,15 +2114,15 @@
                         }
                     },
                     {
-                        "id": "em_86",
+                        "id": "e_31",
                         "type": "flow-decision",
                         "props": {
                             "textX": 313,
-                            "textY": 292,
+                            "textY": 307,
                             "textWidth": 104,
                             "textHeight": 42,
                             "x": 261,
-                            "y": 271,
+                            "y": 286,
                             "width": 208,
                             "height": 85,
                             "rotate": 0,
@@ -1883,15 +2138,15 @@
                         }
                     },
                     {
-                        "id": "em_112",
+                        "id": "e_48",
                         "type": "flow-process",
                         "props": {
                             "textX": 285,
-                            "textY": 386,
+                            "textY": 407,
                             "textWidth": 160,
                             "textHeight": 40,
                             "x": 285,
-                            "y": 386,
+                            "y": 407,
                             "width": 160,
                             "height": 40,
                             "rotate": 0,
@@ -1907,15 +2162,15 @@
                         }
                     },
                     {
-                        "id": "em_115",
+                        "id": "e_27",
                         "type": "flow-decision",
                         "props": {
                             "textX": 313,
-                            "textY": 478,
+                            "textY": 510,
                             "textWidth": 104,
                             "textHeight": 42,
                             "x": 261,
-                            "y": 457,
+                            "y": 489,
                             "width": 208,
                             "height": 85,
                             "rotate": 0,
@@ -1931,15 +2186,15 @@
                         }
                     },
                     {
-                        "id": "em_118",
+                        "id": "e_45",
                         "type": "flow-process",
                         "props": {
                             "textX": 285,
-                            "textY": 575,
+                            "textY": 620,
                             "textWidth": 160,
                             "textHeight": 40,
                             "x": 285,
-                            "y": 575,
+                            "y": 620,
                             "width": 160,
                             "height": 40,
                             "rotate": 0,
@@ -1955,15 +2210,15 @@
                         }
                     },
                     {
-                        "id": "em_121",
+                        "id": "e_29",
                         "type": "flow-decision",
                         "props": {
                             "textX": 313,
-                            "textY": 680,
+                            "textY": 721,
                             "textWidth": 104,
                             "textHeight": 42,
                             "x": 261,
-                            "y": 659,
+                            "y": 700,
                             "width": 208,
                             "height": 85,
                             "rotate": 0,
@@ -1979,15 +2234,15 @@
                         }
                     },
                     {
-                        "id": "em_124",
+                        "id": "e_34",
                         "type": "flow-decision",
                         "props": {
                             "textX": 313,
-                            "textY": 802,
+                            "textY": 845,
                             "textWidth": 104,
                             "textHeight": 42,
                             "x": 261,
-                            "y": 781,
+                            "y": 824,
                             "width": 208,
                             "height": 85,
                             "rotate": 0,
@@ -2003,15 +2258,15 @@
                         }
                     },
                     {
-                        "id": "em_262",
+                        "id": "e_38",
                         "type": "flow-process",
                         "props": {
-                            "textX": 485,
-                            "textY": 338,
+                            "textX": 570,
+                            "textY": 389,
                             "textWidth": 160,
                             "textHeight": 40,
-                            "x": 485,
-                            "y": 338,
+                            "x": 570,
+                            "y": 389,
                             "width": 160,
                             "height": 40,
                             "rotate": 0,
@@ -2027,15 +2282,15 @@
                         }
                     },
                     {
-                        "id": "em_265",
+                        "id": "e_26",
                         "type": "flow-process",
                         "props": {
-                            "textX": 65,
-                            "textY": 611,
+                            "textX": 24,
+                            "textY": 610,
                             "textWidth": 160,
                             "textHeight": 40,
-                            "x": 65,
-                            "y": 611,
+                            "x": 24,
+                            "y": 610,
                             "width": 160,
                             "height": 40,
                             "rotate": 0,
@@ -2051,15 +2306,15 @@
                         }
                     },
                     {
-                        "id": "em_268",
+                        "id": "e_35",
                         "type": "flow-process",
                         "props": {
-                            "textX": 485,
-                            "textY": 726,
+                            "textX": 517,
+                            "textY": 774,
                             "textWidth": 160,
                             "textHeight": 40,
-                            "x": 485,
-                            "y": 726,
+                            "x": 517,
+                            "y": 774,
                             "width": 160,
                             "height": 40,
                             "rotate": 0,
@@ -2075,15 +2330,15 @@
                         }
                     },
                     {
-                        "id": "em_280",
+                        "id": "e_41",
                         "type": "flow-data",
                         "props": {
                             "textX": 305,
-                            "textY": 895,
+                            "textY": 946,
                             "textWidth": 120,
                             "textHeight": 60,
                             "x": 265,
-                            "y": 895,
+                            "y": 946,
                             "width": 200,
                             "height": 60,
                             "rotate": 0,
@@ -2099,15 +2354,15 @@
                         }
                     },
                     {
-                        "id": "em_297",
+                        "id": "e_32",
                         "type": "flow-terminator",
                         "props": {
                             "textX": 285,
-                            "textY": 1002,
+                            "textY": 1050,
                             "textWidth": 160,
                             "textHeight": 60,
                             "x": 265,
-                            "y": 1002,
+                            "y": 1050,
                             "width": 200,
                             "height": 60,
                             "rotate": 0,
@@ -2123,7 +2378,7 @@
                         }
                     },
                     {
-                        "id": "em_287",
+                        "id": "e_55",
                         "type": "text",
                         "props": {
                             "x": 184,
@@ -2137,16 +2392,8 @@
                             "letterspacing": 0,
                             "background": "",
                             "forecolor": "#000000",
-                            "style": {
-                                "bold": false,
-                                "underline": false,
-                                "italic": false,
-                                "strike": false
-                            },
-                            "align": {
-                                "h": "center",
-                                "v": "center"
-                            },
+                            "hpos": "center",
+                            "vpos": "center",
                             "text": "流程图示例"
                         }
                     }
