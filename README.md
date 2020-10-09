@@ -26,7 +26,7 @@ https://github.com/xinglie/report-designer/issues/1
 源码及示例：https://xinglie.github.io/printer-editor/
 
 
-## 交流
+## 交流合作
 微信ID：qq84685009 
 
 ## 通用设计器截屏
