@@ -14,6 +14,12 @@ https://github.com/xinglie/report-designer/issues/1
 
 通用设计器 示例：https://xinglie.github.io/report-designer/iot.html
 
+通用设计器嵌入普通页面 示例：https://xinglie.github.io/report-designer/mini.html
+
+通用设计器嵌入普通页面无工具栏、标尺 示例：https://xinglie.github.io/report-designer/mini.html?mode=notr
+
+嵌入普通页面技术点：https://github.com/xinglie/report-designer/issues/32
+
 打印设计器 源码及示例：https://xinglie.github.io/printer-editor/
 
 
