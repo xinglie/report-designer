@@ -4,8 +4,8 @@
       "title": "数据表格",
       "stage": {
         "page": {
-          "width": 793,
-          "height": 1122,
+          "width": 791,
+          "height": 1120,
           "background": "#ffffff",
           "backgroundImage": "",
           "backgroundRepeat": "full",
@@ -517,8 +517,8 @@
       "title": "复杂的数据表格",
       "stage": {
         "page": {
-          "width": 793,
-          "height": 1122,
+          "width": 791,
+          "height": 1120,
           "background": "#ffffff",
           "backgroundImage": "",
           "backgroundRepeat": "full",
@@ -1963,7 +1963,7 @@
       "title": "准考证",
       "stage": {
         "page": {
-          "width": 793,
+          "width": 791,
           "height": 559,
           "background": "#ffffff",
           "backgroundImage": "",
@@ -2465,8 +2465,8 @@
       "title": "数学试卷",
       "stage": {
         "page": {
-          "width": 793,
-          "height": 1122,
+          "width": 791,
+          "height": 1120,
           "background": "#ffffff",
           "backgroundImage": "",
           "backgroundRepeat": "full",
@@ -2742,8 +2742,8 @@
       "title": "流程图",
       "stage": {
         "page": {
-          "width": 793,
-          "height": 1122,
+          "width": 791,
+          "height": 1120,
           "background": "#ffffff",
           "backgroundImage": "",
           "backgroundRepeat": "full",
