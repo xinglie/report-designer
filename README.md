@@ -8,11 +8,11 @@ https://github.com/xinglie/report-designer/issues/1
 
 绝对定位布局 示例：https://xinglie.github.io/report-designer/absolute.html
 
-绝对定位布局 源码：https://github.com/xinglie/report-designer/tree/absolute
+因加我询问开源代码中细节的白嫖人员太多，应对不过来，只好删除相关开源源码，感谢理解！
 
 流式布局 示例：https://xinglie.github.io/report-designer/page.html
 
-通用设计器 示例：https://xinglie.github.io/report-designer/iot.html
+通用设计器 示例：https://xinglie.github.io/report-designer/index.html
 
 通用设计器嵌入普通页面 示例：https://xinglie.github.io/report-designer/mini.html
 
