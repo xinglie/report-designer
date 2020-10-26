@@ -9,6 +9,7 @@ https://github.com/xinglie/report-designer/issues/1
 
 #### 绝对定位布局
 github 示例：https://xinglie.github.io/report-designer/absolute.html
+
 gitee 示例：https://xinglie.gitee.io/report-designer/absolute.html
 
 #### 流式布局
