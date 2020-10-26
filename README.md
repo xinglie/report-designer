@@ -14,18 +14,22 @@ gitee 示例：https://xinglie.gitee.io/report-designer/absolute.html
 
 #### 流式布局
 github 示例：https://xinglie.github.io/report-designer/page.html
+
 gitee 示例：https://xinglie.gitee.io/report-designer/page.html
 
 #### 通用设计器
 github 示例：https://xinglie.github.io/report-designer/index.html
+
 gitee 示例：https://xinglie.gitee.io/report-designer/index.html
 
 #### 通用设计器嵌入普通页面
 github 示例：https://xinglie.github.io/report-designer/mini.html
+
 gitee 示例：https://xinglie.gitee.io/report-designer/mini.html
 
 #### 通用设计器嵌入普通页面无工具栏、标尺
 github 示例：https://xinglie.github.io/report-designer/mini.html?mode=notr
+
 gitee 示例：https://xinglie.gitee.io/report-designer/mini.html?mode=notr
 
 #### 嵌入普通页面技术点
