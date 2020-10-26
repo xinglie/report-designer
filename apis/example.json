@@ -517,8 +517,15 @@
       "title": "复杂的数据表格",
       "stage": {
         "page": {
+          "unit": "px",
           "width": 791,
           "height": 1120,
+          "xOffset": 0,
+          "yOffset": 0,
+          "marginTop": 0,
+          "marginRight": 0,
+          "marginBottom": 0,
+          "marginLeft": 0,
           "background": "#ffffff",
           "backgroundImage": "",
           "backgroundRepeat": "full",
@@ -530,7 +537,7 @@
         "groups": [],
         "elements": [
           {
-            "id": "e_96",
+            "id": "e_56",
             "type": "data-dtable",
             "props": {
               "rows": [
@@ -564,7 +571,7 @@
                       "textContent": "",
                       "elements": [
                         {
-                          "id": "e_97",
+                          "id": "e_57",
                           "type": "data-celltable",
                           "props": {
                             "rows": [
@@ -945,7 +952,8 @@
                       "textStyleStrike": false,
                       "textContent": "",
                       "bindKey": "f8",
-                      "bindName": "千次展现成本"
+                      "bindName": "千次展现成本",
+                      "textFormat": "number:#,###"
                     },
                     {
                       "height": 30,
@@ -974,7 +982,8 @@
                       "textStyleStrike": false,
                       "textContent": "",
                       "bindKey": "f7",
-                      "bindName": "成效金额"
+                      "bindName": "成效金额",
+                      "textFormat": "number:#,###"
                     },
                     {
                       "paddingBottom": 5,
@@ -1004,7 +1013,8 @@
                       "rowspan": 1,
                       "colspan": 1,
                       "bindKey": "f6",
-                      "bindName": "成交量"
+                      "bindName": "成交量",
+                      "textFormat": "number:#,###"
                     },
                     {
                       "paddingBottom": 5,
@@ -1034,7 +1044,8 @@
                       "rowspan": 1,
                       "colspan": 1,
                       "bindKey": "f4",
-                      "bindName": "关注"
+                      "bindName": "关注",
+                      "textFormat": "number:#,###"
                     },
                     {
                       "height": 30,
@@ -1063,7 +1074,8 @@
                       "textStyleStrike": false,
                       "textContent": "",
                       "bindKey": "f3",
-                      "bindName": "点击率"
+                      "bindName": "点击率",
+                      "textFormat": "number:#,###"
                     }
                   ]
                 },
@@ -1095,7 +1107,8 @@
                       "textStyleItalic": false,
                       "textStyleStrike": false,
                       "textContent": "",
-                      "type": "sum"
+                      "type": "sum",
+                      "textFormat": "number:#,###"
                     },
                     {
                       "height": 30,
@@ -1122,7 +1135,8 @@
                       "textStyleItalic": false,
                       "textStyleStrike": false,
                       "textContent": "",
-                      "type": "acc"
+                      "type": "acc",
+                      "textFormat": "number:#,###"
                     },
                     {
                       "paddingBottom": 5,
@@ -1133,6 +1147,14 @@
                       "vpos": "flex-start",
                       "alpha": 1,
                       "type": "sumpage",
+                      "textLetterspacing": 0,
+                      "textForecolor": "#000000",
+                      "textFontsize": 14,
+                      "textFontfamily": "Microsoft YaHei",
+                      "textStyleBold": false,
+                      "textStyleUnderline": false,
+                      "textStyleItalic": false,
+                      "textStyleStrike": false,
                       "bLeft": true,
                       "bTop": true,
                       "bRight": true,
@@ -1141,7 +1163,8 @@
                       "height": 30,
                       "width": 150,
                       "rowspan": 1,
-                      "colspan": 1
+                      "colspan": 1,
+                      "textFormat": "number:#,###"
                     },
                     {
                       "paddingBottom": 5,
@@ -1152,6 +1175,14 @@
                       "vpos": "flex-start",
                       "alpha": 1,
                       "type": "sumpage",
+                      "textLetterspacing": 0,
+                      "textForecolor": "#000000",
+                      "textFontsize": 14,
+                      "textFontfamily": "Microsoft YaHei",
+                      "textStyleBold": false,
+                      "textStyleUnderline": false,
+                      "textStyleItalic": false,
+                      "textStyleStrike": false,
                       "bLeft": true,
                       "bTop": true,
                       "bRight": true,
@@ -1160,7 +1191,8 @@
                       "height": 30,
                       "width": 150,
                       "rowspan": 1,
-                      "colspan": 1
+                      "colspan": 1,
+                      "textFormat": "number:#,###"
                     },
                     {
                       "height": 30,
@@ -1187,7 +1219,8 @@
                       "textStyleItalic": false,
                       "textStyleStrike": false,
                       "textContent": "",
-                      "type": "sum"
+                      "type": "sum",
+                      "textFormat": "number:#,###"
                     }
                   ]
                 },
@@ -1221,7 +1254,7 @@
                       "textContent": "",
                       "elements": [
                         {
-                          "id": "e_98",
+                          "id": "e_58",
                           "type": "data-celltable",
                           "props": {
                             "rows": [
@@ -1449,7 +1482,7 @@
             }
           },
           {
-            "id": "e_106",
+            "id": "e_59",
             "type": "pager",
             "props": {
               "ext": {
@@ -1478,7 +1511,7 @@
             }
           },
           {
-            "id": "e_139",
+            "id": "e_60",
             "type": "pager",
             "props": {
               "ext": {
