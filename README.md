@@ -37,6 +37,7 @@ https://github.com/xinglie/report-designer/issues/32
 
 #### 专做数据绑定和打印的仓库
 https://github.com/xinglie/guoer
+
 https://gitee.com/xinglie/printer-designer
 
 #### 打印设计器仓库
