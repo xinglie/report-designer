@@ -10,14 +10,14 @@
     </head>
     <body>
         <div class="root">
-            <button>切换数据表格只读与编辑</button>
+            <button id="toggle_collect">切换数据表格只读与编辑</button>
             <div id="collect"></div>
             <div id="text"></div>
             <div id="table"></div>
             <div id="data_table"></div>
             <div id="page"></div>
         </div>
-        <script id="boot" type="text/javascript" src="dist/standalone.js?v=202012061914"></script>
+        <script id="boot" type="text/javascript" src="dist/standalone.js"></script>
         <script>
             document.addEventListener('elementinput',e=>{
                 for(let input of e.elementInputs){
@@ -29,7 +29,7 @@
                 }
                 console.log(e);
             });
-        designer.element('#collect', {
+            let  collectData={
             "id": "e_67",
             "type": "form-collect",
             "props": {
@@ -834,12 +834,17 @@
                 "hideFoot": false,
                 "ename": "数据采集"
             }
+            };
+            document.getElementById('toggle_collect').addEventListener('click',()=>{
+                collectData.readonly=!collectData.readonly;
+                designer.element('#collect',collectData);
             });
+        designer.element('#collect',collectData);
         designer.element('#text',{
             "type":"text",
             "props": {
                 "x": 0,
-                "y": 0,
+                "y": 40,
                 "width": 200,
                 "height": 50,
                 "rotate": 0,
