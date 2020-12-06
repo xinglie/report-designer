@@ -10,13 +10,14 @@
     </head>
     <body>
         <div class="root">
+            <button>切换数据表格只读与编辑</button>
             <div id="collect"></div>
             <div id="text"></div>
             <div id="table"></div>
             <div id="data_table"></div>
             <div id="page"></div>
         </div>
-        <script id="boot" type="text/javascript" src="dist/standalone.js?v=202012061818"></script>
+        <script id="boot" type="text/javascript" src="dist/standalone.js?v=202012061914"></script>
         <script>
             document.addEventListener('elementinput',e=>{
                 for(let input of e.elementInputs){
@@ -543,6 +544,98 @@
                     }
                     ],
                     "data": true
+                },
+                {
+                    "data": true,
+                    "copy":true,
+                    "cols": [
+                    {
+                        "height": 35,
+                        "width": 202,
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "paddingLeft": 5,
+                        "paddingTop": 5,
+                        "paddingRight": 5,
+                        "paddingBottom": 5,
+                        "bLeft": true,
+                        "bTop": true,
+                        "bRight": true,
+                        "bBottom": true,
+                        "hpos": "flex-start",
+                        "vpos": "flex-start",
+                        "alpha": 1,
+                        "type": "input",
+                        "inputText": "",
+                        "inputPlaceholder": "",
+                        "inputMarkAs": "",
+                        "inputClassName": "",
+                        "inputName": "",
+                        "inputMultiline": false,
+                        "inputFontsize": 14,
+                        "inputFontfamily": "Microsoft YaHei",
+                        "inputLetterspacing": 0,
+                        "inputForecolor": "#000000"
+                    },
+                    {
+                        "height": 35,
+                        "width": 150,
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "paddingLeft": 5,
+                        "paddingTop": 5,
+                        "paddingRight": 5,
+                        "paddingBottom": 5,
+                        "bLeft": true,
+                        "bTop": true,
+                        "bRight": true,
+                        "bBottom": true,
+                        "hpos": "flex-start",
+                        "vpos": "flex-start",
+                        "alpha": 1,
+                        "type": "input",
+                        "inputText": "",
+                        "inputPlaceholder": "",
+                        "inputMarkAs": "",
+                        "inputClassName": "",
+                        "inputName": "",
+                        "inputMultiline": false,
+                        "inputFontsize": 14,
+                        "inputUserValue":"100",
+                        "inputFontfamily": "Microsoft YaHei",
+                        "inputLetterspacing": 0,
+                        "inputForecolor": "#000000"
+                    },
+                    {
+                        "height": 35,
+                        "width": 273,
+                        "rowspan": 1,
+                        "colspan": 1,
+                        "paddingLeft": 5,
+                        "paddingTop": 5,
+                        "paddingRight": 5,
+                        "paddingBottom": 5,
+                        "bLeft": true,
+                        "bTop": true,
+                        "bRight": true,
+                        "bBottom": true,
+                        "hpos": "flex-start",
+                        "vpos": "flex-start",
+                        "alpha": 1,
+                        "type": "input",
+                        "inputText": "",
+                        "inputPlaceholder": "",
+                        "inputMarkAs": "",
+                        "inputClassName": "",
+                        "inputName": "",
+                        "inputUserValue":"40",
+                        "inputMultiline": false,
+                        "inputFontsize": 14,
+                        "inputFontfamily": "Microsoft YaHei",
+                        "inputLetterspacing": 0,
+                        "inputForecolor": "#000000"
+                    }
+                    ]
                 },
                 {
                     "total": true,
