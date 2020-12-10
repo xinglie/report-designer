@@ -5,7 +5,6 @@
 https://github.com/xinglie/report-designer/issues/1
 
 ### 预览
-> 非购买、合作请不要加微信。基础功能源码开放计划中。
 
 #### 绝对定位布局
 github 示例：https://xinglie.github.io/report-designer/absolute.html
