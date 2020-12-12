@@ -1,5 +1,5 @@
 #!/bin/sh
-git co iot dist/iot.js
+git co iot dist/index.js
 #git co iot dist/display.js
 git co iot dist/printer.js
 git co iot dist/standalone.js
