@@ -40,10 +40,6 @@ gitee 示例：https://xinglie.gitee.io/report-designer/mini.html?mode=notr
 #### 嵌入普通页面技术点
 https://github.com/xinglie/report-designer/issues/32
 
-#### 专做数据绑定和打印的仓库
-https://github.com/xinglie/guoer
-
-https://gitee.com/xinglie/printer-designer
 
 #### 打印设计器仓库
 https://github.com/xinglie/printer-editor
