@@ -1,6 +1,281 @@
 {
   "data": [
     {
+      "title": "元素只读示例",
+      "stage": {
+        "page": {
+          "unit": "px",
+          "width": 791,
+          "height": 1120,
+          "pages": 1,
+          "xOffset": 0,
+          "yOffset": 0,
+          "title": "",
+          "background": "#ffffff",
+          "backgroundImage": "",
+          "backgroundRepeat": "full",
+          "backgroundWidth": 0,
+          "backgroundHeight": 0,
+          "positionXOffset": 0,
+          "positionYOffset": 0
+        },
+        "groups": [],
+        "elements": [
+          {
+            "id": "e_53",
+            "type": "image",
+            "readonly": true,
+            "props": {
+              "x": 32,
+              "y": 55,
+              "width": 300,
+              "height": 300,
+              "rotate": 0,
+              "alpha": 1,
+              "image": "https://iconfont.alicdn.com/t/c478299e-e0cf-42b3-9453-35a1748eb065.png",
+              "bind": {
+                "url": "",
+                "id": "",
+                "fields": []
+              },
+              "rotateX": false,
+              "rotateY": false,
+              "ename": "图片"
+            }
+          },
+          {
+            "id": "e_54",
+            "type": "repeat",
+            "readonly": true,
+            "props": {
+              "x": 412,
+              "y": 61,
+              "width": 313,
+              "height": 430,
+              "rotate": 0,
+              "alpha": 1,
+              "image": "https://iconfont.alicdn.com/t/eafbe8b9-5204-445a-898b-175f599fb16a.png",
+              "bind": {
+                "url": "",
+                "id": "",
+                "fields": []
+              },
+              "radius": 0,
+              "imageWidth": 102,
+              "imageHeight": 102,
+              "positionXOffset": 0,
+              "positionYOffset": 0,
+              "repeat": "repeat",
+              "ename": "平铺图"
+            }
+          },
+          {
+            "id": "e_55",
+            "type": "barcode",
+            "readonly": true,
+            "props": {
+              "x": 43,
+              "y": 436,
+              "width": 200,
+              "height": 80,
+              "rotate": 0,
+              "alpha": 1,
+              "text": "xinglie",
+              "bind": {
+                "url": "",
+                "id": "",
+                "fields": []
+              },
+              "format": "code128",
+              "showText": true,
+              "color": "#000000",
+              "linewidth": 2,
+              "ename": "条形码"
+            }
+          },
+          {
+            "id": "e_56",
+            "type": "hod-table",
+            "readonly": true,
+            "props": {
+              "rows": [
+                {
+                  "cols": [
+                    {
+                      "height": 83,
+                      "width": 210,
+                      "bLeft": true,
+                      "bTop": true,
+                      "bRight": true,
+                      "bBottom": true,
+                      "rowspan": 1,
+                      "colspan": 1,
+                      "elements": [
+                        {
+                          "id": "e_57",
+                          "type": "text",
+                          "props": {
+                            "x": 15,
+                            "y": 32,
+                            "width": 200,
+                            "height": 25,
+                            "rotate": 0,
+                            "text": "",
+                            "bind": {
+                              "url": "",
+                              "id": "",
+                              "fields": []
+                            },
+                            "format": "",
+                            "fontsize": 14,
+                            "fontfamily": "Microsoft YaHei",
+                            "alpha": 1,
+                            "letterspacing": 0,
+                            "background": "",
+                            "forecolor": "#000000",
+                            "styleBold": false,
+                            "styleUnderline": false,
+                            "styleItalic": false,
+                            "styleStrike": false,
+                            "styleOverline": false,
+                            "hpos": "flex-start",
+                            "vpos": "flex-start",
+                            "ename": "文本"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "height": 83,
+                      "width": 150,
+                      "bLeft": true,
+                      "bTop": true,
+                      "bRight": true,
+                      "bBottom": true,
+                      "rowspan": 1,
+                      "colspan": 1,
+                      "elements": [
+                        {
+                          "id": "e_58",
+                          "type": "line",
+                          "readonly": true,
+                          "props": {
+                            "x": 3,
+                            "y": 44,
+                            "width": 200,
+                            "rotate": 0,
+                            "alpha": 1,
+                            "height": 1,
+                            "linetype": "solid",
+                            "color": "#000000",
+                            "ename": "直线"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "cols": [
+                    {
+                      "height": 30,
+                      "width": 210,
+                      "bLeft": true,
+                      "bTop": true,
+                      "bRight": true,
+                      "bBottom": true,
+                      "rowspan": 1,
+                      "colspan": 1,
+                      "elements": []
+                    },
+                    {
+                      "height": 30,
+                      "width": 150,
+                      "bLeft": true,
+                      "bTop": true,
+                      "bRight": true,
+                      "bBottom": true,
+                      "rowspan": 1,
+                      "colspan": 1,
+                      "elements": []
+                    }
+                  ]
+                }
+              ],
+              "x": 412,
+              "y": 576,
+              "width": 361,
+              "height": 114,
+              "alpha": 1,
+              "borderwidth": 1,
+              "bordertype": "solid",
+              "bordercolor": "#000000",
+              "borderdeed": "collapse",
+              "ename": "表格"
+            }
+          },
+          {
+            "id": "e_105",
+            "type": "hod-hflex",
+            "props": {
+              "rows": [
+                {
+                  "height": 202,
+                  "cols": [
+                    {
+                      "width": 300,
+                      "elements": [
+                        {
+                          "id": "e_110",
+                          "type": "circle",
+                          "readonly": true,
+                          "props": {
+                            "x": 65,
+                            "y": 25,
+                            "width": 150,
+                            "height": 150,
+                            "rotate": 0,
+                            "alpha": 1,
+                            "borderwidth": 1,
+                            "bordertype": "solid",
+                            "bordercolor": "#000000",
+                            "fillcolor": "",
+                            "ename": "圆形"
+                          }
+                        }
+                      ],
+                      "borderLeftStyle": "solid",
+                      "borderLeftWidth": 1,
+                      "borderLeftTopRadius": 0,
+                      "borderRightTopRadius": 0,
+                      "borderLeftBottomRadius": 0,
+                      "borderRightBottomRadius": 0,
+                      "borderLeftColor": "#000000",
+                      "borderTopStyle": "solid",
+                      "borderTopWidth": 1,
+                      "borderTopColor": "#000000",
+                      "borderRightStyle": "solid",
+                      "borderRightWidth": 1,
+                      "borderRightColor": "#000000",
+                      "borderBottomStyle": "solid",
+                      "borderBottomWidth": 1,
+                      "borderBottomColor": "#000000"
+                    }
+                  ]
+                }
+              ],
+              "x": 77,
+              "y": 785,
+              "width": 300,
+              "height": 202,
+              "alpha": 1,
+              "ename": "H-Flex"
+            }
+          }
+        ]
+      }
+    },
+    {
       "title": "数据采集示例",
       "stage": {
         "page": {
