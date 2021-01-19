@@ -16,8 +16,8 @@
           "backgroundRepeat": "full",
           "backgroundWidth": 0,
           "backgroundHeight": 0,
-          "positionXOffset": 0,
-          "positionYOffset": 0
+          "backgroundXOffset": 0,
+          "backgroundYOffset": 0
         },
         "groups": [],
         "elements": [
@@ -63,8 +63,8 @@
               "radius": 0,
               "imageWidth": 102,
               "imageHeight": 102,
-              "positionXOffset": 0,
-              "positionYOffset": 0,
+              "backgroundXOffset": 0,
+              "backgroundYOffset": 0,
               "repeat": "repeat",
               "ename": "平铺图"
             }
@@ -290,8 +290,8 @@
           "backgroundRepeat": "full",
           "backgroundWidth": 0,
           "backgroundHeight": 0,
-          "positionXOffset": 0,
-          "positionYOffset": 0
+          "backgroundXOffset": 0,
+          "backgroundYOffset": 0
         },
         "groups": [],
         "elements": [
@@ -2070,8 +2070,8 @@
           "backgroundRepeat": "full",
           "backgroundWidth": 0,
           "backgroundHeight": 0,
-          "positionXOffset": 0,
-          "positionYOffset": 0
+          "backgroundXOffset": 0,
+          "backgroundYOffset": 0
         },
         "groups": [],
         "elements": [
@@ -2671,8 +2671,8 @@
           "backgroundRepeat": "full",
           "backgroundWidth": 0,
           "backgroundHeight": 0,
-          "positionXOffset": 0,
-          "positionYOffset": 0
+          "backgroundXOffset": 0,
+          "backgroundYOffset": 0
         },
         "groups": [],
         "elements": [
@@ -3192,8 +3192,8 @@
           "backgroundRepeat": "full",
           "backgroundWidth": 0,
           "backgroundHeight": 0,
-          "positionXOffset": 0,
-          "positionYOffset": 0
+          "backgroundXOffset": 0,
+          "backgroundYOffset": 0
         },
         "groups": [],
         "elements": [
@@ -4215,8 +4215,8 @@
           "backgroundRepeat": "full",
           "backgroundWidth": 0,
           "backgroundHeight": 0,
-          "positionXOffset": 0,
-          "positionYOffset": 0
+          "backgroundXOffset": 0,
+          "backgroundYOffset": 0
         },
         "groups": [],
         "elements": [
@@ -4417,8 +4417,8 @@
           "backgroundRepeat": "full",
           "backgroundWidth": 0,
           "backgroundHeight": 0,
-          "positionXOffset": 0,
-          "positionYOffset": 0
+          "backgroundXOffset": 0,
+          "backgroundYOffset": 0
         },
         "groups": [],
         "elements": [
@@ -4665,8 +4665,8 @@
           "backgroundRepeat": "full",
           "backgroundWidth": 0,
           "backgroundHeight": 0,
-          "positionXOffset": 0,
-          "positionYOffset": 0
+          "backgroundXOffset": 0,
+          "backgroundYOffset": 0
         },
         "groups": [],
         "elements": [
@@ -5167,8 +5167,8 @@
           "backgroundRepeat": "full",
           "backgroundWidth": 0,
           "backgroundHeight": 0,
-          "positionXOffset": 0,
-          "positionYOffset": 0
+          "backgroundXOffset": 0,
+          "backgroundYOffset": 0
         },
         "groups": [
           [
@@ -5444,8 +5444,8 @@
           "backgroundRepeat": "full",
           "backgroundWidth": 0,
           "backgroundHeight": 0,
-          "positionXOffset": 0,
-          "positionYOffset": 0
+          "backgroundXOffset": 0,
+          "backgroundYOffset": 0
         },
         "groups": [],
         "elements": [
@@ -6627,8 +6627,8 @@
           "backgroundRepeat": "full",
           "backgroundWidth": 0,
           "backgroundHeight": 0,
-          "positionXOffset": 0,
-          "positionYOffset": 0
+          "backgroundXOffset": 0,
+          "backgroundYOffset": 0
         },
         "groups": [],
         "elements": [
@@ -6845,8 +6845,8 @@
           "backgroundRepeat": "full",
           "backgroundWidth": 0,
           "backgroundHeight": 0,
-          "positionXOffset": 0,
-          "positionYOffset": 0
+          "backgroundXOffset": 0,
+          "backgroundYOffset": 0
         },
         "groups": [],
         "elements": [
@@ -7329,8 +7329,8 @@
           "backgroundRepeat": "full",
           "backgroundWidth": 0,
           "backgroundHeight": 0,
-          "positionXOffset": 0,
-          "positionYOffset": 0
+          "backgroundXOffset": 0,
+          "backgroundYOffset": 0
         },
         "groups": [],
         "elements": [
