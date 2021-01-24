@@ -18,7 +18,7 @@
             <div id="data_table"></div>
             <div id="page"></div>
         </div>
-        <script type="text/javascript" src="dist/standalone.js?v=202101202103"></script>
+        <script type="text/javascript" src="dist/standalone.js?v=202101241733"></script>
         <script>
             document.addEventListener('elementinput',e=>{
                 for(let input of e.elementInputs){
@@ -837,7 +837,7 @@
             }
             };
             document.getElementById('toggle_collect').addEventListener('click',()=>{
-                collectData.readonly=!collectData.readonly;
+                collectData.props.readonly=!collectData.props.readonly;
                 designer.element('#collect',collectData);
             });
         designer.element('#collect',collectData);

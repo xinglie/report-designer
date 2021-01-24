@@ -1,6 +1,188 @@
 {
   "data": [
     {
+      "title": "X或Y坐标固定示例",
+      "stage": {
+        "page": {
+          "unit": "px",
+          "width": 791,
+          "height": 1120,
+          "pages": 1,
+          "xOffset": 0,
+          "yOffset": 0,
+          "title": "",
+          "background": "#ffffff",
+          "backgroundImage": "",
+          "backgroundRepeat": "full",
+          "backgroundWidth": 0,
+          "backgroundHeight": 0,
+          "backgroundXOffset": 0,
+          "backgroundYOffset": 0
+        },
+        "groups": [],
+        "elements": [
+          {
+            "id": "e_186",
+            "type": "text",
+            "props": {
+              "x": 61,
+              "y": 55,
+              "width": 200,
+              "height": 25,
+              "rotate": 0,
+              "pinX": true,
+              "text": "X坐标固定的元素",
+              "bind": {
+                "url": "",
+                "id": "",
+                "fields": []
+              },
+              "format": "",
+              "fontsize": 14,
+              "fontfamily": "Microsoft YaHei",
+              "alpha": 1,
+              "letterspacing": 0,
+              "background": "",
+              "forecolor": "#000000",
+              "styleBold": false,
+              "styleUnderline": false,
+              "styleItalic": false,
+              "styleStrike": false,
+              "styleOverline": false,
+              "hpos": "flex-start",
+              "vpos": "flex-start",
+              "ename": "文本",
+              "locked": false
+            }
+          },
+          {
+            "id": "e_203",
+            "type": "text",
+            "props": {
+              "x": 456,
+              "y": 55,
+              "width": 200,
+              "height": 25,
+              "rotate": 0,
+              "pinY": true,
+              "text": "Y坐标固定的元素",
+              "bind": {
+                "url": "",
+                "id": "",
+                "fields": []
+              },
+              "format": "",
+              "fontsize": 14,
+              "fontfamily": "Microsoft YaHei",
+              "alpha": 1,
+              "letterspacing": 0,
+              "background": "",
+              "forecolor": "#000000",
+              "styleBold": false,
+              "styleUnderline": false,
+              "styleItalic": false,
+              "styleStrike": false,
+              "styleOverline": false,
+              "hpos": "flex-start",
+              "vpos": "flex-start",
+              "ename": "文本",
+              "locked": false
+            }
+          },
+          {
+            "id": "e_209",
+            "type": "text",
+            "props": {
+              "x": 257,
+              "y": 190,
+              "width": 200,
+              "height": 25,
+              "rotate": 0,
+              "pinX": true,
+              "pinY": true,
+              "text": "X,Y坐标均固定的元素",
+              "bind": {
+                "url": "",
+                "id": "",
+                "fields": []
+              },
+              "format": "",
+              "fontsize": 14,
+              "fontfamily": "Microsoft YaHei",
+              "alpha": 1,
+              "letterspacing": 0,
+              "background": "",
+              "forecolor": "#000000",
+              "styleBold": false,
+              "styleUnderline": false,
+              "styleItalic": false,
+              "styleStrike": false,
+              "styleOverline": false,
+              "hpos": "flex-start",
+              "vpos": "flex-start",
+              "ename": "文本",
+              "locked": false
+            }
+          },
+          {
+            "id": "e_215",
+            "type": "image",
+            "props": {
+              "x": 79,
+              "y": 285,
+              "width": 200,
+              "height": 100,
+              "rotate": 0,
+              "alpha": 1,
+              "image": "",
+              "bind": {
+                "url": "",
+                "id": "",
+                "fields": []
+              },
+              "rotateX": false,
+              "rotateY": false,
+              "ename": "图片",
+              "locked": false
+            }
+          },
+          {
+            "id": "e_221",
+            "type": "text",
+            "props": {
+              "x": 411,
+              "y": 310,
+              "width": 200,
+              "height": 25,
+              "rotate": 0,
+              "text": "",
+              "bind": {
+                "url": "",
+                "id": "",
+                "fields": []
+              },
+              "format": "",
+              "fontsize": 14,
+              "fontfamily": "Microsoft YaHei",
+              "alpha": 1,
+              "letterspacing": 0,
+              "background": "",
+              "forecolor": "#000000",
+              "styleBold": false,
+              "styleUnderline": false,
+              "styleItalic": false,
+              "styleStrike": false,
+              "styleOverline": false,
+              "hpos": "flex-start",
+              "vpos": "flex-start",
+              "ename": "文本",
+              "locked": false
+            }
+          }
+        ]
+      }
+    },
+    {
       "title": "元素只读示例",
       "stage": {
         "page": {
@@ -24,8 +206,8 @@
           {
             "id": "e_53",
             "type": "image",
-            "readonly": true,
             "props": {
+              "readonly": true,
               "x": 32,
               "y": 55,
               "width": 300,
@@ -46,8 +228,8 @@
           {
             "id": "e_54",
             "type": "repeat",
-            "readonly": true,
             "props": {
+              "readonly": true,
               "x": 412,
               "y": 61,
               "width": 313,
@@ -72,8 +254,8 @@
           {
             "id": "e_55",
             "type": "barcode",
-            "readonly": true,
             "props": {
+              "readonly": true,
               "x": 43,
               "y": 436,
               "width": 200,
@@ -96,8 +278,8 @@
           {
             "id": "e_56",
             "type": "hod-table",
-            "readonly": true,
             "props": {
+              "readonly": true,
               "rows": [
                 {
                   "cols": [
@@ -158,8 +340,8 @@
                         {
                           "id": "e_58",
                           "type": "line",
-                          "readonly": true,
                           "props": {
+                            "readonly": true,
                             "x": 3,
                             "y": 44,
                             "width": 200,
@@ -228,8 +410,8 @@
                         {
                           "id": "e_110",
                           "type": "circle",
-                          "readonly": true,
                           "props": {
+                            "readonly": true,
                             "x": 65,
                             "y": 25,
                             "width": 150,
