@@ -481,6 +481,7 @@
             "id": "e_267",
             "type": "form-collect",
             "props": {
+              "excel":false,
               "rows": [
                 {
                   "head": true,
