@@ -15,16 +15,8 @@ github 示例：https://xinglie.github.io/report-designer/index.html
 
 gitee 示例：https://xinglie.gitee.io/report-designer/index.html
 
-#### 绝对定位脚手架
-github 示例：https://xinglie.github.io/report-designer/absolute.html
-
-gitee 示例：https://xinglie.gitee.io/report-designer/absolute.html
 
 #### 流式布局脚手架
-github 示例：https://xinglie.github.io/report-designer/page.html
-
-gitee 示例：https://xinglie.gitee.io/report-designer/page.html
-
 仓库：https://github.com/xinglie/page-designer
 
 #### 通用设计器嵌入普通页面
