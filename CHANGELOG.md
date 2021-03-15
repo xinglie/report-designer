@@ -1,3 +1,9 @@
+## 2021-03-15
+1. `数据表格`、`实时数据`支持单元格直接输入文本
+2. 修正`magix`在混合`x-html`极端情况下无法正常更新节点的`bug`
+3. https://github.com/xinglie/report-designer/issues/35#issuecomment-797205278
+4. 增加双向绑定示例
+
 ## 2021-03-11
 1. 调整新建逻辑
 2. 支持`cm`,`mm`,`pt`,`in`等单位
