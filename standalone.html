@@ -32,6 +32,7 @@
             });
             let  collectData={
             "id": "e_67",
+            "unit":"px",
             "type": "form-collect",
             "props": {
                 "rows": [
@@ -843,6 +844,7 @@
         designer.element('#collect',collectData);
         designer.element('#text',{
             "type":"text",
+            "unit":"px",
             "props": {
                 "x": 0,
                 "y": 40,
@@ -873,6 +875,7 @@
         });
         designer.element('#table',{
             "type":"hod-table",
+            "unit":"px",
             "props": {
                 "rows": [
                 {
@@ -961,6 +964,7 @@
         fetch('./apis/area.json').then(r=>r.json()).then(json=>{
             designer.element('#data_table',{
                 "type":"data-dtable",
+            "unit":"px",
                 "props": {
                     "rows": [
                     {
@@ -1447,8 +1451,8 @@
             });
         });
         designer.page('#page',{
+            "unit":"px",
   "page": {
-    "unit": "px",
     "width": 791,
     "height": 400,
     "pages": 3,
