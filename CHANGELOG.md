@@ -1,3 +1,10 @@
+## 2021-03-29
+1. 任务调度算法`bug fixes`(clear current exec and check current before yield)
+2. 右键支持`新建编辑区`
+3. 移除`实时数据`元素
+4. 改善轮廓线及对齐线细节，使它们更加贴合
+5. 移除对话框的`blur`效果，太耗性能
+
 ## 2021-03-24
 1. 重构打印代码
 2. `bug fixes`
