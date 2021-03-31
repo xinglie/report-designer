@@ -1,3 +1,8 @@
+## 2021-03-31
+1. 自动换行`bug fixes`
+2. 事件调度优化
+3. 安全升级，引擎优化
+
 ## 2021-03-29
 1. 任务调度算法`bug fixes`(clear current exec and check current before yield)
 2. 右键支持`新建编辑区`
