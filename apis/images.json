@@ -1848,6 +1848,23 @@
                     "title": "Wall socket"
                 }
             ]
+        },
+        {
+            "title": "大屏",
+            "list": [
+                {
+                    "src": "./images/bg_1.jpg",
+                    "title": "背景1"
+                },
+                {
+                    "src": "./images/bg_2.png",
+                    "title": "背景2"
+                },
+                {
+                    "src": "./images/bg_4.jpg",
+                    "title": "背景4"
+                }
+            ]
         }
     ],
     "status": 1,
