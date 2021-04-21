@@ -1,6 +1,232 @@
 {
   "data": [
     {
+      "title": "批量条码、二维码和文本打印",
+      "stage": {
+        "unit": "px",
+        "page": {
+          "readonly": false,
+          "width": 791,
+          "height": 500,
+          "pages": 3,
+          "xOffset": 0,
+          "yOffset": 0,
+          "title": "",
+          "background": "#ffffff",
+          "backgroundImage": "",
+          "backgroundRepeat": "full",
+          "backgroundWidth": 0,
+          "backgroundHeight": 0,
+          "backgroundXOffset": 0,
+          "backgroundYOffset": 0
+        },
+        "groups": [],
+        "elements": [
+          {
+            "id": "e_86",
+            "type": "batch-barcode",
+            "unit": "px",
+            "props": {
+              "x": 50,
+              "y": 26,
+              "width": 200,
+              "height": 80,
+              "rotate": 0,
+              "alpha": 1,
+              "bind": {
+                "url": "apis/person.json",
+                "id": "3",
+                "fields": [
+                  {
+                    "name": "身份证号",
+                    "id": "idn"
+                  }
+                ]
+              },
+              "hspace": 10,
+              "vspace": 20,
+              "format": "code128",
+              "showText": true,
+              "color": "#000000",
+              "linewidth": 2,
+              "ename": "批量条码",
+              "locked": false
+            }
+          },
+          {
+            "id": "e_93",
+            "type": "batch-qrcode",
+            "unit": "px",
+            "props": {
+              "x": 50,
+              "y": 522,
+              "width": 150,
+              "height": 150,
+              "rotate": 0,
+              "alpha": 1,
+              "bind": {
+                "url": "apis/report.json",
+                "id": "2",
+                "fields": [
+                  {
+                    "name": "点击量",
+                    "id": "f2"
+                  }
+                ]
+              },
+              "hspace": 30,
+              "vspace": 30,
+              "ename": "二维码",
+              "locked": false
+            }
+          },
+          {
+            "id": "e_116",
+            "type": "batch-text",
+            "unit": "px",
+            "props": {
+              "x": 50,
+              "y": 1052,
+              "width": 200,
+              "height": 25,
+              "rotate": 0,
+              "bind": {
+                "url": "apis/person.json",
+                "id": "3",
+                "fields": [
+                  {
+                    "name": "地址",
+                    "id": "addr"
+                  }
+                ]
+              },
+              "format": "",
+              "hspace": 30,
+              "vspace": 30,
+              "autoReturn": true,
+              "fontsize": 14,
+              "fontfamily": "Microsoft YaHei",
+              "alpha": 1,
+              "letterspacing": 0,
+              "background": "",
+              "forecolor": "#000000",
+              "styleBold": false,
+              "styleUnderline": false,
+              "styleItalic": false,
+              "styleStrike": false,
+              "styleOverline": false,
+              "hpos": "flex-start",
+              "vpos": "flex-start",
+              "borderwidth": 0,
+              "bordertype": "solid",
+              "bordercolor": "#000000",
+              "ename": "批量文本",
+              "locked": false
+            }
+          },
+          {
+            "id": "e_132",
+            "type": "hod-footer",
+            "unit": "px",
+            "props": {
+              "pinX": true,
+              "pinY": true,
+              "rows": [
+                {
+                  "height": 40,
+                  "cols": [
+                    {
+                      "width": 791,
+                      "elements": [],
+                      "borderLeftTopRadius": 0,
+                      "borderRightTopRadius": 0,
+                      "borderLeftBottomRadius": 0,
+                      "borderRightBottomRadius": 0,
+                      "borderLeftStyle": "dashed",
+                      "borderLeftWidth": 0,
+                      "borderLeftColor": "#cccccc",
+                      "borderTopStyle": "dashed",
+                      "borderTopWidth": 0,
+                      "borderTopColor": "#cccccc",
+                      "borderRightStyle": "dashed",
+                      "borderRightWidth": 0,
+                      "borderRightColor": "#cccccc",
+                      "borderBottomStyle": "dashed",
+                      "borderBottomWidth": 0,
+                      "borderBottomColor": "#cccccc"
+                    }
+                  ]
+                }
+              ],
+              "x": 0,
+              "y": 1460,
+              "width": 791,
+              "height": 40,
+              "alpha": 1,
+              "ename": "页脚",
+              "locked": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "title": "批量条形码打印",
+      "stage": {
+        "unit": "px",
+        "page": {
+          "readonly": false,
+          "width": 791,
+          "height": 1120,
+          "pages": 1,
+          "xOffset": 0,
+          "yOffset": 0,
+          "title": "",
+          "background": "#ffffff",
+          "backgroundImage": "",
+          "backgroundRepeat": "full",
+          "backgroundWidth": 0,
+          "backgroundHeight": 0,
+          "backgroundXOffset": 0,
+          "backgroundYOffset": 0
+        },
+        "groups": [],
+        "elements": [
+          {
+            "id": "e_70",
+            "type": "batch-barcode",
+            "unit": "px",
+            "props": {
+              "x": 88,
+              "y": 26,
+              "width": 195,
+              "height": 80,
+              "rotate": 0,
+              "alpha": 1,
+              "bind": {
+                "url": "apis/report.json",
+                "id": "2",
+                "fields": [
+                  {
+                    "name": "点击率",
+                    "id": "f3"
+                  }
+                ]
+              },
+              "hspace": 10,
+              "vspace": 23,
+              "format": "code128",
+              "showText": true,
+              "color": "#000000",
+              "linewidth": 2,
+              "ename": "批量条码",
+              "locked": false
+            }
+          }
+        ]
+      }
+    },
+    {
       "title": "数据表格内容超长自动换行",
       "stage": {
         "unit": "px",
