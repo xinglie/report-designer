@@ -181,7 +181,8 @@
                 },
                 {
                     "name": "头像",
-                    "id": "avatar"
+                    "id": "avatar",
+                    "use": "image"
                 }
             ]
         }
