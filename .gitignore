@@ -4,7 +4,6 @@
 .DS_Store
 node_modules
 todo.md
-sync.sh
 
 # Sublime Project files
 *.sublime-*
