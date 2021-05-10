@@ -182,7 +182,11 @@
                 {
                     "name": "头像",
                     "id": "avatar",
-                    "use": "image"
+                    "use": "image",
+                    "props": {
+                        "width": 100,
+                        "height": 200
+                    }
                 }
             ]
         }
