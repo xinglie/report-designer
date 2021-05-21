@@ -1,6 +1,397 @@
 {
   "data": [
     {
+      "title": "元素最小尺寸与吸附测试",
+      "stage": {
+        "unit": "mm",
+        "page": {
+          "readonly": false,
+          "width": 209.26,
+          "height": 296.3,
+          "pages": 1,
+          "xOffset": 0,
+          "yOffset": 0,
+          "title": "",
+          "background": "#ffffff",
+          "backgroundImage": "",
+          "backgroundRepeat": "full",
+          "backgroundWidth": 0,
+          "backgroundHeight": 0,
+          "backgroundXOffset": 0,
+          "backgroundYOffset": 0
+        },
+        "groups": [],
+        "elements": [
+          {
+            "id": "e_88",
+            "type": "svg-line",
+            "unit": "mm",
+            "props": {
+              "x": 51.72,
+              "y": 64.29,
+              "width": 0,
+              "height": 26.45,
+              "ctrl1X": 51.72,
+              "ctrl1Y": 64.29,
+              "ctrl2X": 51.72,
+              "ctrl2Y": 90.74,
+              "startArrow": false,
+              "endArrow": false,
+              "linewidth": 0.26,
+              "dash": 0,
+              "alpha": 1,
+              "color": "#000000",
+              "ename": "线段",
+              "locked": false
+            }
+          },
+          {
+            "id": "e_90",
+            "type": "image",
+            "unit": "mm",
+            "props": {
+              "x": 112.57,
+              "y": 13.76,
+              "width": 0,
+              "height": 26.46,
+              "rotate": 0,
+              "alpha": 1,
+              "webUrl": "",
+              "image": "",
+              "bind": {
+                "url": "",
+                "id": "",
+                "fields": []
+              },
+              "rotateX": false,
+              "rotateY": false,
+              "ename": "图片",
+              "locked": false
+            }
+          },
+          {
+            "id": "e_128",
+            "type": "image",
+            "unit": "mm",
+            "props": {
+              "x": 18.78,
+              "y": 23.28,
+              "width": 52.91,
+              "height": 0,
+              "rotate": 0,
+              "alpha": 1,
+              "webUrl": "",
+              "image": "",
+              "bind": {
+                "url": "",
+                "id": "",
+                "fields": []
+              },
+              "rotateX": false,
+              "rotateY": false,
+              "ename": "图片",
+              "locked": false
+            }
+          },
+          {
+            "id": "e_145",
+            "type": "rect",
+            "unit": "mm",
+            "props": {
+              "x": 107.67,
+              "y": 75.13,
+              "width": 52.91,
+              "height": 0,
+              "rotate": 0,
+              "alpha": 1,
+              "borderwidth": 0.26,
+              "bordertype": "solid",
+              "bordercolor": "#000000",
+              "fillcolor": "",
+              "radius": 0,
+              "ename": "矩形",
+              "locked": false
+            }
+          },
+          {
+            "id": "e_157",
+            "type": "repeat",
+            "unit": "mm",
+            "props": {
+              "x": 107.67,
+              "y": 103.18,
+              "width": 52.91,
+              "height": 26.46,
+              "rotate": 0,
+              "alpha": 1,
+              "webUrl": "",
+              "image": "",
+              "bind": {
+                "url": "",
+                "id": "",
+                "fields": []
+              },
+              "radius": 0,
+              "imageWidth": 0,
+              "imageHeight": 0,
+              "backgroundXOffset": 0,
+              "backgroundYOffset": 0,
+              "repeat": "repeat",
+              "ename": "背景图",
+              "locked": false
+            }
+          },
+          {
+            "id": "e_161",
+            "type": "line",
+            "unit": "mm",
+            "props": {
+              "x": 139.15,
+              "y": 26.98,
+              "width": 52.91,
+              "rotate": 0,
+              "alpha": 1,
+              "height": 0.26,
+              "linetype": "solid",
+              "color": "#000000",
+              "ename": "直线",
+              "locked": false
+            }
+          },
+          {
+            "id": "e_173",
+            "type": "svg-line",
+            "unit": "mm",
+            "props": {
+              "x": 35.45,
+              "y": 103.17,
+              "width": 54.23,
+              "height": 0,
+              "ctrl1X": 35.45,
+              "ctrl1Y": 103.17,
+              "ctrl2X": 89.68,
+              "ctrl2Y": 103.17,
+              "startArrow": false,
+              "endArrow": false,
+              "linewidth": 0.26,
+              "dash": 0,
+              "alpha": 1,
+              "color": "#000000",
+              "ename": "线段",
+              "locked": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "title": "旋转后的标签打印",
+      "stage": {
+        "unit": "px",
+        "page": {
+          "readonly": false,
+          "width": 791,
+          "height": 600,
+          "pages": 4,
+          "xOffset": 0,
+          "yOffset": 0,
+          "title": "",
+          "background": "#ffffff",
+          "backgroundImage": "",
+          "backgroundRepeat": "full",
+          "backgroundWidth": 0,
+          "backgroundHeight": 0,
+          "backgroundXOffset": 0,
+          "backgroundYOffset": 0
+        },
+        "groups": [],
+        "elements": [
+          {
+            "id": "e_754",
+            "type": "batch-text",
+            "unit": "px",
+            "props": {
+              "x": 95,
+              "y": 88,
+              "width": 200,
+              "height": 25,
+              "rotate": 30,
+              "bind": {
+                "url": "apis/person.json",
+                "id": "3",
+                "fields": [
+                  {
+                    "name": "地址",
+                    "id": "addr"
+                  }
+                ]
+              },
+              "format": "",
+              "hspace": 30,
+              "vspace": 30,
+              "autoReturn": true,
+              "fontsize": 14,
+              "fontfamily": "Microsoft YaHei",
+              "alpha": 1,
+              "letterspacing": 0,
+              "background": "#87c38fff",
+              "forecolor": "#000000",
+              "styleBold": false,
+              "styleUnderline": false,
+              "styleItalic": false,
+              "styleStrike": false,
+              "styleOverline": false,
+              "hpos": "flex-start",
+              "vpos": "flex-start",
+              "borderwidth": 0,
+              "bordertype": "solid",
+              "bordercolor": "#000000",
+              "ename": "批量文本",
+              "locked": false
+            }
+          },
+          {
+            "id": "e_824",
+            "type": "batch-text",
+            "unit": "px",
+            "props": {
+              "pinX": false,
+              "pinY": false,
+              "x": 67,
+              "y": 718,
+              "width": 200,
+              "height": 25,
+              "rotate": 212,
+              "bind": {
+                "url": "apis/person.json",
+                "id": "3",
+                "fields": [
+                  {
+                    "name": "地址",
+                    "id": "addr"
+                  }
+                ]
+              },
+              "format": "",
+              "hspace": 30,
+              "vspace": 30,
+              "autoReturn": true,
+              "fontsize": 14,
+              "fontfamily": "Microsoft YaHei",
+              "alpha": 1,
+              "letterspacing": 0,
+              "background": "#d42379ff",
+              "forecolor": "#000000",
+              "styleBold": false,
+              "styleUnderline": false,
+              "styleItalic": false,
+              "styleStrike": false,
+              "styleOverline": false,
+              "hpos": "flex-start",
+              "vpos": "flex-start",
+              "borderwidth": 0,
+              "bordertype": "solid",
+              "bordercolor": "#000000",
+              "ename": "批量文本",
+              "locked": false
+            }
+          },
+          {
+            "id": "e_833",
+            "type": "batch-text",
+            "unit": "px",
+            "props": {
+              "pinX": false,
+              "pinY": false,
+              "x": 176,
+              "y": 1365,
+              "width": 200,
+              "height": 25,
+              "rotate": 127,
+              "bind": {
+                "url": "apis/person.json",
+                "id": "3",
+                "fields": [
+                  {
+                    "name": "地址",
+                    "id": "addr"
+                  }
+                ]
+              },
+              "format": "",
+              "hspace": 30,
+              "vspace": 30,
+              "autoReturn": true,
+              "fontsize": 14,
+              "fontfamily": "Microsoft YaHei",
+              "alpha": 1,
+              "letterspacing": 0,
+              "background": "#f4ea29ff",
+              "forecolor": "#000000",
+              "styleBold": false,
+              "styleUnderline": false,
+              "styleItalic": false,
+              "styleStrike": false,
+              "styleOverline": false,
+              "hpos": "flex-start",
+              "vpos": "flex-start",
+              "borderwidth": 0,
+              "bordertype": "solid",
+              "bordercolor": "#000000",
+              "ename": "批量文本",
+              "locked": false
+            }
+          },
+          {
+            "id": "e_836",
+            "type": "batch-text",
+            "unit": "px",
+            "props": {
+              "pinX": false,
+              "pinY": false,
+              "x": 36,
+              "y": 1904,
+              "width": 200,
+              "height": 25,
+              "rotate": 317,
+              "bind": {
+                "url": "apis/person.json",
+                "id": "3",
+                "fields": [
+                  {
+                    "name": "地址",
+                    "id": "addr"
+                  }
+                ]
+              },
+              "format": "",
+              "hspace": 30,
+              "vspace": 30,
+              "autoReturn": true,
+              "fontsize": 14,
+              "fontfamily": "Microsoft YaHei",
+              "alpha": 1,
+              "letterspacing": 0,
+              "background": "#f4ea29ff",
+              "forecolor": "#000000",
+              "styleBold": false,
+              "styleUnderline": false,
+              "styleItalic": false,
+              "styleStrike": false,
+              "styleOverline": false,
+              "hpos": "flex-start",
+              "vpos": "flex-start",
+              "borderwidth": 0,
+              "bordertype": "solid",
+              "bordercolor": "#000000",
+              "ename": "批量文本",
+              "locked": false
+            }
+          }
+        ]
+      }
+    },
+    {
       "title": "厘米(cm)单位",
       "stage": {
         "unit": "cm",
