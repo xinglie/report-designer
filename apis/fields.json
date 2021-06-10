@@ -189,6 +189,29 @@
                     }
                 }
             ]
+        },
+        {
+            "name": "富文本测试",
+            "url": "apis/richtext.json",
+            "id": 4,
+            "fields": [
+                {
+                    "name": "片断1",
+                    "id": "p1",
+                    "use": "data-richtext",
+                    "props": {
+                        "width": 500
+                    }
+                },
+                {
+                    "name": "片断2",
+                    "id": "p2",
+                    "use": "data-richtext",
+                    "props": {
+                        "width": 500
+                    }
+                }
+            ]
         }
     ],
     "status": 1,
