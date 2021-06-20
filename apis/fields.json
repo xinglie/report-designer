@@ -187,6 +187,18 @@
                         "width": 100,
                         "height": 200
                     }
+                },
+                {
+                    "name": "无数据1",
+                    "id": "nodata1"
+                },
+                {
+                    "name": "无数据2",
+                    "id": "nodata2"
+                },
+                {
+                    "name": "无数据3",
+                    "id": "nodata3"
                 }
             ]
         },
