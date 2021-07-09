@@ -37,7 +37,7 @@ https://github.com/xinglie/report-designer/issues/32
 https://github.com/xinglie/printer-editor
 
 
-### 购买合作
+### 授权合作
 微信ID：qq84685009 
 
 ### 通用设计器截屏
