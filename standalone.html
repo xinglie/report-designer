@@ -18,7 +18,7 @@
             <div id="data_table"></div>
             <div id="page"></div>
         </div>
-        <script type="text/javascript" src="dist/standalone.js?v=202109180935"></script>
+        <script type="text/javascript" src="dist/printer.js?v=202109251028"></script>
         <script>
             document.addEventListener('elementinput',e=>{
                 for(let input of e.elementInputs){
@@ -839,10 +839,10 @@
             };
             document.getElementById('toggle_collect').addEventListener('click',()=>{
                 collectData.props.readonly=!collectData.props.readonly;
-                designer.element('#collect',collectData);
+                printer.element('#collect',collectData);
             });
-        designer.element('#collect',collectData);
-        designer.element('#text',{
+        printer.element('#collect',collectData);
+        printer.element('#text',{
             "unit":"px",
             "type":"text",
             "props": {
@@ -873,7 +873,7 @@
                 "ename": "文本"
             }
         });
-        designer.element('#table',{
+        printer.element('#table',{
             "type":"hod-table",
             "unit":"px",
             "props": {
@@ -962,7 +962,7 @@
             }
         });
         fetch('./apis/area.json').then(r=>r.json()).then(json=>{
-            designer.element('#data_table',{
+            printer.element('#data_table',{
                 "type":"data-dtable",
             "unit":"px",
                 "props": {
@@ -1450,7 +1450,7 @@
                 }
             });
         });
-        designer.page('#page',{
+        printer.page('#page',{
             "unit":"px",
   "page": {
     "width": 791,

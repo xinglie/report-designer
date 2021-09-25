@@ -224,6 +224,29 @@
                     }
                 }
             ]
+        },
+        {
+            "name": "资产卡片",
+            "url": "apis/asset.json",
+            "id": 5,
+            "fields": [
+                {
+                    "name": "资产编码",
+                    "id": "assetcode"
+                },
+                {
+                    "name": "资产名称",
+                    "id": "assetname"
+                },
+                {
+                    "name": "投用日期",
+                    "id": "assetdate"
+                },
+                {
+                    "name": "使用部门",
+                    "id": "assetdept"
+                }
+            ]
         }
     ],
     "status": 1,
