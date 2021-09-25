@@ -5,6 +5,11 @@
 #### 声明
 专有软件及代码，禁止对该仓库代码进行反编译、分发等行为，否则将承担相应的法律后果。
 
+#### 练手
+https://github.com/xinglie/magix5-playground
+
+report-designer项目与这个练手项目基础类库、框架、结构、功能是一致的，在拿到report-designer源码前，可先用这个练手项目试试看。
+
 ### 概要
 项目概览介绍：https://github.com/xinglie/report-designer/issues/1
 
