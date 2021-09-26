@@ -33,10 +33,10 @@ github 示例：https://xinglie.github.io/report-designer/mini.html
 
 gitee 示例：https://xinglie.gitee.io/report-designer/mini.html
 
-#### 通用设计器嵌入普通页面无工具栏、标尺
-github 示例：https://xinglie.github.io/report-designer/mini.html?mode=notr
+#### 拆分、重组通用设计器
+github 示例：https://xinglie.github.io/report-designer/split.html
 
-gitee 示例：https://xinglie.gitee.io/report-designer/mini.html?mode=notr
+gitee 示例：https://xinglie.gitee.io/report-designer/split.html
 
 #### 嵌入普通页面技术点
 https://github.com/xinglie/report-designer/issues/32
