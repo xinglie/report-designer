@@ -4136,7 +4136,7 @@
         "elements": [
           {
             "id": "rde_88",
-            "type": "flow-process",
+            "type": "flow/process",
             "unit": "cm",
             "props": {
               "textX": 1.455,
@@ -4164,7 +4164,7 @@
           },
           {
             "id": "rde_97",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "unit": "cm",
             "props": {
               "textX": 10.53,
@@ -4192,7 +4192,7 @@
           },
           {
             "id": "rde_100",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "unit": "cm",
             "props": {
               "textX": 16.166,
@@ -4220,7 +4220,7 @@
           },
           {
             "id": "rde_103",
-            "type": "flow-data",
+            "type": "flow/data",
             "unit": "cm",
             "props": {
               "textX": 1.296,
@@ -4248,7 +4248,7 @@
           },
           {
             "id": "rde_106",
-            "type": "flow-document",
+            "type": "flow/document",
             "unit": "cm",
             "props": {
               "textX": 6.747,
@@ -4276,7 +4276,7 @@
           },
           {
             "id": "rde_109",
-            "type": "flow-subprocess",
+            "type": "flow/subprocess",
             "unit": "cm",
             "props": {
               "textX": 13.864,
@@ -4304,7 +4304,7 @@
           },
           {
             "id": "rde_112",
-            "type": "flow-manual",
+            "type": "flow/manual",
             "unit": "cm",
             "props": {
               "textX": 14.949,
@@ -4332,7 +4332,7 @@
           },
           {
             "id": "rde_115",
-            "type": "flow-ref",
+            "type": "flow/ref",
             "unit": "cm",
             "props": {
               "textX": 8.976,
@@ -4360,7 +4360,7 @@
           },
           {
             "id": "rde_118",
-            "type": "flow-istore",
+            "type": "flow/istore",
             "unit": "cm",
             "props": {
               "textX": 1.852,
@@ -4388,7 +4388,7 @@
           },
           {
             "id": "rde_121",
-            "type": "flow-card",
+            "type": "flow/card",
             "unit": "cm",
             "props": {
               "textX": 16.642,
@@ -4416,7 +4416,7 @@
           },
           {
             "id": "rde_124",
-            "type": "flow-moperation",
+            "type": "flow/moperation",
             "unit": "cm",
             "props": {
               "textX": 8.282,
@@ -4444,7 +4444,7 @@
           },
           {
             "id": "rde_127",
-            "type": "flow-parallel",
+            "type": "flow/parallel",
             "unit": "cm",
             "props": {
               "textX": 11.165,
@@ -4472,7 +4472,7 @@
           },
           {
             "id": "rde_130",
-            "type": "flow-prepare",
+            "type": "flow/prepare",
             "unit": "cm",
             "props": {
               "textX": 0.992,
@@ -4500,7 +4500,7 @@
           },
           {
             "id": "rde_133",
-            "type": "flow-database",
+            "type": "flow/database",
             "unit": "cm",
             "props": {
               "textX": 16.642,
@@ -4528,7 +4528,7 @@
           },
           {
             "id": "rde_136",
-            "type": "flow-estore",
+            "type": "flow/estore",
             "unit": "cm",
             "props": {
               "textX": 11.351,
@@ -4556,7 +4556,7 @@
           },
           {
             "id": "rde_139",
-            "type": "flow-qdata",
+            "type": "flow/qdata",
             "unit": "cm",
             "props": {
               "textX": 3.936,
@@ -4584,7 +4584,7 @@
           },
           {
             "id": "rde_142",
-            "type": "flow-tape",
+            "type": "flow/tape",
             "unit": "cm",
             "props": {
               "textX": 8.52,
@@ -4612,7 +4612,7 @@
           },
           {
             "id": "rde_145",
-            "type": "flow-pageref",
+            "type": "flow/pageref",
             "unit": "cm",
             "props": {
               "textX": 15.981,
@@ -4640,7 +4640,7 @@
           },
           {
             "id": "rde_148",
-            "type": "flow-display",
+            "type": "flow/display",
             "unit": "cm",
             "props": {
               "textX": 15.981,
@@ -4668,7 +4668,7 @@
           },
           {
             "id": "rde_151",
-            "type": "flow-looplimit",
+            "type": "flow/looplimit",
             "unit": "cm",
             "props": {
               "textX": 1.455,
@@ -4696,7 +4696,7 @@
           },
           {
             "id": "rde_154",
-            "type": "flow-annotation",
+            "type": "flow/annotation",
             "unit": "cm",
             "props": {
               "textX": 3.44,
@@ -4952,7 +4952,7 @@
         "elements": [
           {
             "id": "rde_189",
-            "type": "svg-rect2",
+            "type": "svg/rect2",
             "unit": "pt",
             "props": {
               "pinX": false,
@@ -4975,7 +4975,7 @@
           },
           {
             "id": "rde_131",
-            "type": "svg-rect2",
+            "type": "svg/rect2",
             "unit": "pt",
             "props": {
               "x": 67.05,
@@ -4996,7 +4996,7 @@
           },
           {
             "id": "rde_87",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "unit": "pt",
             "props": {
               "linkFromId": "rde_85",
@@ -5054,7 +5054,7 @@
           },
           {
             "id": "rde_89",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "unit": "pt",
             "props": {
               "linkFromId": "rde_85",
@@ -5112,7 +5112,7 @@
           },
           {
             "id": "rde_91",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "unit": "pt",
             "props": {
               "linkFromId": "rde_85",
@@ -5170,7 +5170,7 @@
           },
           {
             "id": "rde_93",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "unit": "pt",
             "props": {
               "linkFromId": "rde_85",
@@ -5228,7 +5228,7 @@
           },
           {
             "id": "rde_95",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "unit": "pt",
             "props": {
               "linkFromId": "rde_94",
@@ -5282,7 +5282,7 @@
           },
           {
             "id": "rde_94",
-            "type": "flow-process",
+            "type": "flow/process",
             "unit": "pt",
             "props": {
               "textX": 73.83,
@@ -5310,7 +5310,7 @@
           },
           {
             "id": "rde_85",
-            "type": "flow-process",
+            "type": "flow/process",
             "unit": "pt",
             "props": {
               "pinX": false,
@@ -5340,7 +5340,7 @@
           },
           {
             "id": "rde_92",
-            "type": "flow-process",
+            "type": "flow/process",
             "unit": "pt",
             "props": {
               "textX": 73.83,
@@ -5368,7 +5368,7 @@
           },
           {
             "id": "rde_90",
-            "type": "flow-process",
+            "type": "flow/process",
             "unit": "pt",
             "props": {
               "pinX": false,
@@ -5398,7 +5398,7 @@
           },
           {
             "id": "rde_88",
-            "type": "flow-process",
+            "type": "flow/process",
             "unit": "pt",
             "props": {
               "pinX": false,
@@ -5428,7 +5428,7 @@
           },
           {
             "id": "rde_86",
-            "type": "flow-process",
+            "type": "flow/process",
             "unit": "pt",
             "props": {
               "pinX": false,
@@ -5458,7 +5458,7 @@
           },
           {
             "id": "rde_155",
-            "type": "flow-process",
+            "type": "flow/process",
             "unit": "pt",
             "props": {
               "pinX": false,
@@ -5488,7 +5488,7 @@
           },
           {
             "id": "rde_158",
-            "type": "flow-process",
+            "type": "flow/process",
             "unit": "pt",
             "props": {
               "pinX": false,
@@ -5556,7 +5556,7 @@
           },
           {
             "id": "rde_197",
-            "type": "svg-brace",
+            "type": "svg/brace",
             "unit": "pt",
             "props": {
               "x": 40.06,
@@ -5652,7 +5652,7 @@
           },
           {
             "id": "rde_222",
-            "type": "svg-brace",
+            "type": "svg/brace",
             "unit": "pt",
             "props": {
               "pinX": false,
@@ -5672,7 +5672,7 @@
           },
           {
             "id": "rde_239",
-            "type": "svg-rect2",
+            "type": "svg/rect2",
             "unit": "pt",
             "props": {
               "pinX": false,
@@ -5695,7 +5695,7 @@
           },
           {
             "id": "rde_240",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "unit": "pt",
             "props": {
               "pinX": false,
@@ -5755,7 +5755,7 @@
           },
           {
             "id": "rde_241",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "unit": "pt",
             "props": {
               "pinX": false,
@@ -5815,7 +5815,7 @@
           },
           {
             "id": "rde_242",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "unit": "pt",
             "props": {
               "pinX": false,
@@ -5875,7 +5875,7 @@
           },
           {
             "id": "rde_243",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "unit": "pt",
             "props": {
               "pinX": false,
@@ -5935,7 +5935,7 @@
           },
           {
             "id": "rde_244",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "unit": "pt",
             "props": {
               "pinX": false,
@@ -5991,7 +5991,7 @@
           },
           {
             "id": "rde_245",
-            "type": "flow-process",
+            "type": "flow/process",
             "unit": "pt",
             "props": {
               "pinX": false,
@@ -6021,7 +6021,7 @@
           },
           {
             "id": "rde_246",
-            "type": "flow-process",
+            "type": "flow/process",
             "unit": "pt",
             "props": {
               "pinX": false,
@@ -6051,7 +6051,7 @@
           },
           {
             "id": "rde_247",
-            "type": "flow-process",
+            "type": "flow/process",
             "unit": "pt",
             "props": {
               "pinX": false,
@@ -6081,7 +6081,7 @@
           },
           {
             "id": "rde_248",
-            "type": "flow-process",
+            "type": "flow/process",
             "unit": "pt",
             "props": {
               "pinX": false,
@@ -6111,7 +6111,7 @@
           },
           {
             "id": "rde_249",
-            "type": "flow-process",
+            "type": "flow/process",
             "unit": "pt",
             "props": {
               "pinX": false,
@@ -6141,7 +6141,7 @@
           },
           {
             "id": "rde_250",
-            "type": "flow-process",
+            "type": "flow/process",
             "unit": "pt",
             "props": {
               "pinX": false,
@@ -6171,7 +6171,7 @@
           },
           {
             "id": "rde_254",
-            "type": "svg-brace",
+            "type": "svg/brace",
             "unit": "pt",
             "props": {
               "pinX": false,
@@ -6504,7 +6504,7 @@
         "elements": [
           {
             "id": "e_88",
-            "type": "svg-line",
+            "type": "svg/line",
             "unit": "mm",
             "props": {
               "x": 51.72,
@@ -6640,7 +6640,7 @@
           },
           {
             "id": "e_173",
-            "type": "svg-line",
+            "type": "svg/line",
             "unit": "mm",
             "props": {
               "x": 35.45,
@@ -11982,7 +11982,7 @@
         "elements": [
           {
             "id": "e_106",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_104",
               "linkFromKey": "p7",
@@ -12038,7 +12038,7 @@
           },
           {
             "id": "e_108",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_107",
               "linkFromKey": "p4",
@@ -12090,7 +12090,7 @@
           },
           {
             "id": "e_111",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_109",
               "linkFromKey": "p4",
@@ -12146,7 +12146,7 @@
           },
           {
             "id": "e_114",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_112",
               "linkFromKey": "p5",
@@ -12198,7 +12198,7 @@
           },
           {
             "id": "e_115",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_113",
               "linkFromKey": "p7",
@@ -12250,7 +12250,7 @@
           },
           {
             "id": "e_117",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_116",
               "linkFromKey": "p7",
@@ -12302,7 +12302,7 @@
           },
           {
             "id": "e_118",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_105",
               "linkFromKey": "p5",
@@ -12354,7 +12354,7 @@
           },
           {
             "id": "e_120",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_119",
               "linkFromKey": "p6",
@@ -12406,7 +12406,7 @@
           },
           {
             "id": "e_121",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_112",
               "linkFromKey": "p6",
@@ -12458,7 +12458,7 @@
           },
           {
             "id": "e_122",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_107",
               "linkFromKey": "p6",
@@ -12510,7 +12510,7 @@
           },
           {
             "id": "e_124",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_123",
               "linkFromKey": "p6",
@@ -12562,7 +12562,7 @@
           },
           {
             "id": "e_125",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_105",
               "linkFromKey": "p6",
@@ -12614,7 +12614,7 @@
           },
           {
             "id": "e_127",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_126",
               "linkFromKey": "p6",
@@ -12666,7 +12666,7 @@
           },
           {
             "id": "e_128",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_109",
               "linkFromKey": "p6",
@@ -12718,7 +12718,7 @@
           },
           {
             "id": "e_130",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_129",
               "linkFromKey": "p6",
@@ -12770,7 +12770,7 @@
           },
           {
             "id": "e_132",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_131",
               "linkFromKey": "p6",
@@ -12822,7 +12822,7 @@
           },
           {
             "id": "e_131",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "textX": 274,
               "textY": 93,
@@ -12847,7 +12847,7 @@
           },
           {
             "id": "e_129",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "textX": 274,
               "textY": 188,
@@ -12872,7 +12872,7 @@
           },
           {
             "id": "e_109",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "textX": 302,
               "textY": 289,
@@ -12897,7 +12897,7 @@
           },
           {
             "id": "e_126",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "textX": 274,
               "textY": 389,
@@ -12922,7 +12922,7 @@
           },
           {
             "id": "e_105",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "textX": 302,
               "textY": 492,
@@ -12947,7 +12947,7 @@
           },
           {
             "id": "e_123",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "textX": 274,
               "textY": 602,
@@ -12972,7 +12972,7 @@
           },
           {
             "id": "e_107",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "textX": 302,
               "textY": 703,
@@ -12997,7 +12997,7 @@
           },
           {
             "id": "e_112",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "textX": 302,
               "textY": 827,
@@ -13022,7 +13022,7 @@
           },
           {
             "id": "e_116",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "textX": 559,
               "textY": 371,
@@ -13047,7 +13047,7 @@
           },
           {
             "id": "e_104",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "textX": 13,
               "textY": 592,
@@ -13072,7 +13072,7 @@
           },
           {
             "id": "e_113",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "textX": 506,
               "textY": 756,
@@ -13097,7 +13097,7 @@
           },
           {
             "id": "e_119",
-            "type": "flow-data",
+            "type": "flow/data",
             "props": {
               "textX": 294,
               "textY": 928,
@@ -13122,7 +13122,7 @@
           },
           {
             "id": "e_110",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "textX": 274,
               "textY": 1032,
@@ -13180,7 +13180,7 @@
           },
           {
             "id": "e_194",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -13238,7 +13238,7 @@
           },
           {
             "id": "e_195",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -13292,7 +13292,7 @@
           },
           {
             "id": "e_196",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -13350,7 +13350,7 @@
           },
           {
             "id": "e_197",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -13404,7 +13404,7 @@
           },
           {
             "id": "e_198",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -13458,7 +13458,7 @@
           },
           {
             "id": "e_199",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -13512,7 +13512,7 @@
           },
           {
             "id": "e_200",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -13566,7 +13566,7 @@
           },
           {
             "id": "e_201",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -13620,7 +13620,7 @@
           },
           {
             "id": "e_202",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -13674,7 +13674,7 @@
           },
           {
             "id": "e_203",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -13728,7 +13728,7 @@
           },
           {
             "id": "e_204",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -13782,7 +13782,7 @@
           },
           {
             "id": "e_205",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -13836,7 +13836,7 @@
           },
           {
             "id": "e_206",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -13890,7 +13890,7 @@
           },
           {
             "id": "e_207",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -13944,7 +13944,7 @@
           },
           {
             "id": "e_208",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -13998,7 +13998,7 @@
           },
           {
             "id": "e_209",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -14052,7 +14052,7 @@
           },
           {
             "id": "e_210",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -14079,7 +14079,7 @@
           },
           {
             "id": "e_211",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -14106,7 +14106,7 @@
           },
           {
             "id": "e_212",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -14133,7 +14133,7 @@
           },
           {
             "id": "e_213",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -14160,7 +14160,7 @@
           },
           {
             "id": "e_214",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -14187,7 +14187,7 @@
           },
           {
             "id": "e_215",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -14214,7 +14214,7 @@
           },
           {
             "id": "e_216",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -14241,7 +14241,7 @@
           },
           {
             "id": "e_217",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -14268,7 +14268,7 @@
           },
           {
             "id": "e_218",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -14295,7 +14295,7 @@
           },
           {
             "id": "e_219",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -14322,7 +14322,7 @@
           },
           {
             "id": "e_220",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -14349,7 +14349,7 @@
           },
           {
             "id": "e_221",
-            "type": "flow-data",
+            "type": "flow/data",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -14376,7 +14376,7 @@
           },
           {
             "id": "e_222",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -14438,7 +14438,7 @@
           },
           {
             "id": "e_284",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -14496,7 +14496,7 @@
           },
           {
             "id": "e_285",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -14550,7 +14550,7 @@
           },
           {
             "id": "e_286",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -14608,7 +14608,7 @@
           },
           {
             "id": "e_287",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -14662,7 +14662,7 @@
           },
           {
             "id": "e_288",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -14716,7 +14716,7 @@
           },
           {
             "id": "e_289",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -14770,7 +14770,7 @@
           },
           {
             "id": "e_290",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -14824,7 +14824,7 @@
           },
           {
             "id": "e_291",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -14878,7 +14878,7 @@
           },
           {
             "id": "e_292",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -14932,7 +14932,7 @@
           },
           {
             "id": "e_293",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -14986,7 +14986,7 @@
           },
           {
             "id": "e_294",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -15040,7 +15040,7 @@
           },
           {
             "id": "e_295",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -15094,7 +15094,7 @@
           },
           {
             "id": "e_296",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -15148,7 +15148,7 @@
           },
           {
             "id": "e_297",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -15202,7 +15202,7 @@
           },
           {
             "id": "e_298",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -15256,7 +15256,7 @@
           },
           {
             "id": "e_299",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -15310,7 +15310,7 @@
           },
           {
             "id": "e_300",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -15337,7 +15337,7 @@
           },
           {
             "id": "e_301",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -15364,7 +15364,7 @@
           },
           {
             "id": "e_302",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -15391,7 +15391,7 @@
           },
           {
             "id": "e_303",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -15418,7 +15418,7 @@
           },
           {
             "id": "e_304",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -15445,7 +15445,7 @@
           },
           {
             "id": "e_305",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -15472,7 +15472,7 @@
           },
           {
             "id": "e_306",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -15499,7 +15499,7 @@
           },
           {
             "id": "e_307",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -15526,7 +15526,7 @@
           },
           {
             "id": "e_308",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -15553,7 +15553,7 @@
           },
           {
             "id": "e_309",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -15580,7 +15580,7 @@
           },
           {
             "id": "e_310",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -15607,7 +15607,7 @@
           },
           {
             "id": "e_311",
-            "type": "flow-data",
+            "type": "flow/data",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -15634,7 +15634,7 @@
           },
           {
             "id": "e_312",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -15696,7 +15696,7 @@
           },
           {
             "id": "e_374",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -15754,7 +15754,7 @@
           },
           {
             "id": "e_375",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -15808,7 +15808,7 @@
           },
           {
             "id": "e_376",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -15866,7 +15866,7 @@
           },
           {
             "id": "e_377",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -15920,7 +15920,7 @@
           },
           {
             "id": "e_378",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -15974,7 +15974,7 @@
           },
           {
             "id": "e_379",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -16028,7 +16028,7 @@
           },
           {
             "id": "e_380",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -16082,7 +16082,7 @@
           },
           {
             "id": "e_381",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -16136,7 +16136,7 @@
           },
           {
             "id": "e_382",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -16190,7 +16190,7 @@
           },
           {
             "id": "e_383",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -16244,7 +16244,7 @@
           },
           {
             "id": "e_384",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -16298,7 +16298,7 @@
           },
           {
             "id": "e_385",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -16352,7 +16352,7 @@
           },
           {
             "id": "e_386",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -16406,7 +16406,7 @@
           },
           {
             "id": "e_387",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -16460,7 +16460,7 @@
           },
           {
             "id": "e_388",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -16514,7 +16514,7 @@
           },
           {
             "id": "e_389",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -16568,7 +16568,7 @@
           },
           {
             "id": "e_390",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -16595,7 +16595,7 @@
           },
           {
             "id": "e_391",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -16622,7 +16622,7 @@
           },
           {
             "id": "e_392",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -16649,7 +16649,7 @@
           },
           {
             "id": "e_393",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -16676,7 +16676,7 @@
           },
           {
             "id": "e_394",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -16703,7 +16703,7 @@
           },
           {
             "id": "e_395",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -16730,7 +16730,7 @@
           },
           {
             "id": "e_396",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -16757,7 +16757,7 @@
           },
           {
             "id": "e_397",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -16784,7 +16784,7 @@
           },
           {
             "id": "e_398",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -16811,7 +16811,7 @@
           },
           {
             "id": "e_399",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -16838,7 +16838,7 @@
           },
           {
             "id": "e_400",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -16865,7 +16865,7 @@
           },
           {
             "id": "e_401",
-            "type": "flow-data",
+            "type": "flow/data",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -16892,7 +16892,7 @@
           },
           {
             "id": "e_402",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -16954,7 +16954,7 @@
           },
           {
             "id": "e_464",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -17012,7 +17012,7 @@
           },
           {
             "id": "e_465",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -17066,7 +17066,7 @@
           },
           {
             "id": "e_466",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -17124,7 +17124,7 @@
           },
           {
             "id": "e_467",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -17178,7 +17178,7 @@
           },
           {
             "id": "e_468",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -17232,7 +17232,7 @@
           },
           {
             "id": "e_469",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -17286,7 +17286,7 @@
           },
           {
             "id": "e_470",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -17340,7 +17340,7 @@
           },
           {
             "id": "e_471",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -17394,7 +17394,7 @@
           },
           {
             "id": "e_472",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -17448,7 +17448,7 @@
           },
           {
             "id": "e_473",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -17502,7 +17502,7 @@
           },
           {
             "id": "e_474",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -17556,7 +17556,7 @@
           },
           {
             "id": "e_475",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -17610,7 +17610,7 @@
           },
           {
             "id": "e_476",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -17664,7 +17664,7 @@
           },
           {
             "id": "e_477",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -17718,7 +17718,7 @@
           },
           {
             "id": "e_478",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -17772,7 +17772,7 @@
           },
           {
             "id": "e_479",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -17826,7 +17826,7 @@
           },
           {
             "id": "e_480",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -17853,7 +17853,7 @@
           },
           {
             "id": "e_481",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -17880,7 +17880,7 @@
           },
           {
             "id": "e_482",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -17907,7 +17907,7 @@
           },
           {
             "id": "e_483",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -17934,7 +17934,7 @@
           },
           {
             "id": "e_484",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -17961,7 +17961,7 @@
           },
           {
             "id": "e_485",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -17988,7 +17988,7 @@
           },
           {
             "id": "e_486",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -18015,7 +18015,7 @@
           },
           {
             "id": "e_487",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -18042,7 +18042,7 @@
           },
           {
             "id": "e_488",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -18069,7 +18069,7 @@
           },
           {
             "id": "e_489",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -18096,7 +18096,7 @@
           },
           {
             "id": "e_490",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -18123,7 +18123,7 @@
           },
           {
             "id": "e_491",
-            "type": "flow-data",
+            "type": "flow/data",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -18150,7 +18150,7 @@
           },
           {
             "id": "e_492",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -18212,7 +18212,7 @@
           },
           {
             "id": "e_494",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -18270,7 +18270,7 @@
           },
           {
             "id": "e_495",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -18324,7 +18324,7 @@
           },
           {
             "id": "e_496",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -18382,7 +18382,7 @@
           },
           {
             "id": "e_497",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -18436,7 +18436,7 @@
           },
           {
             "id": "e_498",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -18490,7 +18490,7 @@
           },
           {
             "id": "e_499",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -18544,7 +18544,7 @@
           },
           {
             "id": "e_500",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -18598,7 +18598,7 @@
           },
           {
             "id": "e_501",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -18652,7 +18652,7 @@
           },
           {
             "id": "e_502",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -18706,7 +18706,7 @@
           },
           {
             "id": "e_503",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -18760,7 +18760,7 @@
           },
           {
             "id": "e_504",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -18814,7 +18814,7 @@
           },
           {
             "id": "e_505",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -18868,7 +18868,7 @@
           },
           {
             "id": "e_506",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -18922,7 +18922,7 @@
           },
           {
             "id": "e_507",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -18976,7 +18976,7 @@
           },
           {
             "id": "e_508",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -19030,7 +19030,7 @@
           },
           {
             "id": "e_509",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -19084,7 +19084,7 @@
           },
           {
             "id": "e_510",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -19111,7 +19111,7 @@
           },
           {
             "id": "e_511",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -19138,7 +19138,7 @@
           },
           {
             "id": "e_512",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -19165,7 +19165,7 @@
           },
           {
             "id": "e_513",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -19192,7 +19192,7 @@
           },
           {
             "id": "e_514",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -19219,7 +19219,7 @@
           },
           {
             "id": "e_515",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -19246,7 +19246,7 @@
           },
           {
             "id": "e_516",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -19273,7 +19273,7 @@
           },
           {
             "id": "e_517",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -19300,7 +19300,7 @@
           },
           {
             "id": "e_518",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -19327,7 +19327,7 @@
           },
           {
             "id": "e_519",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -19354,7 +19354,7 @@
           },
           {
             "id": "e_520",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -19381,7 +19381,7 @@
           },
           {
             "id": "e_521",
-            "type": "flow-data",
+            "type": "flow/data",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -19408,7 +19408,7 @@
           },
           {
             "id": "e_522",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -19470,7 +19470,7 @@
           },
           {
             "id": "e_524",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -19528,7 +19528,7 @@
           },
           {
             "id": "e_525",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -19582,7 +19582,7 @@
           },
           {
             "id": "e_526",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -19640,7 +19640,7 @@
           },
           {
             "id": "e_527",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -19694,7 +19694,7 @@
           },
           {
             "id": "e_528",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -19748,7 +19748,7 @@
           },
           {
             "id": "e_529",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -19802,7 +19802,7 @@
           },
           {
             "id": "e_530",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -19856,7 +19856,7 @@
           },
           {
             "id": "e_531",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -19910,7 +19910,7 @@
           },
           {
             "id": "e_532",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -19964,7 +19964,7 @@
           },
           {
             "id": "e_533",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -20018,7 +20018,7 @@
           },
           {
             "id": "e_534",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -20072,7 +20072,7 @@
           },
           {
             "id": "e_535",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -20126,7 +20126,7 @@
           },
           {
             "id": "e_536",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -20180,7 +20180,7 @@
           },
           {
             "id": "e_537",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -20234,7 +20234,7 @@
           },
           {
             "id": "e_538",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -20288,7 +20288,7 @@
           },
           {
             "id": "e_539",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -20342,7 +20342,7 @@
           },
           {
             "id": "e_540",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -20369,7 +20369,7 @@
           },
           {
             "id": "e_541",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -20396,7 +20396,7 @@
           },
           {
             "id": "e_542",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -20423,7 +20423,7 @@
           },
           {
             "id": "e_543",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -20450,7 +20450,7 @@
           },
           {
             "id": "e_544",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -20477,7 +20477,7 @@
           },
           {
             "id": "e_545",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -20504,7 +20504,7 @@
           },
           {
             "id": "e_546",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -20531,7 +20531,7 @@
           },
           {
             "id": "e_547",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -20558,7 +20558,7 @@
           },
           {
             "id": "e_548",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -20585,7 +20585,7 @@
           },
           {
             "id": "e_549",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -20612,7 +20612,7 @@
           },
           {
             "id": "e_550",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -20639,7 +20639,7 @@
           },
           {
             "id": "e_551",
-            "type": "flow-data",
+            "type": "flow/data",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -20666,7 +20666,7 @@
           },
           {
             "id": "e_552",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -20728,7 +20728,7 @@
           },
           {
             "id": "e_554",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -20786,7 +20786,7 @@
           },
           {
             "id": "e_555",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -20840,7 +20840,7 @@
           },
           {
             "id": "e_556",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -20898,7 +20898,7 @@
           },
           {
             "id": "e_557",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -20952,7 +20952,7 @@
           },
           {
             "id": "e_558",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21006,7 +21006,7 @@
           },
           {
             "id": "e_559",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21060,7 +21060,7 @@
           },
           {
             "id": "e_560",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21114,7 +21114,7 @@
           },
           {
             "id": "e_561",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21168,7 +21168,7 @@
           },
           {
             "id": "e_562",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21222,7 +21222,7 @@
           },
           {
             "id": "e_563",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21276,7 +21276,7 @@
           },
           {
             "id": "e_564",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21330,7 +21330,7 @@
           },
           {
             "id": "e_565",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21384,7 +21384,7 @@
           },
           {
             "id": "e_566",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21438,7 +21438,7 @@
           },
           {
             "id": "e_567",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21492,7 +21492,7 @@
           },
           {
             "id": "e_568",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21546,7 +21546,7 @@
           },
           {
             "id": "e_569",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21600,7 +21600,7 @@
           },
           {
             "id": "e_570",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21627,7 +21627,7 @@
           },
           {
             "id": "e_571",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21654,7 +21654,7 @@
           },
           {
             "id": "e_572",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21681,7 +21681,7 @@
           },
           {
             "id": "e_573",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21708,7 +21708,7 @@
           },
           {
             "id": "e_574",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21735,7 +21735,7 @@
           },
           {
             "id": "e_575",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21762,7 +21762,7 @@
           },
           {
             "id": "e_576",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21789,7 +21789,7 @@
           },
           {
             "id": "e_577",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21816,7 +21816,7 @@
           },
           {
             "id": "e_578",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21843,7 +21843,7 @@
           },
           {
             "id": "e_579",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21870,7 +21870,7 @@
           },
           {
             "id": "e_580",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21897,7 +21897,7 @@
           },
           {
             "id": "e_581",
-            "type": "flow-data",
+            "type": "flow/data",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21924,7 +21924,7 @@
           },
           {
             "id": "e_582",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -21986,7 +21986,7 @@
           },
           {
             "id": "e_845",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -22044,7 +22044,7 @@
           },
           {
             "id": "e_846",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -22098,7 +22098,7 @@
           },
           {
             "id": "e_847",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -22156,7 +22156,7 @@
           },
           {
             "id": "e_848",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -22210,7 +22210,7 @@
           },
           {
             "id": "e_849",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -22264,7 +22264,7 @@
           },
           {
             "id": "e_850",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -22318,7 +22318,7 @@
           },
           {
             "id": "e_851",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -22372,7 +22372,7 @@
           },
           {
             "id": "e_852",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -22426,7 +22426,7 @@
           },
           {
             "id": "e_853",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -22480,7 +22480,7 @@
           },
           {
             "id": "e_854",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -22534,7 +22534,7 @@
           },
           {
             "id": "e_855",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -22588,7 +22588,7 @@
           },
           {
             "id": "e_856",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -22642,7 +22642,7 @@
           },
           {
             "id": "e_857",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -22696,7 +22696,7 @@
           },
           {
             "id": "e_858",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -22750,7 +22750,7 @@
           },
           {
             "id": "e_859",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -22804,7 +22804,7 @@
           },
           {
             "id": "e_860",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -22858,7 +22858,7 @@
           },
           {
             "id": "e_861",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -22885,7 +22885,7 @@
           },
           {
             "id": "e_862",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -22912,7 +22912,7 @@
           },
           {
             "id": "e_863",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -22939,7 +22939,7 @@
           },
           {
             "id": "e_864",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -22966,7 +22966,7 @@
           },
           {
             "id": "e_865",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -22993,7 +22993,7 @@
           },
           {
             "id": "e_866",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -23020,7 +23020,7 @@
           },
           {
             "id": "e_867",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -23047,7 +23047,7 @@
           },
           {
             "id": "e_868",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -23074,7 +23074,7 @@
           },
           {
             "id": "e_869",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -23101,7 +23101,7 @@
           },
           {
             "id": "e_870",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -23128,7 +23128,7 @@
           },
           {
             "id": "e_871",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -23155,7 +23155,7 @@
           },
           {
             "id": "e_872",
-            "type": "flow-data",
+            "type": "flow/data",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -23182,7 +23182,7 @@
           },
           {
             "id": "e_873",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -23244,7 +23244,7 @@
           },
           {
             "id": "e_875",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -23302,7 +23302,7 @@
           },
           {
             "id": "e_876",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -23356,7 +23356,7 @@
           },
           {
             "id": "e_877",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -23414,7 +23414,7 @@
           },
           {
             "id": "e_878",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -23468,7 +23468,7 @@
           },
           {
             "id": "e_879",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -23522,7 +23522,7 @@
           },
           {
             "id": "e_880",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -23576,7 +23576,7 @@
           },
           {
             "id": "e_881",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -23630,7 +23630,7 @@
           },
           {
             "id": "e_882",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -23684,7 +23684,7 @@
           },
           {
             "id": "e_883",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -23738,7 +23738,7 @@
           },
           {
             "id": "e_884",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -23792,7 +23792,7 @@
           },
           {
             "id": "e_885",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -23846,7 +23846,7 @@
           },
           {
             "id": "e_886",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -23900,7 +23900,7 @@
           },
           {
             "id": "e_887",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -23954,7 +23954,7 @@
           },
           {
             "id": "e_888",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24008,7 +24008,7 @@
           },
           {
             "id": "e_889",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24062,7 +24062,7 @@
           },
           {
             "id": "e_890",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24116,7 +24116,7 @@
           },
           {
             "id": "e_891",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24143,7 +24143,7 @@
           },
           {
             "id": "e_892",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24170,7 +24170,7 @@
           },
           {
             "id": "e_893",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24197,7 +24197,7 @@
           },
           {
             "id": "e_894",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24224,7 +24224,7 @@
           },
           {
             "id": "e_895",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24251,7 +24251,7 @@
           },
           {
             "id": "e_896",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24278,7 +24278,7 @@
           },
           {
             "id": "e_897",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24305,7 +24305,7 @@
           },
           {
             "id": "e_898",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24332,7 +24332,7 @@
           },
           {
             "id": "e_899",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24359,7 +24359,7 @@
           },
           {
             "id": "e_900",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24386,7 +24386,7 @@
           },
           {
             "id": "e_901",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24413,7 +24413,7 @@
           },
           {
             "id": "e_902",
-            "type": "flow-data",
+            "type": "flow/data",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24440,7 +24440,7 @@
           },
           {
             "id": "e_903",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24502,7 +24502,7 @@
           },
           {
             "id": "e_905",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24560,7 +24560,7 @@
           },
           {
             "id": "e_906",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24614,7 +24614,7 @@
           },
           {
             "id": "e_907",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24672,7 +24672,7 @@
           },
           {
             "id": "e_908",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24726,7 +24726,7 @@
           },
           {
             "id": "e_909",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24780,7 +24780,7 @@
           },
           {
             "id": "e_910",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24834,7 +24834,7 @@
           },
           {
             "id": "e_911",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24888,7 +24888,7 @@
           },
           {
             "id": "e_912",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24942,7 +24942,7 @@
           },
           {
             "id": "e_913",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -24996,7 +24996,7 @@
           },
           {
             "id": "e_914",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -25050,7 +25050,7 @@
           },
           {
             "id": "e_915",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -25104,7 +25104,7 @@
           },
           {
             "id": "e_916",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -25158,7 +25158,7 @@
           },
           {
             "id": "e_917",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -25212,7 +25212,7 @@
           },
           {
             "id": "e_918",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -25266,7 +25266,7 @@
           },
           {
             "id": "e_919",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -25320,7 +25320,7 @@
           },
           {
             "id": "e_920",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -25374,7 +25374,7 @@
           },
           {
             "id": "e_921",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -25401,7 +25401,7 @@
           },
           {
             "id": "e_922",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -25428,7 +25428,7 @@
           },
           {
             "id": "e_923",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -25455,7 +25455,7 @@
           },
           {
             "id": "e_924",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -25482,7 +25482,7 @@
           },
           {
             "id": "e_925",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -25509,7 +25509,7 @@
           },
           {
             "id": "e_926",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -25536,7 +25536,7 @@
           },
           {
             "id": "e_927",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -25563,7 +25563,7 @@
           },
           {
             "id": "e_928",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -25590,7 +25590,7 @@
           },
           {
             "id": "e_929",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -25617,7 +25617,7 @@
           },
           {
             "id": "e_930",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -25644,7 +25644,7 @@
           },
           {
             "id": "e_931",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -25671,7 +25671,7 @@
           },
           {
             "id": "e_932",
-            "type": "flow-data",
+            "type": "flow/data",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -25698,7 +25698,7 @@
           },
           {
             "id": "e_933",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -25760,7 +25760,7 @@
           },
           {
             "id": "e_935",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -25818,7 +25818,7 @@
           },
           {
             "id": "e_936",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -25872,7 +25872,7 @@
           },
           {
             "id": "e_937",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -25930,7 +25930,7 @@
           },
           {
             "id": "e_938",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -25984,7 +25984,7 @@
           },
           {
             "id": "e_939",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -26038,7 +26038,7 @@
           },
           {
             "id": "e_940",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -26092,7 +26092,7 @@
           },
           {
             "id": "e_941",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -26146,7 +26146,7 @@
           },
           {
             "id": "e_942",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -26200,7 +26200,7 @@
           },
           {
             "id": "e_943",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -26254,7 +26254,7 @@
           },
           {
             "id": "e_944",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -26308,7 +26308,7 @@
           },
           {
             "id": "e_945",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -26362,7 +26362,7 @@
           },
           {
             "id": "e_946",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -26416,7 +26416,7 @@
           },
           {
             "id": "e_947",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -26470,7 +26470,7 @@
           },
           {
             "id": "e_948",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -26524,7 +26524,7 @@
           },
           {
             "id": "e_949",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -26578,7 +26578,7 @@
           },
           {
             "id": "e_950",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -26632,7 +26632,7 @@
           },
           {
             "id": "e_951",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -26659,7 +26659,7 @@
           },
           {
             "id": "e_952",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -26686,7 +26686,7 @@
           },
           {
             "id": "e_953",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -26713,7 +26713,7 @@
           },
           {
             "id": "e_954",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -26740,7 +26740,7 @@
           },
           {
             "id": "e_955",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -26767,7 +26767,7 @@
           },
           {
             "id": "e_956",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -26794,7 +26794,7 @@
           },
           {
             "id": "e_957",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -26821,7 +26821,7 @@
           },
           {
             "id": "e_958",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -26848,7 +26848,7 @@
           },
           {
             "id": "e_959",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -26875,7 +26875,7 @@
           },
           {
             "id": "e_960",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -26902,7 +26902,7 @@
           },
           {
             "id": "e_961",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -26929,7 +26929,7 @@
           },
           {
             "id": "e_962",
-            "type": "flow-data",
+            "type": "flow/data",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -26956,7 +26956,7 @@
           },
           {
             "id": "e_963",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -27018,7 +27018,7 @@
           },
           {
             "id": "e_965",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -27076,7 +27076,7 @@
           },
           {
             "id": "e_966",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -27130,7 +27130,7 @@
           },
           {
             "id": "e_967",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -27188,7 +27188,7 @@
           },
           {
             "id": "e_968",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -27242,7 +27242,7 @@
           },
           {
             "id": "e_969",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -27296,7 +27296,7 @@
           },
           {
             "id": "e_970",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -27350,7 +27350,7 @@
           },
           {
             "id": "e_971",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -27404,7 +27404,7 @@
           },
           {
             "id": "e_972",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -27458,7 +27458,7 @@
           },
           {
             "id": "e_973",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -27512,7 +27512,7 @@
           },
           {
             "id": "e_974",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -27566,7 +27566,7 @@
           },
           {
             "id": "e_975",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -27620,7 +27620,7 @@
           },
           {
             "id": "e_976",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -27674,7 +27674,7 @@
           },
           {
             "id": "e_977",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -27728,7 +27728,7 @@
           },
           {
             "id": "e_978",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -27782,7 +27782,7 @@
           },
           {
             "id": "e_979",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -27836,7 +27836,7 @@
           },
           {
             "id": "e_980",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -27890,7 +27890,7 @@
           },
           {
             "id": "e_981",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -27917,7 +27917,7 @@
           },
           {
             "id": "e_982",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -27944,7 +27944,7 @@
           },
           {
             "id": "e_983",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -27971,7 +27971,7 @@
           },
           {
             "id": "e_984",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -27998,7 +27998,7 @@
           },
           {
             "id": "e_985",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -28025,7 +28025,7 @@
           },
           {
             "id": "e_986",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -28052,7 +28052,7 @@
           },
           {
             "id": "e_987",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -28079,7 +28079,7 @@
           },
           {
             "id": "e_988",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -28106,7 +28106,7 @@
           },
           {
             "id": "e_989",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -28133,7 +28133,7 @@
           },
           {
             "id": "e_990",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -28160,7 +28160,7 @@
           },
           {
             "id": "e_991",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -28187,7 +28187,7 @@
           },
           {
             "id": "e_992",
-            "type": "flow-data",
+            "type": "flow/data",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -28214,7 +28214,7 @@
           },
           {
             "id": "e_993",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -28276,7 +28276,7 @@
           },
           {
             "id": "e_995",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -28334,7 +28334,7 @@
           },
           {
             "id": "e_996",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -28388,7 +28388,7 @@
           },
           {
             "id": "e_997",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -28446,7 +28446,7 @@
           },
           {
             "id": "e_998",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -28500,7 +28500,7 @@
           },
           {
             "id": "e_999",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -28554,7 +28554,7 @@
           },
           {
             "id": "e_1000",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -28608,7 +28608,7 @@
           },
           {
             "id": "e_1001",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -28662,7 +28662,7 @@
           },
           {
             "id": "e_1002",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -28716,7 +28716,7 @@
           },
           {
             "id": "e_1003",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -28770,7 +28770,7 @@
           },
           {
             "id": "e_1004",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -28824,7 +28824,7 @@
           },
           {
             "id": "e_1005",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -28878,7 +28878,7 @@
           },
           {
             "id": "e_1006",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -28932,7 +28932,7 @@
           },
           {
             "id": "e_1007",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -28986,7 +28986,7 @@
           },
           {
             "id": "e_1008",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -29040,7 +29040,7 @@
           },
           {
             "id": "e_1009",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -29094,7 +29094,7 @@
           },
           {
             "id": "e_1010",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -29148,7 +29148,7 @@
           },
           {
             "id": "e_1011",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -29175,7 +29175,7 @@
           },
           {
             "id": "e_1012",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -29202,7 +29202,7 @@
           },
           {
             "id": "e_1013",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -29229,7 +29229,7 @@
           },
           {
             "id": "e_1014",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -29256,7 +29256,7 @@
           },
           {
             "id": "e_1015",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -29283,7 +29283,7 @@
           },
           {
             "id": "e_1016",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -29310,7 +29310,7 @@
           },
           {
             "id": "e_1017",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -29337,7 +29337,7 @@
           },
           {
             "id": "e_1018",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -29364,7 +29364,7 @@
           },
           {
             "id": "e_1019",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -29391,7 +29391,7 @@
           },
           {
             "id": "e_1020",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -29418,7 +29418,7 @@
           },
           {
             "id": "e_1021",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -29445,7 +29445,7 @@
           },
           {
             "id": "e_1022",
-            "type": "flow-data",
+            "type": "flow/data",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -29472,7 +29472,7 @@
           },
           {
             "id": "e_1023",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -29534,7 +29534,7 @@
           },
           {
             "id": "e_1025",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -29592,7 +29592,7 @@
           },
           {
             "id": "e_1026",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -29646,7 +29646,7 @@
           },
           {
             "id": "e_1027",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -29704,7 +29704,7 @@
           },
           {
             "id": "e_1028",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -29758,7 +29758,7 @@
           },
           {
             "id": "e_1029",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -29812,7 +29812,7 @@
           },
           {
             "id": "e_1030",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -29866,7 +29866,7 @@
           },
           {
             "id": "e_1031",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -29920,7 +29920,7 @@
           },
           {
             "id": "e_1032",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -29974,7 +29974,7 @@
           },
           {
             "id": "e_1033",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -30028,7 +30028,7 @@
           },
           {
             "id": "e_1034",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -30082,7 +30082,7 @@
           },
           {
             "id": "e_1035",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -30136,7 +30136,7 @@
           },
           {
             "id": "e_1036",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -30190,7 +30190,7 @@
           },
           {
             "id": "e_1037",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -30244,7 +30244,7 @@
           },
           {
             "id": "e_1038",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -30298,7 +30298,7 @@
           },
           {
             "id": "e_1039",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -30352,7 +30352,7 @@
           },
           {
             "id": "e_1040",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -30406,7 +30406,7 @@
           },
           {
             "id": "e_1041",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -30433,7 +30433,7 @@
           },
           {
             "id": "e_1042",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -30460,7 +30460,7 @@
           },
           {
             "id": "e_1043",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -30487,7 +30487,7 @@
           },
           {
             "id": "e_1044",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -30514,7 +30514,7 @@
           },
           {
             "id": "e_1045",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -30541,7 +30541,7 @@
           },
           {
             "id": "e_1046",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -30568,7 +30568,7 @@
           },
           {
             "id": "e_1047",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -30595,7 +30595,7 @@
           },
           {
             "id": "e_1048",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -30622,7 +30622,7 @@
           },
           {
             "id": "e_1049",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -30649,7 +30649,7 @@
           },
           {
             "id": "e_1050",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -30676,7 +30676,7 @@
           },
           {
             "id": "e_1051",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -30703,7 +30703,7 @@
           },
           {
             "id": "e_1052",
-            "type": "flow-data",
+            "type": "flow/data",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -30730,7 +30730,7 @@
           },
           {
             "id": "e_1053",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -30792,7 +30792,7 @@
           },
           {
             "id": "e_1055",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -30850,7 +30850,7 @@
           },
           {
             "id": "e_1056",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -30904,7 +30904,7 @@
           },
           {
             "id": "e_1057",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -30962,7 +30962,7 @@
           },
           {
             "id": "e_1058",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31016,7 +31016,7 @@
           },
           {
             "id": "e_1059",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31070,7 +31070,7 @@
           },
           {
             "id": "e_1060",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31124,7 +31124,7 @@
           },
           {
             "id": "e_1061",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31178,7 +31178,7 @@
           },
           {
             "id": "e_1062",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31232,7 +31232,7 @@
           },
           {
             "id": "e_1063",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31286,7 +31286,7 @@
           },
           {
             "id": "e_1064",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31340,7 +31340,7 @@
           },
           {
             "id": "e_1065",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31394,7 +31394,7 @@
           },
           {
             "id": "e_1066",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31448,7 +31448,7 @@
           },
           {
             "id": "e_1067",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31502,7 +31502,7 @@
           },
           {
             "id": "e_1068",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31556,7 +31556,7 @@
           },
           {
             "id": "e_1069",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31610,7 +31610,7 @@
           },
           {
             "id": "e_1070",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31664,7 +31664,7 @@
           },
           {
             "id": "e_1071",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31691,7 +31691,7 @@
           },
           {
             "id": "e_1072",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31718,7 +31718,7 @@
           },
           {
             "id": "e_1073",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31745,7 +31745,7 @@
           },
           {
             "id": "e_1074",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31772,7 +31772,7 @@
           },
           {
             "id": "e_1075",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31799,7 +31799,7 @@
           },
           {
             "id": "e_1076",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31826,7 +31826,7 @@
           },
           {
             "id": "e_1077",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31853,7 +31853,7 @@
           },
           {
             "id": "e_1078",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31880,7 +31880,7 @@
           },
           {
             "id": "e_1079",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31907,7 +31907,7 @@
           },
           {
             "id": "e_1080",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31934,7 +31934,7 @@
           },
           {
             "id": "e_1081",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31961,7 +31961,7 @@
           },
           {
             "id": "e_1082",
-            "type": "flow-data",
+            "type": "flow/data",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -31988,7 +31988,7 @@
           },
           {
             "id": "e_1083",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "pinX": false,
               "pinY": false,
@@ -37463,7 +37463,7 @@
           },
           {
             "id": "e_9",
-            "type": "svg-triangle",
+            "type": "svg/triangle",
             "props": {
               "x": 513,
               "y": 97,
@@ -37584,7 +37584,7 @@
           },
           {
             "id": "e_15",
-            "type": "svg-triangle",
+            "type": "svg/triangle",
             "props": {
               "x": 513,
               "y": 208,
@@ -37656,7 +37656,7 @@
           },
           {
             "id": "e_75",
-            "type": "svg-brace",
+            "type": "svg/brace",
             "props": {
               "x": 61,
               "y": 485,
@@ -37695,7 +37695,7 @@
         "elements": [
           {
             "id": "e_90",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_88",
               "linkFromKey": "p7",
@@ -37752,7 +37752,7 @@
           },
           {
             "id": "e_92",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_91",
               "linkFromKey": "p4",
@@ -37805,7 +37805,7 @@
           },
           {
             "id": "e_95",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_93",
               "linkFromKey": "p4",
@@ -37862,7 +37862,7 @@
           },
           {
             "id": "e_98",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_96",
               "linkFromKey": "p5",
@@ -37915,7 +37915,7 @@
           },
           {
             "id": "e_99",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_97",
               "linkFromKey": "p7",
@@ -37968,7 +37968,7 @@
           },
           {
             "id": "e_101",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_100",
               "linkFromKey": "p7",
@@ -38021,7 +38021,7 @@
           },
           {
             "id": "e_102",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_89",
               "linkFromKey": "p5",
@@ -38074,7 +38074,7 @@
           },
           {
             "id": "e_104",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_103",
               "linkFromKey": "p6",
@@ -38127,7 +38127,7 @@
           },
           {
             "id": "e_105",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_96",
               "linkFromKey": "p6",
@@ -38180,7 +38180,7 @@
           },
           {
             "id": "e_106",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_91",
               "linkFromKey": "p6",
@@ -38233,7 +38233,7 @@
           },
           {
             "id": "e_108",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_107",
               "linkFromKey": "p6",
@@ -38286,7 +38286,7 @@
           },
           {
             "id": "e_109",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_89",
               "linkFromKey": "p6",
@@ -38339,7 +38339,7 @@
           },
           {
             "id": "e_111",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_110",
               "linkFromKey": "p6",
@@ -38392,7 +38392,7 @@
           },
           {
             "id": "e_112",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_93",
               "linkFromKey": "p6",
@@ -38445,7 +38445,7 @@
           },
           {
             "id": "e_114",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_113",
               "linkFromKey": "p6",
@@ -38498,7 +38498,7 @@
           },
           {
             "id": "e_116",
-            "type": "flow-connector",
+            "type": "flow/connector",
             "props": {
               "linkFromId": "e_115",
               "linkFromKey": "p6",
@@ -38551,7 +38551,7 @@
           },
           {
             "id": "e_115",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "textX": 315,
               "textY": 79,
@@ -38577,7 +38577,7 @@
           },
           {
             "id": "e_113",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "textX": 315,
               "textY": 174,
@@ -38603,7 +38603,7 @@
           },
           {
             "id": "e_93",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "textX": 343,
               "textY": 275,
@@ -38629,7 +38629,7 @@
           },
           {
             "id": "e_110",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "textX": 315,
               "textY": 375,
@@ -38655,7 +38655,7 @@
           },
           {
             "id": "e_89",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "textX": 343,
               "textY": 478,
@@ -38681,7 +38681,7 @@
           },
           {
             "id": "e_107",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "textX": 315,
               "textY": 588,
@@ -38707,7 +38707,7 @@
           },
           {
             "id": "e_91",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "textX": 343,
               "textY": 689,
@@ -38733,7 +38733,7 @@
           },
           {
             "id": "e_96",
-            "type": "flow-decision",
+            "type": "flow/decision",
             "props": {
               "textX": 343,
               "textY": 813,
@@ -38759,7 +38759,7 @@
           },
           {
             "id": "e_100",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "textX": 600,
               "textY": 357,
@@ -38785,7 +38785,7 @@
           },
           {
             "id": "e_88",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "textX": 54,
               "textY": 578,
@@ -38811,7 +38811,7 @@
           },
           {
             "id": "e_97",
-            "type": "flow-process",
+            "type": "flow/process",
             "props": {
               "textX": 547,
               "textY": 742,
@@ -38837,7 +38837,7 @@
           },
           {
             "id": "e_103",
-            "type": "flow-data",
+            "type": "flow/data",
             "props": {
               "textX": 335,
               "textY": 914,
@@ -38863,7 +38863,7 @@
           },
           {
             "id": "e_94",
-            "type": "flow-terminator",
+            "type": "flow/terminator",
             "props": {
               "textX": 315,
               "textY": 1018,
@@ -39167,7 +39167,7 @@
         "elements": [
           {
             "id": "e_82",
-            "type": "svg-line",
+            "type": "svg/line",
             "props": {
               "x": 79,
               "y": 66,
@@ -39188,7 +39188,7 @@
           },
           {
             "id": "e_98",
-            "type": "svg-bezier2",
+            "type": "svg/bezier2",
             "props": {
               "x": 310,
               "y": 50,
@@ -39212,7 +39212,7 @@
           },
           {
             "id": "e_105",
-            "type": "svg-bezier3",
+            "type": "svg/bezier3",
             "props": {
               "x": 583,
               "y": 34,
@@ -39238,7 +39238,7 @@
           },
           {
             "id": "e_111",
-            "type": "svg-arc",
+            "type": "svg/arc",
             "props": {
               "x": 0,
               "y": 192,
@@ -39262,7 +39262,7 @@
           },
           {
             "id": "e_122",
-            "type": "svg-polyline",
+            "type": "svg/polyline",
             "props": {
               "x": 248,
               "y": 220,
@@ -39286,7 +39286,7 @@
           },
           {
             "id": "e_135",
-            "type": "svg-triangle",
+            "type": "svg/triangle",
             "props": {
               "x": 479,
               "y": 211,
@@ -39308,7 +39308,7 @@
           },
           {
             "id": "e_139",
-            "type": "svg-rect",
+            "type": "svg/rect",
             "props": {
               "x": 21,
               "y": 386,
@@ -39332,7 +39332,7 @@
           },
           {
             "id": "e_145",
-            "type": "svg-rect2",
+            "type": "svg/rect2",
             "props": {
               "x": 236,
               "y": 361,
@@ -39351,7 +39351,7 @@
           },
           {
             "id": "e_154",
-            "type": "svg-circle",
+            "type": "svg/circle",
             "props": {
               "x": 458,
               "y": 313,
@@ -39370,7 +39370,7 @@
           },
           {
             "id": "e_158",
-            "type": "svg-ellipse",
+            "type": "svg/ellipse",
             "props": {
               "x": 620,
               "y": 343,
@@ -39391,7 +39391,7 @@
           },
           {
             "id": "e_164",
-            "type": "svg-brace",
+            "type": "svg/brace",
             "props": {
               "x": 33,
               "y": 525,
@@ -39407,7 +39407,7 @@
           },
           {
             "id": "e_168",
-            "type": "svg-rstar",
+            "type": "svg/rstar",
             "props": {
               "x": 90,
               "y": 510,
@@ -39426,7 +39426,7 @@
           },
           {
             "id": "e_177",
-            "type": "svg-rarrow",
+            "type": "svg/rarrow",
             "props": {
               "x": 275,
               "y": 504,
@@ -39445,7 +39445,7 @@
           },
           {
             "id": "e_184",
-            "type": "svg-rbubble",
+            "type": "svg/rbubble",
             "props": {
               "x": 566,
               "y": 535,
@@ -39468,7 +39468,7 @@
           },
           {
             "id": "e_195",
-            "type": "svg-rcross",
+            "type": "svg/rcross",
             "props": {
               "x": 2,
               "y": 720,
@@ -39487,7 +39487,7 @@
           },
           {
             "id": "e_202",
-            "type": "svg-rdarrow",
+            "type": "svg/rdarrow",
             "props": {
               "x": 145,
               "y": 665,
@@ -39506,7 +39506,7 @@
           },
           {
             "id": "e_206",
-            "type": "svg-rcylinder",
+            "type": "svg/rcylinder",
             "props": {
               "x": 436,
               "y": 700,
@@ -39525,7 +39525,7 @@
           },
           {
             "id": "e_211",
-            "type": "svg-rcube",
+            "type": "svg/rcube",
             "props": {
               "x": 614,
               "y": 684,
@@ -39545,7 +39545,7 @@
           },
           {
             "id": "e_216",
-            "type": "svg-rmoon",
+            "type": "svg/rmoon",
             "props": {
               "x": 22,
               "y": 861,
@@ -39563,7 +39563,7 @@
           },
           {
             "id": "e_221",
-            "type": "svg-rpie",
+            "type": "svg/rpie",
             "props": {
               "x": 167,
               "y": 865,
@@ -39588,7 +39588,7 @@
           },
           {
             "id": "e_226",
-            "type": "svg-rcard",
+            "type": "svg/rcard",
             "props": {
               "x": 380,
               "y": 877,
@@ -39607,7 +39607,7 @@
           },
           {
             "id": "e_230",
-            "type": "svg-rcorner",
+            "type": "svg/rcorner",
             "props": {
               "x": 649,
               "y": 892,
@@ -40531,5 +40531,5 @@
       }
     }
   ],
-  "status": 1
+  "success": true
 }

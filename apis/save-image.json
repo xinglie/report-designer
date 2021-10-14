@@ -4,6 +4,6 @@
         "width": 200,
         "height": 200
     },
-    "status": 1,
+    "success": true,
     "message": "ok"
 }

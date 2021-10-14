@@ -4,6 +4,7 @@
             "name": "地区测试",
             "url": "apis/area.json",
             "id": 1,
+            "opened": true,
             "fields": [
                 {
                     "name": "河北",
@@ -249,6 +250,6 @@
             ]
         }
     ],
-    "status": 1,
+    "success": true,
     "message": ""
 }
