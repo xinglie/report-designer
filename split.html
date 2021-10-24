@@ -29,14 +29,12 @@
             #left{
                 width:180px;
                 height: 600px;
-                overflow: auto;
                 border: #ccc solid 1px;
                 margin:0 10px;
             }
             #right{
                 width:200px;
                 height: 600px;
-                overflow: auto;
                 border: #ccc solid 1px;
                 margin:0 10px;
             }
@@ -80,19 +78,21 @@
         <div id="foot">
             
         </div>
-        <script id="boot" type="text/javascript" src="dist/designer.js?v=202110141718"></script>
+        <script id="boot" type="text/javascript" src="dist/designer.js?v=202110241213"></script>
         <script>
             let setup=()=>{
                 designer.setup({
-            version:'202110141718',
+            version:'202110241213',
                     rootId:'app',
                     mini:true,
                     panels:{
                         element:{
                             hidden:false,
+                            scrollable:true,
                             to:'left'
                         },
                         data:{
+                            scrollable:true,
                             to:'right'
                         }
                     },

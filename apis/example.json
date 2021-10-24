@@ -830,6 +830,8 @@
           "width": 211.64,
           "height": 104.76,
           "pages": 1,
+          "scaleType": "auto",
+          "copies": 1,
           "xOffset": 0,
           "yOffset": 0,
           "title": "",
@@ -845,11 +847,11 @@
         "groups": [],
         "elements": [
           {
-            "id": "rde_84",
+            "id": "rde_70",
             "type": "html",
             "unit": "mm",
             "props": {
-              "value": "<div>以下是自定义HTML片断，模板引擎使用underscore.template</div>\n<div style=\"color:#666\">其中data是通过属性绑定的数据，field是绑定的字段</div>\n<%for(let i=0;i<data.length;i++){%>\n<br/>\n<div style=\"border:solid 1px red\"><%=data[i][field.id]%></div>\n<%}%>",
+              "value": "<div>以下是自定义HTML片断，模板引擎使用underscore.template</div>\n<div style=\"color:#666\">其中data是通过属性绑定的数据，field是绑定的字段</div>\n<%for(let i=0;i<data.length;i++){%>\n  <br/>\n  <div style=\"border:solid 1px red\"><%=data[i][field.id]%></div>\n<%}%>",
               "x": 8.64,
               "y": 7.66,
               "width": 197.08,
@@ -870,7 +872,7 @@
             }
           },
           {
-            "id": "rde_149",
+            "id": "rde_71",
             "type": "hod-footer",
             "unit": "mm",
             "props": {
@@ -884,7 +886,7 @@
                       "width": 211.64,
                       "elements": [
                         {
-                          "id": "rde_250",
+                          "id": "rde_72",
                           "type": "pager",
                           "unit": "mm",
                           "props": {
@@ -893,11 +895,11 @@
                             "y": 2.11,
                             "width": 52.91,
                             "height": 13.23,
+                            "alpha": 1,
                             "rotate": 0,
                             "text": "当前第${currentPage}页，共${totalPage}页",
                             "fontsize": 3.7,
                             "fontfamily": "Microsoft YaHei",
-                            "alpha": 1,
                             "letterspacing": 0,
                             "background": "",
                             "forecolor": "#000000",
@@ -933,7 +935,7 @@
                 }
               ],
               "x": 0,
-              "y": 94.17798941798942,
+              "y": 94.18,
               "width": 211.64,
               "height": 10.58,
               "alpha": 1,
@@ -4731,8 +4733,8 @@
         "unit": "mm",
         "page": {
           "readonly": false,
-          "width": 209.25925925925924,
-          "height": 296.2962962962963,
+          "width": 209.26,
+          "height": 296.3,
           "pages": 1,
           "xOffset": 0,
           "yOffset": 0,
@@ -7054,13 +7056,13 @@
         "unit": "mm",
         "page": {
           "readonly": false,
-          "width": 209.29,
-          "height": 296.33,
+          "width": 209.26,
+          "height": 296.3,
           "pages": 1,
           "xOffset": 0,
           "yOffset": 0,
           "title": "",
-          "background": "#ffffff",
+          "background": "#fff",
           "backgroundImage": "",
           "backgroundRepeat": "full",
           "backgroundWidth": 0,
