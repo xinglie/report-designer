@@ -1,0 +1,126 @@
+{
+    "data": [
+        {
+            "item": {
+                "text": "text1",
+                "value": "value1",
+                "checked": true,
+                "disabled": false
+            },
+            "item1": {
+                "text": "中文1",
+                "value": "value1",
+                "checked": true,
+                "disabled": false
+            },
+            "tags": {
+                "text": "标签",
+                "url": "",
+                "forecolor": "#22fbd9",
+                "background": "#a77c2b"
+            }
+        },
+        {
+            "item": {
+                "text": "text2",
+                "value": "value2",
+                "checked": true,
+                "disabled": true
+            },
+            "item1": {
+                "text": "中文2",
+                "value": "value2",
+                "checked": true,
+                "disabled": true
+            },
+            "tags": {
+                "text": "标签",
+                "url": "",
+                "forecolor": "#22fbd9",
+                "background": "#a77c2b"
+            }
+        },
+        {
+            "item": {
+                "text": "text3",
+                "value": "value3",
+                "checked": false,
+                "disabled": true
+            },
+            "item1": {
+                "text": "中文3",
+                "value": "value3",
+                "checked": false,
+                "disabled": true
+            },
+            "tags": {
+                "text": "标签",
+                "url": "",
+                "forecolor": "#22fbd9",
+                "background": "#a77c2b"
+            }
+        },
+        {
+            "item": {
+                "text": "text4",
+                "value": "value4",
+                "checked": false,
+                "disabled": false
+            },
+            "item1": {
+                "text": "中文4",
+                "value": "value4",
+                "checked": false,
+                "disabled": false
+            },
+            "tags": {
+                "text": "标签",
+                "url": "",
+                "forecolor": "#22fbd9",
+                "background": "#a77c2b"
+            }
+        },
+        {
+            "item": {
+                "text": "text5",
+                "value": "value5",
+                "checked": true,
+                "disabled": true
+            },
+            "item1": {
+                "text": "中文5",
+                "value": "value5",
+                "checked": true,
+                "disabled": true
+            },
+            "tags": {
+                "text": "标签",
+                "url": "",
+                "forecolor": "#22fbd9",
+                "background": "#a77c2b"
+            }
+        },
+        {
+            "item": {
+                "text": "text6",
+                "value": "value6",
+                "checked": false,
+                "disabled": true
+            },
+            "item1": {
+                "text": "中文6",
+                "value": "value6",
+                "checked": false,
+                "disabled": true
+            },
+            "tags": {
+                "text": "标签",
+                "url": "",
+                "forecolor": "#22fbd9",
+                "background": "#a77c2b"
+            }
+        }
+    ],
+    "success": true,
+    "message": "ok"
+}

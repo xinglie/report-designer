@@ -248,6 +248,28 @@
                     "id": "assetdept"
                 }
             ]
+        },
+        {
+            "name": "表单绑定测试",
+            "url": "apis/form.json",
+            "id": 6,
+            "fields": [
+                {
+                    "name": "下拉、单选、多选测试",
+                    "id": "item",
+                    "use":"form-checkbox"
+                },
+                {
+                    "name": "中文测试",
+                    "id": "item1",
+                    "use":"form-dropdown"
+                },
+                {
+                    "name": "标签测试",
+                    "id": "tags",
+                    "use": "tag"
+                }
+            ]
         }
     ],
     "success": true,
