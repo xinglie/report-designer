@@ -1,0 +1,52 @@
+{
+    "data": {
+        "unit": "pt",
+        "page": {
+            "readonly": false,
+            "width": 593.4,
+            "height": 840.21,
+            "pages": 1,
+            "xOffset": 0,
+            "yOffset": 0,
+            "title": "",
+            "background": "#ffffff",
+            "backgroundImage": "",
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundXOffset": 0,
+            "backgroundYOffset": 0
+        },
+        "groups": [],
+        "elements": [
+            {
+                "id": "e_114",
+                "type": "batch-qrcode",
+                "unit": "pt",
+                "props": {
+                    "x": 102.78,
+                    "y": 46.51,
+                    "width": 112.53,
+                    "height": 112.53,
+                    "rotate": 0,
+                    "alpha": 1,
+                    "bind": {
+                        "url": "apis/area.json",
+                        "id": "1",
+                        "fields": [
+                            {
+                                "name": "河北",
+                                "id": "area_13"
+                            }
+                        ]
+                    },
+                    "hspace": 22.51,
+                    "vspace": 22.51,
+                    "ename": "二维码",
+                    "locked": false
+                }
+            }
+        ]
+    },
+    "success": true
+}

@@ -1,0 +1,815 @@
+{
+    "data": {
+        "unit": "px",
+        "page": {
+            "readonly": false,
+            "width": 791,
+            "height": 1120,
+            "pages": 1,
+            "xOffset": 0,
+            "yOffset": 0,
+            "title": "",
+            "background": "#ffffff",
+            "backgroundImage": "",
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundXOffset": 0,
+            "backgroundYOffset": 0
+        },
+        "groups": [],
+        "elements": [
+            {
+                "id": "e_143",
+                "type": "data-ftable",
+                "unit": "px",
+                "props": {
+                    "rows": [
+                        {
+                            "cols": [
+                                {
+                                    "height": 30,
+                                    "width": 750,
+                                    "rowspan": 1,
+                                    "colspan": 5,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": [
+                                        {
+                                            "id": "e_152",
+                                            "type": "text",
+                                            "unit": "px",
+                                            "props": {
+                                                "x": 0,
+                                                "y": 0,
+                                                "width": 750,
+                                                "height": 30,
+                                                "rotate": 0,
+                                                "text": "地区自由排版打印",
+                                                "bind": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "fields": []
+                                                },
+                                                "format": "",
+                                                "autoReturn": false,
+                                                "fontsize": 16,
+                                                "fontfamily": "Microsoft YaHei",
+                                                "alpha": 1,
+                                                "letterspacing": 0,
+                                                "background": "",
+                                                "forecolor": "#000000",
+                                                "styleBold": true,
+                                                "styleUnderline": false,
+                                                "styleItalic": false,
+                                                "styleStrike": false,
+                                                "styleOverline": false,
+                                                "hpos": "center",
+                                                "vpos": "center",
+                                                "borderwidth": 0,
+                                                "bordertype": "solid",
+                                                "bordercolor": "#000000",
+                                                "ename": "文本",
+                                                "locked": false
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "label": true,
+                            "cols": [
+                                {
+                                    "height": 30,
+                                    "width": 150,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": [
+                                        {
+                                            "id": "e_328",
+                                            "type": "text",
+                                            "unit": "px",
+                                            "props": {
+                                                "x": 13,
+                                                "y": 2,
+                                                "width": 200,
+                                                "height": 25,
+                                                "rotate": 0,
+                                                "text": "地区标题",
+                                                "bind": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "fields": []
+                                                },
+                                                "format": "",
+                                                "autoReturn": false,
+                                                "fontsize": 14,
+                                                "fontfamily": "Microsoft YaHei",
+                                                "alpha": 1,
+                                                "letterspacing": 0,
+                                                "background": "",
+                                                "forecolor": "#000000",
+                                                "styleBold": false,
+                                                "styleUnderline": false,
+                                                "styleItalic": false,
+                                                "styleStrike": false,
+                                                "styleOverline": false,
+                                                "hpos": "flex-start",
+                                                "vpos": "flex-start",
+                                                "borderwidth": 0,
+                                                "bordertype": "solid",
+                                                "bordercolor": "#000000",
+                                                "ename": "文本",
+                                                "locked": false
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": [
+                                        {
+                                            "id": "e_355",
+                                            "type": "text",
+                                            "unit": "px",
+                                            "props": {
+                                                "pinX": false,
+                                                "pinY": false,
+                                                "x": 13,
+                                                "y": 2,
+                                                "width": 200,
+                                                "height": 25,
+                                                "rotate": 0,
+                                                "text": "地区标题",
+                                                "bind": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "fields": []
+                                                },
+                                                "format": "",
+                                                "autoReturn": false,
+                                                "fontsize": 14,
+                                                "fontfamily": "Microsoft YaHei",
+                                                "alpha": 1,
+                                                "letterspacing": 0,
+                                                "background": "",
+                                                "forecolor": "#000000",
+                                                "styleBold": false,
+                                                "styleUnderline": false,
+                                                "styleItalic": false,
+                                                "styleStrike": false,
+                                                "styleOverline": false,
+                                                "hpos": "flex-start",
+                                                "vpos": "flex-start",
+                                                "borderwidth": 0,
+                                                "bordertype": "solid",
+                                                "bordercolor": "#000000",
+                                                "ename": "文本",
+                                                "locked": false
+                                            }
+                                        }
+                                    ],
+                                    "height": 30,
+                                    "width": 150,
+                                    "rowspan": 1,
+                                    "colspan": 1
+                                },
+                                {
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": [
+                                        {
+                                            "id": "e_381",
+                                            "type": "text",
+                                            "unit": "px",
+                                            "props": {
+                                                "pinX": false,
+                                                "pinY": false,
+                                                "x": 13,
+                                                "y": 2,
+                                                "width": 200,
+                                                "height": 25,
+                                                "rotate": 0,
+                                                "text": "地区标题",
+                                                "bind": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "fields": []
+                                                },
+                                                "format": "",
+                                                "autoReturn": false,
+                                                "fontsize": 14,
+                                                "fontfamily": "Microsoft YaHei",
+                                                "alpha": 1,
+                                                "letterspacing": 0,
+                                                "background": "",
+                                                "forecolor": "#000000",
+                                                "styleBold": false,
+                                                "styleUnderline": false,
+                                                "styleItalic": false,
+                                                "styleStrike": false,
+                                                "styleOverline": false,
+                                                "hpos": "flex-start",
+                                                "vpos": "flex-start",
+                                                "borderwidth": 0,
+                                                "bordertype": "solid",
+                                                "bordercolor": "#000000",
+                                                "ename": "文本",
+                                                "locked": false
+                                            }
+                                        }
+                                    ],
+                                    "height": 30,
+                                    "width": 150,
+                                    "rowspan": 1,
+                                    "colspan": 1
+                                },
+                                {
+                                    "height": 30,
+                                    "width": 150,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": [
+                                        {
+                                            "id": "e_407",
+                                            "type": "text",
+                                            "unit": "px",
+                                            "props": {
+                                                "pinX": false,
+                                                "pinY": false,
+                                                "x": 13,
+                                                "y": 2,
+                                                "width": 200,
+                                                "height": 25,
+                                                "rotate": 0,
+                                                "text": "地区标题",
+                                                "bind": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "fields": []
+                                                },
+                                                "format": "",
+                                                "autoReturn": false,
+                                                "fontsize": 14,
+                                                "fontfamily": "Microsoft YaHei",
+                                                "alpha": 1,
+                                                "letterspacing": 0,
+                                                "background": "",
+                                                "forecolor": "#000000",
+                                                "styleBold": false,
+                                                "styleUnderline": false,
+                                                "styleItalic": false,
+                                                "styleStrike": false,
+                                                "styleOverline": false,
+                                                "hpos": "flex-start",
+                                                "vpos": "flex-start",
+                                                "borderwidth": 0,
+                                                "bordertype": "solid",
+                                                "bordercolor": "#000000",
+                                                "ename": "文本",
+                                                "locked": false
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "height": 30,
+                                    "width": 150,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": [
+                                        {
+                                            "id": "e_433",
+                                            "type": "text",
+                                            "unit": "px",
+                                            "props": {
+                                                "pinX": false,
+                                                "pinY": false,
+                                                "x": 13,
+                                                "y": 2,
+                                                "width": 200,
+                                                "height": 25,
+                                                "rotate": 0,
+                                                "text": "地区标题",
+                                                "bind": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "fields": []
+                                                },
+                                                "format": "",
+                                                "autoReturn": false,
+                                                "fontsize": 14,
+                                                "fontfamily": "Microsoft YaHei",
+                                                "alpha": 1,
+                                                "letterspacing": 0,
+                                                "background": "",
+                                                "forecolor": "#000000",
+                                                "styleBold": false,
+                                                "styleUnderline": false,
+                                                "styleItalic": false,
+                                                "styleStrike": false,
+                                                "styleOverline": false,
+                                                "hpos": "flex-start",
+                                                "vpos": "flex-start",
+                                                "borderwidth": 0,
+                                                "bordertype": "solid",
+                                                "bordercolor": "#000000",
+                                                "ename": "文本",
+                                                "locked": false
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "data": true,
+                            "cols": [
+                                {
+                                    "height": 30,
+                                    "width": 150,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": [
+                                        {
+                                            "id": "e_255",
+                                            "type": "text",
+                                            "unit": "px",
+                                            "props": {
+                                                "x": 13,
+                                                "y": 2,
+                                                "width": 200,
+                                                "height": 25,
+                                                "rotate": 0,
+                                                "text": "",
+                                                "bind": {
+                                                    "id": "1",
+                                                    "url": "apis/area.json",
+                                                    "fields": [
+                                                        {
+                                                            "name": "河北",
+                                                            "id": "area_13"
+                                                        }
+                                                    ]
+                                                },
+                                                "format": "",
+                                                "autoReturn": false,
+                                                "fontsize": 14,
+                                                "fontfamily": "Microsoft YaHei",
+                                                "alpha": 1,
+                                                "letterspacing": 0,
+                                                "background": "",
+                                                "forecolor": "#000000",
+                                                "styleBold": false,
+                                                "styleUnderline": false,
+                                                "styleItalic": false,
+                                                "styleStrike": false,
+                                                "styleOverline": false,
+                                                "hpos": "flex-start",
+                                                "vpos": "flex-start",
+                                                "borderwidth": 0,
+                                                "bordertype": "solid",
+                                                "bordercolor": "#000000",
+                                                "ename": "文本",
+                                                "locked": false
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": [
+                                        {
+                                            "id": "e_273",
+                                            "type": "text",
+                                            "unit": "px",
+                                            "props": {
+                                                "x": 21,
+                                                "y": 1,
+                                                "width": 200,
+                                                "height": 25,
+                                                "rotate": 0,
+                                                "text": "",
+                                                "bind": {
+                                                    "id": "1",
+                                                    "url": "apis/area.json",
+                                                    "fields": [
+                                                        {
+                                                            "name": "山西",
+                                                            "id": "area_14"
+                                                        }
+                                                    ]
+                                                },
+                                                "format": "",
+                                                "autoReturn": false,
+                                                "fontsize": 14,
+                                                "fontfamily": "Microsoft YaHei",
+                                                "alpha": 1,
+                                                "letterspacing": 0,
+                                                "background": "",
+                                                "forecolor": "#000000",
+                                                "styleBold": false,
+                                                "styleUnderline": false,
+                                                "styleItalic": false,
+                                                "styleStrike": false,
+                                                "styleOverline": false,
+                                                "hpos": "flex-start",
+                                                "vpos": "flex-start",
+                                                "borderwidth": 0,
+                                                "bordertype": "solid",
+                                                "bordercolor": "#000000",
+                                                "ename": "文本",
+                                                "locked": false
+                                            }
+                                        }
+                                    ],
+                                    "height": 30,
+                                    "width": 150,
+                                    "rowspan": 1,
+                                    "colspan": 1
+                                },
+                                {
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": [
+                                        {
+                                            "id": "e_276",
+                                            "type": "text",
+                                            "unit": "px",
+                                            "props": {
+                                                "x": 26,
+                                                "y": -1,
+                                                "width": 200,
+                                                "height": 25,
+                                                "rotate": 0,
+                                                "text": "",
+                                                "bind": {
+                                                    "id": "1",
+                                                    "url": "apis/area.json",
+                                                    "fields": [
+                                                        {
+                                                            "name": "内蒙古",
+                                                            "id": "area_15"
+                                                        }
+                                                    ]
+                                                },
+                                                "format": "",
+                                                "autoReturn": false,
+                                                "fontsize": 14,
+                                                "fontfamily": "Microsoft YaHei",
+                                                "alpha": 1,
+                                                "letterspacing": 0,
+                                                "background": "",
+                                                "forecolor": "#000000",
+                                                "styleBold": false,
+                                                "styleUnderline": false,
+                                                "styleItalic": false,
+                                                "styleStrike": false,
+                                                "styleOverline": false,
+                                                "hpos": "flex-start",
+                                                "vpos": "flex-start",
+                                                "borderwidth": 0,
+                                                "bordertype": "solid",
+                                                "bordercolor": "#000000",
+                                                "ename": "文本",
+                                                "locked": false
+                                            }
+                                        }
+                                    ],
+                                    "height": 30,
+                                    "width": 150,
+                                    "rowspan": 1,
+                                    "colspan": 1
+                                },
+                                {
+                                    "height": 30,
+                                    "width": 150,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": [
+                                        {
+                                            "id": "e_279",
+                                            "type": "text",
+                                            "unit": "px",
+                                            "props": {
+                                                "x": 31,
+                                                "y": 7,
+                                                "width": 200,
+                                                "height": 25,
+                                                "rotate": 0,
+                                                "text": "",
+                                                "bind": {
+                                                    "id": "1",
+                                                    "url": "apis/area.json",
+                                                    "fields": [
+                                                        {
+                                                            "name": "吉林",
+                                                            "id": "area_22"
+                                                        }
+                                                    ]
+                                                },
+                                                "format": "",
+                                                "autoReturn": false,
+                                                "fontsize": 14,
+                                                "fontfamily": "Microsoft YaHei",
+                                                "alpha": 1,
+                                                "letterspacing": 0,
+                                                "background": "",
+                                                "forecolor": "#000000",
+                                                "styleBold": false,
+                                                "styleUnderline": false,
+                                                "styleItalic": false,
+                                                "styleStrike": false,
+                                                "styleOverline": false,
+                                                "hpos": "flex-start",
+                                                "vpos": "flex-start",
+                                                "borderwidth": 0,
+                                                "bordertype": "solid",
+                                                "bordercolor": "#000000",
+                                                "ename": "文本",
+                                                "locked": false
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "height": 30,
+                                    "width": 150,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": [
+                                        {
+                                            "id": "e_282",
+                                            "type": "text",
+                                            "unit": "px",
+                                            "props": {
+                                                "x": 39,
+                                                "y": -1,
+                                                "width": 200,
+                                                "height": 25,
+                                                "rotate": 0,
+                                                "text": "",
+                                                "bind": {
+                                                    "id": "1",
+                                                    "url": "apis/area.json",
+                                                    "fields": [
+                                                        {
+                                                            "name": "内蒙古",
+                                                            "id": "area_15"
+                                                        }
+                                                    ]
+                                                },
+                                                "format": "",
+                                                "autoReturn": false,
+                                                "fontsize": 14,
+                                                "fontfamily": "Microsoft YaHei",
+                                                "alpha": 1,
+                                                "letterspacing": 0,
+                                                "background": "",
+                                                "forecolor": "#000000",
+                                                "styleBold": false,
+                                                "styleUnderline": false,
+                                                "styleItalic": false,
+                                                "styleStrike": false,
+                                                "styleOverline": false,
+                                                "hpos": "flex-start",
+                                                "vpos": "flex-start",
+                                                "borderwidth": 0,
+                                                "bordertype": "solid",
+                                                "bordercolor": "#000000",
+                                                "ename": "文本",
+                                                "locked": false
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "total": true,
+                            "cols": [
+                                {
+                                    "height": 30,
+                                    "width": 150,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                },
+                                {
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": [],
+                                    "height": 30,
+                                    "width": 150,
+                                    "rowspan": 1,
+                                    "colspan": 1
+                                },
+                                {
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": [],
+                                    "height": 30,
+                                    "width": 150,
+                                    "rowspan": 1,
+                                    "colspan": 1
+                                },
+                                {
+                                    "height": 30,
+                                    "width": 150,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                },
+                                {
+                                    "height": 30,
+                                    "width": 150,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                }
+                            ]
+                        },
+                        {
+                            "cols": [
+                                {
+                                    "height": 80,
+                                    "width": 750,
+                                    "rowspan": 1,
+                                    "colspan": 5,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": [
+                                        {
+                                            "id": "e_297",
+                                            "type": "text",
+                                            "unit": "px",
+                                            "props": {
+                                                "x": 39,
+                                                "y": 26,
+                                                "width": 200,
+                                                "height": 25,
+                                                "rotate": 0,
+                                                "text": "",
+                                                "bind": {
+                                                    "id": "3",
+                                                    "url": "apis/person.json",
+                                                    "fields": [
+                                                        {
+                                                            "name": "姓名",
+                                                            "id": "name"
+                                                        }
+                                                    ]
+                                                },
+                                                "format": "",
+                                                "autoReturn": false,
+                                                "fontsize": 14,
+                                                "fontfamily": "Microsoft YaHei",
+                                                "alpha": 1,
+                                                "letterspacing": 0,
+                                                "background": "",
+                                                "forecolor": "#000000",
+                                                "styleBold": false,
+                                                "styleUnderline": false,
+                                                "styleItalic": false,
+                                                "styleStrike": false,
+                                                "styleOverline": false,
+                                                "hpos": "flex-start",
+                                                "vpos": "flex-start",
+                                                "borderwidth": 0,
+                                                "bordertype": "solid",
+                                                "bordercolor": "#000000",
+                                                "ename": "文本",
+                                                "locked": false
+                                            }
+                                        },
+                                        {
+                                            "id": "e_315",
+                                            "type": "text",
+                                            "unit": "px",
+                                            "props": {
+                                                "x": 257,
+                                                "y": 26,
+                                                "width": 200,
+                                                "height": 25,
+                                                "rotate": 0,
+                                                "text": "",
+                                                "bind": {
+                                                    "id": "3",
+                                                    "url": "apis/person.json",
+                                                    "fields": [
+                                                        {
+                                                            "name": "性别",
+                                                            "id": "gender"
+                                                        }
+                                                    ]
+                                                },
+                                                "format": "",
+                                                "autoReturn": false,
+                                                "fontsize": 14,
+                                                "fontfamily": "Microsoft YaHei",
+                                                "alpha": 1,
+                                                "letterspacing": 0,
+                                                "background": "",
+                                                "forecolor": "#000000",
+                                                "styleBold": false,
+                                                "styleUnderline": false,
+                                                "styleItalic": false,
+                                                "styleStrike": false,
+                                                "styleOverline": false,
+                                                "hpos": "flex-start",
+                                                "vpos": "flex-start",
+                                                "borderwidth": 0,
+                                                "bordertype": "solid",
+                                                "bordercolor": "#000000",
+                                                "ename": "文本",
+                                                "locked": false
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "bind": {
+                        "url": "apis/area.json",
+                        "id": 1
+                    },
+                    "x": 20,
+                    "y": 21,
+                    "width": 751,
+                    "height": 261,
+                    "alpha": 1,
+                    "borderwidth": 1,
+                    "bordertype": "solid",
+                    "bordercolor": "#000000",
+                    "borderdeed": "collapse",
+                    "tfootSpacing": 30,
+                    "headFirst": true,
+                    "footLast": true,
+                    "hideHead": false,
+                    "hideLabel": false,
+                    "hideTotal": true,
+                    "hideFoot": false,
+                    "ename": "数据列",
+                    "locked": false
+                }
+            }
+        ]
+    },
+    "success": true
+}

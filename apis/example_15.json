@@ -1,0 +1,207 @@
+{
+    "data": {
+        "unit": "px",
+        "page": {
+            "readonly": false,
+            "width": 791,
+            "height": 600,
+            "pages": 4,
+            "xOffset": 0,
+            "yOffset": 0,
+            "title": "",
+            "background": "#ffffff",
+            "backgroundImage": "",
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundXOffset": 0,
+            "backgroundYOffset": 0
+        },
+        "groups": [],
+        "elements": [
+            {
+                "id": "e_754",
+                "type": "batch-text",
+                "unit": "px",
+                "props": {
+                    "x": 95,
+                    "y": 88,
+                    "width": 200,
+                    "height": 25,
+                    "rotate": 30,
+                    "bind": {
+                        "url": "apis/person.json",
+                        "id": "3",
+                        "fields": [
+                            {
+                                "name": "地址",
+                                "id": "addr"
+                            }
+                        ]
+                    },
+                    "format": "",
+                    "hspace": 30,
+                    "vspace": 30,
+                    "autoReturn": true,
+                    "fontsize": 14,
+                    "fontfamily": "Microsoft YaHei",
+                    "alpha": 1,
+                    "letterspacing": 0,
+                    "background": "#87c38fff",
+                    "forecolor": "#000000",
+                    "styleBold": false,
+                    "styleUnderline": false,
+                    "styleItalic": false,
+                    "styleStrike": false,
+                    "styleOverline": false,
+                    "hpos": "flex-start",
+                    "vpos": "flex-start",
+                    "borderwidth": 0,
+                    "bordertype": "solid",
+                    "bordercolor": "#000000",
+                    "ename": "批量文本",
+                    "locked": false
+                }
+            },
+            {
+                "id": "e_824",
+                "type": "batch-text",
+                "unit": "px",
+                "props": {
+                    "pinX": false,
+                    "pinY": false,
+                    "x": 67,
+                    "y": 718,
+                    "width": 200,
+                    "height": 25,
+                    "rotate": 212,
+                    "bind": {
+                        "url": "apis/person.json",
+                        "id": "3",
+                        "fields": [
+                            {
+                                "name": "地址",
+                                "id": "addr"
+                            }
+                        ]
+                    },
+                    "format": "",
+                    "hspace": 30,
+                    "vspace": 30,
+                    "autoReturn": true,
+                    "fontsize": 14,
+                    "fontfamily": "Microsoft YaHei",
+                    "alpha": 1,
+                    "letterspacing": 0,
+                    "background": "#d42379ff",
+                    "forecolor": "#000000",
+                    "styleBold": false,
+                    "styleUnderline": false,
+                    "styleItalic": false,
+                    "styleStrike": false,
+                    "styleOverline": false,
+                    "hpos": "flex-start",
+                    "vpos": "flex-start",
+                    "borderwidth": 0,
+                    "bordertype": "solid",
+                    "bordercolor": "#000000",
+                    "ename": "批量文本",
+                    "locked": false
+                }
+            },
+            {
+                "id": "e_833",
+                "type": "batch-text",
+                "unit": "px",
+                "props": {
+                    "pinX": false,
+                    "pinY": false,
+                    "x": 176,
+                    "y": 1365,
+                    "width": 200,
+                    "height": 25,
+                    "rotate": 127,
+                    "bind": {
+                        "url": "apis/person.json",
+                        "id": "3",
+                        "fields": [
+                            {
+                                "name": "地址",
+                                "id": "addr"
+                            }
+                        ]
+                    },
+                    "format": "",
+                    "hspace": 30,
+                    "vspace": 30,
+                    "autoReturn": true,
+                    "fontsize": 14,
+                    "fontfamily": "Microsoft YaHei",
+                    "alpha": 1,
+                    "letterspacing": 0,
+                    "background": "#f4ea29ff",
+                    "forecolor": "#000000",
+                    "styleBold": false,
+                    "styleUnderline": false,
+                    "styleItalic": false,
+                    "styleStrike": false,
+                    "styleOverline": false,
+                    "hpos": "flex-start",
+                    "vpos": "flex-start",
+                    "borderwidth": 0,
+                    "bordertype": "solid",
+                    "bordercolor": "#000000",
+                    "ename": "批量文本",
+                    "locked": false
+                }
+            },
+            {
+                "id": "e_836",
+                "type": "batch-text",
+                "unit": "px",
+                "props": {
+                    "pinX": false,
+                    "pinY": false,
+                    "x": 36,
+                    "y": 1904,
+                    "width": 200,
+                    "height": 25,
+                    "rotate": 317,
+                    "bind": {
+                        "url": "apis/person.json",
+                        "id": "3",
+                        "fields": [
+                            {
+                                "name": "地址",
+                                "id": "addr"
+                            }
+                        ]
+                    },
+                    "format": "",
+                    "hspace": 30,
+                    "vspace": 30,
+                    "autoReturn": true,
+                    "fontsize": 14,
+                    "fontfamily": "Microsoft YaHei",
+                    "alpha": 1,
+                    "letterspacing": 0,
+                    "background": "#f4ea29ff",
+                    "forecolor": "#000000",
+                    "styleBold": false,
+                    "styleUnderline": false,
+                    "styleItalic": false,
+                    "styleStrike": false,
+                    "styleOverline": false,
+                    "hpos": "flex-start",
+                    "vpos": "flex-start",
+                    "borderwidth": 0,
+                    "bordertype": "solid",
+                    "bordercolor": "#000000",
+                    "ename": "批量文本",
+                    "locked": false
+                }
+            }
+        ]
+    },
+    "success": true
+}

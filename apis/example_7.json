@@ -1,0 +1,307 @@
+{
+    "data": {
+        "unit": "in",
+        "page": {
+            "readonly": false,
+            "width": 8.24,
+            "height": 11.667,
+            "pages": 1,
+            "xOffset": 0,
+            "yOffset": 0,
+            "title": "",
+            "background": "#ffffff",
+            "backgroundImage": "",
+            "preformat": false,
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundXOffset": 0,
+            "backgroundYOffset": 0
+        },
+        "groups": [
+            [
+                "rde_167",
+                "rde_168",
+                "rde_169",
+                "rde_172"
+            ],
+            [
+                "rde_170",
+                "rde_171"
+            ],
+            [
+                "rde_173",
+                "rde_174"
+            ]
+        ],
+        "elements": [
+            {
+                "id": "rde_167",
+                "type": "text",
+                "unit": "in",
+                "props": {
+                    "x": 0.177,
+                    "y": 1.49,
+                    "width": 3,
+                    "height": 0.26,
+                    "rotate": 0,
+                    "text": "",
+                    "bind": {
+                        "url": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "format": "",
+                    "autoReturn": false,
+                    "fontsize": 0.146,
+                    "fontfamily": "Microsoft YaHei",
+                    "alpha": 1,
+                    "letterspacing": 0,
+                    "background": "",
+                    "forecolor": "#000000",
+                    "styleBold": false,
+                    "styleUnderline": false,
+                    "styleItalic": false,
+                    "styleStrike": false,
+                    "styleOverline": false,
+                    "hpos": "flex-start",
+                    "vpos": "flex-start",
+                    "borderwidth": 0,
+                    "bordertype": "solid",
+                    "bordercolor": "#000000",
+                    "ename": "文本",
+                    "locked": false
+                }
+            },
+            {
+                "id": "rde_168",
+                "type": "text",
+                "unit": "in",
+                "props": {
+                    "pinX": false,
+                    "pinY": false,
+                    "x": 4.219,
+                    "y": 1.708,
+                    "width": 2.083,
+                    "height": 0.26,
+                    "rotate": 0,
+                    "text": "",
+                    "bind": {
+                        "url": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "format": "",
+                    "autoReturn": false,
+                    "fontsize": 0.146,
+                    "fontfamily": "Microsoft YaHei",
+                    "alpha": 1,
+                    "letterspacing": 0,
+                    "background": "",
+                    "forecolor": "#000000",
+                    "styleBold": false,
+                    "styleUnderline": false,
+                    "styleItalic": false,
+                    "styleStrike": false,
+                    "styleOverline": false,
+                    "hpos": "flex-start",
+                    "vpos": "flex-start",
+                    "borderwidth": 0,
+                    "bordertype": "solid",
+                    "bordercolor": "#000000",
+                    "ename": "文本",
+                    "locked": false
+                }
+            },
+            {
+                "id": "rde_169",
+                "type": "text",
+                "unit": "in",
+                "props": {
+                    "pinX": false,
+                    "pinY": false,
+                    "x": 5.792,
+                    "y": 1.917,
+                    "width": 2.083,
+                    "height": 0.26,
+                    "rotate": 0,
+                    "text": "",
+                    "bind": {
+                        "url": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "format": "",
+                    "autoReturn": false,
+                    "fontsize": 0.146,
+                    "fontfamily": "Microsoft YaHei",
+                    "alpha": 1,
+                    "letterspacing": 0,
+                    "background": "",
+                    "forecolor": "#000000",
+                    "styleBold": false,
+                    "styleUnderline": false,
+                    "styleItalic": false,
+                    "styleStrike": false,
+                    "styleOverline": false,
+                    "hpos": "flex-start",
+                    "vpos": "flex-start",
+                    "borderwidth": 0,
+                    "bordertype": "solid",
+                    "bordercolor": "#000000",
+                    "ename": "文本",
+                    "locked": false
+                }
+            },
+            {
+                "id": "rde_170",
+                "type": "image",
+                "unit": "in",
+                "props": {
+                    "x": 3.083,
+                    "y": 3.156,
+                    "width": 2.083,
+                    "height": 1.042,
+                    "rotate": 0,
+                    "alpha": 1,
+                    "webUrl": "",
+                    "image": "",
+                    "bind": {
+                        "url": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "rotateX": false,
+                    "rotateY": false,
+                    "ename": "图片",
+                    "locked": false
+                }
+            },
+            {
+                "id": "rde_171",
+                "type": "image",
+                "unit": "in",
+                "props": {
+                    "x": 5.823,
+                    "y": 7.052,
+                    "width": 2.083,
+                    "height": 1.042,
+                    "rotate": 0,
+                    "alpha": 1,
+                    "webUrl": "",
+                    "image": "",
+                    "bind": {
+                        "url": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "rotateX": false,
+                    "rotateY": false,
+                    "ename": "图片",
+                    "locked": false
+                }
+            },
+            {
+                "id": "rde_172",
+                "type": "text",
+                "unit": "in",
+                "props": {
+                    "x": 2.656,
+                    "y": 1.271,
+                    "width": 2.083,
+                    "height": 0.26,
+                    "rotate": 0,
+                    "text": "",
+                    "bind": {
+                        "url": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "format": "",
+                    "autoReturn": false,
+                    "fontsize": 0.146,
+                    "fontfamily": "Microsoft YaHei",
+                    "alpha": 1,
+                    "letterspacing": 0,
+                    "background": "",
+                    "forecolor": "#000000",
+                    "styleBold": false,
+                    "styleUnderline": false,
+                    "styleItalic": false,
+                    "styleStrike": false,
+                    "styleOverline": false,
+                    "hpos": "flex-start",
+                    "vpos": "flex-start",
+                    "borderwidth": 0,
+                    "bordertype": "solid",
+                    "bordercolor": "#000000",
+                    "ename": "文本",
+                    "locked": false
+                }
+            },
+            {
+                "id": "rde_173",
+                "type": "text",
+                "unit": "in",
+                "props": {
+                    "x": 0.896,
+                    "y": 2.26,
+                    "width": 2.083,
+                    "height": 0.26,
+                    "rotate": 0,
+                    "text": "",
+                    "bind": {
+                        "url": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "format": "",
+                    "autoReturn": false,
+                    "fontsize": 0.146,
+                    "fontfamily": "Microsoft YaHei",
+                    "alpha": 1,
+                    "letterspacing": 0,
+                    "background": "",
+                    "forecolor": "#000000",
+                    "styleBold": false,
+                    "styleUnderline": false,
+                    "styleItalic": false,
+                    "styleStrike": false,
+                    "styleOverline": false,
+                    "hpos": "flex-start",
+                    "vpos": "flex-start",
+                    "borderwidth": 0,
+                    "bordertype": "solid",
+                    "bordercolor": "#000000",
+                    "ename": "文本",
+                    "locked": false
+                }
+            },
+            {
+                "id": "rde_174",
+                "type": "image",
+                "unit": "in",
+                "props": {
+                    "x": 0.781,
+                    "y": 2.521,
+                    "width": 2.083,
+                    "height": 1.042,
+                    "rotate": 0,
+                    "alpha": 1,
+                    "webUrl": "",
+                    "image": "",
+                    "bind": {
+                        "url": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "rotateX": false,
+                    "rotateY": false,
+                    "ename": "图片",
+                    "locked": false
+                }
+            }
+        ]
+    },
+    "success": true
+}

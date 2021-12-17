@@ -1,0 +1,218 @@
+{
+    "data": {
+        "unit": "px",
+        "page": {
+            "width": 791,
+            "height": 400,
+            "pages": 3,
+            "xOffset": 0,
+            "yOffset": 0,
+            "marginTop": 0,
+            "marginRight": 0,
+            "marginBottom": 0,
+            "marginLeft": 0,
+            "background": "#ffffff",
+            "backgroundImage": "",
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundXOffset": 0,
+            "backgroundYOffset": 0
+        },
+        "groups": [],
+        "elements": [
+            {
+                "id": "e_87",
+                "type": "text",
+                "props": {
+                    "x": 358,
+                    "y": 60,
+                    "width": 36,
+                    "height": 223,
+                    "rotate": 0,
+                    "text": "多编辑区测试",
+                    "bind": {
+                        "url": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "format": "",
+                    "fontsize": 22,
+                    "fontfamily": "Microsoft YaHei",
+                    "alpha": 1,
+                    "letterspacing": 0,
+                    "background": "",
+                    "forecolor": "#000000",
+                    "styleBold": true,
+                    "styleUnderline": false,
+                    "styleItalic": false,
+                    "styleStrike": false,
+                    "hpos": "center",
+                    "vpos": "center",
+                    "ename": "文本"
+                }
+            },
+            {
+                "id": "e_197",
+                "type": "pager",
+                "props": {
+                    "ext": {},
+                    "x": 583,
+                    "y": 7,
+                    "width": 200,
+                    "height": 50,
+                    "rotate": 0,
+                    "text": "当前第${currentPage}页，共${totalPage}页",
+                    "fontsize": 14,
+                    "fontfamily": "Microsoft YaHei",
+                    "alpha": 1,
+                    "letterspacing": 0,
+                    "background": "",
+                    "forecolor": "#000000",
+                    "styleBold": false,
+                    "styleUnderline": false,
+                    "styleItalic": false,
+                    "styleStrike": false,
+                    "hpos": "flex-start",
+                    "vpos": "flex-start",
+                    "ename": "页码器"
+                }
+            },
+            {
+                "id": "e_217",
+                "type": "pager",
+                "props": {
+                    "ext": {},
+                    "x": 587,
+                    "y": 1158,
+                    "width": 200,
+                    "height": 50,
+                    "rotate": 0,
+                    "text": "当前第${currentPage}页，共${totalPage}页",
+                    "fontsize": 14,
+                    "fontfamily": "Microsoft YaHei",
+                    "alpha": 1,
+                    "letterspacing": 0,
+                    "background": "",
+                    "forecolor": "#000000",
+                    "styleBold": false,
+                    "styleUnderline": false,
+                    "styleItalic": false,
+                    "styleStrike": false,
+                    "hpos": "flex-start",
+                    "vpos": "flex-start",
+                    "ename": "页码器"
+                }
+            },
+            {
+                "id": "e_252",
+                "type": "barcode",
+                "props": {
+                    "x": 52,
+                    "y": 439,
+                    "width": 200,
+                    "height": 80,
+                    "rotate": 0,
+                    "alpha": 1,
+                    "text": "test",
+                    "bind": {
+                        "url": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "format": "code128",
+                    "showText": true,
+                    "color": "#000000",
+                    "linewidth": 2,
+                    "ename": "条形码"
+                }
+            },
+            {
+                "id": "e_268",
+                "type": "image",
+                "props": {
+                    "x": 88,
+                    "y": 893,
+                    "width": 267,
+                    "height": 267,
+                    "rotate": 0,
+                    "alpha": 1,
+                    "image": "//iconfont.alicdn.com/t/92948122-c59b-4d97-bfde-368416d63d83.png",
+                    "bind": {
+                        "url": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "rotateX": false,
+                    "rotateY": false,
+                    "ename": "图片"
+                }
+            },
+            {
+                "id": "e_295",
+                "type": "data-coltable",
+                "props": {
+                    "x": 399,
+                    "y": 408,
+                    "bind": {
+                        "url": "apis/area.json",
+                        "id": "1",
+                        "fields": [
+                            {
+                                "name": "山西",
+                                "id": "area_14"
+                            },
+                            {
+                                "name": "辽宁",
+                                "id": "area_21"
+                            },
+                            {
+                                "name": "内蒙古",
+                                "id": "area_15"
+                            }
+                        ]
+                    },
+                    "columns": {
+                        "area_14": 120,
+                        "area_21": 120,
+                        "area_15": 120
+                    },
+                    "tfootSpacing": 0,
+                    "bordercolor": "#000000",
+                    "cellAlign": "center",
+                    "theadRowHeight": 40,
+                    "tbodyRowHeight": 30,
+                    "theadFontsize": 16,
+                    "theadForecolor": "#000000",
+                    "theadRowBackground": "#ffda95",
+                    "tbodyFontsize": 14,
+                    "tbodyForecolor": "#000000",
+                    "tbodyEvenRowBackground": "#dde09d",
+                    "tbodyOddRowBackground": "#f2f5cc",
+                    "alpha": 1,
+                    "ename": "列表格"
+                }
+            },
+            {
+                "id": "e_334",
+                "type": "qrcode",
+                "props": {
+                    "x": 85,
+                    "y": 585,
+                    "width": 150,
+                    "height": 150,
+                    "rotate": 0,
+                    "alpha": 1,
+                    "text": "report designer",
+                    "bind": {
+                        "url": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "ename": "二维码"
+                }
+            }
+        ]
+    },
+    "success": true
+}

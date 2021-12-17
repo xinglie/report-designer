@@ -1,0 +1,81 @@
+{
+    "data": {
+        "unit": "q",
+        "page": {
+            "readonly": false,
+            "width": 837.037037037037,
+            "height": 1185.1851851851852,
+            "pages": 1,
+            "xOffset": 0,
+            "yOffset": 0,
+            "title": "",
+            "background": "#ffffff",
+            "backgroundImage": "",
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundXOffset": 0,
+            "backgroundYOffset": 0
+        },
+        "groups": [],
+        "elements": [
+            {
+                "id": "rde_140",
+                "type": "repeat",
+                "unit": "q",
+                "props": {
+                    "x": 67.72,
+                    "y": 58.2,
+                    "width": 211.64,
+                    "height": 105.82,
+                    "rotate": 0,
+                    "alpha": 1,
+                    "webUrl": "",
+                    "image": "",
+                    "bind": {
+                        "url": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "repeat": "repeat",
+                    "radius": 0,
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "backgroundXOffset": 0,
+                    "backgroundYOffset": 0,
+                    "ename": "背景图",
+                    "locked": false
+                }
+            },
+            {
+                "id": "rde_146",
+                "type": "repeat",
+                "unit": "q",
+                "props": {
+                    "x": 358.73,
+                    "y": 58.2,
+                    "width": 211.64,
+                    "height": 105.82,
+                    "rotate": 0,
+                    "alpha": 1,
+                    "webUrl": "",
+                    "image": "",
+                    "bind": {
+                        "url": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "repeat": "repeat",
+                    "radius": 0,
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "backgroundXOffset": 0,
+                    "backgroundYOffset": 0,
+                    "ename": "背景图",
+                    "locked": false
+                }
+            }
+        ]
+    },
+    "success": true
+}

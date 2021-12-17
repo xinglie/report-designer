@@ -1,0 +1,241 @@
+{
+    "data": {
+        "unit": "mm",
+        "page": {
+            "readonly": false,
+            "width": 209.26,
+            "height": 296.3,
+            "pages": 1,
+            "xOffset": 0,
+            "yOffset": 0,
+            "title": "",
+            "background": "#fff",
+            "backgroundImage": "",
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundXOffset": 0,
+            "backgroundYOffset": 0
+        },
+        "groups": [],
+        "elements": [
+            {
+                "id": "e_49",
+                "type": "line",
+                "props": {
+                    "x": 5.55,
+                    "y": 13.63,
+                    "width": 52.92,
+                    "rotate": 0,
+                    "alpha": 1,
+                    "height": 0.26,
+                    "linetype": "solid",
+                    "color": "#000000",
+                    "ename": "直线",
+                    "locked": false
+                }
+            },
+            {
+                "id": "e_61",
+                "type": "rect",
+                "props": {
+                    "x": 5.55,
+                    "y": 19.58,
+                    "width": 52.92,
+                    "height": 26.46,
+                    "rotate": 0,
+                    "alpha": 1,
+                    "borderwidth": 0.26,
+                    "bordertype": "solid",
+                    "bordercolor": "#000000",
+                    "fillcolor": "",
+                    "radius": 0,
+                    "ename": "矩形",
+                    "locked": false
+                }
+            },
+            {
+                "id": "e_72",
+                "type": "circle",
+                "props": {
+                    "x": 5.55,
+                    "y": 50.27,
+                    "width": 39.69,
+                    "height": 39.69,
+                    "rotate": 0,
+                    "alpha": 1,
+                    "borderwidth": 0.26,
+                    "bordertype": "solid",
+                    "bordercolor": "#000000",
+                    "fillcolor": "",
+                    "ename": "圆形",
+                    "locked": false
+                }
+            },
+            {
+                "id": "e_76",
+                "type": "rod",
+                "props": {
+                    "x": 5.55,
+                    "y": 105.31,
+                    "width": 105.83,
+                    "text": 105.83,
+                    "rotate": 0,
+                    "textRotate": 0,
+                    "startBorder": true,
+                    "endBorder": true,
+                    "alpha": 1,
+                    "height": 3.7,
+                    "linetype": "solid",
+                    "color": "#000000",
+                    "ename": "标尺",
+                    "locked": false
+                }
+            },
+            {
+                "id": "e_82",
+                "type": "clock",
+                "props": {
+                    "x": 64.95,
+                    "y": 6.35,
+                    "width": 42.34,
+                    "height": 42.34,
+                    "alpha": 1,
+                    "dialColor": "#00000040",
+                    "handleColor": "#ffffff",
+                    "markColor": "#ffffff80",
+                    "ename": "时钟",
+                    "locked": false
+                }
+            },
+            {
+                "id": "e_92",
+                "type": "text",
+                "props": {
+                    "x": 111.38,
+                    "y": 7.55,
+                    "width": 52.92,
+                    "height": 6.61,
+                    "rotate": 0,
+                    "text": "",
+                    "bind": {
+                        "url": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "format": "",
+                    "fontsize": 3.7,
+                    "fontfamily": "Microsoft YaHei",
+                    "alpha": 1,
+                    "letterspacing": 0,
+                    "background": "",
+                    "forecolor": "#000000",
+                    "styleBold": false,
+                    "styleUnderline": false,
+                    "styleItalic": false,
+                    "styleStrike": false,
+                    "styleOverline": false,
+                    "hpos": "flex-start",
+                    "vpos": "flex-start",
+                    "ename": "文本",
+                    "locked": false
+                }
+            },
+            {
+                "id": "e_105",
+                "type": "image",
+                "props": {
+                    "x": 111.38,
+                    "y": 19.58,
+                    "width": 52.92,
+                    "height": 26.46,
+                    "rotate": 0,
+                    "alpha": 1,
+                    "webUrl": "",
+                    "image": "",
+                    "bind": {
+                        "url": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "rotateX": false,
+                    "rotateY": false,
+                    "ename": "图片",
+                    "locked": false
+                }
+            },
+            {
+                "id": "e_112",
+                "type": "repeat",
+                "props": {
+                    "x": 68.79,
+                    "y": 48.69,
+                    "width": 52.92,
+                    "height": 26.46,
+                    "rotate": 0,
+                    "alpha": 1,
+                    "webUrl": "",
+                    "image": "",
+                    "bind": {
+                        "url": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "radius": 0,
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "backgroundXOffset": 0,
+                    "backgroundYOffset": 0,
+                    "repeat": "repeat",
+                    "ename": "平铺图",
+                    "locked": false
+                }
+            },
+            {
+                "id": "e_116",
+                "type": "qrcode",
+                "props": {
+                    "x": 134.41,
+                    "y": 55.3,
+                    "width": 39.69,
+                    "height": 39.69,
+                    "rotate": 0,
+                    "alpha": 1,
+                    "text": "",
+                    "bind": {
+                        "url": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "ename": "二维码",
+                    "locked": false
+                }
+            },
+            {
+                "id": "e_121",
+                "type": "barcode",
+                "props": {
+                    "x": 127.79,
+                    "y": 98.42,
+                    "width": 52.92,
+                    "height": 21.17,
+                    "rotate": 0,
+                    "alpha": 1,
+                    "text": "",
+                    "bind": {
+                        "url": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "format": "code128",
+                    "showText": true,
+                    "color": "#000000",
+                    "linewidth": 2,
+                    "ename": "条形码",
+                    "locked": false
+                }
+            }
+        ]
+    },
+    "success": true
+}

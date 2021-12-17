@@ -1,0 +1,182 @@
+{
+    "data": {
+        "unit": "px",
+        "page": {
+            "width": 791,
+            "height": 1120,
+            "pages": 1,
+            "xOffset": 0,
+            "yOffset": 0,
+            "title": "",
+            "background": "#ffffff",
+            "backgroundImage": "",
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundXOffset": 0,
+            "backgroundYOffset": 0
+        },
+        "groups": [],
+        "elements": [
+            {
+                "id": "e_186",
+                "type": "text",
+                "props": {
+                    "x": 61,
+                    "y": 55,
+                    "width": 200,
+                    "height": 25,
+                    "rotate": 0,
+                    "pinX": true,
+                    "text": "X坐标固定的元素",
+                    "bind": {
+                        "url": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "format": "",
+                    "fontsize": 14,
+                    "fontfamily": "Microsoft YaHei",
+                    "alpha": 1,
+                    "letterspacing": 0,
+                    "background": "",
+                    "forecolor": "#000000",
+                    "styleBold": false,
+                    "styleUnderline": false,
+                    "styleItalic": false,
+                    "styleStrike": false,
+                    "styleOverline": false,
+                    "hpos": "flex-start",
+                    "vpos": "flex-start",
+                    "ename": "文本",
+                    "locked": false
+                }
+            },
+            {
+                "id": "e_203",
+                "type": "text",
+                "props": {
+                    "x": 456,
+                    "y": 55,
+                    "width": 200,
+                    "height": 25,
+                    "rotate": 0,
+                    "pinY": true,
+                    "text": "Y坐标固定的元素",
+                    "bind": {
+                        "url": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "format": "",
+                    "fontsize": 14,
+                    "fontfamily": "Microsoft YaHei",
+                    "alpha": 1,
+                    "letterspacing": 0,
+                    "background": "",
+                    "forecolor": "#000000",
+                    "styleBold": false,
+                    "styleUnderline": false,
+                    "styleItalic": false,
+                    "styleStrike": false,
+                    "styleOverline": false,
+                    "hpos": "flex-start",
+                    "vpos": "flex-start",
+                    "ename": "文本",
+                    "locked": false
+                }
+            },
+            {
+                "id": "e_209",
+                "type": "text",
+                "props": {
+                    "x": 257,
+                    "y": 190,
+                    "width": 200,
+                    "height": 25,
+                    "rotate": 0,
+                    "pinX": true,
+                    "pinY": true,
+                    "text": "X,Y坐标均固定的元素",
+                    "bind": {
+                        "url": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "format": "",
+                    "fontsize": 14,
+                    "fontfamily": "Microsoft YaHei",
+                    "alpha": 1,
+                    "letterspacing": 0,
+                    "background": "",
+                    "forecolor": "#000000",
+                    "styleBold": false,
+                    "styleUnderline": false,
+                    "styleItalic": false,
+                    "styleStrike": false,
+                    "styleOverline": false,
+                    "hpos": "flex-start",
+                    "vpos": "flex-start",
+                    "ename": "文本",
+                    "locked": false
+                }
+            },
+            {
+                "id": "e_215",
+                "type": "image",
+                "props": {
+                    "x": 79,
+                    "y": 285,
+                    "width": 200,
+                    "height": 100,
+                    "rotate": 0,
+                    "alpha": 1,
+                    "image": "",
+                    "bind": {
+                        "url": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "rotateX": false,
+                    "rotateY": false,
+                    "ename": "图片",
+                    "locked": false
+                }
+            },
+            {
+                "id": "e_221",
+                "type": "text",
+                "props": {
+                    "x": 411,
+                    "y": 310,
+                    "width": 200,
+                    "height": 25,
+                    "rotate": 0,
+                    "text": "",
+                    "bind": {
+                        "url": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "format": "",
+                    "fontsize": 14,
+                    "fontfamily": "Microsoft YaHei",
+                    "alpha": 1,
+                    "letterspacing": 0,
+                    "background": "",
+                    "forecolor": "#000000",
+                    "styleBold": false,
+                    "styleUnderline": false,
+                    "styleItalic": false,
+                    "styleStrike": false,
+                    "styleOverline": false,
+                    "hpos": "flex-start",
+                    "vpos": "flex-start",
+                    "ename": "文本",
+                    "locked": false
+                }
+            }
+        ]
+    },
+    "success": true
+}

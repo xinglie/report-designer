@@ -1,0 +1,41 @@
+{
+    "data": {
+        "unit": "pt",
+        "page": {
+            "readonly": false,
+            "width": 593.4,
+            "height": 840.21,
+            "pages": 1,
+            "xOffset": 0,
+            "yOffset": 0,
+            "title": "",
+            "background": "#ffffff",
+            "backgroundImage": "",
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundXOffset": 0,
+            "backgroundYOffset": 0
+        },
+        "groups": [],
+        "elements": [
+            {
+                "id": "rde_95",
+                "type": "richtext",
+                "unit": "pt",
+                "props": {
+                    "text": "<p>欢迎使用通用设计器</p><p>欢迎使用通用设计器</p><p>欢迎使用通用设计器</p><h2><strong>欢迎使用通用设计器</strong></h2><h2><strong>欢迎使用通用设计器</strong></h2><p> </p><figure class=\"table\"><table><tbody><tr><td>欢迎使用通用设计器</td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td>欢迎使用通用设计器</td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td><h2><i><strong>欢迎使用通用设计器</strong></i></h2></td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td>欢迎使用通用设计器</td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td>欢迎使用通用设计器</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td>欢迎使用通用设计器</td></tr></tbody></table></figure>",
+                    "splitToPages": true,
+                    "x": 27.38,
+                    "y": 551.39,
+                    "width": 510.13,
+                    "height": 225.06,
+                    "alpha": 1,
+                    "ename": "富文本",
+                    "locked": false
+                }
+            }
+        ]
+    },
+    "success": true
+}

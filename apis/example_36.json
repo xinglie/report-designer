@@ -1,0 +1,203 @@
+{
+    "data": {
+        "unit": "px",
+        "page": {
+            "width": 600,
+            "height": 400,
+            "background": "#ffffff",
+            "backgroundImage": "",
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundXOffset": 0,
+            "backgroundYOffset": 0
+        },
+        "groups": [],
+        "elements": [
+            {
+                "id": "e_221",
+                "type": "data-celltable",
+                "props": {
+                    "rows": [
+                        {
+                            "cols": [
+                                {
+                                    "width": 517,
+                                    "height": 60,
+                                    "rowspan": 1,
+                                    "colspan": 2,
+                                    "paddingBottom": 5,
+                                    "paddingTop": 5,
+                                    "paddingLeft": 5,
+                                    "paddingRight": 5,
+                                    "hpos": "center",
+                                    "vpos": "center",
+                                    "alpha": 1,
+                                    "type": "text",
+                                    "textLetterspacing": 0,
+                                    "textForecolor": "#000000",
+                                    "textFontsize": 16,
+                                    "textFontfamily": "Microsoft YaHei",
+                                    "textStyleBold": true,
+                                    "textStyleUnderline": false,
+                                    "textStyleItalic": false,
+                                    "textStyleStrike": false,
+                                    "textContent": "人物信息绑定测试"
+                                }
+                            ]
+                        },
+                        {
+                            "cols": [
+                                {
+                                    "height": 50,
+                                    "width": 258.5,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "paddingLeft": 5,
+                                    "paddingTop": 5,
+                                    "paddingRight": 5,
+                                    "paddingBottom": 5,
+                                    "hpos": "flex-start",
+                                    "vpos": "flex-start",
+                                    "alpha": 1,
+                                    "type": "text",
+                                    "textLetterspacing": 0,
+                                    "textForecolor": "#000000",
+                                    "textFontsize": 14,
+                                    "textFontfamily": "Microsoft YaHei",
+                                    "textStyleBold": false,
+                                    "textStyleUnderline": false,
+                                    "textStyleItalic": false,
+                                    "textStyleStrike": false,
+                                    "textContent": "",
+                                    "bindKey": "name",
+                                    "bindName": "姓名"
+                                },
+                                {
+                                    "height": 151.50862068965517,
+                                    "width": 258.5,
+                                    "rowspan": 3,
+                                    "colspan": 1,
+                                    "paddingLeft": 5,
+                                    "paddingTop": 5,
+                                    "paddingRight": 5,
+                                    "paddingBottom": 5,
+                                    "hpos": "center",
+                                    "vpos": "center",
+                                    "alpha": 1,
+                                    "type": "image",
+                                    "bindKey": "avatar",
+                                    "bindName": "头像",
+                                    "imageMaxWidth": -1,
+                                    "imageMaxHeight": 140,
+                                    "fixedHeight": true
+                                }
+                            ]
+                        },
+                        {
+                            "cols": [
+                                {
+                                    "height": 50.75431034482759,
+                                    "width": 258.5,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "paddingLeft": 5,
+                                    "paddingTop": 5,
+                                    "paddingRight": 5,
+                                    "paddingBottom": 5,
+                                    "hpos": "flex-start",
+                                    "vpos": "flex-start",
+                                    "alpha": 1,
+                                    "type": "text",
+                                    "textLetterspacing": 0,
+                                    "textForecolor": "#000000",
+                                    "textFontsize": 14,
+                                    "textFontfamily": "Microsoft YaHei",
+                                    "textStyleBold": false,
+                                    "textStyleUnderline": false,
+                                    "textStyleItalic": false,
+                                    "textStyleStrike": false,
+                                    "textContent": "",
+                                    "bindKey": "gender",
+                                    "bindName": "性别"
+                                }
+                            ]
+                        },
+                        {
+                            "cols": [
+                                {
+                                    "colspan": 1,
+                                    "rowspan": 1,
+                                    "width": 258.5,
+                                    "height": 50.75431034482759,
+                                    "paddingBottom": 5,
+                                    "paddingTop": 5,
+                                    "paddingLeft": 5,
+                                    "paddingRight": 5,
+                                    "hpos": "flex-start",
+                                    "vpos": "flex-start",
+                                    "alpha": 1,
+                                    "type": "text",
+                                    "textLetterspacing": 0,
+                                    "textForecolor": "#000000",
+                                    "textFontsize": 14,
+                                    "textFontfamily": "Microsoft YaHei",
+                                    "textStyleBold": false,
+                                    "textStyleUnderline": false,
+                                    "textStyleItalic": false,
+                                    "textStyleStrike": false,
+                                    "textContent": "",
+                                    "bindKey": "idn",
+                                    "bindName": "身份证号"
+                                }
+                            ]
+                        },
+                        {
+                            "cols": [
+                                {
+                                    "width": 517,
+                                    "height": 40,
+                                    "rowspan": 1,
+                                    "colspan": 2,
+                                    "paddingBottom": 5,
+                                    "paddingTop": 5,
+                                    "paddingLeft": 5,
+                                    "paddingRight": 5,
+                                    "hpos": "flex-start",
+                                    "vpos": "flex-start",
+                                    "alpha": 1,
+                                    "type": "text",
+                                    "textLetterspacing": 0,
+                                    "textForecolor": "#000000",
+                                    "textFontsize": 14,
+                                    "textFontfamily": "Microsoft YaHei",
+                                    "textStyleBold": false,
+                                    "textStyleUnderline": false,
+                                    "textStyleItalic": false,
+                                    "textStyleStrike": false,
+                                    "textContent": "",
+                                    "bindKey": "addr",
+                                    "bindName": "地址"
+                                }
+                            ]
+                        }
+                    ],
+                    "bind": {
+                        "url": "apis/person.json",
+                        "id": "3"
+                    },
+                    "x": 34,
+                    "y": 69,
+                    "width": 518,
+                    "height": 252,
+                    "alpha": 1,
+                    "borderwidth": 1,
+                    "bordertype": "solid",
+                    "bordercolor": "#000000",
+                    "ename": "单元格"
+                }
+            }
+        ]
+    },
+    "success": true
+}

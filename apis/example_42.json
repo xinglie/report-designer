@@ -1,0 +1,488 @@
+{
+    "data": {
+        "unit": "px",
+        "page": {
+            "width": 791,
+            "height": 1120,
+            "pages": 1,
+            "xOffset": 0,
+            "yOffset": 0,
+            "marginTop": 0,
+            "marginRight": 0,
+            "marginBottom": 0,
+            "marginLeft": 0,
+            "background": "#ffffff",
+            "backgroundImage": "",
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundXOffset": 0,
+            "backgroundYOffset": 0
+        },
+        "groups": [],
+        "elements": [
+            {
+                "id": "e_82",
+                "type": "svg/line",
+                "props": {
+                    "x": 79,
+                    "y": 66,
+                    "width": 200,
+                    "height": 100,
+                    "ctrl1X": 79,
+                    "ctrl1Y": 66,
+                    "ctrl2X": 279,
+                    "ctrl2Y": 166,
+                    "startArrow": false,
+                    "endArrow": false,
+                    "linewidth": 1,
+                    "dash": 0,
+                    "alpha": 1,
+                    "color": "#000000",
+                    "ename": "线段"
+                }
+            },
+            {
+                "id": "e_98",
+                "type": "svg/bezier2",
+                "props": {
+                    "x": 310,
+                    "y": 50,
+                    "width": 200,
+                    "height": 100,
+                    "ctrl1X": 510,
+                    "ctrl1Y": 50,
+                    "ctrl2X": 310,
+                    "ctrl2Y": 50,
+                    "ctrl3X": 310,
+                    "ctrl3Y": 150,
+                    "startArrow": false,
+                    "endArrow": false,
+                    "linewidth": 1,
+                    "dash": 0,
+                    "alpha": 1,
+                    "color": "#000000",
+                    "fillcolor": "",
+                    "ename": "贝塞尔2"
+                }
+            },
+            {
+                "id": "e_105",
+                "type": "svg/bezier3",
+                "props": {
+                    "x": 583,
+                    "y": 34,
+                    "width": 119,
+                    "height": 147,
+                    "ctrl1X": 598,
+                    "ctrl1Y": 34,
+                    "ctrl2X": 529,
+                    "ctrl2Y": 98,
+                    "ctrl3X": 729,
+                    "ctrl3Y": 98,
+                    "ctrl4X": 700,
+                    "ctrl4Y": 181,
+                    "startArrow": false,
+                    "endArrow": false,
+                    "linewidth": 1,
+                    "dash": 0,
+                    "alpha": 1,
+                    "color": "#000000",
+                    "fillcolor": "",
+                    "ename": "贝塞尔3"
+                }
+            },
+            {
+                "id": "e_111",
+                "type": "svg/arc",
+                "props": {
+                    "x": 0,
+                    "y": 192,
+                    "width": 200,
+                    "height": 160,
+                    "centerX": 100,
+                    "centerY": 272,
+                    "rx": 100,
+                    "ry": 80,
+                    "startAngle": -160,
+                    "endAngle": 303.63373613462153,
+                    "rotate": 0,
+                    "linewidth": 1,
+                    "dash": 0,
+                    "alpha": 1,
+                    "color": "#000000",
+                    "fillcolor": "",
+                    "closed": true,
+                    "ename": "弧"
+                }
+            },
+            {
+                "id": "e_122",
+                "type": "svg/polyline",
+                "props": {
+                    "x": 248,
+                    "y": 220,
+                    "width": 200,
+                    "height": 100,
+                    "ctrl1X": 248,
+                    "ctrl1Y": 220,
+                    "ctrl2X": 348,
+                    "ctrl2Y": 270,
+                    "ctrl3X": 448,
+                    "ctrl3Y": 320,
+                    "reverse": false,
+                    "rotate": 29,
+                    "linewidth": 1,
+                    "dash": 0,
+                    "alpha": 1,
+                    "color": "#000000",
+                    "fillcolor": "",
+                    "ename": "折线"
+                }
+            },
+            {
+                "id": "e_135",
+                "type": "svg/triangle",
+                "props": {
+                    "x": 479,
+                    "y": 211,
+                    "width": 200,
+                    "height": 100,
+                    "ctrl1X": 579,
+                    "ctrl1Y": 211,
+                    "ctrl2X": 479,
+                    "ctrl2Y": 311,
+                    "ctrl3X": 679,
+                    "ctrl3Y": 311,
+                    "linewidth": 1,
+                    "dash": 0,
+                    "alpha": 1,
+                    "color": "#000000",
+                    "fillcolor": "",
+                    "ename": "三角形"
+                }
+            },
+            {
+                "id": "e_139",
+                "type": "svg/rect",
+                "props": {
+                    "x": 21,
+                    "y": 386,
+                    "width": 200,
+                    "height": 100,
+                    "ctrl1X": 21,
+                    "ctrl1Y": 386,
+                    "ctrl2X": 204,
+                    "ctrl2Y": 406,
+                    "ctrl3X": 221,
+                    "ctrl3Y": 476,
+                    "ctrl4X": 61,
+                    "ctrl4Y": 486,
+                    "linewidth": 1,
+                    "dash": 0,
+                    "alpha": 1,
+                    "color": "#000000",
+                    "fillcolor": "",
+                    "ename": "四边形"
+                }
+            },
+            {
+                "id": "e_145",
+                "type": "svg/rect2",
+                "props": {
+                    "x": 236,
+                    "y": 361,
+                    "width": 200,
+                    "height": 100,
+                    "roundX": 0,
+                    "roundY": 0,
+                    "rotate": 0,
+                    "alpha": 1,
+                    "linewidth": 1,
+                    "dash": 0,
+                    "color": "#000000",
+                    "fillcolor": "",
+                    "ename": "矩形"
+                }
+            },
+            {
+                "id": "e_154",
+                "type": "svg/circle",
+                "props": {
+                    "x": 458,
+                    "y": 313,
+                    "width": 150,
+                    "height": 150,
+                    "centerX": 533,
+                    "centerY": 388,
+                    "r": 75,
+                    "linewidth": 1,
+                    "dash": 0,
+                    "alpha": 1,
+                    "color": "#000000",
+                    "fillcolor": "",
+                    "ename": "圆"
+                }
+            },
+            {
+                "id": "e_158",
+                "type": "svg/ellipse",
+                "props": {
+                    "x": 620,
+                    "y": 343,
+                    "width": 200,
+                    "height": 100,
+                    "centerX": 720,
+                    "centerY": 393,
+                    "rx": 100,
+                    "ry": 50,
+                    "rotate": 0,
+                    "linewidth": 1,
+                    "dash": 0,
+                    "alpha": 1,
+                    "color": "#000000",
+                    "fillcolor": "",
+                    "ename": "椭圆"
+                }
+            },
+            {
+                "id": "e_164",
+                "type": "svg/brace",
+                "props": {
+                    "x": 33,
+                    "y": 525,
+                    "width": 20,
+                    "height": 100,
+                    "rotate": 0,
+                    "linewidth": 1,
+                    "dash": 0,
+                    "alpha": 1,
+                    "color": "#000000",
+                    "ename": "大括号"
+                }
+            },
+            {
+                "id": "e_168",
+                "type": "svg/rstar",
+                "props": {
+                    "x": 90,
+                    "y": 510,
+                    "width": 150,
+                    "height": 150,
+                    "rotate": 0,
+                    "corner": 5,
+                    "mod1Y": 0.62,
+                    "alpha": 1,
+                    "linewidth": 1,
+                    "dash": 0,
+                    "color": "#000000",
+                    "fillcolor": "",
+                    "ename": "星星"
+                }
+            },
+            {
+                "id": "e_177",
+                "type": "svg/rarrow",
+                "props": {
+                    "x": 275,
+                    "y": 504,
+                    "width": 250,
+                    "height": 150,
+                    "rotate": 0,
+                    "mod1X": 0.8,
+                    "mod1Y": 0.6,
+                    "alpha": 1,
+                    "linewidth": 1,
+                    "dash": 0,
+                    "color": "#000000",
+                    "fillcolor": "",
+                    "ename": "箭头"
+                }
+            },
+            {
+                "id": "e_184",
+                "type": "svg/rbubble",
+                "props": {
+                    "x": 566,
+                    "y": 535,
+                    "width": 200,
+                    "height": 100,
+                    "rotate": 0,
+                    "radius": 10,
+                    "gapPosition": "bottom",
+                    "gapPRatio": 0.08,
+                    "gapRatio": 0.16,
+                    "mod1Y": 30,
+                    "mod1X": 20,
+                    "alpha": 1,
+                    "linewidth": 1,
+                    "dash": 0,
+                    "color": "#000000",
+                    "fillcolor": "",
+                    "ename": "气泡"
+                }
+            },
+            {
+                "id": "e_195",
+                "type": "svg/rcross",
+                "props": {
+                    "x": 2,
+                    "y": 720,
+                    "width": 120,
+                    "height": 120,
+                    "rotate": 0,
+                    "mod1X": 0.6,
+                    "mod1Y": 0.6,
+                    "alpha": 1,
+                    "linewidth": 1,
+                    "dash": 0,
+                    "color": "#000000",
+                    "fillcolor": "",
+                    "ename": "十字"
+                }
+            },
+            {
+                "id": "e_202",
+                "type": "svg/rdarrow",
+                "props": {
+                    "x": 145,
+                    "y": 665,
+                    "width": 250,
+                    "height": 150,
+                    "rotate": 0,
+                    "mod1X": 0.4,
+                    "mod1Y": 0.6,
+                    "alpha": 1,
+                    "linewidth": 1,
+                    "dash": 0,
+                    "color": "#000000",
+                    "fillcolor": "",
+                    "ename": "双箭头"
+                }
+            },
+            {
+                "id": "e_206",
+                "type": "svg/rcylinder",
+                "props": {
+                    "x": 436,
+                    "y": 700,
+                    "width": 120,
+                    "height": 150,
+                    "rotate": 0,
+                    "mod1Y": 0.4,
+                    "alpha": 1,
+                    "linewidth": 1,
+                    "dash": 0,
+                    "color": "#000000",
+                    "topcolor": "",
+                    "bodycolor": "",
+                    "ename": "圆柱"
+                }
+            },
+            {
+                "id": "e_211",
+                "type": "svg/rcube",
+                "props": {
+                    "x": 614,
+                    "y": 684,
+                    "width": 150,
+                    "height": 150,
+                    "rotate": 0,
+                    "mod1Y": 0.4,
+                    "alpha": 1,
+                    "linewidth": 1,
+                    "dash": 0,
+                    "color": "#000000",
+                    "topcolor": "",
+                    "frontcolor": "",
+                    "sidecolor": "",
+                    "ename": "立方体"
+                }
+            },
+            {
+                "id": "e_216",
+                "type": "svg/rmoon",
+                "props": {
+                    "x": 22,
+                    "y": 861,
+                    "width": 100,
+                    "height": 200,
+                    "rotate": 0,
+                    "mod1X": 0.5,
+                    "alpha": 1,
+                    "linewidth": 1,
+                    "dash": 0,
+                    "color": "#000000",
+                    "fillcolor": "",
+                    "ename": "月牙"
+                }
+            },
+            {
+                "id": "e_221",
+                "type": "svg/rpie",
+                "props": {
+                    "x": 167,
+                    "y": 865,
+                    "width": 200,
+                    "height": 160,
+                    "centerX": 267,
+                    "centerY": 945,
+                    "rx": 100,
+                    "ry": 80,
+                    "startAngle": 0,
+                    "endAngle": 270,
+                    "rotate": 0,
+                    "mod1X": 0.5,
+                    "mod1Y": 0.5,
+                    "linewidth": 1,
+                    "dash": 0,
+                    "alpha": 1,
+                    "color": "#000000",
+                    "fillcolor": "",
+                    "ename": "圆饼"
+                }
+            },
+            {
+                "id": "e_226",
+                "type": "svg/rcard",
+                "props": {
+                    "x": 380,
+                    "y": 877,
+                    "width": 250,
+                    "height": 150,
+                    "rotate": 0,
+                    "mod1X": 0.3,
+                    "mod2Y": 0.3,
+                    "alpha": 1,
+                    "linewidth": 1,
+                    "dash": 0,
+                    "color": "#000000",
+                    "fillcolor": "",
+                    "ename": "卡片"
+                }
+            },
+            {
+                "id": "e_230",
+                "type": "svg/rcorner",
+                "props": {
+                    "x": 649,
+                    "y": 892,
+                    "width": 120,
+                    "height": 120,
+                    "rotate": 0,
+                    "mod1Y": 0.2,
+                    "mod2X": 0.2,
+                    "mod2Y": 0.2,
+                    "mod3X": 0.2,
+                    "alpha": 1,
+                    "linewidth": 1,
+                    "dash": 0,
+                    "color": "#000000",
+                    "fillcolor": "",
+                    "ename": "拐角"
+                }
+            }
+        ]
+    },
+    "success": true
+}

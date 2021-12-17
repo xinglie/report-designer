@@ -1,0 +1,189 @@
+{
+    "data": {
+        "unit": "px",
+        "page": {
+            "readonly": false,
+            "width": 791,
+            "height": 1120,
+            "pages": 1,
+            "xOffset": 0,
+            "yOffset": 0,
+            "title": "",
+            "background": "#ffffff",
+            "backgroundImage": "",
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundXOffset": 0,
+            "backgroundYOffset": 0
+        },
+        "groups": [],
+        "elements": [
+            {
+                "id": "e_131",
+                "type": "data-repeater",
+                "unit": "px",
+                "props": {
+                    "rows": [
+                        {
+                            "height": 159,
+                            "cols": [
+                                {
+                                    "width": 328,
+                                    "elements": [
+                                        {
+                                            "id": "e_195",
+                                            "type": "text",
+                                            "unit": "px",
+                                            "props": {
+                                                "x": 30,
+                                                "y": 13,
+                                                "width": 99,
+                                                "height": 25,
+                                                "rotate": 0,
+                                                "text": "",
+                                                "bind": {
+                                                    "id": "3",
+                                                    "url": "apis/person.json",
+                                                    "fields": [
+                                                        {
+                                                            "name": "姓名",
+                                                            "id": "name"
+                                                        }
+                                                    ]
+                                                },
+                                                "format": "",
+                                                "autoReturn": false,
+                                                "fontsize": 14,
+                                                "fontfamily": "Microsoft YaHei",
+                                                "alpha": 1,
+                                                "letterspacing": 0,
+                                                "background": "",
+                                                "forecolor": "#000000",
+                                                "styleBold": false,
+                                                "styleUnderline": false,
+                                                "styleItalic": false,
+                                                "styleStrike": false,
+                                                "styleOverline": false,
+                                                "hpos": "flex-start",
+                                                "vpos": "flex-start",
+                                                "borderwidth": 0,
+                                                "bordertype": "solid",
+                                                "bordercolor": "#000000",
+                                                "ename": "文本",
+                                                "locked": false
+                                            }
+                                        },
+                                        {
+                                            "id": "e_424",
+                                            "type": "image",
+                                            "unit": "px",
+                                            "props": {
+                                                "x": 239,
+                                                "y": 13,
+                                                "width": 45,
+                                                "height": 100,
+                                                "rotate": 0,
+                                                "alpha": 1,
+                                                "webUrl": "",
+                                                "image": "",
+                                                "bind": {
+                                                    "url": "apis/person.json",
+                                                    "id": "3",
+                                                    "fields": [
+                                                        {
+                                                            "name": "头像",
+                                                            "id": "avatar"
+                                                        }
+                                                    ]
+                                                },
+                                                "rotateX": false,
+                                                "rotateY": false,
+                                                "ename": "图片",
+                                                "locked": false
+                                            }
+                                        },
+                                        {
+                                            "id": "e_139",
+                                            "type": "text",
+                                            "unit": "px",
+                                            "props": {
+                                                "x": 29,
+                                                "y": 63,
+                                                "width": 178,
+                                                "height": 25,
+                                                "rotate": 0,
+                                                "text": "",
+                                                "bind": {
+                                                    "url": "apis/person.json",
+                                                    "id": "3",
+                                                    "fields": [
+                                                        {
+                                                            "name": "地址",
+                                                            "id": "addr"
+                                                        }
+                                                    ]
+                                                },
+                                                "format": "",
+                                                "autoReturn": true,
+                                                "fontsize": 14,
+                                                "fontfamily": "Microsoft YaHei",
+                                                "alpha": 1,
+                                                "letterspacing": 0,
+                                                "background": "",
+                                                "forecolor": "#000000",
+                                                "styleBold": false,
+                                                "styleUnderline": false,
+                                                "styleItalic": false,
+                                                "styleStrike": false,
+                                                "styleOverline": false,
+                                                "hpos": "flex-start",
+                                                "vpos": "flex-start",
+                                                "borderwidth": 0,
+                                                "bordertype": "solid",
+                                                "bordercolor": "#000000",
+                                                "ename": "文本",
+                                                "locked": false
+                                            }
+                                        }
+                                    ],
+                                    "borderLeftStyle": "solid",
+                                    "borderLeftWidth": 0,
+                                    "borderLeftTopRadius": 0,
+                                    "borderRightTopRadius": 0,
+                                    "borderLeftBottomRadius": 0,
+                                    "borderRightBottomRadius": 0,
+                                    "borderLeftColor": "#000000",
+                                    "borderTopStyle": "solid",
+                                    "borderTopWidth": 0,
+                                    "borderTopColor": "#000000",
+                                    "borderRightStyle": "solid",
+                                    "borderRightWidth": 0,
+                                    "borderRightColor": "#000000",
+                                    "borderBottomStyle": "solid",
+                                    "borderBottomWidth": 0,
+                                    "borderBottomColor": "#000000"
+                                }
+                            ]
+                        }
+                    ],
+                    "x": 22,
+                    "y": 54,
+                    "width": 328,
+                    "height": 159,
+                    "alpha": 1,
+                    "bind": {
+                        "id": 3,
+                        "url": "apis/person.json",
+                        "fields": []
+                    },
+                    "hspace": 10,
+                    "vspace": 16,
+                    "ename": "重复容器",
+                    "locked": false
+                }
+            }
+        ]
+    },
+    "success": true
+}

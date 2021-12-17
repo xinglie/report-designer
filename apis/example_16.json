@@ -1,0 +1,69 @@
+{
+    "data": {
+        "unit": "cm",
+        "page": {
+            "readonly": false,
+            "width": 20.929,
+            "height": 29.634,
+            "pages": 1,
+            "xOffset": 0,
+            "yOffset": 0,
+            "title": "",
+            "background": "#ffffff",
+            "backgroundImage": "",
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundXOffset": 0,
+            "backgroundYOffset": 0
+        },
+        "groups": [],
+        "elements": [
+            {
+                "id": "e_101",
+                "type": "batch-text",
+                "unit": "cm",
+                "props": {
+                    "x": 3.281,
+                    "y": 1.812,
+                    "width": 7.964,
+                    "height": 0.661,
+                    "rotate": 0,
+                    "bind": {
+                        "url": "apis/person.json",
+                        "id": "3",
+                        "fields": [
+                            {
+                                "name": "身份证号",
+                                "id": "idn"
+                            }
+                        ]
+                    },
+                    "format": "",
+                    "hspace": 0.794,
+                    "vspace": 0.794,
+                    "autoReturn": false,
+                    "fontsize": 0.37,
+                    "fontfamily": "Microsoft YaHei",
+                    "alpha": 1,
+                    "letterspacing": 0,
+                    "background": "",
+                    "forecolor": "#000000",
+                    "styleBold": false,
+                    "styleUnderline": false,
+                    "styleItalic": false,
+                    "styleStrike": false,
+                    "styleOverline": false,
+                    "hpos": "flex-start",
+                    "vpos": "flex-start",
+                    "borderwidth": 0,
+                    "bordertype": "solid",
+                    "bordercolor": "#000000",
+                    "ename": "批量文本",
+                    "locked": false
+                }
+            }
+        ]
+    },
+    "success": true
+}

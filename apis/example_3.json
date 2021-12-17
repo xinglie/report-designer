@@ -1,0 +1,125 @@
+{
+    "data": {
+        "unit": "mm",
+        "page": {
+            "readonly": false,
+            "width": 211.64,
+            "height": 104.76,
+            "pages": 1,
+            "scaleType": "auto",
+            "copies": 1,
+            "xOffset": 0,
+            "yOffset": 0,
+            "title": "",
+            "background": "#ffffff",
+            "backgroundImage": "",
+            "preformat": false,
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundXOffset": 0,
+            "backgroundYOffset": 0
+        },
+        "groups": [],
+        "elements": [
+            {
+                "id": "rde_70",
+                "type": "html",
+                "unit": "mm",
+                "props": {
+                    "value": "<div>以下是自定义HTML片断，模板引擎使用underscore.template</div>\n<div style=\"color:#666\">其中data是通过属性绑定的数据，field是绑定的字段</div>\n<%for(let i=0;i<data.length;i++){%>\n  <br/>\n  <div style=\"border:solid 1px red\"><%=data[i][field.id]%></div>\n<%}%>",
+                    "x": 8.64,
+                    "y": 7.66,
+                    "width": 197.08,
+                    "height": 75.89,
+                    "alpha": 1,
+                    "bind": {
+                        "url": "apis/area.json",
+                        "id": "1",
+                        "fields": [
+                            {
+                                "name": "河北",
+                                "id": "area_13"
+                            }
+                        ]
+                    },
+                    "ename": "HTML",
+                    "locked": false
+                }
+            },
+            {
+                "id": "rde_71",
+                "type": "hod-footer",
+                "unit": "mm",
+                "props": {
+                    "pinX": true,
+                    "pinY": true,
+                    "rows": [
+                        {
+                            "height": 10.58,
+                            "cols": [
+                                {
+                                    "width": 211.64,
+                                    "elements": [
+                                        {
+                                            "id": "rde_72",
+                                            "type": "pager",
+                                            "unit": "mm",
+                                            "props": {
+                                                "ext": {},
+                                                "x": 79.38,
+                                                "y": 2.11,
+                                                "width": 52.91,
+                                                "height": 13.23,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "text": "当前第${currentPage}页，共${totalPage}页",
+                                                "fontsize": 3.7,
+                                                "fontfamily": "Microsoft YaHei",
+                                                "letterspacing": 0,
+                                                "background": "",
+                                                "forecolor": "#000000",
+                                                "styleBold": false,
+                                                "styleUnderline": false,
+                                                "styleItalic": false,
+                                                "styleStrike": false,
+                                                "hpos": "flex-start",
+                                                "vpos": "flex-start",
+                                                "ename": "页码器",
+                                                "locked": false
+                                            }
+                                        }
+                                    ],
+                                    "borderLeftTopRadius": 0,
+                                    "borderRightTopRadius": 0,
+                                    "borderLeftBottomRadius": 0,
+                                    "borderRightBottomRadius": 0,
+                                    "borderLeftStyle": "dashed",
+                                    "borderLeftWidth": 0,
+                                    "borderLeftColor": "#cccccc",
+                                    "borderTopStyle": "dashed",
+                                    "borderTopWidth": 0.26,
+                                    "borderTopColor": "#cccccc",
+                                    "borderRightStyle": "dashed",
+                                    "borderRightWidth": 0,
+                                    "borderRightColor": "#cccccc",
+                                    "borderBottomStyle": "dashed",
+                                    "borderBottomWidth": 0,
+                                    "borderBottomColor": "#cccccc"
+                                }
+                            ]
+                        }
+                    ],
+                    "x": 0,
+                    "y": 94.18,
+                    "width": 211.64,
+                    "height": 10.58,
+                    "alpha": 1,
+                    "ename": "页脚",
+                    "locked": false
+                }
+            }
+        ]
+    },
+    "success": true
+}
