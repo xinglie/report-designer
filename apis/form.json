@@ -1,6 +1,13 @@
 {
     "data": [
         {
+            "input": {
+                "placeholder": "测试",
+                "value": "初始值",
+                "className": "扩展样式",
+                "markAs": "标识",
+                "inputName": "名称"
+            },
             "item": {
                 "text": "text1",
                 "value": "value1",

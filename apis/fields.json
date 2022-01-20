@@ -257,17 +257,22 @@
                 {
                     "name": "下拉、单选、多选测试",
                     "id": "item",
-                    "use":"form-checkbox"
+                    "use": "form-checkbox"
                 },
                 {
                     "name": "中文测试",
                     "id": "item1",
-                    "use":"form-dropdown"
+                    "use": "form-dropdown"
                 },
                 {
                     "name": "标签测试",
                     "id": "tags",
                     "use": "tag"
+                },
+                {
+                    "name": "输入框绑定测试",
+                    "id": "input",
+                    "use": "form-input"
                 }
             ]
         }
