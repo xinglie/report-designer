@@ -8,7 +8,7 @@
             "xOffset": 0,
             "yOffset": 0,
             "title": "",
-            "snapElement": false,
+            "snap": false,
             "background": "#ffffff",
             "backgroundImage": "",
             "backgroundRepeat": "full",

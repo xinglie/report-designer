@@ -23,11 +23,11 @@
         "groups": [],
         "elements": [
             {
-                "id": "rde_70",
+                "id": "rde_101",
                 "type": "html",
                 "unit": "mm",
                 "props": {
-                    "value": "<div>以下是自定义HTML片断，模板引擎使用underscore.template</div>\n<div style=\"color:#666\">其中data是通过属性绑定的数据，field是绑定的字段</div>\n<%for(let i=0;i<data.length;i++){%>\n  <br/>\n  <div style=\"border:solid 1px red\"><%=data[i][field.id]%></div>\n<%}%>",
+                    "value": "<div>以下是自定义HTML片断，模板引擎使用underscore.template</div>\n<div style=\"color:#666\">其中data是通过属性绑定的数据，fields是绑定的字段数组</div>\n<%for(let i=0;i<data.length;i++){%>\n  <br/>\n　<%for(let field of fields){%>\n  \t<div style=\"border:solid 1px red\"><%=data[i][field.id]%></div>\n  <%}%>\n<%}%>",
                     "x": 8.64,
                     "y": 7.66,
                     "width": 197.08,
@@ -37,6 +37,14 @@
                         "url": "apis/area.json",
                         "id": "1",
                         "fields": [
+                            {
+                                "name": "山西",
+                                "id": "area_14"
+                            },
+                            {
+                                "name": "内蒙古",
+                                "id": "area_15"
+                            },
                             {
                                 "name": "河北",
                                 "id": "area_13"
@@ -48,7 +56,7 @@
                 }
             },
             {
-                "id": "rde_71",
+                "id": "rde_102",
                 "type": "hod-footer",
                 "unit": "mm",
                 "props": {
@@ -62,7 +70,7 @@
                                     "width": 211.64,
                                     "elements": [
                                         {
-                                            "id": "rde_72",
+                                            "id": "rde_103",
                                             "type": "pager",
                                             "unit": "mm",
                                             "props": {
@@ -73,6 +81,7 @@
                                                 "height": 13.23,
                                                 "alpha": 1,
                                                 "rotate": 0,
+                                                "print": "each",
                                                 "text": "当前第${currentPage}页，共${totalPage}页",
                                                 "fontsize": 3.7,
                                                 "fontfamily": "Microsoft YaHei",
@@ -110,8 +119,6 @@
                             ]
                         }
                     ],
-                    "x": 0,
-                    "y": 94.18,
                     "width": 211.64,
                     "height": 10.58,
                     "alpha": 1,

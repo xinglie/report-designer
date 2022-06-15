@@ -49,5 +49,7 @@ https://github.com/xinglie/printer-editor
 ### 授权合作
 微信ID：qq84685009 
 
+<img width="246" alt="author wechat" src="./wechat.jpg"/>
+
 ### 通用设计器截屏
 ![snapshot](https://xinglie.github.io/report-designer/snapshot.png)
