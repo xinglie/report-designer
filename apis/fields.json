@@ -1,10 +1,97 @@
 {
     "data": [
         {
-            "name": "地区测试",
+            "name": "人物信息",
+            "url": "apis/person.json",
+            "id": 3,
+            "opened": true,
+            "fields": [
+                {
+                    "name": "头像",
+                    "id": "avatar",
+                    "use": "image",
+                    "props": {
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "姓名",
+                    "id": "name"
+                },
+                {
+                    "name": "性别",
+                    "id": "gender"
+                },
+                {
+                    "name": "地址",
+                    "id": "addr"
+                },
+                {
+                    "name": "身份证号",
+                    "id": "idn"
+                },
+                {
+                    "name": "无数据1",
+                    "id": "nodata1"
+                },
+                {
+                    "name": "无数据2",
+                    "id": "nodata2"
+                },
+                {
+                    "name": "无数据3",
+                    "id": "nodata3"
+                }
+            ]
+        },
+        {
+            "name": "报表字段",
+            "url": "apis/report.json",
+            "id": 2,
+            "fields": [
+                {
+                    "name": "展现量",
+                    "id": "f1"
+                },
+                {
+                    "name": "点击量",
+                    "id": "f2"
+                },
+                {
+                    "name": "点击率",
+                    "id": "f3"
+                },
+                {
+                    "name": "关注",
+                    "id": "f4"
+                },
+                {
+                    "name": "收藏量",
+                    "id": "f5"
+                },
+                {
+                    "name": "成交量",
+                    "id": "f6"
+                },
+                {
+                    "name": "成效金额",
+                    "id": "f7"
+                },
+                {
+                    "name": "千次展现成本",
+                    "id": "f8"
+                },
+                {
+                    "name": "预售金额",
+                    "id": "f9"
+                }
+            ]
+        },
+        {
+            "name": "地区数据",
             "url": "apis/area.json",
             "id": 1,
-            "opened": true,
             "fields": [
                 {
                     "name": "河北",
@@ -117,94 +204,7 @@
             ]
         },
         {
-            "name": "报表字段测试",
-            "url": "apis/report.json",
-            "id": 2,
-            "fields": [
-                {
-                    "name": "展现量",
-                    "id": "f1"
-                },
-                {
-                    "name": "点击量",
-                    "id": "f2"
-                },
-                {
-                    "name": "点击率",
-                    "id": "f3"
-                },
-                {
-                    "name": "关注",
-                    "id": "f4"
-                },
-                {
-                    "name": "收藏量",
-                    "id": "f5"
-                },
-                {
-                    "name": "成交量",
-                    "id": "f6"
-                },
-                {
-                    "name": "成效金额",
-                    "id": "f7"
-                },
-                {
-                    "name": "千次展现成本",
-                    "id": "f8"
-                },
-                {
-                    "name": "预售金额",
-                    "id": "f9"
-                }
-            ]
-        },
-        {
-            "name": "人物信息测试",
-            "url": "apis/person.json",
-            "id": 3,
-            "fields": [
-                {
-                    "name": "姓名",
-                    "id": "name"
-                },
-                {
-                    "name": "性别",
-                    "id": "gender"
-                },
-                {
-                    "name": "地址",
-                    "id": "addr"
-                },
-                {
-                    "name": "身份证号",
-                    "id": "idn"
-                },
-                {
-                    "name": "头像",
-                    "id": "avatar",
-                    "use": "image",
-                    "props": {
-                        "width": 150,
-                        "height": 150
-                    }
-                },
-                {
-                    "name": "无数据1",
-                    "id": "nodata1"
-                },
-                {
-                    "name": "无数据2",
-                    "id": "nodata2"
-                },
-                {
-                    "name": "无数据3",
-                    "id": "nodata3"
-                }
-            ]
-        },
-        {
-            "name": "富文本测试",
+            "name": "富文本",
             "url": "apis/richtext.json",
             "id": 4,
             "fields": [
@@ -250,27 +250,27 @@
             ]
         },
         {
-            "name": "表单绑定测试",
+            "name": "表单绑定",
             "url": "apis/form.json",
             "id": 6,
             "fields": [
                 {
-                    "name": "下拉、单选、多选测试",
+                    "name": "下拉、单选、多选",
                     "id": "item",
                     "use": "form-checkbox"
                 },
                 {
-                    "name": "中文测试",
+                    "name": "中文名称",
                     "id": "item1",
                     "use": "form-dropdown"
                 },
                 {
-                    "name": "标签测试",
+                    "name": "标签",
                     "id": "tags",
                     "use": "tag"
                 },
                 {
-                    "name": "输入框绑定测试",
+                    "name": "输入框绑定",
                     "id": "input",
                     "use": "form-input"
                 }

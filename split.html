@@ -7,7 +7,7 @@
         <link type="image/x-icon" href="//gw.alicdn.com/tfs/TB1gRomUlr0gK0jSZFnXXbRRXXa-200-200.png" rel="shortcut icon">
         <title>拆分模式测试页</title>
         <style>
-            html,body{margin:0;padding:0;}
+            html,body{margin:0;padding:0;overflow: hidden;height: 100%;}
             .head{display: flex;height:40px;align-items: center;box-shadow: 0 1px #ccc;font-size: 14px;padding-left: 40px}
             *{box-sizing: border-box;}
             #toolbar{
@@ -23,34 +23,38 @@
                 height: 40px;
                 background-color: #FA742B;
                 color:#fff;
-                padding: 0 40px 0 200px;
+                padding: 0 40px 0 20px;
                 margin:10px 0;
                 min-width: 1100px;
                 display: flex;
             }
             #left{
                 width:180px;
-                height: 600px;
+                height: 100%;
                 border: #ccc solid 1px;
                 margin:0 10px;
             }
             #right{
                 width:200px;
-                height: 600px;
+                height: 100%;
                 border: #ccc solid 1px;
                 margin:0 10px;
             }
             #app{
                 flex:1;
-                height:600px;
+                height:100%;
                 border:solid 1px #ccc;
                 position: relative;
                 overflow: hidden;
             }
             #foot{
-                height: 200px;
+                height: 130px;
+                background-color: #fcfcfc;
+                margin: 10px;
+                border: solid 1px #ccc;
             }
         </style>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
     </head>
     <body>
         <div class="head">
@@ -64,7 +68,7 @@
         <div id="header">
 
         </div>
-        <div style="display:flex;height: 600px;">
+        <div style="display:flex;height: calc(100% - 285px);">
             <div id="left">
                 left
             </div>
@@ -80,13 +84,13 @@
         <div id="foot">
             
         </div>
-        <script id="boot" type="text/javascript" src="dist/designer.js?v=202206151102"></script>
+        <script src="dist/designer.js?v=202208051356"></script>
         <script>
             let setup=()=>{
                 designer.setup({
-            version:'202206151102',
+            version:'202208051356',
                     rootId:'app',
-                    mini:true,
+                    split:true,
                     panels:{
                         element:{
                             hidden:false,
@@ -102,6 +106,9 @@
                         },
                         props:{
                             hidden:true
+                        },
+                        animate:{
+                            to:'foot'
                         }
                     },
                     header:{

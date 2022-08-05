@@ -1,0 +1,158 @@
+{
+    "data": {
+        "unit": "cm",
+        "page": {
+            "readonly": false,
+            "width": 8,
+            "height": 4,
+            "pages": 1,
+            "scaleType": "auto",
+            "copies": 1,
+            "xOffset": 0,
+            "yOffset": 0,
+            "title": "",
+            "background": "#ffffff",
+            "backgroundImage": "",
+            "preformat": false,
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundXOffset": 0,
+            "backgroundYOffset": 0
+        },
+        "groups": [],
+        "elements": [
+            {
+                "id": "rde_60",
+                "type": "number",
+                "unit": "cm",
+                "props": {
+                    "ext": {
+                        "type": "number",
+                        "pad": true,
+                        "fx": "GP",
+                        "step": 2,
+                        "start": 4,
+                        "reverse": true
+                    },
+                    "x": 1.354,
+                    "y": 1.67,
+                    "width": 5.292,
+                    "height": 0.661,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "text": "{#}_{#}",
+                    "fontsize": 0.37,
+                    "fontfamily": "Microsoft YaHei",
+                    "letterspacing": 0,
+                    "lineheight": 1.5,
+                    "background": "",
+                    "forecolor": "#000",
+                    "styleBold": false,
+                    "styleUnderline": false,
+                    "styleItalic": false,
+                    "styleStrike": false,
+                    "styleOverline": false,
+                    "hpos": "center",
+                    "vpos": "center",
+                    "borderwidth": 0,
+                    "bordertype": "solid",
+                    "bordercolor": "#000",
+                    "ename": "序号器",
+                    "locked": false
+                }
+            },
+            {
+                "id": "rde_61",
+                "type": "number",
+                "unit": "cm",
+                "props": {
+                    "pinX": false,
+                    "pinY": false,
+                    "ext": {
+                        "type": "number",
+                        "pad": true,
+                        "fx": "AP",
+                        "step": 3,
+                        "start": 10,
+                        "reverse": false
+                    },
+                    "x": 1.354,
+                    "y": 2.835,
+                    "width": 5.292,
+                    "height": 0.661,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "text": "LABEL-{#}",
+                    "fontsize": 0.37,
+                    "fontfamily": "Microsoft YaHei",
+                    "letterspacing": 0,
+                    "lineheight": 1.5,
+                    "background": "",
+                    "forecolor": "#000",
+                    "styleBold": false,
+                    "styleUnderline": false,
+                    "styleItalic": false,
+                    "styleStrike": false,
+                    "styleOverline": false,
+                    "hpos": "center",
+                    "vpos": "center",
+                    "borderwidth": 0,
+                    "bordertype": "solid",
+                    "bordercolor": "#000",
+                    "ename": "序号器",
+                    "locked": false
+                }
+            },
+            {
+                "id": "rde_62",
+                "type": "text",
+                "unit": "cm",
+                "props": {
+                    "x": 0.157,
+                    "y": 0.285,
+                    "width": 5.292,
+                    "height": 0.661,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "text": "",
+                    "bind": {
+                        "id": "5",
+                        "url": "apis/asset.json",
+                        "name": "地区测试",
+                        "fields": [
+                            {
+                                "name": "资产编码",
+                                "id": "assetcode"
+                            }
+                        ]
+                    },
+                    "format": "",
+                    "dynamicSize": false,
+                    "autoReturn": false,
+                    "richtext": false,
+                    "fontsize": 0.37,
+                    "fontfamily": "Microsoft YaHei",
+                    "letterspacing": 0,
+                    "lineheight": 1.5,
+                    "background": "",
+                    "forecolor": "#000",
+                    "styleBold": false,
+                    "styleUnderline": false,
+                    "styleItalic": false,
+                    "styleStrike": false,
+                    "styleOverline": false,
+                    "hpos": "flex-start",
+                    "vpos": "flex-start",
+                    "borderwidth": 0,
+                    "bordertype": "solid",
+                    "bordercolor": "#000",
+                    "ename": "文本",
+                    "locked": false
+                }
+            }
+        ]
+    },
+    "success": true
+}

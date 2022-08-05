@@ -84,10 +84,7 @@
                                             }
                                         }
                                     ],
-                                    "borderLeftTopRadius": 0,
-                                    "borderRightTopRadius": 0,
-                                    "borderLeftBottomRadius": 0,
-                                    "borderRightBottomRadius": 0,
+                                    "borderRadius": "0% 0% 0% 0%/0% 0% 0% 0%",
                                     "borderLeftStyle": "dashed",
                                     "borderLeftWidth": 0,
                                     "borderLeftColor": "#cccccc",
@@ -127,10 +124,7 @@
                                 {
                                     "width": 209.26,
                                     "elements": [],
-                                    "borderLeftTopRadius": 0,
-                                    "borderRightTopRadius": 0,
-                                    "borderLeftBottomRadius": 0,
-                                    "borderRightBottomRadius": 0,
+                                    "borderRadius": "0% 0% 0% 0%/0% 0% 0% 0%",
                                     "borderLeftStyle": "dashed",
                                     "borderLeftWidth": 0,
                                     "borderLeftColor": "#cccccc",

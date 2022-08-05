@@ -49,7 +49,7 @@
                     "bordertype": "solid",
                     "bordercolor": "#000000",
                     "fillcolor": "",
-                    "radius": 0,
+                    "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
                     "ename": "矩形",
                     "locked": false
                 }

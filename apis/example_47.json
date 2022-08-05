@@ -1,0 +1,306 @@
+{
+    "data": {
+        "unit": "px",
+        "panels": [
+            "data",
+            "outline",
+            "props",
+            "animate"
+        ],
+        "page": {
+            "readonly": false,
+            "width": 791,
+            "height": 1120,
+            "pages": 1,
+            "scaleType": "auto",
+            "radiusUnit": "auto",
+            "ltRadius": 0,
+            "rtRadius": 0,
+            "rbRadius": 0,
+            "lbRadius": 0,
+            "copies": 1,
+            "xOffset": 0,
+            "yOffset": 0,
+            "title": "",
+            "background": "#ffffff",
+            "backgroundImage": "",
+            "preformat": false,
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundXOffset": 0,
+            "backgroundYOffset": 0
+        },
+        "groups": [],
+        "elements": [
+            {
+                "id": "rde_142",
+                "type": "svg/heart",
+                "unit": "px",
+                "props": {
+                    "x": 40,
+                    "y": 363,
+                    "width": 80,
+                    "height": 80,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "fill": "#fa742b",
+                    "ename": "心形",
+                    "locked": false,
+                    "animations": [
+                        {
+                            "repeat": "infinite",
+                            "fn": "linear",
+                            "delay": 0,
+                            "duration": 1,
+                            "mode": "forwards",
+                            "direction": "normal",
+                            "use": "heartBeat"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "rde_106",
+                "type": "line",
+                "unit": "px",
+                "props": {
+                    "x": 60,
+                    "y": 37,
+                    "width": 200,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "height": 1,
+                    "linetype": "solid",
+                    "color": "#000",
+                    "ename": "直线",
+                    "locked": false,
+                    "animations": [
+                        {
+                            "repeat": "infinite",
+                            "fn": "linear",
+                            "delay": 0,
+                            "duration": 1,
+                            "mode": "forwards",
+                            "direction": "normal",
+                            "use": "tada"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "rde_107",
+                "type": "rect",
+                "unit": "px",
+                "props": {
+                    "x": 321,
+                    "y": 37,
+                    "width": 200,
+                    "height": 100,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "borderwidth": 1,
+                    "bordertype": "solid",
+                    "bordercolor": "#000",
+                    "fillcolor": "",
+                    "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                    "ename": "矩形",
+                    "locked": false,
+                    "animations": [
+                        {
+                            "repeat": "infinite",
+                            "fn": "linear",
+                            "delay": 2,
+                            "duration": 1,
+                            "mode": "forwards",
+                            "direction": "normal",
+                            "use": "shakeX"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "rde_108",
+                "type": "circle",
+                "unit": "px",
+                "props": {
+                    "x": 581,
+                    "y": 37,
+                    "width": 150,
+                    "height": 150,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "borderwidth": 1,
+                    "bordertype": "solid",
+                    "bordercolor": "#000",
+                    "fillcolor": "",
+                    "ename": "圆形",
+                    "locked": false,
+                    "animations": [
+                        {
+                            "repeat": "infinite",
+                            "fn": "linear",
+                            "delay": 0,
+                            "duration": 1,
+                            "mode": "forwards",
+                            "direction": "normal",
+                            "use": "shakeY"
+                        },
+                        {
+                            "repeat": "infinite",
+                            "fn": "linear",
+                            "delay": 0,
+                            "duration": 1.52,
+                            "mode": "forwards",
+                            "direction": "normal",
+                            "use": "fadeIn"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "rde_109",
+                "type": "line",
+                "unit": "px",
+                "props": {
+                    "pinX": false,
+                    "pinY": false,
+                    "x": 60,
+                    "y": 253,
+                    "width": 200,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "height": 1,
+                    "linetype": "solid",
+                    "color": "#000",
+                    "ename": "直线",
+                    "locked": false,
+                    "animations": [
+                        {
+                            "repeat": "infinite",
+                            "fn": "linear",
+                            "delay": 0,
+                            "duration": 1,
+                            "mode": "forwards",
+                            "direction": "normal",
+                            "use": "tada"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "rde_110",
+                "type": "rect",
+                "unit": "px",
+                "props": {
+                    "pinX": false,
+                    "pinY": false,
+                    "x": 321,
+                    "y": 253,
+                    "width": 200,
+                    "height": 100,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "borderwidth": 1,
+                    "bordertype": "solid",
+                    "bordercolor": "#000",
+                    "fillcolor": "",
+                    "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                    "ename": "矩形",
+                    "locked": false,
+                    "animations": [
+                        {
+                            "repeat": "infinite",
+                            "fn": "linear",
+                            "delay": 2,
+                            "duration": 1,
+                            "mode": "forwards",
+                            "direction": "normal",
+                            "use": "shakeX"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "rde_111",
+                "type": "circle",
+                "unit": "px",
+                "props": {
+                    "pinX": false,
+                    "pinY": false,
+                    "x": 581,
+                    "y": 253,
+                    "width": 150,
+                    "height": 150,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "borderwidth": 1,
+                    "bordertype": "solid",
+                    "bordercolor": "#000",
+                    "fillcolor": "",
+                    "ename": "圆形",
+                    "locked": false,
+                    "animations": [
+                        {
+                            "repeat": "infinite",
+                            "fn": "linear",
+                            "delay": 0,
+                            "duration": 1,
+                            "mode": "forwards",
+                            "direction": "normal",
+                            "use": "shakeY"
+                        },
+                        {
+                            "repeat": "infinite",
+                            "fn": "linear",
+                            "delay": 0,
+                            "duration": 1.52,
+                            "mode": "forwards",
+                            "direction": "normal",
+                            "use": "fadeIn"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "rde_144",
+                "type": "rect",
+                "unit": "px",
+                "props": {
+                    "x": 221,
+                    "y": 493,
+                    "width": 200,
+                    "height": 100,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "borderwidth": 1,
+                    "bordertype": "solid",
+                    "bordercolor": "#000",
+                    "fillcolor": "",
+                    "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                    "ename": "矩形",
+                    "locked": false,
+                    "animations": [
+                        {
+                            "repeat": 3,
+                            "fn": "cubic-bezier(0.73,-0.02,0.25,0.99)",
+                            "delay": 1.5,
+                            "duration": 0.8,
+                            "mode": "forwards",
+                            "direction": "normal",
+                            "use": "heartBeat"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "success": true
+}
