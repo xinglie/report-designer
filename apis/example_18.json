@@ -45,7 +45,7 @@
                     "format": "code128",
                     "showText": true,
                     "color": "#000000",
-                    "linewidth": 2,
+                    "linewidth": 0.021,
                     "ename": "批量条码",
                     "locked": false
                 }

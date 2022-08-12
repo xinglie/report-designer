@@ -117,30 +117,6 @@
                 }
             },
             {
-                "id": "e_122",
-                "type": "svg/polyline",
-                "props": {
-                    "x": 248,
-                    "y": 220,
-                    "width": 200,
-                    "height": 100,
-                    "ctrl1X": 248,
-                    "ctrl1Y": 220,
-                    "ctrl2X": 348,
-                    "ctrl2Y": 270,
-                    "ctrl3X": 448,
-                    "ctrl3Y": 320,
-                    "reverse": false,
-                    "rotate": 29,
-                    "linewidth": 1,
-                    "dash": 0,
-                    "alpha": 1,
-                    "color": "#000000",
-                    "fillcolor": "",
-                    "ename": "折线"
-                }
-            },
-            {
                 "id": "e_135",
                 "type": "svg/triangle",
                 "props": {

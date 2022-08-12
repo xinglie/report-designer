@@ -21,12 +21,14 @@
             }
             #header{
                 height: 40px;
-                background-color: #FA742B;
+                background-color: var(--rd-fd);
                 color:#fff;
                 padding: 0 40px 0 20px;
                 margin:10px 0;
                 min-width: 1100px;
                 display: flex;
+                position: relative;
+                z-index: 202;
             }
             #left{
                 width:180px;
@@ -84,11 +86,11 @@
         <div id="foot">
             
         </div>
-        <script src="dist/designer.js?v=202208051356"></script>
+        <script src="dist/designer.js?v=202208121829"></script>
         <script>
             let setup=()=>{
                 designer.setup({
-            version:'202208051356',
+            version:'202208121829',
                     rootId:'app',
                     split:true,
                     panels:{
