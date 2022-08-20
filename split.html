@@ -21,7 +21,7 @@
             }
             #header{
                 height: 40px;
-                background-color: var(--rd-fd);
+                background-color: var(--rd-bv);
                 color:#fff;
                 padding: 0 40px 0 20px;
                 margin:10px 0;
@@ -56,7 +56,6 @@
                 border: solid 1px #ccc;
             }
         </style>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
     </head>
     <body>
         <div class="head">
@@ -86,11 +85,11 @@
         <div id="foot">
             
         </div>
-        <script src="dist/designer.js?v=202208121842"></script>
+        <script src="dist/designer.js?v=202208200840"></script>
         <script>
             let setup=()=>{
                 designer.setup({
-            version:'202208121842',
+            version:'202208200840',
                     rootId:'app',
                     split:true,
                     panels:{
@@ -139,7 +138,7 @@
                 destroyBtn.disabled=true;
                 setupBtn.disabled=false;
             });
-            setup();
+            setup();(()=>{let s=document.createElement('link');s.rel='stylesheet';s.href='//cdn.bootcdn.net/ajax/libs/animate.css/4.1.1/animate.min.css';document.head.append(s)})();
         </script>
     </body>
 </html>

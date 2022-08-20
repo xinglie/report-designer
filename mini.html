@@ -6,7 +6,6 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
         <link type="image/x-icon" href="//gw.alicdn.com/tfs/TB1gRomUlr0gK0jSZFnXXbRRXXa-200-200.png" rel="shortcut icon">
         <title>嵌入模式测试页</title>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
     </head>
     <body>
         <div>
@@ -31,15 +30,16 @@
             <input placeholder="外部输入框测试" />
             bottom text
         </div>
-        <script src="dist/designer.js?v=202208121842"></script>
+        <script src="dist/designer.js?v=202208200840"></script>
         <script>
         let setup=()=>{
                 designer.setup({
-            version:'202208121842',
+            version:'202208200840',
                     rootId:'app',
                     mini:true,
                     getImageUrl:'./apis/images.json',
                     getFieldUrl:'./apis/fields.json',
+                    viewerUrl:'./print.html?from=xl',
                     //getTemplateUrl:'./apis/example.json',
                 });
             };
@@ -56,6 +56,7 @@
                 setupBtn.disabled=false;
             });
             setup();
+            (()=>{let s=document.createElement('link');s.rel='stylesheet';s.href='//cdn.bootcdn.net/ajax/libs/animate.css/4.1.1/animate.min.css';document.head.append(s)})();
         </script>
     </body>
 </html>

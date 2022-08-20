@@ -8,7 +8,6 @@
         <title>独立使用测试</title>
         <style>body{margin:0;padding:0}.root{position:relative;left:100px;top:100px}
         html body .red{border-color:red!important}</style>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
     </head>
     <body>
         <div class="root">
@@ -18,7 +17,7 @@
             <div id="table"></div>
             <div id="data_table"></div>
         </div>
-        <script src="dist/viewer.js?v=202208121842"></script>
+        <script src="dist/viewer.js?v=202208200840"></script>
         <script>
             document.addEventListener('elementinput',e=>{
                 for(let input of e.elementInputs){
@@ -1449,7 +1448,7 @@
                     "ename": "数据表格"
                 }
             });
-        });
+        });(()=>{let s=document.createElement('link');s.rel='stylesheet';s.href='//cdn.bootcdn.net/ajax/libs/animate.css/4.1.1/animate.min.css';document.head.append(s)})();
         </script>
     </body>
 </html>

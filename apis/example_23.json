@@ -137,9 +137,9 @@
                                                     ]
                                                 },
                                                 "format": "",
-                                                "autoReturn": false,
+                                                "autoHeight": false,
                                                 "fontsize": 14,
-                                                "fontfamily": "Microsoft YaHei",
+                                                "fontfamily": "monospace",
                                                 "alpha": 1,
                                                 "letterspacing": 0,
                                                 "background": "",
