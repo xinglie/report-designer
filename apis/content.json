@@ -191,7 +191,7 @@
                                                     }
                                                 ],
                                                 "bind": {
-                                                    "url": "apis/person.json",
+                                                    "tag": "apis/person.json",
                                                     "id": "3"
                                                 },
                                                 "x": 20,
@@ -222,7 +222,7 @@
                                                 "rotate": 0,
                                                 "text": "通过地址栏的id和配置项getContentUrl，可以在打印页面通过id获取内容后打印。打印页面和设计器是相互独立且可以互相配合的。",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -599,7 +599,7 @@
                                                 "rotate": 0,
                                                 "text": "这里放总计",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -631,7 +631,7 @@
                         }
                     ],
                     "bind": {
-                        "url": "apis/report.json",
+                        "tag": "apis/report.json",
                         "id": "2"
                     },
                     "x": 44,

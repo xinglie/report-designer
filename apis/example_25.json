@@ -31,7 +31,7 @@
                     "rotate": 0,
                     "alpha": 1,
                     "bind": {
-                        "url": "apis/person.json",
+                        "tag": "apis/person.json",
                         "id": "3",
                         "fields": [
                             {
@@ -62,7 +62,7 @@
                     "rotate": 0,
                     "alpha": 1,
                     "bind": {
-                        "url": "apis/report.json",
+                        "tag": "apis/report.json",
                         "id": "2",
                         "fields": [
                             {
@@ -88,7 +88,7 @@
                     "height": 25,
                     "rotate": 0,
                     "bind": {
-                        "url": "apis/person.json",
+                        "tag": "apis/person.json",
                         "id": "3",
                         "fields": [
                             {

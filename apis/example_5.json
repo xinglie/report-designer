@@ -161,7 +161,7 @@
                                                 "rotate": 0,
                                                 "text": "复杂表头",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -217,7 +217,7 @@
                                                 "text": "",
                                                 "bind": {
                                                     "id": "3",
-                                                    "url": "apis/person.json",
+                                                    "tag": "apis/person.json",
                                                     "fields": [
                                                         {
                                                             "name": "性别",
@@ -272,7 +272,7 @@
                                                 "text": "",
                                                 "bind": {
                                                     "id": "3",
-                                                    "url": "apis/person.json",
+                                                    "tag": "apis/person.json",
                                                     "fields": [
                                                         {
                                                             "name": "身份证号",
@@ -327,7 +327,7 @@
                                                 "text": "",
                                                 "bind": {
                                                     "id": "3",
-                                                    "url": "apis/person.json",
+                                                    "tag": "apis/person.json",
                                                     "fields": [
                                                         {
                                                             "name": "无数据1",
@@ -438,7 +438,7 @@
                         }
                     ],
                     "bind": {
-                        "url": "apis/person.json",
+                        "tag": "apis/person.json",
                         "id": "3"
                     },
                     "x": 7.063,

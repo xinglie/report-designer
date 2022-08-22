@@ -31,7 +31,7 @@
                     "alpha": 1,
                     "image": "//img-qn-5.51miz.com/preview/element/00/01/25/29/E-1252976-DA5E56E5.jpg!/quality/90/unsharp/true/compress/true/format/jpg/fh/400",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -53,7 +53,7 @@
                     "alpha": 1,
                     "image": "//img-qn-0.51miz.com/preview/element/00/01/25/36/E-1253688-4BFE1D15.jpg!/quality/90/unsharp/true/compress/true/format/jpg/fh/400",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -79,7 +79,7 @@
                     "alpha": 1,
                     "text": "xinglie",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -119,7 +119,7 @@
                                                 "rotate": 0,
                                                 "text": "",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },

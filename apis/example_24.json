@@ -44,7 +44,7 @@
                                                 "text": "",
                                                 "bind": {
                                                     "id": "3",
-                                                    "url": "apis/person.json",
+                                                    "tag": "apis/person.json",
                                                     "fields": [
                                                         {
                                                             "name": "姓名",
@@ -88,7 +88,7 @@
                                                 "webUrl": "",
                                                 "image": "",
                                                 "bind": {
-                                                    "url": "apis/person.json",
+                                                    "tag": "apis/person.json",
                                                     "id": "3",
                                                     "fields": [
                                                         {
@@ -115,7 +115,7 @@
                                                 "rotate": 0,
                                                 "text": "",
                                                 "bind": {
-                                                    "url": "apis/person.json",
+                                                    "tag": "apis/person.json",
                                                     "id": "3",
                                                     "fields": [
                                                         {
@@ -171,7 +171,7 @@
                     "alpha": 1,
                     "bind": {
                         "id": 3,
-                        "url": "apis/person.json",
+                        "tag": "apis/person.json",
                         "fields": []
                     },
                     "hspace": 10,

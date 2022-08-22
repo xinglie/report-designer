@@ -32,7 +32,7 @@
                     "rotate": 0,
                     "text": "多编辑区测试",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -116,7 +116,7 @@
                     "alpha": 1,
                     "text": "test",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -139,7 +139,7 @@
                     "alpha": 1,
                     "image": "//img-qn-5.51miz.com/preview/element/00/01/25/35/E-1253592-654D0D83.jpg!/quality/90/unsharp/true/compress/true/format/jpg/fh/400",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -155,7 +155,7 @@
                     "x": 399,
                     "y": 408,
                     "bind": {
-                        "url": "apis/area.json",
+                        "tag": "apis/area.json",
                         "id": "1",
                         "fields": [
                             {
@@ -205,7 +205,7 @@
                     "alpha": 1,
                     "text": "report designer",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },

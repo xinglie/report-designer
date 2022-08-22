@@ -31,7 +31,7 @@
                     "rotate": 0,
                     "alpha": 1,
                     "bind": {
-                        "url": "apis/area.json",
+                        "tag": "apis/area.json",
                         "id": "1",
                         "fields": [
                             {

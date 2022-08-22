@@ -33,7 +33,7 @@
                     "rotate": 0,
                     "text": "XX快递",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -72,7 +72,7 @@
                     "rotate": 0,
                     "text": "2021-09-13 16:45:00",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -112,7 +112,7 @@
                     "alpha": 1,
                     "text": "5101941328100",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -170,7 +170,7 @@
                     "rotate": 0,
                     "text": "寄件人：张三",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -211,7 +211,7 @@
                     "rotate": 0,
                     "text": "地址：北京海淀中关村科贸写字楼1921",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -252,7 +252,7 @@
                     "rotate": 0,
                     "text": "计费重量(KG)：1",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -293,7 +293,7 @@
                     "rotate": 0,
                     "text": "电话：400-616-5051",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -334,7 +334,7 @@
                     "rotate": 0,
                     "text": "保价金额：500.00元",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -373,7 +373,7 @@
                     "rotate": 0,
                     "text": "收件人：李四",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -414,7 +414,7 @@
                     "rotate": 0,
                     "text": "城市：长春市",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -455,7 +455,7 @@
                     "rotate": 0,
                     "text": "电话：18888888888　010-99999999",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -496,7 +496,7 @@
                     "rotate": 0,
                     "text": "邮编：100000",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -537,7 +537,7 @@
                     "rotate": 0,
                     "text": "地址：北京市建国门外大街国贸大厦",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -578,7 +578,7 @@
                     "rotate": 0,
                     "text": "收件人签名：",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -619,7 +619,7 @@
                     "rotate": 0,
                     "text": "签收时间：　　　年　　　月　　　日　　　时",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -680,7 +680,7 @@
                     "alpha": 1,
                     "text": "5101941328100",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -706,7 +706,7 @@
                     "rotate": 0,
                     "text": "订单ID：",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -766,7 +766,7 @@
                     "webUrl": "",
                     "image": "//img-qn-5.51miz.com/preview/element/00/01/24/89/E-1248929-D2D27F2C.jpg!/quality/90/unsharp/true/compress/true/format/jpg/fh/400",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -788,7 +788,7 @@
                     "rotate": 0,
                     "text": "快递公司LOGO区域",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },

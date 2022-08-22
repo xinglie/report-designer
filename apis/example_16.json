@@ -30,7 +30,7 @@
                     "height": 0.661,
                     "rotate": 0,
                     "bind": {
-                        "url": "apis/person.json",
+                        "tag": "apis/person.json",
                         "id": "3",
                         "fields": [
                             {

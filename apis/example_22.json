@@ -49,7 +49,7 @@
                                                 "rotate": 0,
                                                 "text": "地区自由排版打印",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -104,7 +104,7 @@
                                                 "rotate": 0,
                                                 "text": "地区标题",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -152,7 +152,7 @@
                                                 "rotate": 0,
                                                 "text": "地区标题",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -204,7 +204,7 @@
                                                 "rotate": 0,
                                                 "text": "地区标题",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -260,7 +260,7 @@
                                                 "rotate": 0,
                                                 "text": "地区标题",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -312,7 +312,7 @@
                                                 "rotate": 0,
                                                 "text": "地区标题",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -368,7 +368,7 @@
                                                 "text": "",
                                                 "bind": {
                                                     "id": "1",
-                                                    "url": "apis/area.json",
+                                                    "tag": "apis/area.json",
                                                     "fields": [
                                                         {
                                                             "name": "河北",
@@ -419,7 +419,7 @@
                                                 "text": "",
                                                 "bind": {
                                                     "id": "1",
-                                                    "url": "apis/area.json",
+                                                    "tag": "apis/area.json",
                                                     "fields": [
                                                         {
                                                             "name": "山西",
@@ -474,7 +474,7 @@
                                                 "text": "",
                                                 "bind": {
                                                     "id": "1",
-                                                    "url": "apis/area.json",
+                                                    "tag": "apis/area.json",
                                                     "fields": [
                                                         {
                                                             "name": "内蒙古",
@@ -533,7 +533,7 @@
                                                 "text": "",
                                                 "bind": {
                                                     "id": "1",
-                                                    "url": "apis/area.json",
+                                                    "tag": "apis/area.json",
                                                     "fields": [
                                                         {
                                                             "name": "吉林",
@@ -588,7 +588,7 @@
                                                 "text": "",
                                                 "bind": {
                                                     "id": "1",
-                                                    "url": "apis/area.json",
+                                                    "tag": "apis/area.json",
                                                     "fields": [
                                                         {
                                                             "name": "内蒙古",
@@ -707,7 +707,7 @@
                                                 "text": "",
                                                 "bind": {
                                                     "id": "3",
-                                                    "url": "apis/person.json",
+                                                    "tag": "apis/person.json",
                                                     "fields": [
                                                         {
                                                             "name": "姓名",
@@ -750,7 +750,7 @@
                                                 "text": "",
                                                 "bind": {
                                                     "id": "3",
-                                                    "url": "apis/person.json",
+                                                    "tag": "apis/person.json",
                                                     "fields": [
                                                         {
                                                             "name": "性别",
@@ -786,7 +786,7 @@
                         }
                     ],
                     "bind": {
-                        "url": "apis/area.json",
+                        "tag": "apis/area.json",
                         "id": 1
                     },
                     "x": 20,

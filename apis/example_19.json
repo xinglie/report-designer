@@ -119,7 +119,7 @@
                     "rotate": 0,
                     "text": "",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -154,7 +154,7 @@
                     "webUrl": "",
                     "image": "",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -177,7 +177,7 @@
                     "webUrl": "",
                     "image": "",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -203,7 +203,7 @@
                     "alpha": 1,
                     "text": "",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -223,7 +223,7 @@
                     "alpha": 1,
                     "text": "",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },

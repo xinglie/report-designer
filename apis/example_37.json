@@ -230,7 +230,7 @@
                         }
                     ],
                     "bind": {
-                        "url": "apis/area.json",
+                        "tag": "apis/area.json",
                         "id": "1"
                     },
                     "x": 109,

@@ -43,7 +43,7 @@
                                                 "rotate": 0,
                                                 "text": "普通处方",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -81,7 +81,7 @@
                                                 "rotate": 0,
                                                 "text": "某某某医院某某科室",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -121,7 +121,7 @@
                                                 "rotate": 0,
                                                 "text": "处方笺",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -176,7 +176,7 @@
                                                 "rotate": 0,
                                                 "text": "门诊/住院号：",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -233,7 +233,7 @@
                                                 "rotate": 0,
                                                 "text": "科室：",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -292,7 +292,7 @@
                                                 "rotate": 0,
                                                 "text": "床号：",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -351,7 +351,7 @@
                                                 "rotate": 0,
                                                 "text": "姓名：",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -410,7 +410,7 @@
                                                 "rotate": 0,
                                                 "text": "性别：",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -469,7 +469,7 @@
                                                 "rotate": 0,
                                                 "text": "年龄：",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -528,7 +528,7 @@
                                                 "rotate": 0,
                                                 "text": "临床诊断：",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -606,7 +606,7 @@
                                                 "rotate": 0,
                                                 "text": "医师：",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -665,7 +665,7 @@
                                                 "rotate": 0,
                                                 "text": "金额：",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -724,7 +724,7 @@
                                                 "rotate": 0,
                                                 "text": "药师（审核、核对、发药）：",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -783,7 +783,7 @@
                                                 "rotate": 0,
                                                 "text": "调配：",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -840,7 +840,7 @@
                                                 "rotate": 0,
                                                 "text": "Rp.",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -879,7 +879,7 @@
                                                 "text": "",
                                                 "bind": {
                                                     "id": "3",
-                                                    "url": "apis/person.json",
+                                                    "tag": "apis/person.json",
                                                     "fields": [
                                                         {
                                                             "name": "身份证号",
@@ -934,7 +934,7 @@
                     "alpha": 1,
                     "bind": {
                         "id": 3,
-                        "url": "apis/person.json",
+                        "tag": "apis/person.json",
                         "fields": []
                     },
                     "hspace": 5.29,

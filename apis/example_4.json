@@ -50,7 +50,7 @@
                                                 "rotate": 0,
                                                 "text": "自由表格排版",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -105,7 +105,7 @@
                                                 "rotate": 0,
                                                 "text": "姓名",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -157,7 +157,7 @@
                                                 "rotate": 0,
                                                 "text": "性别",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -209,7 +209,7 @@
                                                 "rotate": 0,
                                                 "text": "地址",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -265,7 +265,7 @@
                                                 "text": "",
                                                 "bind": {
                                                     "id": "3",
-                                                    "url": "apis/person.json",
+                                                    "tag": "apis/person.json",
                                                     "fields": [
                                                         {
                                                             "name": "姓名",
@@ -320,7 +320,7 @@
                                                 "text": "",
                                                 "bind": {
                                                     "id": "3",
-                                                    "url": "apis/person.json",
+                                                    "tag": "apis/person.json",
                                                     "fields": [
                                                         {
                                                             "name": "性别",
@@ -375,7 +375,7 @@
                                                 "text": "",
                                                 "bind": {
                                                     "id": "3",
-                                                    "url": "apis/person.json",
+                                                    "tag": "apis/person.json",
                                                     "fields": [
                                                         {
                                                             "name": "地址",
@@ -473,7 +473,7 @@
                                                 "rotate": 0,
                                                 "text": "自由表格排版尾页",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -505,7 +505,7 @@
                         }
                     ],
                     "bind": {
-                        "url": "apis/person.json",
+                        "tag": "apis/person.json",
                         "id": "3"
                     },
                     "x": 3.594,

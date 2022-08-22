@@ -65,7 +65,7 @@
                                                 "rotate": 0,
                                                 "text": "填写人：",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },

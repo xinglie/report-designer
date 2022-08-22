@@ -492,7 +492,7 @@
                         }
                     ],
                     "bind": {
-                        "url": "apis/report.json",
+                        "tag": "apis/report.json",
                         "id": "2"
                     },
                     "x": 38,

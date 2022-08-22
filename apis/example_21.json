@@ -33,7 +33,7 @@
                     "webUrl": "",
                     "image": "",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -61,7 +61,7 @@
                     "webUrl": "",
                     "image": "",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },

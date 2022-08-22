@@ -243,7 +243,7 @@
                                                     }
                                                 ],
                                                 "bind": {
-                                                    "url": "apis/person.json",
+                                                    "tag": "apis/person.json",
                                                     "id": "3"
                                                 },
                                                 "x": 118,
@@ -927,7 +927,7 @@
                                                     }
                                                 ],
                                                 "bind": {
-                                                    "url": "apis/person.json",
+                                                    "tag": "apis/person.json",
                                                     "id": "3"
                                                 },
                                                 "x": 94,
@@ -948,7 +948,7 @@
                         }
                     ],
                     "bind": {
-                        "url": "apis/report.json",
+                        "tag": "apis/report.json",
                         "id": "2"
                     },
                     "x": 19,

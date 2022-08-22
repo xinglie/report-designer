@@ -30,7 +30,7 @@
                     "height": 25,
                     "rotate": 30,
                     "bind": {
-                        "url": "apis/person.json",
+                        "tag": "apis/person.json",
                         "id": "3",
                         "fields": [
                             {
@@ -76,7 +76,7 @@
                     "height": 25,
                     "rotate": 212,
                     "bind": {
-                        "url": "apis/person.json",
+                        "tag": "apis/person.json",
                         "id": "3",
                         "fields": [
                             {
@@ -122,7 +122,7 @@
                     "height": 25,
                     "rotate": 127,
                     "bind": {
-                        "url": "apis/person.json",
+                        "tag": "apis/person.json",
                         "id": "3",
                         "fields": [
                             {
@@ -168,7 +168,7 @@
                     "height": 25,
                     "rotate": 317,
                     "bind": {
-                        "url": "apis/person.json",
+                        "tag": "apis/person.json",
                         "id": "3",
                         "fields": [
                             {

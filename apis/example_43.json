@@ -132,7 +132,7 @@
                                                 "rotate": 0,
                                                 "text": "页脚",
                                                 "bind": {
-                                                    "url": "",
+                                                    "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
@@ -189,7 +189,7 @@
                     "rotate": 0,
                     "text": "封面",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -221,7 +221,7 @@
                     "alpha": 1,
                     "image": "//img-qn-0.51miz.com/preview/element/00/01/25/24/E-1252413-D3F4FA91.jpg!/quality/90/unsharp/true/compress/true/format/jpg/fh/400",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -241,7 +241,7 @@
                     "rotate": 0,
                     "text": "尾页",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -870,7 +870,7 @@
                         }
                     ],
                     "bind": {
-                        "url": "apis/person.json",
+                        "tag": "apis/person.json",
                         "id": "3"
                     },
                     "x": 87,

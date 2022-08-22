@@ -803,7 +803,7 @@
                         }
                     ],
                     "bind": {
-                        "url": "apis/person.json",
+                        "tag": "apis/person.json",
                         "id": "3"
                     },
                     "x": 61,

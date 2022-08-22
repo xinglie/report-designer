@@ -119,7 +119,7 @@
                     "text": "",
                     "bind": {
                         "id": "5",
-                        "url": "apis/asset.json",
+                        "tag": "apis/asset.json",
                         "name": "地区测试",
                         "fields": [
                             {

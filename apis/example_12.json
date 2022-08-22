@@ -597,7 +597,7 @@
                     "rotate": 0,
                     "text": "BP项目1",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -653,7 +653,7 @@
                     "rotate": 0,
                     "text": "基础环境",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -693,7 +693,7 @@
                     "rotate": 0,
                     "text": "业务",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -1272,7 +1272,7 @@
                     "rotate": 0,
                     "text": "magix-ports",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },

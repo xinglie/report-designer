@@ -2,7 +2,7 @@
     "data": [
         {
             "name": "人物信息",
-            "url": "apis/person.json",
+            "tag": "apis/person.json",
             "id": 3,
             "opened": true,
             "fields": [
@@ -47,7 +47,7 @@
         },
         {
             "name": "报表字段",
-            "url": "apis/report.json",
+            "tag": "apis/report.json",
             "id": 2,
             "fields": [
                 {
@@ -90,7 +90,7 @@
         },
         {
             "name": "地区数据",
-            "url": "apis/area.json",
+            "tag": "apis/area.json",
             "id": 1,
             "fields": [
                 {
@@ -205,7 +205,7 @@
         },
         {
             "name": "富文本",
-            "url": "apis/richtext.json",
+            "tag": "apis/richtext.json",
             "id": 4,
             "fields": [
                 {
@@ -228,7 +228,7 @@
         },
         {
             "name": "资产卡片",
-            "url": "apis/asset.json",
+            "tag": "apis/asset.json",
             "id": 5,
             "fields": [
                 {
@@ -251,7 +251,7 @@
         },
         {
             "name": "表单绑定",
-            "url": "apis/form.json",
+            "tag": "apis/form.json",
             "id": 6,
             "fields": [
                 {

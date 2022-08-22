@@ -30,7 +30,7 @@
                     "pinX": true,
                     "text": "X坐标固定的元素",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -64,7 +64,7 @@
                     "pinY": true,
                     "text": "Y坐标固定的元素",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -99,7 +99,7 @@
                     "pinY": true,
                     "text": "X,Y坐标均固定的元素",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -133,7 +133,7 @@
                     "alpha": 1,
                     "image": "",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
@@ -154,7 +154,7 @@
                     "rotate": 0,
                     "text": "",
                     "bind": {
-                        "url": "",
+                        "tag": "",
                         "id": "",
                         "fields": []
                     },
