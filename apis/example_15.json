@@ -35,7 +35,7 @@
                         "fields": [
                             {
                                 "name": "地址",
-                                "id": "addr"
+                                "key": "addr"
                             }
                         ]
                     },
@@ -81,7 +81,7 @@
                         "fields": [
                             {
                                 "name": "地址",
-                                "id": "addr"
+                                "key": "addr"
                             }
                         ]
                     },
@@ -127,7 +127,7 @@
                         "fields": [
                             {
                                 "name": "地址",
-                                "id": "addr"
+                                "key": "addr"
                             }
                         ]
                     },
@@ -173,7 +173,7 @@
                         "fields": [
                             {
                                 "name": "地址",
-                                "id": "addr"
+                                "key": "addr"
                             }
                         ]
                     },

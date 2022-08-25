@@ -48,7 +48,7 @@
                                                     "fields": [
                                                         {
                                                             "name": "姓名",
-                                                            "id": "name"
+                                                            "key": "name"
                                                         }
                                                     ]
                                                 },
@@ -93,7 +93,7 @@
                                                     "fields": [
                                                         {
                                                             "name": "头像",
-                                                            "id": "avatar"
+                                                            "key": "avatar"
                                                         }
                                                     ]
                                                 },
@@ -120,7 +120,7 @@
                                                     "fields": [
                                                         {
                                                             "name": "地址",
-                                                            "id": "addr"
+                                                            "key": "addr"
                                                         }
                                                     ]
                                                 },

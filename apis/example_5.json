@@ -221,7 +221,7 @@
                                                     "fields": [
                                                         {
                                                             "name": "性别",
-                                                            "id": "gender"
+                                                            "key": "gender"
                                                         }
                                                     ]
                                                 },
@@ -276,7 +276,7 @@
                                                     "fields": [
                                                         {
                                                             "name": "身份证号",
-                                                            "id": "idn"
+                                                            "key": "idn"
                                                         }
                                                     ]
                                                 },
@@ -331,7 +331,7 @@
                                                     "fields": [
                                                         {
                                                             "name": "无数据1",
-                                                            "id": "nodata1"
+                                                            "key": "nodata1"
                                                         }
                                                     ]
                                                 },

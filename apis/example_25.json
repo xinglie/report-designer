@@ -36,7 +36,7 @@
                         "fields": [
                             {
                                 "name": "身份证号",
-                                "id": "idn"
+                                "key": "idn"
                             }
                         ]
                     },
@@ -67,7 +67,7 @@
                         "fields": [
                             {
                                 "name": "点击量",
-                                "id": "f2"
+                                "key": "f2"
                             }
                         ]
                     },
@@ -93,7 +93,7 @@
                         "fields": [
                             {
                                 "name": "地址",
-                                "id": "addr"
+                                "key": "addr"
                             }
                         ]
                     },

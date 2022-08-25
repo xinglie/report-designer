@@ -269,7 +269,7 @@
                                                     "fields": [
                                                         {
                                                             "name": "姓名",
-                                                            "id": "name"
+                                                            "key": "name"
                                                         }
                                                     ]
                                                 },
@@ -324,7 +324,7 @@
                                                     "fields": [
                                                         {
                                                             "name": "性别",
-                                                            "id": "gender"
+                                                            "key": "gender"
                                                         }
                                                     ]
                                                 },
@@ -379,7 +379,7 @@
                                                     "fields": [
                                                         {
                                                             "name": "地址",
-                                                            "id": "addr"
+                                                            "key": "addr"
                                                         }
                                                     ]
                                                 },

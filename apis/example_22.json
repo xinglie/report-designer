@@ -372,7 +372,7 @@
                                                     "fields": [
                                                         {
                                                             "name": "河北",
-                                                            "id": "area_13"
+                                                            "key": "area_13"
                                                         }
                                                     ]
                                                 },
@@ -423,7 +423,7 @@
                                                     "fields": [
                                                         {
                                                             "name": "山西",
-                                                            "id": "area_14"
+                                                            "key": "area_14"
                                                         }
                                                     ]
                                                 },
@@ -478,7 +478,7 @@
                                                     "fields": [
                                                         {
                                                             "name": "内蒙古",
-                                                            "id": "area_15"
+                                                            "key": "area_15"
                                                         }
                                                     ]
                                                 },
@@ -537,7 +537,7 @@
                                                     "fields": [
                                                         {
                                                             "name": "吉林",
-                                                            "id": "area_22"
+                                                            "key": "area_22"
                                                         }
                                                     ]
                                                 },
@@ -592,7 +592,7 @@
                                                     "fields": [
                                                         {
                                                             "name": "内蒙古",
-                                                            "id": "area_15"
+                                                            "key": "area_15"
                                                         }
                                                     ]
                                                 },
@@ -711,7 +711,7 @@
                                                     "fields": [
                                                         {
                                                             "name": "姓名",
-                                                            "id": "name"
+                                                            "key": "name"
                                                         }
                                                     ]
                                                 },
@@ -754,7 +754,7 @@
                                                     "fields": [
                                                         {
                                                             "name": "性别",
-                                                            "id": "gender"
+                                                            "key": "gender"
                                                         }
                                                     ]
                                                 },

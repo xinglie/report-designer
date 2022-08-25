@@ -35,7 +35,7 @@
                         "fields": [
                             {
                                 "name": "身份证号",
-                                "id": "idn"
+                                "key": "idn"
                             }
                         ]
                     },

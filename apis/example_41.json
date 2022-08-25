@@ -160,15 +160,15 @@
                         "fields": [
                             {
                                 "name": "山西",
-                                "id": "area_14"
+                                "key": "area_14"
                             },
                             {
                                 "name": "辽宁",
-                                "id": "area_21"
+                                "key": "area_21"
                             },
                             {
                                 "name": "内蒙古",
-                                "id": "area_15"
+                                "key": "area_15"
                             }
                         ]
                     },

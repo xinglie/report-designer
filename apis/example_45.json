@@ -124,7 +124,7 @@
                         "fields": [
                             {
                                 "name": "资产编码",
-                                "id": "assetcode"
+                                "key": "assetcode"
                             }
                         ]
                     },

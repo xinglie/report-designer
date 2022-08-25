@@ -8,7 +8,7 @@
             "fields": [
                 {
                     "name": "头像",
-                    "id": "avatar",
+                    "key": "avatar",
                     "use": "image",
                     "props": {
                         "width": 150,
@@ -17,31 +17,31 @@
                 },
                 {
                     "name": "姓名",
-                    "id": "name"
+                    "key": "name"
                 },
                 {
                     "name": "性别",
-                    "id": "gender"
+                    "key": "gender"
                 },
                 {
                     "name": "地址",
-                    "id": "addr"
+                    "key": "addr"
                 },
                 {
                     "name": "身份证号",
-                    "id": "idn"
+                    "key": "idn"
                 },
                 {
                     "name": "无数据1",
-                    "id": "nodata1"
+                    "key": "nodata1"
                 },
                 {
                     "name": "无数据2",
-                    "id": "nodata2"
+                    "key": "nodata2"
                 },
                 {
                     "name": "无数据3",
-                    "id": "nodata3"
+                    "key": "nodata3"
                 }
             ]
         },
@@ -52,39 +52,39 @@
             "fields": [
                 {
                     "name": "展现量",
-                    "id": "f1"
+                    "key": "f1"
                 },
                 {
                     "name": "点击量",
-                    "id": "f2"
+                    "key": "f2"
                 },
                 {
                     "name": "点击率",
-                    "id": "f3"
+                    "key": "f3"
                 },
                 {
                     "name": "关注",
-                    "id": "f4"
+                    "key": "f4"
                 },
                 {
                     "name": "收藏量",
-                    "id": "f5"
+                    "key": "f5"
                 },
                 {
                     "name": "成交量",
-                    "id": "f6"
+                    "key": "f6"
                 },
                 {
                     "name": "成效金额",
-                    "id": "f7"
+                    "key": "f7"
                 },
                 {
                     "name": "千次展现成本",
-                    "id": "f8"
+                    "key": "f8"
                 },
                 {
                     "name": "预售金额",
-                    "id": "f9"
+                    "key": "f9"
                 }
             ]
         },
@@ -95,111 +95,111 @@
             "fields": [
                 {
                     "name": "河北",
-                    "id": "area_13"
+                    "key": "area_13"
                 },
                 {
                     "name": "山西",
-                    "id": "area_14"
+                    "key": "area_14"
                 },
                 {
                     "name": "内蒙古",
-                    "id": "area_15"
+                    "key": "area_15"
                 },
                 {
                     "name": "辽宁",
-                    "id": "area_21"
+                    "key": "area_21"
                 },
                 {
                     "name": "吉林",
-                    "id": "area_22"
+                    "key": "area_22"
                 },
                 {
                     "name": "黑龙江",
-                    "id": "area_23"
+                    "key": "area_23"
                 },
                 {
                     "name": "江苏",
-                    "id": "area_32"
+                    "key": "area_32"
                 },
                 {
                     "name": "浙江",
-                    "id": "area_33"
+                    "key": "area_33"
                 },
                 {
                     "name": "安徽",
-                    "id": "area_34"
+                    "key": "area_34"
                 },
                 {
                     "name": "福建",
-                    "id": "area_35"
+                    "key": "area_35"
                 },
                 {
                     "name": "江西",
-                    "id": "area_36"
+                    "key": "area_36"
                 },
                 {
                     "name": "山东",
-                    "id": "area_37"
+                    "key": "area_37"
                 },
                 {
                     "name": "河南",
-                    "id": "area_41"
+                    "key": "area_41"
                 },
                 {
                     "name": "湖北",
-                    "id": "area_42"
+                    "key": "area_42"
                 },
                 {
                     "name": "湖南",
-                    "id": "area_43"
+                    "key": "area_43"
                 },
                 {
                     "name": "广东",
-                    "id": "area_44"
+                    "key": "area_44"
                 },
                 {
                     "name": "广西",
-                    "id": "area_45"
+                    "key": "area_45"
                 },
                 {
                     "name": "海南",
-                    "id": "area_46"
+                    "key": "area_46"
                 },
                 {
                     "name": "四川",
-                    "id": "area_51"
+                    "key": "area_51"
                 },
                 {
                     "name": "贵州",
-                    "id": "area_52"
+                    "key": "area_52"
                 },
                 {
                     "name": "云南",
-                    "id": "area_53"
+                    "key": "area_53"
                 },
                 {
                     "name": "西藏",
-                    "id": "area_54"
+                    "key": "area_54"
                 },
                 {
                     "name": "陕西",
-                    "id": "area_61"
+                    "key": "area_61"
                 },
                 {
                     "name": "甘肃",
-                    "id": "area_62"
+                    "key": "area_62"
                 },
                 {
                     "name": "青海",
-                    "id": "area_63"
+                    "key": "area_63"
                 },
                 {
                     "name": "宁夏",
-                    "id": "area_64"
+                    "key": "area_64"
                 },
                 {
                     "name": "新疆",
-                    "id": "area_65"
+                    "key": "area_65"
                 }
             ]
         },
@@ -210,7 +210,7 @@
             "fields": [
                 {
                     "name": "片断1",
-                    "id": "p1",
+                    "key": "p1",
                     "use": "data-richtext",
                     "props": {
                         "width": 500
@@ -218,7 +218,7 @@
                 },
                 {
                     "name": "片断2",
-                    "id": "p2",
+                    "key": "p2",
                     "use": "data-richtext",
                     "props": {
                         "width": 500
@@ -233,19 +233,19 @@
             "fields": [
                 {
                     "name": "资产编码",
-                    "id": "assetcode"
+                    "key": "assetcode"
                 },
                 {
                     "name": "资产名称",
-                    "id": "assetname"
+                    "key": "assetname"
                 },
                 {
                     "name": "投用日期",
-                    "id": "assetdate"
+                    "key": "assetdate"
                 },
                 {
                     "name": "使用部门",
-                    "id": "assetdept"
+                    "key": "assetdept"
                 }
             ]
         },
@@ -256,22 +256,22 @@
             "fields": [
                 {
                     "name": "下拉、单选、多选",
-                    "id": "item",
+                    "key": "item",
                     "use": "form-checkbox"
                 },
                 {
                     "name": "中文名称",
-                    "id": "item1",
+                    "key": "item1",
                     "use": "form-dropdown"
                 },
                 {
                     "name": "标签",
-                    "id": "tags",
+                    "key": "tags",
                     "use": "tag"
                 },
                 {
                     "name": "输入框绑定",
-                    "id": "input",
+                    "key": "input",
                     "use": "form-input"
                 }
             ]
