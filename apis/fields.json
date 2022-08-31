@@ -204,7 +204,7 @@
             ]
         },
         {
-            "name": "富文本",
+            "name": "富文本1",
             "tag": "apis/richtext.json",
             "id": 4,
             "fields": [
