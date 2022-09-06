@@ -46,6 +46,25 @@
             ]
         },
         {
+            "name": "物联网",
+            "tag": "apis/iot.json",
+            "id": "iot",
+            "fields": [
+                {
+                    "name": "温度计",
+                    "key": "001"
+                },
+                {
+                    "name": "水位",
+                    "key": "002"
+                },
+                {
+                    "name": "阀门",
+                    "key": "003"
+                }
+            ]
+        },
+        {
             "name": "报表字段",
             "tag": "apis/report.json",
             "id": 2,
