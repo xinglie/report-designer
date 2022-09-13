@@ -25,6 +25,12 @@
             "backgroundXOffset": 0,
             "backgroundYOffset": 0
         },
+        "xs": [
+            80
+        ],
+        "ys": [
+            90
+        ],
         "groups": [],
         "elements": [
             {

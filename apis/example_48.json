@@ -1,0 +1,71 @@
+{
+    "data": {
+        "unit": "mm",
+        "page": {
+            "width": 209.79,
+            "height": 296.83,
+            "pages": 1,
+            "scaleType": "auto",
+            "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+            "copies": 1,
+            "xOffset": 0,
+            "yOffset": 0,
+            "background": "#fff",
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundXOffset": 0,
+            "backgroundYOffset": 0
+        },
+        "xs": [
+            157.14
+        ],
+        "ys": [
+            29.37
+        ],
+        "groups": [],
+        "elements": [
+            {
+                "id": "rde_l7twxz8s167",
+                "type": "image",
+                "unit": "mm",
+                "props": {
+                    "x": 31.54,
+                    "y": 31.5,
+                    "width": 52.91,
+                    "height": 26.46,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "bind": {},
+                    "target": "tab",
+                    "winWidth": 500,
+                    "winHeight": 500,
+                    "ename": "图片1",
+                    "animations": []
+                }
+            },
+            {
+                "id": "rde_l7twxz8s180",
+                "type": "qrcode",
+                "unit": "mm",
+                "props": {
+                    "x": 104.88,
+                    "y": 11.65,
+                    "width": 39.68,
+                    "height": 39.68,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "bind": {},
+                    "colorDark": "#000000",
+                    "colorLight": "#ffffff",
+                    "correctLevel": "H",
+                    "ename": "二维码1",
+                    "animations": []
+                }
+            }
+        ]
+    },
+    "success": true
+}
