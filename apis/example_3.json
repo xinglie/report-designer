@@ -27,7 +27,7 @@
                 "type": "html",
                 "unit": "mm",
                 "props": {
-                    "value": "<div>以下是自定义HTML片断，模板引擎使用underscore.template</div>\n<div style=\"color:#666\">其中data是通过属性绑定的数据，fields是绑定的字段数组</div>\n<%for(let i=0;i<data.length;i++){%>\n  <br/>\n <%for(let field of fields){%>\n  \t<div style=\"border:solid 1px red\"><%=data[i][field.key]%></div>\n  <%}%>\n<%}%>",
+                    "text": "<div>以下是自定义HTML片断，模板引擎使用underscore.template</div>\n<div style=\"color:#666\">其中data是通过属性绑定的数据，fields是绑定的字段数组</div>\n<%for(let i=0;i<data.length;i++){%>\n  <br/>\n <%for(let field of fields){%>\n  \t<div style=\"border:solid 1px red\"><%=data[i][field.key]%></div>\n  <%}%>\n<%}%>",
                     "x": 8.64,
                     "y": 7.66,
                     "width": 197.08,

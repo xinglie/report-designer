@@ -4,7 +4,8 @@
             "name": "人物信息",
             "tag": "apis/person.json",
             "id": 3,
-            "opened": true,
+            "expand": true,
+            "headless":true,
             "fields": [
                 {
                     "name": "头像",
@@ -68,6 +69,8 @@
             "name": "报表字段",
             "tag": "apis/report.json",
             "id": 2,
+            "expand": true,
+            "headless":true,
             "fields": [
                 {
                     "name": "展现量",
