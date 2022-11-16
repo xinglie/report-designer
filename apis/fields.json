@@ -5,7 +5,7 @@
             "tag": "apis/person.json",
             "id": 3,
             "expand": true,
-            "headless":true,
+            "headless":false,
             "fields": [
                 {
                     "name": "头像",
@@ -70,7 +70,7 @@
             "tag": "apis/report.json",
             "id": 2,
             "expand": true,
-            "headless":true,
+            "headless":false,
             "fields": [
                 {
                     "name": "展现量",
