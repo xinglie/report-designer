@@ -1,9 +1,13 @@
 {
-    "data": {
+    "data": [{
         "url": "//gw.alicdn.com/tfs/TB1gRomUlr0gK0jSZFnXXbRRXXa-200-200.png",
         "width": 200,
         "height": 200
-    },
+    },{
+        "url": "//gw.alicdn.com/tfs/TB1gRomUlr0gK0jSZFnXXbRRXXa-200-200.png",
+        "width": 200,
+        "height": 200
+    }],
     "success": true,
     "message": "ok"
 }

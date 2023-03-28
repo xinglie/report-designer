@@ -6,7 +6,10 @@
             "id": 3,
             "expand": true,
             "headless":false,
-            "fields": [
+            "fields": [{
+                "name":"序号",
+                "key":"order"
+            },
                 {
                     "name": "头像",
                     "key": "avatar",
