@@ -5,11 +5,12 @@
             "tag": "apis/person.json",
             "id": 3,
             "expand": true,
-            "headless":false,
-            "fields": [{
-                "name":"序号",
-                "key":"order"
-            },
+            "headless": false,
+            "fields": [
+                {
+                    "name": "序号",
+                    "key": "order"
+                },
                 {
                     "name": "头像",
                     "key": "avatar",
@@ -55,16 +56,20 @@
             "id": "iot",
             "fields": [
                 {
-                    "name": "温度计",
-                    "key": "001"
+                    "name": "温度",
+                    "key": "iot001"
                 },
                 {
                     "name": "水位",
-                    "key": "002"
+                    "key": "iot002"
                 },
                 {
                     "name": "阀门",
-                    "key": "003"
+                    "key": "iot003"
+                },
+                {
+                    "name": "资源",
+                    "key": "iot004"
                 }
             ]
         },
@@ -73,7 +78,7 @@
             "tag": "apis/report.json",
             "id": 2,
             "expand": true,
-            "headless":false,
+            "headless": false,
             "fields": [
                 {
                     "name": "展现量",

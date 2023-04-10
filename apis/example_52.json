@@ -1,0 +1,230 @@
+{
+    "data": {
+        "unit": "mm",
+        "page": {
+            "viewer": "page",
+            "width": 209.79,
+            "height": 296.83,
+            "pages": 4,
+            "scaleType": "auto",
+            "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+            "copies": 1,
+            "xOffset": 0,
+            "yOffset": 0,
+            "blank": "remove",
+            "background": "#fff",
+            "backgroundRepeat": "no-repeat",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundXOffset": 0,
+            "backgroundYOffset": 0
+        },
+        "xs": [],
+        "ys": [],
+        "groups": [],
+        "elements": [
+            {
+                "id": "rde_lfxf57u2119",
+                "type": "hod-header",
+                "unit": "mm",
+                "props": {
+                    "rows": [
+                        {
+                            "height": 15.13,
+                            "cols": [
+                                {
+                                    "width": 209.79,
+                                    "elements": [
+                                        {
+                                            "id": "rde_lfxf57u2141",
+                                            "type": "datetime",
+                                            "unit": "mm",
+                                            "props": {
+                                                "x": 2.15,
+                                                "y": 4.19,
+                                                "width": 52.91,
+                                                "height": 6.61,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "lang": "zh",
+                                                "text": "YYYY-MM-DD HH:mm:ss",
+                                                "type": "text",
+                                                "autoHeight": true,
+                                                "fontsize": 3.7,
+                                                "fontfamily": "tahoma",
+                                                "lineheight": 1.5,
+                                                "letterspacing": 0,
+                                                "forecolor": "#000",
+                                                "hpos": "center",
+                                                "vpos": "center",
+                                                "borderwidth": 0,
+                                                "bordercolor": "#000",
+                                                "bordertype": "solid",
+                                                "qrcodeColorDark": "#000000",
+                                                "qrcodeColorLight": "#ffffff",
+                                                "qrcodeCorrectLevel": "H",
+                                                "ename": "日期时间1",
+                                                "animations": []
+                                            }
+                                        }
+                                    ],
+                                    "borderRadius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                                    "borderLeftStyle": "dashed",
+                                    "borderLeftWidth": 0,
+                                    "borderLeftColor": "#cccccc",
+                                    "borderTopStyle": "dashed",
+                                    "borderTopWidth": 0,
+                                    "borderTopColor": "#cccccc",
+                                    "borderRightStyle": "dashed",
+                                    "borderRightWidth": 0,
+                                    "borderRightColor": "#cccccc",
+                                    "borderBottomStyle": "dashed",
+                                    "borderBottomWidth": 0.26,
+                                    "borderBottomColor": "#cccccc"
+                                }
+                            ]
+                        }
+                    ],
+                    "width": 209.79,
+                    "height": 15.13,
+                    "alpha": 1,
+                    "ename": "页头1",
+                    "animations": []
+                }
+            },
+            {
+                "id": "rde_lfxf57u2125",
+                "type": "hod-footer",
+                "unit": "mm",
+                "props": {
+                    "rows": [
+                        {
+                            "height": 10.58,
+                            "cols": [
+                                {
+                                    "width": 209.79,
+                                    "elements": [],
+                                    "borderRadius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                                    "borderLeftStyle": "dashed",
+                                    "borderLeftWidth": 0,
+                                    "borderLeftColor": "#cccccc",
+                                    "borderTopStyle": "dashed",
+                                    "borderTopWidth": 0.26,
+                                    "borderTopColor": "#cccccc",
+                                    "borderRightStyle": "dashed",
+                                    "borderRightWidth": 0,
+                                    "borderRightColor": "#cccccc",
+                                    "borderBottomStyle": "dashed",
+                                    "borderBottomWidth": 0,
+                                    "borderBottomColor": "#cccccc"
+                                }
+                            ]
+                        }
+                    ],
+                    "width": 209.79,
+                    "height": 10.58,
+                    "alpha": 1,
+                    "ename": "页脚1",
+                    "animations": []
+                }
+            },
+            {
+                "id": "rde_lfxf57u2175",
+                "type": "rect",
+                "unit": "mm",
+                "props": {
+                    "x": 13.68,
+                    "y": 28.51,
+                    "width": 52.91,
+                    "height": 26.46,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "borderLeftColor": "#000",
+                    "borderLeftStyle": "solid",
+                    "borderTopColor": "#000",
+                    "borderTopStyle": "solid",
+                    "borderRightColor": "#000",
+                    "borderRightStyle": "solid",
+                    "borderBottomColor": "#000",
+                    "borderBottomStyle": "solid",
+                    "borderLeftWidth": 0.26455026455026454,
+                    "borderTopWidth": 0.26455026455026454,
+                    "borderRightWidth": 0.26455026455026454,
+                    "borderBottomWidth": 0.26455026455026454,
+                    "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                    "ename": "矩形1",
+                    "animations": []
+                }
+            },
+            {
+                "id": "rde_lfxf57u2191",
+                "type": "circle",
+                "unit": "mm",
+                "props": {
+                    "x": 81.29,
+                    "y": 25.1,
+                    "width": 39.68,
+                    "height": 39.68,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "borderwidth": 0.26,
+                    "bordertype": "solid",
+                    "bordercolor": "#000",
+                    "ename": "圆形1",
+                    "animations": []
+                }
+            },
+            {
+                "id": "rde_lfxf57u2216",
+                "type": "circle",
+                "unit": "mm",
+                "props": {
+                    "x": 41.6,
+                    "y": 919.22,
+                    "width": 39.68,
+                    "height": 39.68,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "borderwidth": 0.26,
+                    "bordertype": "solid",
+                    "bordercolor": "#000",
+                    "ename": "圆形2",
+                    "animations": []
+                }
+            },
+            {
+                "id": "rde_lfxf57u2221",
+                "type": "rect",
+                "unit": "mm",
+                "props": {
+                    "x": 101.12,
+                    "y": 925.72,
+                    "width": 52.91,
+                    "height": 26.46,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "borderLeftColor": "#000",
+                    "borderLeftStyle": "solid",
+                    "borderTopColor": "#000",
+                    "borderTopStyle": "solid",
+                    "borderRightColor": "#000",
+                    "borderRightStyle": "solid",
+                    "borderBottomColor": "#000",
+                    "borderBottomStyle": "solid",
+                    "borderLeftWidth": 0.26455026455026454,
+                    "borderTopWidth": 0.26455026455026454,
+                    "borderRightWidth": 0.26455026455026454,
+                    "borderBottomWidth": 0.26455026455026454,
+                    "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                    "ename": "矩形2",
+                    "animations": []
+                }
+            }
+        ]
+    },
+    "success": true
+}

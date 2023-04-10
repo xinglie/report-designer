@@ -1,0 +1,45 @@
+{
+    "data": {
+        "unit": "mm",
+        "page": {
+            "viewer": "page",
+            "width": 209.79,
+            "height": 296.83,
+            "pages": 1,
+            "scaleType": "auto",
+            "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+            "copies": 1,
+            "xOffset": 0,
+            "yOffset": 0,
+            "blank": "keep",
+            "background": "#fff",
+            "backgroundRepeat": "no-repeat",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundXOffset": 0,
+            "backgroundYOffset": 0
+        },
+        "xs": [],
+        "ys": [],
+        "groups": [],
+        "elements": [
+            {
+                "id": "rde_lg08uwxe108",
+                "type": "html",
+                "unit": "mm",
+                "props": {
+                    "text": "<b style=\"font-size:20px\">图片打印自动缩放适应测试</b><br/>\n<br/>\n<br/>\n宽度自适应<br/>\n<img src=\"https://img.alicdn.com/tfs/TB1vGSmI.T1gK0jSZFrXXcNCXXa-1061-512.png\"/>\n<br/><br/>\n测试文字内容，如果自己指定宽度，则需要保证宽度在页面宽度内\n<img src=\"https://img.alicdn.com/tfs/TB1vGSmI.T1gK0jSZFrXXcNCXXa-1061-512.png\" style=\"width:190mm\"/>\n<br /><br/><br/><br/><br/>\n下面这个图片是故意拉伸变形进行高度测试的<br/><br/>\n<img src=\"https://img.alicdn.com/tfs/TB1vGSmI.T1gK0jSZFrXXcNCXXa-1061-512.png\" style=\"height:300mm\"/>",
+                    "x": 7.51,
+                    "y": 4.72,
+                    "width": 194.78,
+                    "height": 57.59,
+                    "alpha": 1,
+                    "bind": {},
+                    "ename": "HTML1",
+                    "animations": []
+                }
+            }
+        ]
+    },
+    "success": true
+}
