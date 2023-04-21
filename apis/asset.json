@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "assetcode": "0000001",
+            "assetname": "笔记本电脑1",
+            "assetdate": "2021-9-18",
+            "assetdept": "IT部门1"
+        },
+        {
+            "assetcode": "0000002",
+            "assetname": "笔记本电脑2",
+            "assetdate": "2021-9-18",
+            "assetdept": "IT部门2"
+        },
+        {
+            "assetcode": "0000003",
+            "assetname": "笔记本电脑3",
+            "assetdate": "2021-9-18",
+            "assetdept": "IT部门3"
+        },
+        {
+            "assetcode": "0000004",
+            "assetname": "笔记本电脑4",
+            "assetdate": "2021-9-18",
+            "assetdept": "IT部门4"
+        }
+    ],
+    "success": true,
+    "message": ""
+}
