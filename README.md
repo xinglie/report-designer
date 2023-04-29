@@ -1,5 +1,4 @@
 # report-designer
-🚀 element as image ,text etc. visiual editor.
 > 本项目提供可视化设计所需要的基础功能，比如标尺、拖动、旋转、多选、复制、粘贴、组合、无限嵌套等。在此基础之上，设计器中面板、元素则由插件化的形式提供，比如需要表格、图片则只添加这2个元素插件即可，开发人员也可以很方便的定制自己的插件
 
 #### 声明
@@ -46,8 +45,8 @@ https://github.com/xinglie/report-designer/issues/32
 https://github.com/xinglie/printer-editor
 
 
-### 授权合作
-微信ID：qq84685009 
+### 授权
+微信ID：qq84685009
 
 <img width="246" alt="author wechat" src="./wechat.jpg"/>
 
