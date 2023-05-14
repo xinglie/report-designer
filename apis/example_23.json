@@ -159,19 +159,25 @@
                                             }
                                         }
                                     ],
-                                    "borderLeftStyle": "solid",
-                                    "borderLeftWidth": 0,
                                     "borderRadius": "0% 0% 0% 0%/0% 0% 0% 0%",
-                                    "borderLeftColor": "#000000",
-                                    "borderTopStyle": "solid",
-                                    "borderTopWidth": 0,
-                                    "borderTopColor": "#000000",
-                                    "borderRightStyle": "solid",
-                                    "borderRightWidth": 0,
-                                    "borderRightColor": "#000000",
-                                    "borderBottomStyle": "solid",
-                                    "borderBottomWidth": 0,
-                                    "borderBottomColor": "#000000"
+                                    "borderStyle": [
+                                        "solid",
+                                        "solid",
+                                        "solid",
+                                        "solid"
+                                    ],
+                                    "borderWidth": [
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "borderColor": [
+                                        "#000",
+                                        "#000",
+                                        "#000",
+                                        "#000"
+                                    ]
                                 }
                             ]
                         }

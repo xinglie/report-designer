@@ -85,18 +85,24 @@
                                         }
                                     ],
                                     "borderRadius": "0% 0% 0% 0%/0% 0% 0% 0%",
-                                    "borderLeftStyle": "dashed",
-                                    "borderLeftWidth": 0,
-                                    "borderLeftColor": "#cccccc",
-                                    "borderTopStyle": "dashed",
-                                    "borderTopWidth": 0,
-                                    "borderTopColor": "#cccccc",
-                                    "borderRightStyle": "dashed",
-                                    "borderRightWidth": 0,
-                                    "borderRightColor": "#cccccc",
-                                    "borderBottomStyle": "dashed",
-                                    "borderBottomWidth": 0.26,
-                                    "borderBottomColor": "#cccccc"
+                                    "borderStyle": [
+                                        "dashed",
+                                        "dashed",
+                                        "dashed",
+                                        "dashed"
+                                    ],
+                                    "borderWidth": [
+                                        0,
+                                        0,
+                                        0.26,
+                                        0
+                                    ],
+                                    "borderColor": [
+                                        "#cccccc",
+                                        "#cccccc",
+                                        "#cccccc",
+                                        "#cccccc"
+                                    ]
                                 }
                             ]
                         }
@@ -125,18 +131,24 @@
                                     "width": 209.26,
                                     "elements": [],
                                     "borderRadius": "0% 0% 0% 0%/0% 0% 0% 0%",
-                                    "borderLeftStyle": "dashed",
-                                    "borderLeftWidth": 0,
-                                    "borderLeftColor": "#cccccc",
-                                    "borderTopStyle": "dashed",
-                                    "borderTopWidth": 0.26,
-                                    "borderTopColor": "#cccccc",
-                                    "borderRightStyle": "dashed",
-                                    "borderRightWidth": 0,
-                                    "borderRightColor": "#cccccc",
-                                    "borderBottomStyle": "dashed",
-                                    "borderBottomWidth": 0,
-                                    "borderBottomColor": "#cccccc"
+                                    "borderStyle": [
+                                        "dashed",
+                                        "dashed",
+                                        "dashed",
+                                        "dashed"
+                                    ],
+                                    "borderWidth": [
+                                        0.26,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "borderColor": [
+                                        "#cccccc",
+                                        "#cccccc",
+                                        "#cccccc",
+                                        "#cccccc"
+                                    ]
                                 }
                             ]
                         }

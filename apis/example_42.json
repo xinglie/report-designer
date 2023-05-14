@@ -117,28 +117,6 @@
                 }
             },
             {
-                "id": "e_135",
-                "type": "svg/triangle",
-                "props": {
-                    "x": 479,
-                    "y": 211,
-                    "width": 200,
-                    "height": 100,
-                    "ctrl1X": 579,
-                    "ctrl1Y": 211,
-                    "ctrl2X": 479,
-                    "ctrl2Y": 311,
-                    "ctrl3X": 679,
-                    "ctrl3Y": 311,
-                    "linewidth": 1,
-                    "dash": 0,
-                    "alpha": 1,
-                    "color": "#000000",
-                    "fillcolor": "",
-                    "ename": "三角形"
-                }
-            },
-            {
                 "id": "e_139",
                 "type": "svg/rect",
                 "props": {

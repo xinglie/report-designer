@@ -241,22 +241,24 @@
                                             }
                                         }
                                     ],
-                                    "borderLeftStyle": "solid",
-                                    "borderLeftWidth": 1,
-                                    "borderLeftTopRadius": 0,
-                                    "borderRightTopRadius": 0,
-                                    "borderLeftBottomRadius": 0,
-                                    "borderRightBottomRadius": 0,
-                                    "borderLeftColor": "#000000",
-                                    "borderTopStyle": "solid",
-                                    "borderTopWidth": 1,
-                                    "borderTopColor": "#000000",
-                                    "borderRightStyle": "solid",
-                                    "borderRightWidth": 1,
-                                    "borderRightColor": "#000000",
-                                    "borderBottomStyle": "solid",
-                                    "borderBottomWidth": 1,
-                                    "borderBottomColor": "#000000"
+                                    "borderStyle": [
+                                        "solid",
+                                        "solid",
+                                        "solid",
+                                        "solid"
+                                    ],
+                                    "borderWidth": [
+                                        1,
+                                        1,
+                                        1,
+                                        1
+                                    ],
+                                    "borderColor": [
+                                        "#000",
+                                        "#000",
+                                        "#000",
+                                        "#000"
+                                    ]
                                 }
                             ]
                         }
