@@ -150,18 +150,6 @@
             {
                 "src": "https://img-qn-0.51miz.com/preview/element/00/01/11/00/E-1110045-A43AFCAA.jpg!/quality/90/unsharp/true/compress/true/format/jpg/fh/400",
                 "title": "卡通"
-            },
-            {
-                "src": "./images/bg_1.jpg",
-                "title": "背景1"
-            },
-            {
-                "src": "./images/bg_2.png",
-                "title": "背景2"
-            },
-            {
-                "src": "./images/bg_4.jpg",
-                "title": "背景4"
             }
         ],
         "total": 10000

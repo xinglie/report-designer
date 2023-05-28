@@ -37,16 +37,24 @@
                     "key": "idn"
                 },
                 {
-                    "name": "无数据1",
-                    "key": "nodata1"
-                },
-                {
-                    "name": "无数据2",
-                    "key": "nodata2"
-                },
-                {
-                    "name": "无数据3",
-                    "key": "nodata3"
+                    "name": "无数据分组",
+                    "expand": true,
+                    "id": 3,
+                    "tag": "apis/person.json",
+                    "fields": [
+                        {
+                            "name": "无数据1",
+                            "key": "nodata1"
+                        },
+                        {
+                            "name": "无数据2",
+                            "key": "nodata2"
+                        },
+                        {
+                            "name": "无数据3",
+                            "key": "nodata3"
+                        }
+                    ]
                 }
             ]
         },
@@ -295,14 +303,21 @@
                     "use": "form-dropdown"
                 },
                 {
-                    "name": "标签",
-                    "key": "tags",
-                    "use": "tag"
-                },
-                {
-                    "name": "输入框绑定",
-                    "key": "input",
-                    "use": "form-input"
+                    "name": "子分组测试",
+                    "tag": "apis/form.json",
+                    "id": 6,
+                    "fields": [
+                        {
+                            "name": "标签",
+                            "key": "tags",
+                            "use": "tag"
+                        },
+                        {
+                            "name": "输入框绑定",
+                            "key": "input",
+                            "use": "form-input"
+                        }
+                    ]
                 }
             ]
         }

@@ -12,6 +12,7 @@
             "xOffset": 0,
             "yOffset": 0,
             "title": "",
+            "labelCol": 5,
             "background": "#fff",
             "backgroundImage": "",
             "preformat": false,

@@ -21,7 +21,7 @@
             }
             #header{
                 height: 40px;
-                background-color:/*d-cb<*/var(--rd-cD)/*>d-cb*/;
+                background-color:/*d-cb<*/var(--rd-co)/*>d-cb*/;
                 color:#fff;
                 padding: 0 40px 0 20px;
                 margin:10px 0;
@@ -41,6 +41,12 @@
                 height: 100%;
                 border: #ccc solid 1px;
                 margin:0 10px;
+            }
+            #right2{
+                width:260px;
+                height: 100%;
+                border: #ccc solid 1px;
+                margin:0 10px 0 0;
             }
             #app{
                 flex:1;
@@ -81,15 +87,18 @@
             <div id="right">
                 right
             </div>
+            <div id="right2">
+                right2
+            </div>
         </div>
         <div id="foot">
 
         </div>
-        <script src="dist/designer.js?v=202305141418"></script>
+        <script src="dist/designer.js?v=202305280955"></script>
         <script>
             let setup=()=>{
                 designer.setup({
-            version:'202305141418',
+            version:'202305280955',
                     rootId:'app',
                     split:true,
                     panels:{
@@ -106,7 +115,8 @@
                             hidden:true
                         },
                         props:{
-                            hidden:true
+                            scroll:true,
+                            to:'right2'
                         },
                         animate:{
                             to:'foot'
@@ -139,7 +149,7 @@
                 destroyBtn.disabled=true;
                 setupBtn.disabled=false;
             });
-            setup();(()=>{let s=document.createElement('link');s.rel='stylesheet';s.href='//github.elemecdn.com/animate.css@4.1.1/animate.min.css';document.head.append(s)})();
+            setup();(()=>{let s=document.createElement('link');s.rel='stylesheet';s.href='//npm.onmicrosoft.cn/animate.css@4.1.1/animate.min.css';document.head.append(s)})();
         </script>
     </body>
 </html>
