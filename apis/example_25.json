@@ -45,7 +45,7 @@
                     "format": "code128",
                     "showText": true,
                     "color": "#000000",
-                    "linewidth": 2,
+                    "linewidth": 0,
                     "ename": "批量条码",
                     "locked": false
                 }
@@ -104,7 +104,7 @@
                     "fontsize": 14,
                     "fontfamily": "tahoma",
                     "alpha": 1,
-                    "letterspacing": 0,
+                    "textgap": 0,
                     "background": "",
                     "forecolor": "#000000",
                     "styleBold": false,

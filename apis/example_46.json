@@ -26,10 +26,14 @@
             "backgroundYOffset": 0
         },
         "xs": [
-            80
+            {
+                "v": 80
+            }
         ],
         "ys": [
-            90
+            {
+                "v": 90
+            }
         ],
         "groups": [],
         "elements": [
@@ -76,7 +80,7 @@
                     "textHeight": 15,
                     "textFontsize": 9,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textBackground": "",
                     "textForecolor": "#000",
                     "textRotate": 0,
@@ -134,7 +138,7 @@
                     "textHeight": 15,
                     "textFontsize": 9,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textBackground": "",
                     "textForecolor": "#000",
                     "textRotate": 0,
@@ -192,7 +196,7 @@
                     "textHeight": 15,
                     "textFontsize": 9,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textBackground": "",
                     "textForecolor": "#000",
                     "textRotate": 0,
@@ -250,7 +254,7 @@
                     "textHeight": 15,
                     "textFontsize": 9,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textBackground": "",
                     "textForecolor": "#000",
                     "textRotate": 0,
@@ -308,7 +312,7 @@
                     "textHeight": 15,
                     "textFontsize": 9,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textBackground": "",
                     "textForecolor": "#000",
                     "textRotate": 0,
@@ -362,7 +366,7 @@
                     "textHeight": 15,
                     "textFontsize": 9,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textBackground": "",
                     "textForecolor": "#000",
                     "textRotate": 0,
@@ -396,7 +400,7 @@
                     "text": "view.digest({\n    newValue\n})",
                     "textFontsize": 10.5,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000",
                     "ename": "过程",
                     "locked": false
@@ -427,7 +431,7 @@
                     "text": "veiw ui",
                     "textFontsize": 10.5,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000",
                     "ename": "过程",
                     "locked": false
@@ -458,7 +462,7 @@
                     "text": "magix-composer",
                     "textFontsize": 10.5,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000",
                     "ename": "过程",
                     "locked": false
@@ -489,7 +493,7 @@
                     "text": "变量路径分析",
                     "textFontsize": 10.5,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000",
                     "ename": "过程",
                     "locked": false
@@ -520,7 +524,7 @@
                     "text": "plugin/datafromui  \n变量路径",
                     "textFontsize": 10.5,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000",
                     "ename": "过程",
                     "locked": false
@@ -551,7 +555,7 @@
                     "text": "change,input,focusout,...",
                     "textFontsize": 10.5,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000",
                     "ename": "过程",
                     "locked": false

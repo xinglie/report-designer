@@ -53,7 +53,7 @@
                                                 "fontsize": 3.7,
                                                 "fontfamily": "tahoma",
                                                 "lineheight": 1.5,
-                                                "letterspacing": 0,
+                                                "textgap": 0,
                                                 "forecolor": "#000",
                                                 "hpos": "center",
                                                 "vpos": "center",

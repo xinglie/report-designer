@@ -44,7 +44,7 @@
                     "dash": 0,
                     "textFontsize": 0.37,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000000",
                     "ename": "过程"
                 }
@@ -70,7 +70,7 @@
                     "dash": 0,
                     "textFontsize": 0.37,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000000",
                     "ename": "判定"
                 }
@@ -96,7 +96,7 @@
                     "dash": 0,
                     "textFontsize": 0.37,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000000",
                     "ename": "开始结束"
                 }
@@ -122,7 +122,7 @@
                     "dash": 0,
                     "textFontsize": 0.37,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000000",
                     "ename": "数据"
                 }
@@ -148,7 +148,7 @@
                     "dash": 0,
                     "textFontsize": 0.37,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000000",
                     "ename": "文档"
                 }
@@ -174,7 +174,7 @@
                     "dash": 0,
                     "textFontsize": 0.37,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000000",
                     "ename": "子流程"
                 }
@@ -200,7 +200,7 @@
                     "dash": 0,
                     "textFontsize": 0.37,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000000",
                     "ename": "人工输入"
                 }
@@ -226,7 +226,7 @@
                     "dash": 0,
                     "textFontsize": 0.37,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000000",
                     "ename": "页内引用"
                 }
@@ -252,7 +252,7 @@
                     "dash": 0,
                     "textFontsize": 0.37,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000000",
                     "ename": "内部存储"
                 }
@@ -278,7 +278,7 @@
                     "dash": 0,
                     "textFontsize": 0.37,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000000",
                     "ename": "卡片"
                 }
@@ -304,7 +304,7 @@
                     "dash": 0,
                     "textFontsize": 0.37,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000000",
                     "ename": "人工操作"
                 }
@@ -330,7 +330,7 @@
                     "dash": 0,
                     "textFontsize": 0.37,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000000",
                     "ename": "并行模式"
                 }
@@ -356,7 +356,7 @@
                     "dash": 0,
                     "textFontsize": 0.37,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000000",
                     "ename": "预备"
                 }
@@ -382,7 +382,7 @@
                     "dash": 0,
                     "textFontsize": 0.37,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000000",
                     "ename": "数据库"
                 }
@@ -408,7 +408,7 @@
                     "dash": 0,
                     "textFontsize": 0.37,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000000",
                     "ename": "外部数据"
                 }
@@ -434,7 +434,7 @@
                     "dash": 0,
                     "textFontsize": 0.37,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000000",
                     "ename": "队列数据"
                 }
@@ -460,7 +460,7 @@
                     "dash": 0,
                     "textFontsize": 0.37,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000000",
                     "ename": "条带"
                 }
@@ -486,7 +486,7 @@
                     "dash": 0,
                     "textFontsize": 0.37,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000000",
                     "ename": "跨页引用"
                 }
@@ -512,7 +512,7 @@
                     "dash": 0,
                     "textFontsize": 0.37,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000000",
                     "ename": "展示"
                 }
@@ -538,7 +538,7 @@
                     "dash": 0,
                     "textFontsize": 0.37,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000000",
                     "ename": "循环限值"
                 }
@@ -564,7 +564,7 @@
                     "dash": 0,
                     "textFontsize": 0.37,
                     "textFontfamily": "tahoma",
-                    "textLetterspacing": 0,
+                    "textTextgap": 0,
                     "textForecolor": "#000000",
                     "ename": "注释"
                 }

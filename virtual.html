@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+</head>
+
+<body>
+    <script src="dist/viewer.js?v=202306061856"></script>
+    <script>
+        /*
+          一般我们会通过如 https://xinglie.github.io/report-designer/viewer.html?id=49
+          查看我们设计好的模板并填充数据后的页面效果。
+
+          viewer.html是设计器提供的页面预览，有时候我们想通过自己的页面或程序进行控制，不使用设计器提供的viewer.html页面
+          那么下面个功能就是把viewer.html页面中需要的样式和html拿出来供开发者自己去控制使用。
+        */
+        (async () => {
+            // 以下示例以 https://xinglie.github.io/report-designer/viewer.html?id=49 为例
+            //1. 先获取设计器设计好的模板
+            let example49Response = await fetch('apis/example_49.json');
+            //这里仅做示例，获取数据异常等情况不再处理
+            let example49Data = await example49Response.json();
+            // example49Data 是形如　{data:{},success:true}的结构，data才是设计器最终保存的数据
+            let stage = example49Data.data;//拿出设计器设计好的模板数据
+
+            //example49中使用到了apis/person.json数据，我们也需要在外部准备好
+            let data = {};
+            //如果你想更细致的控制渲染，比如把模板数据及依赖的真实数据都准备好后，让预览器很快的速度渲染出来，则需要把下面begin data与end data的逻辑读懂
+            //--begin data--
+            let personResponse = await fetch('apis/person.json');
+            let personData = await personResponse.json();
+            // apis/person.json这个key为绑定时使用的tag，如果提供了getBindUrl重写方法，则是该方法返回的key
+            data['apis/person.json'] = personData.data;
+            //--end data--
+            //如果begin data与end data中间的逻辑对你来讲看不懂，则这部分代码不要程序也能正常工作
+            //只是这样预览器内部要去获取相应的数据，渲染时间上就会稍长
+            //要么外部提供好内部需要的数据，内部只做渲染，要么外部不提供，内部获取，则渲染用时会变长
+
+            let vf = await viewer.setup({//安装预览器，如果在其它代码中使用，请确保不要反复安装
+                use: 'virtual'//一定要指定使用虚拟预览器
+            });
+            let renderData = await vf.getHTML({ stage, data });//预览器会根据stage模板和提供的data数据返回相应的页面内容
+            console.log(renderData);
+            //renderData中包含styles数组，这个是页面中使用到的样式，pages则是分好页的每一页对应的html
+            //以下以lodop打印示范如何使用renderData
+            //从设计器保存的stage对象中拿出页面大小及单位数据
+            let { page: { width, height }, unit } = stage;
+            //需要注意的是report designer提供了8种单位，而这些单位并不一定被其它程序支持，这里不再处理单位转换的事情，仅跑通流程。
+            if (unit != 'px') {//
+                console.error('非px单位需要转换!!');
+            }
+            //尺寸+1防止ld自动分页
+            // LODOP.SET_PRINT_PAGESIZE(0, (width + 1) + 'px', (height + 1) + 'px', 'report-designer');
+            // LODOP.SET_PRINT_MODE("POS_BASEON_PAPER", true);
+            // let allStyles = [];
+            // for(let style of renderData.styles){
+            //   console.log(style);
+            //   allStyles.push(style);
+            // }
+            // let pageStyle = allStyles.join('');//把所有样式拼接到一起。
+            // for (let page of renderData.pages){
+            //   console.log(page);
+            //   LODOP.NewPage();//开启新页面
+            //   LODOP.ADD_PRINT_HTM(0, 0, width + 'px', height + 'px', allStyles+page);
+            // }
+            //viewer.destroy(); //如果在代码中使用，请根据情况进行使用后的销毁处理
+        })();
+    </script>
+</body>
+
+</html>

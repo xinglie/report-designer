@@ -18,10 +18,14 @@
             "backgroundYOffset": 0
         },
         "xs": [
-            157.14
+            {
+                "v": 157.14
+            }
         ],
         "ys": [
-            29.37
+            {
+                "v": 29.37
+            }
         ],
         "groups": [],
         "elements": [
