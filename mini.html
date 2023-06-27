@@ -1,62 +1,93 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,viewport-fit=cover"/>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-        <link type="image/x-icon" href="//gw.alicdn.com/tfs/TB1gRomUlr0gK0jSZFnXXbRRXXa-200-200.png" rel="shortcut icon">
-        <title>嵌入模式测试页</title>
-    </head>
-    <body>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport"
+        content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,viewport-fit=cover" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <link type="image/x-icon" href="//gw.alicdn.com/tfs/TB1gRomUlr0gK0jSZFnXXbRRXXa-200-200.png" rel="shortcut icon">
+    <title>嵌入模式测试页</title>
+</head>
+
+<body>
+    <div>
+        some other text
+        <button style="margin-left: 100px;" id="destroy-rd">销毁设计器</button>
+        <button style="margin-left: 10px;" disabled id="setup-rd">安装设计器</button>
+        <button style="margin-left: 10px;" id="virtual">虚拟渲染</button>
+    </div>
+    <div style="display:flex;">
+        <div style="width:150px">
+            left
+        </div>
+        <div id="app" class="app"
+            style="min-width:1100px;max-width:1100px;height:600px;border:solid 1px #ccc;position: relative;overflow: hidden;">
+            <div style="display: flex;align-items: center;justify-content: center; height: 100%;">
+                这里可以放一个加载动画...
+            </div>
+        </div>
         <div>
-            some other text
-            <button style="margin-left: 100px;" id="destroy-rd">销毁设计器</button>
-            <button style="margin-left: 10px;" disabled id="setup-rd">安装设计器</button>
+            right
         </div>
-        <div style="display:flex;">
-            <div style="width:150px">
-                left
-            </div>
-            <div id="app" class="app" style="min-width:1100px;max-width:1100px;height:600px;border:solid 1px #ccc;position: relative;overflow: hidden;">
-                <div style="display: flex;align-items: center;justify-content: center; height: 100%;">
-                    这里可以放一个加载动画...
-                </div>
-            </div>
-            <div>
-                right
-            </div>
-        </div>
-        <div>
-            <input placeholder="外部输入框测试" />
-            bottom text
-        </div>
-        <script src="dist/designer.js?v=202306231503"></script>
-        <script>
-        let setup=()=>{
-                designer.setup({
-            version:'202306231503',
-                    rootId:'app',
-                    mini:true,
-                    viewerUrl:'./viewer.html?from=xl',
-                    getImageUrl:'./apis/images.json',
-                    getFieldUrl:'./apis/fields.json',
-                    //getTemplateUrl:'./apis/example.json',
-                });
-            };
-            let setupBtn=document.getElementById('setup-rd');
-            let destroyBtn=document.getElementById('destroy-rd');
-            setupBtn.addEventListener('click',()=>{
-                setup();
-                setupBtn.disabled=true;
-                destroyBtn.disabled=false;
+    </div>
+    <div>
+        <input placeholder="外部输入框测试" />
+        bottom text
+    </div>
+    <script src="dist/designer.js?v=202306272120"></script>
+    <script>
+        let setup = () => {
+            designer.setup({
+            version:'202306272120',
+                rootId: 'app',
+                mini: true,
+                viewerUrl: './viewer.html?from=xl',
+                getImageUrl: './apis/images.json',
+                getFieldUrl: './apis/fields.json',
+                //getTemplateUrl:'./apis/example.json',
             });
-            destroyBtn.addEventListener('click',()=>{
-                designer.destroy();
-                destroyBtn.disabled=true;
-                setupBtn.disabled=false;
-            });
+        };
+        let setupBtn = document.getElementById('setup-rd');
+        let destroyBtn = document.getElementById('destroy-rd');
+        let virtual = document.getElementById('virtual');
+        setupBtn.addEventListener('click', () => {
             setup();
-            (()=>{let s=document.createElement('link');s.rel='stylesheet';s.href='//npm.onmicrosoft.cn/animate.css@4.1.1/animate.min.css';document.head.append(s)})();
-        </script>
-    </body>
+            setupBtn.disabled = true;
+            destroyBtn.disabled = false;
+        });
+        destroyBtn.addEventListener('click', () => {
+            designer.destroy();
+            destroyBtn.disabled = true;
+            setupBtn.disabled = false;
+        });
+        let c = 0;
+        virtual.addEventListener('click', () => {
+            let pId = c++;//在当前函数内生成一个pId，用于识别创建多个iframe对象后数据通信问题
+            //隐藏iframe
+            let iframe = document.createElement('iframe');
+            iframe.style.cssText = 'position:absolute;top:-500cm;left:-500cm';
+            iframe.src = './proxy.html?pId=' + pId;
+            document.body.append(iframe);
+            let win = iframe.contentWindow;
+            let listen = async ({ data }) => {
+                //只有通信数据是自己的才处理
+                if (data.pId == pId) {
+                    if (data.action == 'ready') {//就绪，则传递当前设计器里面的内容
+                        win.postMessage(await designer.get(), '*');
+                    } else {//获取虚拟渲染的内容后，删除iframe并移动事件监听
+                        iframe.remove();
+                        window.removeEventListener('message', listen);
+                        //data.renderData即是包含样式及分好页的数据
+                        console.log(data.renderData);
+                    }
+                }
+            };
+            window.addEventListener('message', listen);
+        });
+        setup();
+        (() => { let s = document.createElement('link'); s.rel = 'stylesheet'; s.href = '//npm.onmicrosoft.cn/animate.css@4.1.1/animate.min.css'; document.head.append(s) })();
+    </script>
+</body>
+
 </html>

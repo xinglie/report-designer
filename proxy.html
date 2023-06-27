@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>通用设计器隐藏渲染</title>
+    <meta charset="utf-8" />
+</head>
+
+<body>
+    <script src="dist/viewer.js?v=202306272120"></script>
+    <script type="module">
+        let { searchParams } = new URL(location.href);
+        let id = searchParams.get('pId');//从地址栏获取pId并返回回去，供父页面识别
+        window.addEventListener('message', async e => {
+            let stage = JSON.parse(e.data);
+            let { page } = stage;
+            if (page.viewer == 'iot') {
+                console.error('IoT大屏不支持隐藏渲染');
+                parent.postMessage({ pId: id }, '*');
+            } else {
+                let vf = await viewer.setup({
+            version:'202306272120',
+                    use: page.viewer,
+                    latent: true,
+                });
+                let renderData = await vf.getHTML({ stage });
+                parent.postMessage({ pId: id, renderData }, '*');
+            }
+        });
+        //通知父页面当前页面就绪
+        parent.postMessage({ pId: id, action: 'ready' }, '*');
+    </script>
+</body>
+
+</html>

@@ -6,7 +6,7 @@
 </head>
 
 <body>
-    <script src="dist/viewer.js?v=202306231503"></script>
+    <script src="dist/viewer.js?v=202306272120"></script>
     <script>
         /*
           一般我们会通过如 https://xinglie.github.io/report-designer/viewer.html?id=49
@@ -33,12 +33,15 @@
             // apis/person.json这个key为绑定时使用的tag，如果提供了getBindUrl重写方法，则是该方法返回的key
             data['apis/person.json'] = personData.data;
             //--end data--
-            //如果begin data与end data中间的逻辑对你来讲看不懂，则这部分代码不要程序也能正常工作
+            //如果begin data与end data中间的逻辑对你来讲看不懂，则这部分代码不写，程序也能正常工作
             //只是这样预览器内部要去获取相应的数据，渲染时间上就会稍长
-            //要么外部提供好内部需要的数据，内部只做渲染，要么外部不提供，内部获取，则渲染用时会变长
+            //即：要么外部提供好内部需要的所有数据，内部只做渲染，速度快。要么外部不提供数据，内部自动获取，则渲染用时会变长
 
-            let vf = await viewer.setup({//安装预览器，如果在其它代码中使用，请确保不要反复安装
-                use: 'virtual'//一定要指定使用虚拟预览器
+            let vf = await viewer.setup({
+            version:'202306272120'//安装预览器，如果在其它代码中使用，请确保不要反复安装
+                version:'202306271608',
+                use: 'default',//预览器内置了 试卷(exam) IoT(iot) 流式分页(stack) 标签(label) 静态分页(default) 五种预览，这里使用 静态分页(default) 进行内容渲染
+                latent: true,//一定要指定隐藏渲染
             });
             let renderData = await vf.getHTML({ stage, data });//预览器会根据stage模板和提供的data数据返回相应的页面内容
             console.log(renderData);
