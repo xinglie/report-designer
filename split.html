@@ -21,7 +21,7 @@
             }
             #header{
                 height: 40px;
-                background-color:/*d-cb<*/var(--rd-bQ)/*>d-cb*/;
+                background-color:/*d-cb<*/var(--rd-v)/*>d-cb*/;
                 color:#fff;
                 padding: 0 40px 0 20px;
                 margin:10px 0;
@@ -95,11 +95,11 @@
         <div id="foot">
 
         </div>
-        <script src="dist/designer.js?v=202306272120"></script>
+        <script src="dist/designer.js?v=202306272131"></script>
         <script>
             let setup=()=>{
                 designer.setup({
-            version:'202306272120',
+            version:'202306272131',
                     rootId:'app',
                     split:true,
                     panels:{
@@ -152,6 +152,7 @@
                 setupBtn.disabled=false;
             });
             let c = 0;
+            let { origin } = location;
             virtual.addEventListener('click', () => {
                 let pId = c++;//在当前函数内生成一个pId，用于识别创建多个iframe对象后数据通信问题
                 //隐藏iframe
@@ -164,7 +165,7 @@
                     //只有通信数据是自己的才处理
                     if (data.pId == pId) {
                         if (data.action == 'ready') {//就绪，则传递当前设计器里面的内容
-                            win.postMessage(await designer.get(), '*');
+                            win.postMessage(await designer.get(), origin);
                         } else {//获取虚拟渲染的内容后，删除iframe并移动事件监听
                             iframe.remove();
                             window.removeEventListener('message', listen);
