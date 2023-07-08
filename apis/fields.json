@@ -113,7 +113,7 @@
                     "key": "f6"
                 },
                 {
-                    "name": "成效金额",
+                    "name": "成交金额",
                     "key": "f7"
                 },
                 {
@@ -318,6 +318,18 @@
                             "use": "form-input"
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "name": "轮播",
+            "id": 7,
+            "tag": "apis/carousel.json",
+            "fields": [
+                {
+                    "name": "轮播图测试",
+                    "key": "images",
+                    "use": "carousel"
                 }
             ]
         }

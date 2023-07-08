@@ -4,6 +4,9 @@
         "page": {
             "width": 600,
             "height": 400,
+            "pages": 1,
+            "xOffset": 0,
+            "yOffset": 0,
             "background": "#ffffff",
             "backgroundImage": "",
             "backgroundRepeat": "full",
