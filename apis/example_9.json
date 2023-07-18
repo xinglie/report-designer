@@ -2,7 +2,7 @@
     "data": {
         "unit": "cm",
         "page": {
-            "viewer": "page",
+            "viewer": "default",
             "width": 20.929,
             "height": 29.634,
             "pages": 1,

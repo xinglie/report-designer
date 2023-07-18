@@ -2,7 +2,7 @@
     "data": {
         "unit": "px",
         "page": {
-            "viewer": "page",
+            "viewer": "default",
             "width": 791,
             "height": 1120,
             "pages": 1,

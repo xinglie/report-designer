@@ -11,7 +11,7 @@
             ]
         ],
         "page": {
-            "viewer": "page",
+            "viewer": "default",
             "width": 209.81,
             "height": 296.86,
             "pages": 1,

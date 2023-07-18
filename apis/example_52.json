@@ -2,7 +2,7 @@
     "data": {
         "unit": "mm",
         "page": {
-            "viewer": "page",
+            "viewer": "default",
             "width": 209.79,
             "height": 296.83,
             "pages": 4,

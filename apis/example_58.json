@@ -5,7 +5,7 @@
         "ys": [],
         "groups": [],
         "page": {
-            "viewer": "page",
+            "viewer": "default",
             "width": 209.26,
             "height": 296.3,
             "pages": 1,
@@ -206,7 +206,8 @@
                                     "textFontsize": 3.7,
                                     "textFontfamily": "tahoma",
                                     "textAutoHeight": true,
-                                    "textContent": "假装是名称"
+                                    "textContent": "假装是名称",
+                                    "textStyleBold": true
                                 },
                                 {
                                     "height": 7.94,
@@ -230,7 +231,8 @@
                                     "textFontsize": 3.7,
                                     "textFontfamily": "tahoma",
                                     "textAutoHeight": true,
-                                    "textContent": "展现量"
+                                    "textContent": "展现量",
+                                    "textStyleBold": true
                                 },
                                 {
                                     "height": 7.94,
@@ -254,7 +256,8 @@
                                     "textFontsize": 3.7,
                                     "textFontfamily": "tahoma",
                                     "textAutoHeight": true,
-                                    "textContent": "收藏量"
+                                    "textContent": "收藏量",
+                                    "textStyleBold": true
                                 },
                                 {
                                     "paddingBottom": 1.32,
@@ -279,7 +282,8 @@
                                     "height": 7.94,
                                     "width": 29.95,
                                     "rowspan": 1,
-                                    "colspan": 1
+                                    "colspan": 1,
+                                    "textStyleBold": true
                                 },
                                 {
                                     "paddingBottom": 1.32,
@@ -304,7 +308,8 @@
                                     "height": 7.94,
                                     "width": 29.95,
                                     "rowspan": 1,
-                                    "colspan": 1
+                                    "colspan": 1,
+                                    "textStyleBold": true
                                 },
                                 {
                                     "paddingBottom": 1.32,
@@ -329,7 +334,8 @@
                                     "height": 7.94,
                                     "width": 29.95,
                                     "rowspan": 1,
-                                    "colspan": 1
+                                    "colspan": 1,
+                                    "textStyleBold": true
                                 }
                             ]
                         },
@@ -521,7 +527,8 @@
                                     "textFontsize": 3.7,
                                     "textFontfamily": "tahoma",
                                     "textAutoHeight": true,
-                                    "textContent": "合计"
+                                    "textContent": "合计",
+                                    "textStyleBold": true
                                 },
                                 {
                                     "height": 7.94,
@@ -544,7 +551,8 @@
                                     "textForecolor": "#000000",
                                     "textFontsize": 3.7,
                                     "textFontfamily": "tahoma",
-                                    "textAutoHeight": true
+                                    "textAutoHeight": true,
+                                    "textStyleBold": true
                                 },
                                 {
                                     "height": 7.94,
@@ -568,7 +576,8 @@
                                     "textFontsize": 3.7,
                                     "textFontfamily": "tahoma",
                                     "textAutoHeight": true,
-                                    "textFormat": "builtin:{\"type\":\"number\",\"body\":[null,\".##\"]}"
+                                    "textFormat": "builtin:{\"type\":\"number\",\"body\":[null,\".##\"]}",
+                                    "textStyleBold": true
                                 },
                                 {
                                     "paddingBottom": 1.32,
@@ -592,7 +601,8 @@
                                     "height": 7.94,
                                     "width": 29.95,
                                     "rowspan": 1,
-                                    "colspan": 1
+                                    "colspan": 1,
+                                    "textStyleBold": true
                                 },
                                 {
                                     "paddingBottom": 1.32,
@@ -617,7 +627,8 @@
                                     "height": 7.94,
                                     "width": 29.95,
                                     "rowspan": 1,
-                                    "colspan": 1
+                                    "colspan": 1,
+                                    "textStyleBold": true
                                 },
                                 {
                                     "paddingBottom": 1.32,
@@ -642,7 +653,8 @@
                                     "height": 7.94,
                                     "width": 29.95,
                                     "rowspan": 1,
-                                    "colspan": 1
+                                    "colspan": 1,
+                                    "textStyleBold": true
                                 }
                             ]
                         },
