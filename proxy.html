@@ -7,7 +7,7 @@
 </head>
 
 <body>
-    <script src="dist/viewer.js?v=202307181831"></script>
+    <script src="dist/viewer.js?v=202307270557"></script>
     <script type="module">
         let { searchParams } = new URL(location.href);
         let id = searchParams.get('pId');//从地址栏获取pId并返回回去，供父页面识别
@@ -20,7 +20,7 @@
                 parent.postMessage({ pId: id }, origin);
             } else {
                 let vf = await viewer.setup({
-                    version:'202307181831',
+                    version:'202307270557',
                     use: page.viewer,
                     latent: true,
                 });

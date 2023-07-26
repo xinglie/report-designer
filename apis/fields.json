@@ -89,6 +89,10 @@
             "headless": false,
             "fields": [
                 {
+                    "name": "月份",
+                    "key": "month"
+                },
+                {
                     "name": "展现量",
                     "key": "f1"
                 },
