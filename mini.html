@@ -16,6 +16,7 @@
         <button style="margin-left: 100px;" id="destroy-rd">销毁设计器</button>
         <button style="margin-left: 10px;" disabled id="setup-rd">安装设计器</button>
         <button style="margin-left: 10px;" id="virtual">虚拟渲染</button>
+        <button style="margin-left: 10px;" id="print">打印</button>
     </div>
     <div style="display:flex;">
         <div style="width:150px">
@@ -35,11 +36,11 @@
         <input placeholder="外部输入框测试" />
         bottom text
     </div>
-    <script src="dist/designer.js?v=202308061326"></script>
+    <script src="dist/designer.js?v=202309021015"></script>
     <script>
         let setup = () => {
             designer.setup({
-                version:'202308061326',
+                version:'202309021015',
                 rootId: 'app',
                 mini: true,
                 viewerUrl: './viewer.html?from=mini',
@@ -51,6 +52,7 @@
         let setupBtn = document.getElementById('setup-rd');
         let destroyBtn = document.getElementById('destroy-rd');
         let virtual = document.getElementById('virtual');
+        let pt=document.getElementById('print');
         setupBtn.addEventListener('click', () => {
             setup();
             setupBtn.disabled = true;
@@ -81,6 +83,29 @@
                         window.removeEventListener('message', listen);
                         //data.renderData即是包含样式及分好页的数据
                         console.log(data.renderData);
+                    }
+                }
+            };
+            window.addEventListener('message', listen);
+        });
+        pt.addEventListener('click', () => {
+            let pId = c++;//在当前函数内生成一个pId，用于识别创建多个iframe对象后数据通信问题
+            //隐藏iframe
+            let iframe = document.createElement('iframe');
+            iframe.style.cssText = 'position:absolute;top:-500cm;left:-500cm';
+            iframe.src = './proxy.html?pId=' + pId+'&action=print';
+            document.body.append(iframe);
+            let win = iframe.contentWindow;
+            let listen = async ({ data }) => {
+                //只有通信数据是自己的才处理
+                if (data.pId == pId) {
+                    if (data.action == 'ready') {//就绪，则传递当前设计器里面的内容
+                        win.postMessage(await designer.get(), origin);
+                    } else {//获取虚拟渲染的内容后，删除iframe并移动事件监听
+                        iframe.remove();
+                        window.removeEventListener('message', listen);
+                        //data.renderData即是包含样式及分好页的数据
+                        //console.log(data.renderData);
                     }
                 }
             };

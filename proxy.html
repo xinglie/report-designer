@@ -4,13 +4,16 @@
 <head>
     <title>通用设计器隐藏渲染</title>
     <meta charset="utf-8" />
+    <style>html,body{margin:0}</style>
 </head>
+<div id="app"></div>
 
 <body>
-    <script src="dist/viewer.js?v=202308061326"></script>
+    <script src="dist/viewer.js?v=202309021015"></script>
     <script type="module">
         let { searchParams } = new URL(location.href);
         let id = searchParams.get('pId');//从地址栏获取pId并返回回去，供父页面识别
+        let action = searchParams.get('action');
         let { origin } = location;
         window.addEventListener('message', async e => {
             let stage = JSON.parse(e.data);
@@ -19,13 +22,19 @@
                 console.error('IoT大屏不支持隐藏渲染');
                 parent.postMessage({ pId: id }, origin);
             } else {
+                let latent = action != 'print';
                 let vf = await viewer.setup({
-                    version:'202308061326',
+                    version:'202309021015',
                     use: page.viewer,
-                    latent: true,
+                    latent,
                 });
-                let renderData = await vf.getHTML({ stage });
-                parent.postMessage({ pId: id, renderData }, origin);
+                if (latent) {
+                    let renderData = await vf.getHTML({ stage });
+                    parent.postMessage({ pId: id, renderData }, origin);
+                } else {
+                    await vf.print({ stage });
+                    parent.postMessage({ pId: id }, origin);
+                }
             }
         });
         //通知父页面当前页面就绪
