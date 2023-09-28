@@ -18,10 +18,12 @@
                 padding: 0 60px;
                 min-width: 1100px;
                 display: flex;
+                align-items: center;
+                overflow: hidden;
             }
             #header{
                 height: 40px;
-                background-color:/*d-cb<*/var(--rd-W)/*>d-cb*/;
+                background-color:/*d-cb<*/var(--rd-a3)/*>d-cb*/;
                 color:#fff;
                 padding: 0 40px 0 20px;
                 margin:10px 0;
@@ -31,7 +33,7 @@
                 z-index: 202;
             }
             #left{
-                width:140px;
+                width:155px;
                 height: 100%;
                 border: #ccc solid 1px;
                 margin:0 10px;
@@ -95,11 +97,11 @@
         <div id="foot">
 
         </div>
-        <script src="dist/designer.js?v=202309021015"></script>
+        <script src="dist/designer.js?v=202309281518"></script>
         <script>
             let setup=()=>{
                 designer.setup({
-                    version:'202309021015',
+                    version:'202309281518',
                     rootId:'app',
                     split:true,
                     panels:{

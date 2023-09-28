@@ -46,7 +46,7 @@
                     "fontsize": 0.37,
                     "fontfamily": "tahoma",
                     "alpha": 1,
-                    "textgap": 0,
+                    "gap": 0,
                     "background": "",
                     "forecolor": "#000000",
                     "styleBold": false,

@@ -121,7 +121,7 @@
                     "fontsize": 14,
                     "fontfamily": "tahoma",
                     "lineheight": 1.5,
-                    "textgap": 0,
+                    "gap": 0,
                     "forecolor": "#000000",
                     "hpos": "flex-start",
                     "vpos": "flex-start",

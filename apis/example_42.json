@@ -1,79 +1,87 @@
 {
     "data": {
         "unit": "px",
+        "xs": [],
+        "ys": [],
+        "groups": [],
         "page": {
+            "viewer": "default",
             "width": 791,
             "height": 1120,
             "pages": 1,
+            "scale": "auto",
+            "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
             "xOffset": 0,
             "yOffset": 0,
-            "marginTop": 0,
-            "marginRight": 0,
-            "marginBottom": 0,
-            "marginLeft": 0,
+            "copies": 1,
+            "blank": "keep",
+            "labelCol": 1,
+            "labelGap": 10,
+            "fontfamily": "unset",
+            "gridWidth": 20,
+            "gridHeight": 20,
             "background": "#ffffff",
-            "backgroundImage": "",
             "backgroundRepeat": "full",
             "backgroundWidth": 0,
             "backgroundHeight": 0,
             "backgroundXOffset": 0,
             "backgroundYOffset": 0
         },
-        "groups": [],
         "elements": [
             {
                 "id": "e_82",
                 "type": "svg/line",
+                "unit": "px",
                 "props": {
                     "x": 79,
                     "y": 66,
                     "width": 200,
                     "height": 100,
+                    "alpha": 1,
                     "ctrl1X": 79,
                     "ctrl1Y": 66,
                     "ctrl2X": 279,
                     "ctrl2Y": 166,
-                    "startArrow": false,
-                    "endArrow": false,
                     "linewidth": 1,
-                    "dash": 0,
-                    "alpha": 1,
                     "color": "#000000",
-                    "ename": "线段"
+                    "dash": 0,
+                    "ename": "线段",
+                    "animations": []
                 }
             },
             {
                 "id": "e_98",
                 "type": "svg/bezier2",
+                "unit": "px",
                 "props": {
                     "x": 310,
                     "y": 50,
                     "width": 200,
                     "height": 100,
+                    "alpha": 1,
                     "ctrl1X": 510,
                     "ctrl1Y": 50,
                     "ctrl2X": 310,
                     "ctrl2Y": 50,
                     "ctrl3X": 310,
                     "ctrl3Y": 150,
-                    "startArrow": false,
-                    "endArrow": false,
                     "linewidth": 1,
-                    "dash": 0,
-                    "alpha": 1,
                     "color": "#000000",
-                    "fillcolor": "",
-                    "ename": "贝塞尔2"
+                    "dash": 0,
+                    "ename": "贝塞尔2",
+                    "animations": []
                 }
             },
             {
                 "id": "e_105",
                 "type": "svg/bezier3",
+                "unit": "px",
                 "props": {
                     "x": 583,
                     "y": 34,
                     "width": 119,
                     "height": 147,
+                    "alpha": 1,
                     "ctrl1X": 598,
                     "ctrl1Y": 34,
                     "ctrl2X": 529,
@@ -82,19 +90,17 @@
                     "ctrl3Y": 98,
                     "ctrl4X": 700,
                     "ctrl4Y": 181,
-                    "startArrow": false,
-                    "endArrow": false,
                     "linewidth": 1,
-                    "dash": 0,
-                    "alpha": 1,
                     "color": "#000000",
-                    "fillcolor": "",
-                    "ename": "贝塞尔3"
+                    "dash": 0,
+                    "ename": "贝塞尔3",
+                    "animations": []
                 }
             },
             {
                 "id": "e_111",
                 "type": "svg/arc",
+                "unit": "px",
                 "props": {
                     "x": 0,
                     "y": 192,
@@ -104,26 +110,29 @@
                     "centerY": 272,
                     "rx": 100,
                     "ry": 80,
-                    "startAngle": -160,
-                    "endAngle": 303.63373613462153,
-                    "rotate": 0,
-                    "linewidth": 1,
-                    "dash": 0,
                     "alpha": 1,
-                    "color": "#000000",
-                    "fillcolor": "",
+                    "rotate": 0,
+                    "startAngle": -160,
+                    "endAngle": 303.6,
                     "closed": true,
-                    "ename": "弧"
+                    "linewidth": 1,
+                    "color": "#000000",
+                    "dash": 0,
+                    "linejoin": "meter",
+                    "ename": "弧",
+                    "animations": []
                 }
             },
             {
                 "id": "e_139",
                 "type": "svg/rect",
+                "unit": "px",
                 "props": {
                     "x": 21,
                     "y": 386,
                     "width": 200,
                     "height": 100,
+                    "alpha": 1,
                     "ctrl1X": 21,
                     "ctrl1Y": 386,
                     "ctrl2X": 204,
@@ -133,54 +142,58 @@
                     "ctrl4X": 61,
                     "ctrl4Y": 486,
                     "linewidth": 1,
-                    "dash": 0,
-                    "alpha": 1,
                     "color": "#000000",
-                    "fillcolor": "",
-                    "ename": "四边形"
+                    "dash": 0,
+                    "linejoin": "meter",
+                    "ename": "四边形",
+                    "animations": []
                 }
             },
             {
                 "id": "e_145",
                 "type": "svg/rect2",
+                "unit": "px",
                 "props": {
                     "x": 236,
                     "y": 361,
                     "width": 200,
                     "height": 100,
+                    "alpha": 1,
+                    "rotate": 0,
                     "roundX": 0,
                     "roundY": 0,
-                    "rotate": 0,
-                    "alpha": 1,
                     "linewidth": 1,
-                    "dash": 0,
                     "color": "#000000",
-                    "fillcolor": "",
-                    "ename": "矩形"
+                    "dash": 0,
+                    "linejoin": "meter",
+                    "ename": "矩形",
+                    "animations": []
                 }
             },
             {
                 "id": "e_154",
                 "type": "svg/circle",
+                "unit": "px",
                 "props": {
                     "x": 458,
                     "y": 313,
                     "width": 150,
                     "height": 150,
+                    "alpha": 1,
                     "centerX": 533,
                     "centerY": 388,
                     "r": 75,
                     "linewidth": 1,
-                    "dash": 0,
-                    "alpha": 1,
                     "color": "#000000",
-                    "fillcolor": "",
-                    "ename": "圆"
+                    "dash": 0,
+                    "ename": "圆",
+                    "animations": []
                 }
             },
             {
                 "id": "e_158",
                 "type": "svg/ellipse",
+                "unit": "px",
                 "props": {
                     "x": 620,
                     "y": 343,
@@ -188,79 +201,87 @@
                     "height": 100,
                     "centerX": 720,
                     "centerY": 393,
+                    "alpha": 1,
+                    "rotate": 0,
                     "rx": 100,
                     "ry": 50,
-                    "rotate": 0,
                     "linewidth": 1,
-                    "dash": 0,
-                    "alpha": 1,
                     "color": "#000000",
-                    "fillcolor": "",
-                    "ename": "椭圆"
+                    "dash": 0,
+                    "ename": "椭圆",
+                    "animations": []
                 }
             },
             {
                 "id": "e_164",
                 "type": "svg/brace",
+                "unit": "px",
                 "props": {
                     "x": 33,
                     "y": 525,
                     "width": 20,
                     "height": 100,
+                    "alpha": 1,
                     "rotate": 0,
                     "linewidth": 1,
-                    "dash": 0,
-                    "alpha": 1,
                     "color": "#000000",
-                    "ename": "大括号"
+                    "dash": 0,
+                    "ename": "大括号",
+                    "animations": []
                 }
             },
             {
                 "id": "e_168",
                 "type": "svg/rstar",
+                "unit": "px",
                 "props": {
                     "x": 90,
                     "y": 510,
                     "width": 150,
                     "height": 150,
+                    "alpha": 1,
                     "rotate": 0,
                     "corner": 5,
                     "mod1Y": 0.62,
-                    "alpha": 1,
                     "linewidth": 1,
-                    "dash": 0,
                     "color": "#000000",
-                    "fillcolor": "",
-                    "ename": "星星"
+                    "dash": 0,
+                    "linejoin": "meter",
+                    "ename": "星星",
+                    "animations": []
                 }
             },
             {
                 "id": "e_177",
                 "type": "svg/rarrow",
+                "unit": "px",
                 "props": {
                     "x": 275,
                     "y": 504,
                     "width": 250,
                     "height": 150,
+                    "alpha": 1,
                     "rotate": 0,
                     "mod1X": 0.8,
                     "mod1Y": 0.6,
-                    "alpha": 1,
                     "linewidth": 1,
-                    "dash": 0,
                     "color": "#000000",
-                    "fillcolor": "",
-                    "ename": "箭头"
+                    "dash": 0,
+                    "linejoin": "meter",
+                    "ename": "箭头",
+                    "animations": []
                 }
             },
             {
                 "id": "e_184",
                 "type": "svg/rbubble",
+                "unit": "px",
                 "props": {
                     "x": 566,
                     "y": 535,
                     "width": 200,
                     "height": 100,
+                    "alpha": 1,
                     "rotate": 0,
                     "radius": 10,
                     "gapPosition": "bottom",
@@ -268,112 +289,119 @@
                     "gapRatio": 0.16,
                     "mod1Y": 30,
                     "mod1X": 20,
-                    "alpha": 1,
                     "linewidth": 1,
-                    "dash": 0,
                     "color": "#000000",
-                    "fillcolor": "",
-                    "ename": "气泡"
+                    "dash": 0,
+                    "linejoin": "meter",
+                    "ename": "气泡",
+                    "animations": []
                 }
             },
             {
                 "id": "e_195",
                 "type": "svg/rcross",
+                "unit": "px",
                 "props": {
                     "x": 2,
                     "y": 720,
                     "width": 120,
                     "height": 120,
+                    "alpha": 1,
                     "rotate": 0,
                     "mod1X": 0.6,
                     "mod1Y": 0.6,
-                    "alpha": 1,
                     "linewidth": 1,
-                    "dash": 0,
                     "color": "#000000",
-                    "fillcolor": "",
-                    "ename": "十字"
+                    "dash": 0,
+                    "linejoin": "meter",
+                    "ename": "十字",
+                    "animations": []
                 }
             },
             {
                 "id": "e_202",
                 "type": "svg/rdarrow",
+                "unit": "px",
                 "props": {
                     "x": 145,
                     "y": 665,
                     "width": 250,
                     "height": 150,
+                    "alpha": 1,
                     "rotate": 0,
                     "mod1X": 0.4,
                     "mod1Y": 0.6,
-                    "alpha": 1,
                     "linewidth": 1,
-                    "dash": 0,
                     "color": "#000000",
-                    "fillcolor": "",
-                    "ename": "双箭头"
+                    "dash": 0,
+                    "linejoin": "meter",
+                    "ename": "双箭头",
+                    "animations": []
                 }
             },
             {
                 "id": "e_206",
                 "type": "svg/rcylinder",
+                "unit": "px",
                 "props": {
                     "x": 436,
                     "y": 700,
                     "width": 120,
                     "height": 150,
+                    "alpha": 1,
                     "rotate": 0,
                     "mod1Y": 0.4,
-                    "alpha": 1,
                     "linewidth": 1,
-                    "dash": 0,
                     "color": "#000000",
-                    "topcolor": "",
-                    "bodycolor": "",
-                    "ename": "圆柱"
+                    "dash": 0,
+                    "ename": "圆柱",
+                    "animations": []
                 }
             },
             {
                 "id": "e_211",
                 "type": "svg/rcube",
+                "unit": "px",
                 "props": {
                     "x": 614,
                     "y": 684,
                     "width": 150,
                     "height": 150,
+                    "alpha": 1,
                     "rotate": 0,
                     "mod1Y": 0.4,
-                    "alpha": 1,
                     "linewidth": 1,
-                    "dash": 0,
                     "color": "#000000",
-                    "topcolor": "",
-                    "frontcolor": "",
-                    "sidecolor": "",
-                    "ename": "立方体"
+                    "dash": 0,
+                    "linejoin": "meter",
+                    "ename": "立方体",
+                    "animations": []
                 }
             },
             {
                 "id": "e_216",
                 "type": "svg/rmoon",
+                "unit": "px",
                 "props": {
                     "x": 22,
                     "y": 861,
                     "width": 100,
                     "height": 200,
+                    "alpha": 1,
                     "rotate": 0,
                     "mod1X": 0.5,
-                    "alpha": 1,
                     "linewidth": 1,
-                    "dash": 0,
                     "color": "#000000",
-                    "fillcolor": "",
-                    "ename": "月牙"
+                    "dash": 0,
+                    "linejoin": "meter",
+                    "ename": "月牙",
+                    "animations": []
                 }
             },
             {
                 "id": "e_221",
                 "type": "svg/rpie",
+                "unit": "px",
                 "props": {
                     "x": 167,
                     "y": 865,
@@ -383,57 +411,120 @@
                     "centerY": 945,
                     "rx": 100,
                     "ry": 80,
+                    "alpha": 1,
+                    "rotate": 0,
                     "startAngle": 0,
                     "endAngle": 270,
-                    "rotate": 0,
-                    "mod1X": 0.5,
-                    "mod1Y": 0.5,
+                    "mod1X": 101,
+                    "mod1Y": 74,
                     "linewidth": 1,
-                    "dash": 0,
-                    "alpha": 1,
                     "color": "#000000",
-                    "fillcolor": "",
-                    "ename": "圆饼"
+                    "dash": 0,
+                    "linejoin": "meter",
+                    "ename": "圆饼",
+                    "animations": []
                 }
             },
             {
                 "id": "e_226",
                 "type": "svg/rcard",
+                "unit": "px",
                 "props": {
                     "x": 380,
                     "y": 877,
                     "width": 250,
                     "height": 150,
+                    "alpha": 1,
                     "rotate": 0,
                     "mod1X": 0.3,
                     "mod2Y": 0.3,
-                    "alpha": 1,
                     "linewidth": 1,
-                    "dash": 0,
                     "color": "#000000",
-                    "fillcolor": "",
-                    "ename": "卡片"
+                    "dash": 0,
+                    "linejoin": "meter",
+                    "ename": "卡片",
+                    "animations": []
                 }
             },
             {
                 "id": "e_230",
                 "type": "svg/rcorner",
+                "unit": "px",
                 "props": {
                     "x": 649,
                     "y": 892,
                     "width": 120,
                     "height": 120,
+                    "alpha": 1,
                     "rotate": 0,
                     "mod1Y": 0.2,
                     "mod2X": 0.2,
                     "mod2Y": 0.2,
                     "mod3X": 0.2,
-                    "alpha": 1,
                     "linewidth": 1,
-                    "dash": 0,
                     "color": "#000000",
-                    "fillcolor": "",
-                    "ename": "拐角"
+                    "dash": 0,
+                    "linejoin": "meter",
+                    "ename": "拐角",
+                    "animations": []
+                }
+            },
+            {
+                "id": "rde_lmohwf96233",
+                "type": "svg/rplaque",
+                "unit": "px",
+                "props": {
+                    "x": 250,
+                    "y": 192,
+                    "width": 150,
+                    "height": 150,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "mod1Y": 0.4,
+                    "linewidth": 1,
+                    "color": "#000",
+                    "dash": 0,
+                    "linejoin": "meter",
+                    "ename": "内圆角矩形-1",
+                    "animations": []
+                }
+            },
+            {
+                "id": "rde_lmohwf96236",
+                "type": "svg/fan",
+                "unit": "px",
+                "props": {
+                    "x": 458,
+                    "y": 209,
+                    "width": 80,
+                    "height": 80,
+                    "alpha": 1,
+                    "bind": {},
+                    "fill": "#83c6c2ff",
+                    "speed": 5,
+                    "ename": "风扇-1",
+                    "animations": []
+                }
+            },
+            {
+                "id": "rde_lmohwf96240",
+                "type": "svg/battery",
+                "unit": "px",
+                "props": {
+                    "x": 545,
+                    "y": 192,
+                    "width": 150,
+                    "height": 150,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "bind": {},
+                    "power": 30,
+                    "charging": true,
+                    "outline": "#000",
+                    "fill": "#000",
+                    "lightning": "#fff",
+                    "ename": "电池-1",
+                    "animations": []
                 }
             }
         ]
