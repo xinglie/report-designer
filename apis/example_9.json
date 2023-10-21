@@ -42,10 +42,10 @@
                     "rotate": 0,
                     "color": "#000000",
                     "dash": 0,
-                    "textFontsize": 0.37,
-                    "textFontfamily": "tahoma",
+                    "textSize": 0.37,
+                    "textFont": "tahoma",
                     "textGap": 0,
-                    "textForecolor": "#000000",
+                    "textColor": "#000000",
                     "ename": "过程"
                 }
             },
@@ -68,10 +68,10 @@
                     "rotate": 0,
                     "color": "#000000",
                     "dash": 0,
-                    "textFontsize": 0.37,
-                    "textFontfamily": "tahoma",
+                    "textSize": 0.37,
+                    "textFont": "tahoma",
                     "textGap": 0,
-                    "textForecolor": "#000000",
+                    "textColor": "#000000",
                     "ename": "判定"
                 }
             },
@@ -94,10 +94,10 @@
                     "rotate": 0,
                     "color": "#000000",
                     "dash": 0,
-                    "textFontsize": 0.37,
-                    "textFontfamily": "tahoma",
+                    "textSize": 0.37,
+                    "textFont": "tahoma",
                     "textGap": 0,
-                    "textForecolor": "#000000",
+                    "textColor": "#000000",
                     "ename": "开始结束"
                 }
             },
@@ -120,10 +120,10 @@
                     "rotate": 0,
                     "color": "#000000",
                     "dash": 0,
-                    "textFontsize": 0.37,
-                    "textFontfamily": "tahoma",
+                    "textSize": 0.37,
+                    "textFont": "tahoma",
                     "textGap": 0,
-                    "textForecolor": "#000000",
+                    "textColor": "#000000",
                     "ename": "数据"
                 }
             },
@@ -146,10 +146,10 @@
                     "rotate": 0,
                     "color": "#000000",
                     "dash": 0,
-                    "textFontsize": 0.37,
-                    "textFontfamily": "tahoma",
+                    "textSize": 0.37,
+                    "textFont": "tahoma",
                     "textGap": 0,
-                    "textForecolor": "#000000",
+                    "textColor": "#000000",
                     "ename": "文档"
                 }
             },
@@ -172,10 +172,10 @@
                     "rotate": 0,
                     "color": "#000000",
                     "dash": 0,
-                    "textFontsize": 0.37,
-                    "textFontfamily": "tahoma",
+                    "textSize": 0.37,
+                    "textFont": "tahoma",
                     "textGap": 0,
-                    "textForecolor": "#000000",
+                    "textColor": "#000000",
                     "ename": "子流程"
                 }
             },
@@ -198,10 +198,10 @@
                     "rotate": 0,
                     "color": "#000000",
                     "dash": 0,
-                    "textFontsize": 0.37,
-                    "textFontfamily": "tahoma",
+                    "textSize": 0.37,
+                    "textFont": "tahoma",
                     "textGap": 0,
-                    "textForecolor": "#000000",
+                    "textColor": "#000000",
                     "ename": "人工输入"
                 }
             },
@@ -224,10 +224,10 @@
                     "rotate": 0,
                     "color": "#000000",
                     "dash": 0,
-                    "textFontsize": 0.37,
-                    "textFontfamily": "tahoma",
+                    "textSize": 0.37,
+                    "textFont": "tahoma",
                     "textGap": 0,
-                    "textForecolor": "#000000",
+                    "textColor": "#000000",
                     "ename": "页内引用"
                 }
             },
@@ -250,10 +250,10 @@
                     "rotate": 0,
                     "color": "#000000",
                     "dash": 0,
-                    "textFontsize": 0.37,
-                    "textFontfamily": "tahoma",
+                    "textSize": 0.37,
+                    "textFont": "tahoma",
                     "textGap": 0,
-                    "textForecolor": "#000000",
+                    "textColor": "#000000",
                     "ename": "内部存储"
                 }
             },
@@ -276,10 +276,10 @@
                     "rotate": 0,
                     "color": "#000000",
                     "dash": 0,
-                    "textFontsize": 0.37,
-                    "textFontfamily": "tahoma",
+                    "textSize": 0.37,
+                    "textFont": "tahoma",
                     "textGap": 0,
-                    "textForecolor": "#000000",
+                    "textColor": "#000000",
                     "ename": "卡片"
                 }
             },
@@ -302,10 +302,10 @@
                     "rotate": 0,
                     "color": "#000000",
                     "dash": 0,
-                    "textFontsize": 0.37,
-                    "textFontfamily": "tahoma",
+                    "textSize": 0.37,
+                    "textFont": "tahoma",
                     "textGap": 0,
-                    "textForecolor": "#000000",
+                    "textColor": "#000000",
                     "ename": "人工操作"
                 }
             },
@@ -328,10 +328,10 @@
                     "rotate": 0,
                     "color": "#000000",
                     "dash": 0,
-                    "textFontsize": 0.37,
-                    "textFontfamily": "tahoma",
+                    "textSize": 0.37,
+                    "textFont": "tahoma",
                     "textGap": 0,
-                    "textForecolor": "#000000",
+                    "textColor": "#000000",
                     "ename": "并行模式"
                 }
             },
@@ -354,10 +354,10 @@
                     "rotate": 0,
                     "color": "#000000",
                     "dash": 0,
-                    "textFontsize": 0.37,
-                    "textFontfamily": "tahoma",
+                    "textSize": 0.37,
+                    "textFont": "tahoma",
                     "textGap": 0,
-                    "textForecolor": "#000000",
+                    "textColor": "#000000",
                     "ename": "预备"
                 }
             },
@@ -380,10 +380,10 @@
                     "rotate": 0,
                     "color": "#000000",
                     "dash": 0,
-                    "textFontsize": 0.37,
-                    "textFontfamily": "tahoma",
+                    "textSize": 0.37,
+                    "textFont": "tahoma",
                     "textGap": 0,
-                    "textForecolor": "#000000",
+                    "textColor": "#000000",
                     "ename": "数据库"
                 }
             },
@@ -406,10 +406,10 @@
                     "rotate": 0,
                     "color": "#000000",
                     "dash": 0,
-                    "textFontsize": 0.37,
-                    "textFontfamily": "tahoma",
+                    "textSize": 0.37,
+                    "textFont": "tahoma",
                     "textGap": 0,
-                    "textForecolor": "#000000",
+                    "textColor": "#000000",
                     "ename": "外部数据"
                 }
             },
@@ -432,10 +432,10 @@
                     "rotate": 0,
                     "color": "#000000",
                     "dash": 0,
-                    "textFontsize": 0.37,
-                    "textFontfamily": "tahoma",
+                    "textSize": 0.37,
+                    "textFont": "tahoma",
                     "textGap": 0,
-                    "textForecolor": "#000000",
+                    "textColor": "#000000",
                     "ename": "队列数据"
                 }
             },
@@ -458,10 +458,10 @@
                     "rotate": 0,
                     "color": "#000000",
                     "dash": 0,
-                    "textFontsize": 0.37,
-                    "textFontfamily": "tahoma",
+                    "textSize": 0.37,
+                    "textFont": "tahoma",
                     "textGap": 0,
-                    "textForecolor": "#000000",
+                    "textColor": "#000000",
                     "ename": "条带"
                 }
             },
@@ -484,10 +484,10 @@
                     "rotate": 0,
                     "color": "#000000",
                     "dash": 0,
-                    "textFontsize": 0.37,
-                    "textFontfamily": "tahoma",
+                    "textSize": 0.37,
+                    "textFont": "tahoma",
                     "textGap": 0,
-                    "textForecolor": "#000000",
+                    "textColor": "#000000",
                     "ename": "跨页引用"
                 }
             },
@@ -510,10 +510,10 @@
                     "rotate": 0,
                     "color": "#000000",
                     "dash": 0,
-                    "textFontsize": 0.37,
-                    "textFontfamily": "tahoma",
+                    "textSize": 0.37,
+                    "textFont": "tahoma",
                     "textGap": 0,
-                    "textForecolor": "#000000",
+                    "textColor": "#000000",
                     "ename": "展示"
                 }
             },
@@ -536,10 +536,10 @@
                     "rotate": 0,
                     "color": "#000000",
                     "dash": 0,
-                    "textFontsize": 0.37,
-                    "textFontfamily": "tahoma",
+                    "textSize": 0.37,
+                    "textFont": "tahoma",
                     "textGap": 0,
-                    "textForecolor": "#000000",
+                    "textColor": "#000000",
                     "ename": "循环限值"
                 }
             },
@@ -562,10 +562,10 @@
                     "rotate": 0,
                     "color": "#000000",
                     "dash": 0,
-                    "textFontsize": 0.37,
-                    "textFontfamily": "tahoma",
+                    "textSize": 0.37,
+                    "textFont": "tahoma",
                     "textGap": 0,
-                    "textForecolor": "#000000",
+                    "textColor": "#000000",
                     "ename": "注释"
                 }
             },

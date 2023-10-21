@@ -17,7 +17,7 @@
             "blank": "keep",
             "labelCol": 1,
             "labelGap": 2.65,
-            "fontfamily": "unset",
+            "font": "unset",
             "gridWidth": 5.29,
             "gridHeight": 5.29,
             "background": "#ffffff",
@@ -82,27 +82,27 @@
                                                                                                         "alpha": 1,
                                                                                                         "rotate": 0,
                                                                                                         "print": "each",
-                                                                                                        "bordertype": "solid",
+                                                                                                        "btype": "solid",
                                                                                                         "color": "#000",
                                                                                                         "ename": "直线-1",
                                                                                                         "animations": []
                                                                                                     }
                                                                                                 }
                                                                                             ],
-                                                                                            "borderRadius": "0% 0% 0% 0%/0% 0% 0% 0%",
-                                                                                            "borderStyle": [
+                                                                                            "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                                                                                            "btype": [
                                                                                                 "solid",
                                                                                                 "solid",
                                                                                                 "solid",
                                                                                                 "solid"
                                                                                             ],
-                                                                                            "borderColor": [
+                                                                                            "bcolor": [
                                                                                                 "#000",
                                                                                                 "#000",
                                                                                                 "#000",
                                                                                                 "#000"
                                                                                             ],
-                                                                                            "borderWidth": [
+                                                                                            "bwidth": [
                                                                                                 0.26,
                                                                                                 0.26,
                                                                                                 0.26,
@@ -122,20 +122,20 @@
                                                                         }
                                                                     }
                                                                 ],
-                                                                "borderRadius": "0% 0% 0% 0%/0% 0% 0% 0%",
-                                                                "borderStyle": [
+                                                                "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                                                                "btype": [
                                                                     "solid",
                                                                     "solid",
                                                                     "solid",
                                                                     "solid"
                                                                 ],
-                                                                "borderColor": [
+                                                                "bcolor": [
                                                                     "#000",
                                                                     "#000",
                                                                     "#000",
                                                                     "#000"
                                                                 ],
-                                                                "borderWidth": [
+                                                                "bwidth": [
                                                                     0.26,
                                                                     0.26,
                                                                     0.26,
@@ -202,19 +202,19 @@
                                                                                                         "alpha": 1,
                                                                                                         "rotate": 0,
                                                                                                         "print": "each",
-                                                                                                        "borderColor": [
+                                                                                                        "bcolor": [
                                                                                                             "#000",
                                                                                                             "#000",
                                                                                                             "#000",
                                                                                                             "#000"
                                                                                                         ],
-                                                                                                        "borderStyle": [
+                                                                                                        "btype": [
                                                                                                             "solid",
                                                                                                             "solid",
                                                                                                             "solid",
                                                                                                             "solid"
                                                                                                         ],
-                                                                                                        "borderWidth": [
+                                                                                                        "bwidth": [
                                                                                                             0.26,
                                                                                                             0.26,
                                                                                                             0.26,
@@ -226,20 +226,20 @@
                                                                                                     }
                                                                                                 }
                                                                                             ],
-                                                                                            "borderRadius": "0% 0% 0% 0%/0% 0% 0% 0%",
-                                                                                            "borderStyle": [
+                                                                                            "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                                                                                            "btype": [
                                                                                                 "solid",
                                                                                                 "solid",
                                                                                                 "solid",
                                                                                                 "solid"
                                                                                             ],
-                                                                                            "borderWidth": [
+                                                                                            "bwidth": [
                                                                                                 0.26,
                                                                                                 0.26,
                                                                                                 0.26,
                                                                                                 0.26
                                                                                             ],
-                                                                                            "borderColor": [
+                                                                                            "bcolor": [
                                                                                                 "#000",
                                                                                                 "#000",
                                                                                                 "#000",
@@ -259,20 +259,20 @@
                                                                         }
                                                                     }
                                                                 ],
-                                                                "borderRadius": "0% 0% 0% 0%/0% 0% 0% 0%",
-                                                                "borderStyle": [
+                                                                "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                                                                "btype": [
                                                                     "solid",
                                                                     "solid",
                                                                     "solid",
                                                                     "solid"
                                                                 ],
-                                                                "borderWidth": [
+                                                                "bwidth": [
                                                                     0.26,
                                                                     0.26,
                                                                     0.26,
                                                                     0.26
                                                                 ],
-                                                                "borderColor": [
+                                                                "bcolor": [
                                                                     "#000",
                                                                     "#000",
                                                                     "#000",
@@ -348,7 +348,7 @@
                                                                             "alpha": 1,
                                                                             "rotate": 0,
                                                                             "print": "each",
-                                                                            "bordertype": "solid",
+                                                                            "btype": "solid",
                                                                             "color": "#000",
                                                                             "ename": "直线-2",
                                                                             "animations": []
@@ -393,9 +393,9 @@
                                                                             "alpha": 1,
                                                                             "rotate": 0,
                                                                             "print": "each",
-                                                                            "borderwidth": 0.26,
-                                                                            "bordertype": "solid",
-                                                                            "bordercolor": "#000",
+                                                                            "bwidth": 0.26,
+                                                                            "btype": "solid",
+                                                                            "bcolor": "#000",
                                                                             "ename": "圆形-1",
                                                                             "animations": []
                                                                         }
@@ -451,10 +451,10 @@
                                                 "width": 79.64,
                                                 "height": 93.82,
                                                 "alpha": 1,
-                                                "borderwidth": 0.26,
-                                                "bordertype": "solid",
-                                                "bordercolor": "#000",
-                                                "borderdeed": "collapse",
+                                                "bwidth": 0.26,
+                                                "btype": "solid",
+                                                "bcolor": "#000",
+                                                "bdeed": "collapse",
                                                 "ename": "表格-2",
                                                 "animations": []
                                             }
@@ -483,19 +483,19 @@
                                                 "alpha": 1,
                                                 "rotate": 0,
                                                 "print": "each",
-                                                "borderColor": [
+                                                "bcolor": [
                                                     "#000",
                                                     "#000",
                                                     "#000",
                                                     "#000"
                                                 ],
-                                                "borderStyle": [
+                                                "btype": [
                                                     "solid",
                                                     "solid",
                                                     "solid",
                                                     "solid"
                                                 ],
-                                                "borderWidth": [
+                                                "bwidth": [
                                                     0.26,
                                                     0.26,
                                                     0.26,
@@ -519,17 +519,17 @@
                                                 "rotate": 0,
                                                 "print": "each",
                                                 "bind": {},
-                                                "autoHeight": true,
-                                                "fontsize": 3.7,
-                                                "fontfamily": "unset",
+                                                "match": true,
+                                                "size": 3.7,
+                                                "font": "unset",
                                                 "lineheight": 1.5,
                                                 "gap": 0,
-                                                "forecolor": "#000",
+                                                "color": "#000",
                                                 "hpos": "center",
                                                 "vpos": "center",
-                                                "borderwidth": 0,
-                                                "bordercolor": "#000",
-                                                "bordertype": "solid",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
                                                 "target": "tab",
                                                 "winWidth": 132.29,
                                                 "winHeight": 132.29,
@@ -561,9 +561,9 @@
                                                 "alpha": 1,
                                                 "rotate": 0,
                                                 "print": "each",
-                                                "borderwidth": 0.26,
-                                                "bordertype": "solid",
-                                                "bordercolor": "#000",
+                                                "bwidth": 0.26,
+                                                "btype": "solid",
+                                                "bcolor": "#000",
                                                 "ename": "圆形-2",
                                                 "animations": []
                                             }
@@ -593,17 +593,17 @@
                                                                             "rotate": 0,
                                                                             "print": "each",
                                                                             "bind": {},
-                                                                            "autoHeight": true,
-                                                                            "fontsize": 3.7,
-                                                                            "fontfamily": "unset",
+                                                                            "match": true,
+                                                                            "size": 3.7,
+                                                                            "font": "unset",
                                                                             "lineheight": 1.5,
                                                                             "gap": 0,
-                                                                            "forecolor": "#000",
+                                                                            "color": "#000",
                                                                             "hpos": "center",
                                                                             "vpos": "center",
-                                                                            "borderwidth": 0,
-                                                                            "bordercolor": "#000",
-                                                                            "bordertype": "solid",
+                                                                            "bwidth": 0,
+                                                                            "bcolor": "#000",
+                                                                            "btype": "solid",
                                                                             "target": "tab",
                                                                             "winWidth": 132.29,
                                                                             "winHeight": 132.29,
@@ -612,20 +612,20 @@
                                                                         }
                                                                     }
                                                                 ],
-                                                                "borderRadius": "0% 0% 0% 0%/0% 0% 0% 0%",
-                                                                "borderStyle": [
+                                                                "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                                                                "btype": [
                                                                     "solid",
                                                                     "solid",
                                                                     "solid",
                                                                     "solid"
                                                                 ],
-                                                                "borderColor": [
+                                                                "bcolor": [
                                                                     "#000",
                                                                     "#000",
                                                                     "#000",
                                                                     "#000"
                                                                 ],
-                                                                "borderWidth": [
+                                                                "bwidth": [
                                                                     0.26,
                                                                     0.26,
                                                                     0.26,
@@ -658,10 +658,10 @@
                     "width": 192.84,
                     "height": 256.49,
                     "alpha": 1,
-                    "borderwidth": 0.26,
-                    "bordertype": "solid",
-                    "bordercolor": "#000",
-                    "borderdeed": "collapse",
+                    "bwidth": 0.26,
+                    "btype": "solid",
+                    "bcolor": "#000",
+                    "bdeed": "collapse",
                     "ename": "表格-1",
                     "animations": []
                 }

@@ -23,7 +23,7 @@
             "tags": {
                 "text": "标签",
                 "tag": "",
-                "forecolor": "#22fbd9",
+                "color": "#22fbd9",
                 "background": "#a77c2b"
             }
         },
@@ -43,7 +43,7 @@
             "tags": {
                 "text": "标签",
                 "tag": "",
-                "forecolor": "#22fbd9",
+                "color": "#22fbd9",
                 "background": "#a77c2b"
             }
         },
@@ -63,7 +63,7 @@
             "tags": {
                 "text": "标签",
                 "tag": "",
-                "forecolor": "#22fbd9",
+                "color": "#22fbd9",
                 "background": "#a77c2b"
             }
         },
@@ -83,7 +83,7 @@
             "tags": {
                 "text": "标签",
                 "tag": "",
-                "forecolor": "#22fbd9",
+                "color": "#22fbd9",
                 "background": "#a77c2b"
             }
         },
@@ -103,7 +103,7 @@
             "tags": {
                 "text": "标签",
                 "tag": "",
-                "forecolor": "#22fbd9",
+                "color": "#22fbd9",
                 "background": "#a77c2b"
             }
         },
@@ -123,7 +123,7 @@
             "tags": {
                 "text": "标签",
                 "tag": "",
-                "forecolor": "#22fbd9",
+                "color": "#22fbd9",
                 "background": "#a77c2b"
             }
         }

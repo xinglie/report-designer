@@ -6,7 +6,7 @@
 </head>
 
 <body>
-    <script src="dist/viewer.js?v=202309281518"></script>
+    <script src="dist/viewer.js?v=202310210847"></script>
     <script>
         /*
           一般我们会通过如 https://xinglie.github.io/report-designer/viewer.html?id=49
@@ -38,7 +38,7 @@
             //即：要么外部提供好内部需要的所有数据，内部只做渲染，速度快。要么外部不提供数据，内部自动获取，则渲染用时会变长
 
             let vf = await viewer.setup({
-                version:'202309281518',//安装预览器，如果在其它代码中使用，请确保不要反复安装
+                version:'202310210847',//安装预览器，如果在其它代码中使用，请确保不要反复安装
                 use: 'default',//预览器内置了 试卷(exam) IoT(iot) 流式分页(stack) 标签(label) 静态分页(default) 五种预览，这里使用 静态分页(default) 进行内容渲染
                 latent: true,//一定要指定隐藏渲染
             });

@@ -53,13 +53,13 @@
                                                     ]
                                                 },
                                                 "format": "",
-                                                "autoHeight": false,
-                                                "fontsize": 14,
-                                                "fontfamily": "tahoma",
+                                                "match": false,
+                                                "size": 14,
+                                                "font": "tahoma",
                                                 "alpha": 1,
                                                 "gap": 0,
                                                 "background": "",
-                                                "forecolor": "#000000",
+                                                "color": "#000000",
                                                 "styleBold": false,
                                                 "styleUnderline": false,
                                                 "styleItalic": false,
@@ -67,9 +67,9 @@
                                                 "styleOverline": false,
                                                 "hpos": "flex-start",
                                                 "vpos": "flex-start",
-                                                "borderwidth": 0,
-                                                "bordertype": "solid",
-                                                "bordercolor": "#000000",
+                                                "bwidth": 0,
+                                                "btype": "solid",
+                                                "bcolor": "#000000",
                                                 "ename": "文本",
                                                 "locked": false
                                             }
@@ -125,13 +125,13 @@
                                                     ]
                                                 },
                                                 "format": "",
-                                                "autoHeight": true,
-                                                "fontsize": 14,
-                                                "fontfamily": "tahoma",
+                                                "match": true,
+                                                "size": 14,
+                                                "font": "tahoma",
                                                 "alpha": 1,
                                                 "gap": 0,
                                                 "background": "",
-                                                "forecolor": "#000000",
+                                                "color": "#000000",
                                                 "styleBold": false,
                                                 "styleUnderline": false,
                                                 "styleItalic": false,
@@ -139,28 +139,28 @@
                                                 "styleOverline": false,
                                                 "hpos": "flex-start",
                                                 "vpos": "flex-start",
-                                                "borderwidth": 0,
-                                                "bordertype": "solid",
-                                                "bordercolor": "#000000",
+                                                "bwidth": 0,
+                                                "btype": "solid",
+                                                "bcolor": "#000000",
                                                 "ename": "文本",
                                                 "locked": false
                                             }
                                         }
                                     ],
-                                    "borderRadius": "0% 0% 0% 0%/0% 0% 0% 0%",
-                                    "borderStyle": [
+                                    "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                                    "btype": [
                                         "solid",
                                         "solid",
                                         "solid",
                                         "solid"
                                     ],
-                                    "borderWidth": [
+                                    "bwidth": [
                                         0,
                                         0,
                                         0,
                                         0
                                     ],
-                                    "borderColor": [
+                                    "bcolor": [
                                         "#000",
                                         "#000",
                                         "#000",

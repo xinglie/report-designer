@@ -23,7 +23,7 @@
             }
             #header{
                 height: 40px;
-                background-color:/*d-cb<*/var(--rd-a3)/*>d-cb*/;
+                background-color:/*d-cb<*/var(--rd-aw)/*>d-cb*/;
                 color:#fff;
                 padding: 0 40px 0 20px;
                 margin:10px 0;
@@ -33,7 +33,7 @@
                 z-index: 202;
             }
             #left{
-                width:155px;
+                width:190px;
                 height: 100%;
                 border: #ccc solid 1px;
                 margin:0 10px;
@@ -71,6 +71,8 @@
             <button style="margin-left: 100px;" id="destroy-rd">销毁设计器</button>
             <button style="margin-left: 10px;" disabled id="setup-rd">安装设计器</button>
             <button style="margin-left: 10px;" id="virtual">虚拟渲染</button>
+            <button style="margin-left: 10px;" id="print">打印</button>
+            <div style="margin-left: 10px;">界面全模块化，可任意拆解组装</div>
         </div>
         <div id="toolbar">
 
@@ -97,40 +99,48 @@
         <div id="foot">
 
         </div>
-        <script src="dist/designer.js?v=202309281518"></script>
+        <script src="dist/designer.js?v=202310210847"></script>
         <script>
             let setup=()=>{
                 designer.setup({
-                    version:'202309281518',
+                    version:'202310210847',
                     rootId:'app',
-                    split:true,
-                    panels:{
-                        element:{
-                            hidden:false,
-                            scroll:true,
-                            to:'left'
+                    split:true,//一定要配置split为true，表示拆分模式
+                    panels:{//把内置的浮动面板渲染到现有的节点里
+                        //内置的所有面板清单
+                        /*
+                            animate 动画面板
+                            data 数据源面板
+                            debug 调试面板
+                            draft 暂存面板
+                            element 元素面板
+                            outline 概览图面板
+                            props 属性面板
+                            record 历史记录面板
+                            resource 图片资源面板
+                            tree 结构树面板
+                            https://xinglie.github.io/report-designer 可查看所有内置面板的功能
+                        */
+                        resource:{//资源面板
+                            scroll:true,//是否滚动
+                            to:'left'//渲染到现有哪个节点里
                         },
-                        data:{
+                        data:{//数据面板
                             scroll:true,
                             to:'right'
                         },
-                        tree:{
-                            hidden:true
-                        },
-                        props:{
+                        props:{//属性面板
                             scroll:true,
                             to:'right2'
                         },
-                        animate:{
+                        animate:{//动画面板
                             to:'foot'
                         }
                     },
-                    header:{
+                    header:{//设计器的头渲染到哪个节点里
                         to:'header',
-                        hidden:false
                     },
-                    toolbar:{
-                        hidden:false,
+                    toolbar:{//工具栏渲染到哪个节点里
                         to:'toolbar'
                     },
                     viewerUrl:'./viewer.html?from=split',
@@ -138,11 +148,13 @@
                     getFieldUrl:'./apis/fields.json',
                     getTemplateUrl:'./apis/example.json',
                     getTemplateContentUrl:'./apis/example_${id}.json',
+                    getResourceUrl:'./apis/resource.json',
                 });
             };
             let setupBtn=document.getElementById('setup-rd');
             let destroyBtn=document.getElementById('destroy-rd');
             let virtual = document.getElementById('virtual');
+            let pt=document.getElementById('print');
             setupBtn.addEventListener('click',()=>{
                 setup();
                 setupBtn.disabled=true;
@@ -160,7 +172,6 @@
                 //隐藏iframe
                 let iframe = document.createElement('iframe');
                 iframe.style.cssText = 'position:absolute;top:-500cm;left:-500cm';
-                iframe.src = './proxy.html?pId=' + pId;
                 document.body.append(iframe);
                 let win = iframe.contentWindow;
                 let listen = async ({ data }) => {
@@ -177,6 +188,30 @@
                     }
                 };
                 window.addEventListener('message', listen);
+                iframe.src = './proxy.html?pId=' + pId;
+            });
+            pt.addEventListener('click', () => {
+                let pId = c++;//在当前函数内生成一个pId，用于识别创建多个iframe对象后数据通信问题
+                //隐藏iframe
+                let iframe = document.createElement('iframe');
+                iframe.style.cssText = 'position:absolute;top:-500cm;left:-500cm';
+                document.body.append(iframe);
+                let win = iframe.contentWindow;
+                let listen = async ({ data }) => {
+                    //只有通信数据是自己的才处理
+                    if (data.pId == pId) {
+                        if (data.action == 'ready') {//就绪，则传递当前设计器里面的内容
+                            win.postMessage(await designer.get(), origin);
+                        } else {//获取虚拟渲染的内容后，删除iframe并移动事件监听
+                            iframe.remove();
+                            window.removeEventListener('message', listen);
+                            //data.renderData即是包含样式及分好页的数据
+                            //console.log(data.renderData);
+                        }
+                    }
+                };
+                window.addEventListener('message', listen);
+                iframe.src = './proxy.html?pId=' + pId+'&action=print';
             });
             setup();(()=>{let s=document.createElement('link');s.rel='stylesheet';s.href='//npm.onmicrosoft.cn/animate.css@4.1.1/animate.min.css';document.head.append(s)})();
         </script>

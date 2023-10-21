@@ -11,12 +11,13 @@
 </head>
 
 <body>
-    <div>
+    <div style="display: flex;">
         some other text
         <button style="margin-left: 100px;" id="destroy-rd">销毁设计器</button>
         <button style="margin-left: 10px;" disabled id="setup-rd">安装设计器</button>
         <button style="margin-left: 10px;" id="virtual">虚拟渲染</button>
         <button style="margin-left: 10px;" id="print">打印</button>
+        <div style="margin-left: 10px;">界面全模块化，可任意拆解组装</div>
     </div>
     <div style="display:flex;">
         <div style="width:150px">
@@ -36,11 +37,11 @@
         <input placeholder="外部输入框测试" />
         bottom text
     </div>
-    <script src="dist/designer.js?v=202309281518"></script>
+    <script src="dist/designer.js?v=202310210847"></script>
     <script>
         let setup = () => {
             designer.setup({
-                version:'202309281518',
+                version:'202310210847',
                 rootId: 'app',
                 mini: true,
                 viewerUrl: './viewer.html?from=mini',
@@ -70,7 +71,6 @@
             //隐藏iframe
             let iframe = document.createElement('iframe');
             iframe.style.cssText = 'position:absolute;top:-500cm;left:-500cm';
-            iframe.src = './proxy.html?pId=' + pId;
             document.body.append(iframe);
             let win = iframe.contentWindow;
             let listen = async ({ data }) => {
@@ -87,13 +87,13 @@
                 }
             };
             window.addEventListener('message', listen);
+            iframe.src = './proxy.html?pId=' + pId;
         });
         pt.addEventListener('click', () => {
             let pId = c++;//在当前函数内生成一个pId，用于识别创建多个iframe对象后数据通信问题
             //隐藏iframe
             let iframe = document.createElement('iframe');
             iframe.style.cssText = 'position:absolute;top:-500cm;left:-500cm';
-            iframe.src = './proxy.html?pId=' + pId+'&action=print';
             document.body.append(iframe);
             let win = iframe.contentWindow;
             let listen = async ({ data }) => {
@@ -110,6 +110,7 @@
                 }
             };
             window.addEventListener('message', listen);
+            iframe.src = './proxy.html?pId=' + pId+'&action=print';
         });
         setup();
         (() => { let s = document.createElement('link'); s.rel = 'stylesheet'; s.href = '//npm.onmicrosoft.cn/animate.css@4.1.1/animate.min.css'; document.head.append(s) })();

@@ -17,7 +17,7 @@
             "blank": "keep",
             "labelCol": 1,
             "labelGap": 10,
-            "fontfamily": "unset",
+            "font": "unset",
             "gridWidth": 20,
             "gridHeight": 20,
             "background": "#ffffff",

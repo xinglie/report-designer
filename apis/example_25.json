@@ -55,7 +55,7 @@
                     "color": "#000000",
                     "linewidth": 0,
                     "textGap": 0,
-                    "fontsize": 10,
+                    "size": 10,
                     "textColor": "#000",
                     "textPosition": "bottom",
                     "textMargin": 0,
@@ -115,19 +115,19 @@
                             }
                         ]
                     },
-                    "autoHeight": true,
+                    "match": true,
                     "hspace": 30,
                     "vspace": 30,
-                    "fontsize": 14,
-                    "fontfamily": "tahoma",
+                    "size": 14,
+                    "font": "tahoma",
                     "lineheight": 1.5,
                     "gap": 0,
-                    "forecolor": "#000000",
+                    "color": "#000000",
                     "hpos": "flex-start",
                     "vpos": "flex-start",
-                    "borderwidth": 0,
-                    "bordercolor": "#000000",
-                    "bordertype": "solid",
+                    "bwidth": 0,
+                    "bcolor": "#000000",
+                    "btype": "solid",
                     "ename": "批量文本",
                     "animations": []
                 }
@@ -146,20 +146,20 @@
                                 {
                                     "width": 791,
                                     "elements": [],
-                                    "borderRadius": "0% 0% 0% 0%/0% 0% 0% 0%",
-                                    "borderStyle": [
+                                    "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                                    "btype": [
                                         "dashed",
                                         "dashed",
                                         "dashed",
                                         "dashed"
                                     ],
-                                    "borderWidth": [
+                                    "bwidth": [
                                         0,
                                         0,
                                         0,
                                         0
                                     ],
-                                    "borderColor": [
+                                    "bcolor": [
                                         "#cccccc",
                                         "#cccccc",
                                         "#cccccc",

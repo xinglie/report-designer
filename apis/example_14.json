@@ -101,10 +101,6 @@
                     "height": 0,
                     "rotate": 0,
                     "alpha": 1,
-                    "borderwidth": 0.26,
-                    "bordertype": "solid",
-                    "bordercolor": "#000000",
-                    "fillcolor": "",
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
                     "ename": "矩形",
                     "locked": false

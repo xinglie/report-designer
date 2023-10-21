@@ -8,6 +8,14 @@
                 "rde_liu3ce0a1299",
                 "rde_livblrfl117",
                 "rde_livj880l345"
+            ],
+            [
+                "rde_liu3ce0a1302",
+                "rde_ln6uh1gs178"
+            ],
+            [
+                "rde_ln6uh1gs198",
+                "rde_ln78nofz229"
             ]
         ],
         "page": {
@@ -23,14 +31,15 @@
             "blank": "keep",
             "labelCol": 1,
             "labelGap": 2.65,
+            "font": "unset",
             "gridWidth": 5.29,
             "gridHeight": 5.29,
             "background": "#fff",
             "backgroundRepeat": "no-repeat",
             "backgroundWidth": 0,
             "backgroundHeight": 0,
-            "backgroundXOffset": 0,
-            "backgroundYOffset": 0
+            "backgroundX": 0,
+            "backgroundY": 0
         },
         "elements": [
             {
@@ -50,25 +59,25 @@
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
-                                                "x": 13.73,
-                                                "y": 16.08,
+                                                "x": 12.99,
+                                                "y": 12.33,
                                                 "width": 52.92,
                                                 "height": 6.61,
                                                 "alpha": 1,
                                                 "rotate": 329,
                                                 "print": "each",
                                                 "bind": {},
-                                                "autoHeight": true,
-                                                "fontsize": 3.7,
-                                                "fontfamily": "tahoma",
+                                                "match": true,
+                                                "size": 3.7,
+                                                "font": "tahoma",
                                                 "lineheight": 1.5,
                                                 "gap": 0,
-                                                "forecolor": "#000",
+                                                "color": "#000",
                                                 "hpos": "center",
                                                 "vpos": "center",
-                                                "borderwidth": 0,
-                                                "bordercolor": "#000",
-                                                "bordertype": "solid",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
                                                 "target": "tab",
                                                 "winWidth": 132.29,
                                                 "winHeight": 132.29,
@@ -93,47 +102,84 @@
                                                                         "type": "text",
                                                                         "unit": "mm",
                                                                         "props": {
-                                                                            "x": 21.34,
-                                                                            "y": 10.1,
+                                                                            "x": 21.73,
+                                                                            "y": 9.21,
                                                                             "width": 52.92,
                                                                             "height": 6.61,
                                                                             "alpha": 1,
                                                                             "rotate": 0,
                                                                             "print": "each",
                                                                             "bind": {},
-                                                                            "autoHeight": true,
-                                                                            "fontsize": 3.7,
-                                                                            "fontfamily": "tahoma",
+                                                                            "match": true,
+                                                                            "size": 3.7,
+                                                                            "font": "tahoma",
                                                                             "lineheight": 1.5,
                                                                             "gap": 0,
-                                                                            "forecolor": "#000",
+                                                                            "color": "#000",
                                                                             "hpos": "center",
                                                                             "vpos": "center",
-                                                                            "borderwidth": 0,
-                                                                            "bordercolor": "#000",
-                                                                            "bordertype": "solid",
+                                                                            "bwidth": 0,
+                                                                            "bcolor": "#000",
+                                                                            "btype": "solid",
                                                                             "target": "tab",
                                                                             "winWidth": 132.29,
                                                                             "winHeight": 132.29,
                                                                             "ename": "文本-3",
                                                                             "animations": []
                                                                         }
+                                                                    },
+                                                                    {
+                                                                        "id": "rde_ln78nofz198",
+                                                                        "type": "line",
+                                                                        "unit": "mm",
+                                                                        "props": {
+                                                                            "x": 13.1,
+                                                                            "y": 21.39,
+                                                                            "width": 52.92,
+                                                                            "height": 0.26,
+                                                                            "alpha": 1,
+                                                                            "rotate": 0,
+                                                                            "print": "each",
+                                                                            "btype": "solid",
+                                                                            "color": "#000",
+                                                                            "ename": "直线-2",
+                                                                            "animations": []
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "id": "rde_ln78nofz201",
+                                                                        "type": "circle",
+                                                                        "unit": "mm",
+                                                                        "props": {
+                                                                            "x": 9.23,
+                                                                            "y": 6.35,
+                                                                            "width": 39.69,
+                                                                            "height": 39.69,
+                                                                            "alpha": 1,
+                                                                            "rotate": 0,
+                                                                            "print": "each",
+                                                                            "bwidth": 0.26,
+                                                                            "btype": "solid",
+                                                                            "bcolor": "#000",
+                                                                            "ename": "圆形-2",
+                                                                            "animations": []
+                                                                        }
                                                                     }
                                                                 ],
-                                                                "borderRadius": "0% 0% 0% 0%/0% 0% 0% 0%",
-                                                                "borderStyle": [
+                                                                "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                                                                "btype": [
                                                                     "solid",
                                                                     "solid",
                                                                     "solid",
                                                                     "solid"
                                                                 ],
-                                                                "borderColor": [
+                                                                "bcolor": [
                                                                     "#000",
                                                                     "#000",
                                                                     "#000",
                                                                     "#000"
                                                                 ],
-                                                                "borderWidth": [
+                                                                "bwidth": [
                                                                     0.26,
                                                                     0.26,
                                                                     0.26,
@@ -143,8 +189,8 @@
                                                         ]
                                                     }
                                                 ],
-                                                "x": 6.83,
-                                                "y": 23.85,
+                                                "x": 5.7,
+                                                "y": 20.99,
                                                 "width": 79.38,
                                                 "height": 26.46,
                                                 "alpha": 1,
@@ -153,20 +199,20 @@
                                             }
                                         }
                                     ],
-                                    "borderRadius": "0% 0% 0% 0%/0% 0% 0% 0%",
-                                    "borderStyle": [
+                                    "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                                    "btype": [
                                         "solid",
                                         "solid",
                                         "solid",
                                         "solid"
                                     ],
-                                    "borderColor": [
+                                    "bcolor": [
                                         "#000",
                                         "#000",
                                         "#000",
                                         "#000"
                                     ],
-                                    "borderWidth": [
+                                    "bwidth": [
                                         0.26,
                                         0.26,
                                         0.26,
@@ -176,8 +222,8 @@
                             ]
                         }
                     ],
-                    "x": 19.57,
-                    "y": 105.78,
+                    "x": 0,
+                    "y": 119.01,
                     "width": 85.34,
                     "height": 55.13,
                     "alpha": 1,
@@ -190,16 +236,16 @@
                 "type": "circle",
                 "unit": "mm",
                 "props": {
-                    "x": 30.03,
-                    "y": 53.38,
+                    "x": 14.46,
+                    "y": 49.29,
                     "width": 39.69,
                     "height": 39.69,
                     "alpha": 1,
                     "rotate": 0,
                     "print": "each",
-                    "borderwidth": 0.26,
-                    "bordertype": "solid",
-                    "bordercolor": "#000",
+                    "bwidth": 0.26,
+                    "btype": "solid",
+                    "bcolor": "#000",
                     "ename": "圆形-1",
                     "animations": []
                 }
@@ -209,25 +255,25 @@
                 "type": "text",
                 "unit": "mm",
                 "props": {
-                    "x": 51.28,
-                    "y": 180.18,
+                    "x": 33.03,
+                    "y": 192.63,
                     "width": 52.92,
                     "height": 6.61,
                     "alpha": 1,
                     "rotate": 45,
                     "print": "each",
                     "bind": {},
-                    "autoHeight": true,
-                    "fontsize": 3.7,
-                    "fontfamily": "tahoma",
+                    "match": true,
+                    "size": 3.7,
+                    "font": "tahoma",
                     "lineheight": 1.5,
                     "gap": 0,
-                    "forecolor": "#000",
+                    "color": "#000",
                     "hpos": "center",
                     "vpos": "center",
-                    "borderwidth": 0,
-                    "bordercolor": "#000",
-                    "bordertype": "solid",
+                    "bwidth": 0,
+                    "bcolor": "#000",
+                    "btype": "solid",
                     "target": "tab",
                     "winWidth": 132.29,
                     "winHeight": 132.29,
@@ -240,8 +286,8 @@
                 "type": "image",
                 "unit": "mm",
                 "props": {
-                    "x": 117.31,
-                    "y": 114.5,
+                    "x": 97.74,
+                    "y": 127.73,
                     "width": 52.92,
                     "height": 26.46,
                     "alpha": 1,
@@ -260,8 +306,8 @@
                 "type": "image",
                 "unit": "mm",
                 "props": {
-                    "x": 166.56,
-                    "y": 135.2,
+                    "x": 146.99,
+                    "y": 148.43,
                     "width": 52.92,
                     "height": 26.46,
                     "alpha": 1,
@@ -280,8 +326,8 @@
                 "type": "image",
                 "unit": "mm",
                 "props": {
-                    "x": 164.51,
-                    "y": 80.33,
+                    "x": 160.42,
+                    "y": 78.06,
                     "width": 52.92,
                     "height": 26.46,
                     "alpha": 1,
@@ -292,6 +338,212 @@
                     "winWidth": 132.29,
                     "winHeight": 132.29,
                     "ename": "图片-3",
+                    "animations": []
+                }
+            },
+            {
+                "id": "rde_ln6uh1gs178",
+                "type": "hod-vflex",
+                "unit": "mm",
+                "props": {
+                    "rows": [
+                        {
+                            "width": 89.85,
+                            "cols": [
+                                {
+                                    "height": 79.38,
+                                    "elements": [
+                                        {
+                                            "id": "rde_ln6uh1gs198",
+                                            "type": "hod-hflex",
+                                            "unit": "mm",
+                                            "props": {
+                                                "rows": [
+                                                    {
+                                                        "height": 26.46,
+                                                        "cols": [
+                                                            {
+                                                                "width": 79.38,
+                                                                "elements": [
+                                                                    {
+                                                                        "id": "rde_ln6uh1gs201",
+                                                                        "type": "line",
+                                                                        "unit": "mm",
+                                                                        "props": {
+                                                                            "x": 20.35,
+                                                                            "y": 13.1,
+                                                                            "width": 52.92,
+                                                                            "height": 0.26,
+                                                                            "alpha": 1,
+                                                                            "rotate": 0,
+                                                                            "print": "each",
+                                                                            "btype": "solid",
+                                                                            "color": "#000",
+                                                                            "ename": "直线-1",
+                                                                            "animations": []
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                                                                "btype": [
+                                                                    "solid",
+                                                                    "solid",
+                                                                    "solid",
+                                                                    "solid"
+                                                                ],
+                                                                "bcolor": [
+                                                                    "#000",
+                                                                    "#000",
+                                                                    "#000",
+                                                                    "#000"
+                                                                ],
+                                                                "bwidth": [
+                                                                    0.26,
+                                                                    0.26,
+                                                                    0.26,
+                                                                    0.26
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "x": 8.29,
+                                                "y": 15.81,
+                                                "width": 79.38,
+                                                "height": 26.46,
+                                                "alpha": 1,
+                                                "ename": "H-Flex-3",
+                                                "animations": []
+                                            }
+                                        },
+                                        {
+                                            "id": "rde_ln78nofz222",
+                                            "type": "hod-hflex",
+                                            "unit": "mm",
+                                            "props": {
+                                                "rows": [
+                                                    {
+                                                        "height": 26.46,
+                                                        "cols": [
+                                                            {
+                                                                "width": 79.38,
+                                                                "elements": [
+                                                                    {
+                                                                        "id": "rde_ln78nofz223",
+                                                                        "type": "line",
+                                                                        "unit": "mm",
+                                                                        "props": {
+                                                                            "x": 18.74,
+                                                                            "y": 13.1,
+                                                                            "width": 52.92,
+                                                                            "height": 0.26,
+                                                                            "alpha": 1,
+                                                                            "rotate": 0,
+                                                                            "print": "each",
+                                                                            "btype": "solid",
+                                                                            "color": "#000",
+                                                                            "ename": "直线-1",
+                                                                            "animations": []
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                                                                "btype": [
+                                                                    "solid",
+                                                                    "solid",
+                                                                    "solid",
+                                                                    "solid"
+                                                                ],
+                                                                "bcolor": [
+                                                                    "#000",
+                                                                    "#000",
+                                                                    "#000",
+                                                                    "#000"
+                                                                ],
+                                                                "bwidth": [
+                                                                    0.26,
+                                                                    0.26,
+                                                                    0.26,
+                                                                    0.26
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "x": 5.1,
+                                                "y": 50.2,
+                                                "width": 79.38,
+                                                "height": 26.46,
+                                                "alpha": 1,
+                                                "ename": "H-Flex-4",
+                                                "animations": []
+                                            }
+                                        },
+                                        {
+                                            "id": "rde_ln78nofz229",
+                                            "type": "rect",
+                                            "unit": "mm",
+                                            "props": {
+                                                "x": 7.75,
+                                                "y": -13.23,
+                                                "width": 52.92,
+                                                "height": 26.46,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "bcolor": [
+                                                    "#000",
+                                                    "#000",
+                                                    "#000",
+                                                    "#000"
+                                                ],
+                                                "btype": [
+                                                    "solid",
+                                                    "solid",
+                                                    "solid",
+                                                    "solid"
+                                                ],
+                                                "bwidth": [
+                                                    0.26,
+                                                    0.26,
+                                                    0.26,
+                                                    0.26
+                                                ],
+                                                "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                                                "ename": "矩形-1",
+                                                "animations": []
+                                            }
+                                        }
+                                    ],
+                                    "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                                    "btype": [
+                                        "solid",
+                                        "solid",
+                                        "solid",
+                                        "solid"
+                                    ],
+                                    "bwidth": [
+                                        0.26,
+                                        0.26,
+                                        0.26,
+                                        0.26
+                                    ],
+                                    "bcolor": [
+                                        "#000",
+                                        "#000",
+                                        "#000",
+                                        "#000"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "x": 70.57,
+                    "y": 9.6,
+                    "width": 89.85,
+                    "height": 79.38,
+                    "alpha": 1,
+                    "ename": "V-Flex-1",
                     "animations": []
                 }
             }
