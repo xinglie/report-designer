@@ -17,14 +17,15 @@
             "blank": "keep",
             "labelCol": 1,
             "labelGap": 2.65,
+            "font": "unset",
             "gridWidth": 5.29,
             "gridHeight": 5.29,
             "background": "#fff",
             "backgroundRepeat": "no-repeat",
             "backgroundWidth": 0,
             "backgroundHeight": 0,
-            "backgroundXOffset": 0,
-            "backgroundYOffset": 0
+            "backgroundX": 0,
+            "backgroundY": 0
         },
         "elements": [
             {
@@ -441,6 +442,7 @@
                     "dynamicCols": true,
                     "avgColsWidth": "percent",
                     "hspace": 5.29,
+                    "singleRowScale": true,
                     "ename": "数据表格-1",
                     "animations": []
                 }
@@ -479,6 +481,7 @@
                                                         }
                                                     ]
                                                 },
+                                                "format": "qrcode",
                                                 "colorDark": "#000",
                                                 "colorLight": "#fff",
                                                 "correctLevel": "H",
@@ -824,7 +827,6 @@
                                     "vpos": "flex-start",
                                     "alpha": 1,
                                     "type": "text",
-                                    "bBottom": true,
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.7,
@@ -913,7 +915,6 @@
                                     "vpos": "flex-start",
                                     "alpha": 1,
                                     "type": "text",
-                                    "bBottom": true,
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.7,
@@ -1640,6 +1641,7 @@
                     "dynamicCols": true,
                     "avgColsWidth": "percent",
                     "hspace": 5.29,
+                    "singleRowScale": true,
                     "ename": "数据表格-2",
                     "animations": []
                 }
