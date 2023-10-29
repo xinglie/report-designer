@@ -24,7 +24,7 @@
             left
         </div>
         <div id="app" class="app"
-            style="min-width:1100px;max-width:1100px;height:600px;border:solid 1px #ccc;position: relative;overflow: hidden;">
+            style="min-width:1100px;max-width:1100px;height:600px;border:solid 1px #ccc;position: relative;overflow: clip;">
             <div style="display: flex;align-items: center;justify-content: center; height: 100%;">
                 这里可以放一个加载动画...
             </div>
@@ -37,11 +37,11 @@
         <input placeholder="外部输入框测试" />
         bottom text
     </div>
-    <script src="dist/designer.js?v=202310250905"></script>
+    <script src="dist/designer.js?v=202310290810"></script>
     <script>
         let setup = () => {
             designer.setup({
-                version:'202310250905',
+                version:'202310290810',
                 rootId: 'app',
                 mini: true,
                 viewerUrl: './viewer.html?from=mini',

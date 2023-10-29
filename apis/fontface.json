@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "name": "阿朱泡泡体",
+            "family": "azpp",
+            "url": "../fonts/azpp.ttf"
+        },
+        {
+            "name": "站酷小薇LOGO体",
+            "family": "zkxwlogo",
+            "url": "../fonts/zkxwlogo.woff"
+        },
+        {
+            "name": "问藏书房",
+            "family": "wcsf",
+            "url": "../fonts/wcsf.ttf"
+        },
+        {
+            "name": "LED",
+            "family": "ds-digi",
+            "url": "../fonts/ds-digi.ttf"
+        },
+        {
+            "name": "LED2",
+            "family": "dnf",
+            "url": "../fonts/dnf.ttf"
+        }
+    ],
+    "success": true,
+    "message": "ok"
+}

@@ -38,7 +38,6 @@
                         "fields": []
                     },
                     "repeat": "repeat",
-                    "radius": 0,
                     "imageWidth": 0,
                     "imageHeight": 0,
                     "backgroundXOffset": 0,
@@ -66,7 +65,6 @@
                         "fields": []
                     },
                     "repeat": "repeat",
-                    "radius": 0,
                     "imageWidth": 0,
                     "imageHeight": 0,
                     "backgroundXOffset": 0,
