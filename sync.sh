@@ -1,6 +1,8 @@
 #!/bin/sh
 git co iot dist/designer.js
 git co iot dist/viewer.js
+git co iot dist/display.js
+git co iot dist/servant.js
 
 git co iot index.html
 git co iot viewer.html
