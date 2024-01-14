@@ -45,8 +45,10 @@ https://github.com/xinglie/report-designer/issues/32
 https://github.com/xinglie/printer-editor
 
 
-### 授权
+### 联系
 微信ID：qq84685009
+
+> 不了解前后端分离的方案、看不懂文档的小白请不要联系！
 
 <img width="246" alt="author wechat" src="./wechat.jpg"/>
 
