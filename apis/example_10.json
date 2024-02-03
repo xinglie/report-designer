@@ -61,9 +61,9 @@
                                             "unit": "mm",
                                             "props": {
                                                 "ext": {},
-                                                "x": 152.38,
+                                                "x": 148.38,
                                                 "y": 1.06,
-                                                "width": 52.91,
+                                                "width": 56.91,
                                                 "height": 8.2,
                                                 "rotate": 0,
                                                 "text": "当前第${current}页，共${total}页",

@@ -1176,7 +1176,7 @@
                     "match": true,
                     "size": 24,
                     "font": "tahoma",
-                    "lineheight": 1.5,
+                    "line": 1.5,
                     "gap": 0,
                     "color": "#000000",
                     "hpos": "center",

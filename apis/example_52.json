@@ -52,7 +52,7 @@
                                                 "match": true,
                                                 "size": 3.7,
                                                 "font": "tahoma",
-                                                "lineheight": 1.5,
+                                                "line": 1.5,
                                                 "gap": 0,
                                                 "color": "#000",
                                                 "hpos": "center",
