@@ -1,26 +1,33 @@
 {
     "data": {
         "unit": "px",
+        "xs": [],
+        "ys": [],
+        "groups": [],
         "page": {
             "viewer": "default",
             "width": 791,
             "height": 1120,
             "pages": 1,
-            "scaleType": "auto",
+            "scale": "auto",
             "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
-            "copies": 1,
             "xOffset": 0,
             "yOffset": 0,
+            "space": 0,
+            "copies": 1,
+            "blank": "drop",
+            "labelCol": 1,
+            "labelGap": 10,
+            "font": "unset",
+            "gridWidth": 20,
+            "gridHeight": 20,
             "background": "#ffffff",
             "backgroundRepeat": "full",
             "backgroundWidth": 0,
             "backgroundHeight": 0,
-            "backgroundXOffset": 0,
-            "backgroundYOffset": 0
+            "backgroundX": 0,
+            "backgroundY": 0
         },
-        "xs": [],
-        "ys": [],
-        "groups": [],
         "elements": [
             {
                 "id": "e_90",
@@ -33,24 +40,22 @@
                     "linkToKey": "p7",
                     "x": 134,
                     "y": 442,
-                    "textPointX": 204,
-                    "textPointY": 442,
-                    "textX": 164,
-                    "textY": 432,
+                    "textX": 70,
+                    "textY": 0,
                     "width": 261,
                     "height": 136,
-                    "startX": 134,
-                    "startY": 578,
-                    "endX": 395,
-                    "endY": 457,
+                    "startX": 0,
+                    "startY": 136,
+                    "endX": 261,
+                    "endY": 15,
                     "points": [
                         {
-                            "x": 134,
-                            "y": 442
+                            "x": 0,
+                            "y": 0
                         },
                         {
-                            "x": 395,
-                            "y": 442
+                            "x": 261,
+                            "y": 0
                         }
                     ],
                     "lineType": "polyline",
@@ -61,8 +66,6 @@
                     "color": "#000000",
                     "dash": 0,
                     "cornerOffset": 0,
-                    "textWidth": 80,
-                    "textHeight": 20,
                     "textSize": 12,
                     "textFont": "tahoma",
                     "textGap": 0,
@@ -85,20 +88,18 @@
                     "linkToKey": "p6",
                     "x": 134,
                     "y": 618,
-                    "textPointX": 206,
-                    "textPointY": 711,
-                    "textX": 166,
-                    "textY": 701,
+                    "textX": 72,
+                    "textY": 93,
                     "width": 157,
                     "height": 93,
-                    "startX": 291,
-                    "startY": 711,
-                    "endX": 134,
-                    "endY": 618,
+                    "startX": 157,
+                    "startY": 93,
+                    "endX": 0,
+                    "endY": 0,
                     "points": [
                         {
-                            "x": 134,
-                            "y": 711
+                            "x": 0,
+                            "y": 93
                         }
                     ],
                     "lineType": "polyline",
@@ -110,8 +111,6 @@
                     "dash": 0,
                     "cornerOffset": 0,
                     "text": "否",
-                    "textWidth": 80,
-                    "textHeight": 20,
                     "textSize": 12,
                     "textFont": "tahoma",
                     "textGap": 0,
@@ -134,24 +133,22 @@
                     "linkToKey": "p4",
                     "x": 44,
                     "y": 297,
-                    "textPointX": 266,
-                    "textPointY": 297,
-                    "textX": 226,
-                    "textY": 287,
+                    "textX": 222,
+                    "textY": 0,
                     "width": 251,
                     "height": 752,
-                    "startX": 291,
-                    "startY": 297,
-                    "endX": 295,
-                    "endY": 1048,
+                    "startX": 247,
+                    "startY": 0,
+                    "endX": 251,
+                    "endY": 752,
                     "points": [
                         {
-                            "x": 44,
-                            "y": 297
+                            "x": 0,
+                            "y": 0
                         },
                         {
-                            "x": 44,
-                            "y": 1048
+                            "x": 0,
+                            "y": 752
                         }
                     ],
                     "lineType": "polyline",
@@ -163,8 +160,6 @@
                     "dash": 0,
                     "cornerOffset": 232,
                     "text": "否",
-                    "textWidth": 80,
-                    "textHeight": 20,
                     "textSize": 12,
                     "textFont": "tahoma",
                     "textGap": 0,
@@ -187,20 +182,18 @@
                     "linkToKey": "p6",
                     "x": 499,
                     "y": 782,
-                    "textPointX": 625,
-                    "textPointY": 835,
-                    "textX": 585,
-                    "textY": 825,
+                    "textX": 126,
+                    "textY": 53,
                     "width": 128,
                     "height": 53,
-                    "startX": 499,
-                    "startY": 835,
-                    "endX": 627,
-                    "endY": 782,
+                    "startX": 0,
+                    "startY": 53,
+                    "endX": 128,
+                    "endY": 0,
                     "points": [
                         {
-                            "x": 627,
-                            "y": 835
+                            "x": 128,
+                            "y": 53
                         }
                     ],
                     "lineType": "polyline",
@@ -212,8 +205,6 @@
                     "dash": 0,
                     "cornerOffset": 0,
                     "text": "否",
-                    "textWidth": 80,
-                    "textHeight": 20,
                     "textSize": 12,
                     "textFont": "tahoma",
                     "textGap": 0,
@@ -236,20 +227,18 @@
                     "linkToKey": "p5",
                     "x": 499,
                     "y": 711,
-                    "textPointX": 579,
-                    "textPointY": 711,
-                    "textX": 539,
-                    "textY": 701,
+                    "textX": 80,
+                    "textY": 0,
                     "width": 128,
                     "height": 32,
-                    "startX": 627,
-                    "startY": 742,
-                    "endX": 499,
-                    "endY": 711,
+                    "startX": 128,
+                    "startY": 32,
+                    "endX": 0,
+                    "endY": 0,
                     "points": [
                         {
-                            "x": 627,
-                            "y": 711
+                            "x": 128,
+                            "y": 0
                         }
                     ],
                     "lineType": "polyline",
@@ -260,8 +249,6 @@
                     "color": "#000000",
                     "dash": 0,
                     "cornerOffset": 0,
-                    "textWidth": 80,
-                    "textHeight": 20,
                     "textSize": 12,
                     "textFont": "tahoma",
                     "textGap": 0,
@@ -284,20 +271,18 @@
                     "linkToKey": "p5",
                     "x": 499,
                     "y": 297,
-                    "textPointX": 620,
-                    "textPointY": 297,
-                    "textX": 580,
-                    "textY": 287,
+                    "textX": 121,
+                    "textY": 0,
                     "width": 181,
                     "height": 61,
-                    "startX": 680,
-                    "startY": 357,
-                    "endX": 499,
-                    "endY": 297,
+                    "startX": 181,
+                    "startY": 61,
+                    "endX": 0,
+                    "endY": 0,
                     "points": [
                         {
-                            "x": 680,
-                            "y": 297
+                            "x": 181,
+                            "y": 0
                         }
                     ],
                     "lineType": "polyline",
@@ -308,8 +293,6 @@
                     "color": "#000000",
                     "dash": 0,
                     "cornerOffset": 0,
-                    "textWidth": 80,
-                    "textHeight": 20,
                     "textSize": 12,
                     "textFont": "tahoma",
                     "textGap": 0,
@@ -332,20 +315,18 @@
                     "linkToKey": "p6",
                     "x": 499,
                     "y": 397,
-                    "textPointX": 641,
-                    "textPointY": 500,
-                    "textX": 601,
-                    "textY": 490,
+                    "textX": 142,
+                    "textY": 103,
                     "width": 181,
                     "height": 103,
-                    "startX": 499,
-                    "startY": 500,
-                    "endX": 680,
-                    "endY": 397,
+                    "startX": 0,
+                    "startY": 103,
+                    "endX": 181,
+                    "endY": 0,
                     "points": [
                         {
-                            "x": 680,
-                            "y": 500
+                            "x": 181,
+                            "y": 103
                         }
                     ],
                     "lineType": "polyline",
@@ -357,8 +338,6 @@
                     "dash": 0,
                     "cornerOffset": 5,
                     "text": "否",
-                    "textWidth": 80,
-                    "textHeight": 20,
                     "textSize": 12,
                     "textFont": "tahoma",
                     "textGap": 0,
@@ -381,20 +360,22 @@
                     "linkToKey": "p7",
                     "x": 395,
                     "y": 974,
-                    "textPointX": 395,
-                    "textPointY": 996,
-                    "textX": 355,
-                    "textY": 986,
+                    "textX": 0,
+                    "textY": 22,
                     "width": 0,
                     "height": 44,
-                    "startX": 395,
-                    "startY": 974,
-                    "endX": 395,
-                    "endY": 1018,
+                    "startX": 0,
+                    "startY": 0,
+                    "endX": 0,
+                    "endY": 44,
                     "points": [
                         {
-                            "x": 395,
-                            "y": 1003
+                            "x": 0,
+                            "y": 22
+                        },
+                        {
+                            "x": 0,
+                            "y": 22
                         }
                     ],
                     "lineType": "polyline",
@@ -405,8 +386,6 @@
                     "color": "#000000",
                     "dash": 0,
                     "cornerOffset": 0,
-                    "textWidth": 80,
-                    "textHeight": 20,
                     "textSize": 12,
                     "textFont": "tahoma",
                     "textGap": 0,
@@ -429,20 +408,22 @@
                     "linkToKey": "p7",
                     "x": 395,
                     "y": 877,
-                    "textPointX": 395,
-                    "textPointY": 896,
-                    "textX": 355,
-                    "textY": 886,
+                    "textX": 0,
+                    "textY": 19,
                     "width": 0,
                     "height": 37,
-                    "startX": 395,
-                    "startY": 877,
-                    "endX": 395,
-                    "endY": 914,
+                    "startX": 0,
+                    "startY": 0,
+                    "endX": 0,
+                    "endY": 37,
                     "points": [
                         {
-                            "x": 395,
-                            "y": 899
+                            "x": 0,
+                            "y": 19
+                        },
+                        {
+                            "x": 0,
+                            "y": 19
                         }
                     ],
                     "lineType": "polyline",
@@ -454,8 +435,6 @@
                     "dash": 0,
                     "cornerOffset": 0,
                     "text": "是",
-                    "textWidth": 80,
-                    "textHeight": 20,
                     "textSize": 12,
                     "textFont": "tahoma",
                     "textGap": 0,
@@ -478,20 +457,22 @@
                     "linkToKey": "p7",
                     "x": 395,
                     "y": 753,
-                    "textPointX": 395,
-                    "textPointY": 773,
-                    "textX": 355,
-                    "textY": 763,
+                    "textX": 0,
+                    "textY": 20,
                     "width": 0,
                     "height": 39,
-                    "startX": 395,
-                    "startY": 753,
-                    "endX": 395,
-                    "endY": 792,
+                    "startX": 0,
+                    "startY": 0,
+                    "endX": 0,
+                    "endY": 39,
                     "points": [
                         {
-                            "x": 395,
-                            "y": 777
+                            "x": 0,
+                            "y": 20
+                        },
+                        {
+                            "x": 0,
+                            "y": 20
                         }
                     ],
                     "lineType": "polyline",
@@ -503,8 +484,6 @@
                     "dash": 0,
                     "cornerOffset": 0,
                     "text": "是",
-                    "textWidth": 80,
-                    "textHeight": 20,
                     "textSize": 12,
                     "textFont": "tahoma",
                     "textGap": 0,
@@ -527,20 +506,22 @@
                     "linkToKey": "p7",
                     "x": 395,
                     "y": 628,
-                    "textPointX": 395,
-                    "textPointY": 648,
-                    "textX": 355,
-                    "textY": 638,
+                    "textX": 0,
+                    "textY": 20,
                     "width": 0,
                     "height": 40,
-                    "startX": 395,
-                    "startY": 628,
-                    "endX": 395,
-                    "endY": 668,
+                    "startX": 0,
+                    "startY": 0,
+                    "endX": 0,
+                    "endY": 40,
                     "points": [
                         {
-                            "x": 395,
-                            "y": 653
+                            "x": 0,
+                            "y": 20
+                        },
+                        {
+                            "x": 0,
+                            "y": 20
                         }
                     ],
                     "lineType": "polyline",
@@ -551,8 +532,6 @@
                     "color": "#000000",
                     "dash": 0,
                     "cornerOffset": 0,
-                    "textWidth": 80,
-                    "textHeight": 20,
                     "textSize": 12,
                     "textFont": "tahoma",
                     "textGap": 0,
@@ -575,20 +554,22 @@
                     "linkToKey": "p7",
                     "x": 395,
                     "y": 542,
-                    "textPointX": 395,
-                    "textPointY": 565,
-                    "textX": 355,
-                    "textY": 555,
+                    "textX": 0,
+                    "textY": 23,
                     "width": 0,
                     "height": 46,
-                    "startX": 395,
-                    "startY": 542,
-                    "endX": 395,
-                    "endY": 588,
+                    "startX": 0,
+                    "startY": 0,
+                    "endX": 0,
+                    "endY": 46,
                     "points": [
                         {
-                            "x": 395,
-                            "y": 573
+                            "x": 0,
+                            "y": 23
+                        },
+                        {
+                            "x": 0,
+                            "y": 23
                         }
                     ],
                     "lineType": "polyline",
@@ -600,8 +581,6 @@
                     "dash": 0,
                     "cornerOffset": 0,
                     "text": "是",
-                    "textWidth": 80,
-                    "textHeight": 20,
                     "textSize": 12,
                     "textFont": "tahoma",
                     "textGap": 0,
@@ -624,20 +603,22 @@
                     "linkToKey": "p7",
                     "x": 395,
                     "y": 415,
-                    "textPointX": 395,
-                    "textPointY": 436,
-                    "textX": 355,
-                    "textY": 426,
+                    "textX": 0,
+                    "textY": 21,
                     "width": 0,
                     "height": 42,
-                    "startX": 395,
-                    "startY": 415,
-                    "endX": 395,
-                    "endY": 457,
+                    "startX": 0,
+                    "startY": 0,
+                    "endX": 0,
+                    "endY": 42,
                     "points": [
                         {
-                            "x": 395,
-                            "y": 442
+                            "x": 0,
+                            "y": 21
+                        },
+                        {
+                            "x": 0,
+                            "y": 21
                         }
                     ],
                     "lineType": "polyline",
@@ -648,8 +629,6 @@
                     "color": "#000000",
                     "dash": 0,
                     "cornerOffset": 0,
-                    "textWidth": 80,
-                    "textHeight": 20,
                     "textSize": 12,
                     "textFont": "tahoma",
                     "textGap": 0,
@@ -672,20 +651,22 @@
                     "linkToKey": "p7",
                     "x": 395,
                     "y": 339,
-                    "textPointX": 395,
-                    "textPointY": 357,
-                    "textX": 355,
-                    "textY": 347,
+                    "textX": 0,
+                    "textY": 18,
                     "width": 0,
                     "height": 36,
-                    "startX": 395,
-                    "startY": 339,
-                    "endX": 395,
-                    "endY": 375,
+                    "startX": 0,
+                    "startY": 0,
+                    "endX": 0,
+                    "endY": 36,
                     "points": [
                         {
-                            "x": 395,
-                            "y": 360
+                            "x": 0,
+                            "y": 18
+                        },
+                        {
+                            "x": 0,
+                            "y": 18
                         }
                     ],
                     "lineType": "polyline",
@@ -696,8 +677,6 @@
                     "color": "#000000",
                     "dash": 0,
                     "cornerOffset": 0,
-                    "textWidth": 80,
-                    "textHeight": 20,
                     "textSize": 12,
                     "textFont": "tahoma",
                     "textGap": 0,
@@ -720,20 +699,22 @@
                     "linkToKey": "p7",
                     "x": 395,
                     "y": 214,
-                    "textPointX": 395,
-                    "textPointY": 234,
-                    "textX": 355,
-                    "textY": 224,
+                    "textX": 0,
+                    "textY": 20,
                     "width": 0,
                     "height": 40,
-                    "startX": 395,
-                    "startY": 214,
-                    "endX": 395,
-                    "endY": 254,
+                    "startX": 0,
+                    "startY": 0,
+                    "endX": 0,
+                    "endY": 40,
                     "points": [
                         {
-                            "x": 395,
-                            "y": 239
+                            "x": 0,
+                            "y": 20
+                        },
+                        {
+                            "x": 0,
+                            "y": 20
                         }
                     ],
                     "lineType": "polyline",
@@ -745,8 +726,6 @@
                     "dash": 0,
                     "cornerOffset": 0,
                     "text": "是",
-                    "textWidth": 80,
-                    "textHeight": 20,
                     "textSize": 12,
                     "textFont": "tahoma",
                     "textGap": 0,
@@ -769,20 +748,22 @@
                     "linkToKey": "p7",
                     "x": 395,
                     "y": 139,
-                    "textPointX": 395,
-                    "textPointY": 157,
-                    "textX": 355,
-                    "textY": 147,
+                    "textX": 0,
+                    "textY": 18,
                     "width": 0,
                     "height": 35,
-                    "startX": 395,
-                    "startY": 139,
-                    "endX": 395,
-                    "endY": 174,
+                    "startX": 0,
+                    "startY": 0,
+                    "endX": 0,
+                    "endY": 35,
                     "points": [
                         {
-                            "x": 395,
-                            "y": 159
+                            "x": 0,
+                            "y": 18
+                        },
+                        {
+                            "x": 0,
+                            "y": 18
                         }
                     ],
                     "lineType": "polyline",
@@ -793,8 +774,6 @@
                     "color": "#000000",
                     "dash": 0,
                     "cornerOffset": 0,
-                    "textWidth": 80,
-                    "textHeight": 20,
                     "textSize": 12,
                     "textFont": "tahoma",
                     "textGap": 0,
@@ -811,8 +790,8 @@
                 "type": "flow/terminator",
                 "unit": "px",
                 "props": {
-                    "textX": 315,
-                    "textY": 79,
+                    "textX": 20,
+                    "textY": 0,
                     "textWidth": 160,
                     "textHeight": 60,
                     "padding": 10,
@@ -838,8 +817,8 @@
                 "type": "flow/process",
                 "unit": "px",
                 "props": {
-                    "textX": 315,
-                    "textY": 174,
+                    "textX": 0,
+                    "textY": 0,
                     "textWidth": 160,
                     "textHeight": 40,
                     "padding": 10,
@@ -865,8 +844,8 @@
                 "type": "flow/decision",
                 "unit": "px",
                 "props": {
-                    "textX": 343,
-                    "textY": 275,
+                    "textX": 52,
+                    "textY": 21,
                     "textWidth": 104,
                     "textHeight": 43,
                     "padding": 10,
@@ -892,8 +871,8 @@
                 "type": "flow/process",
                 "unit": "px",
                 "props": {
-                    "textX": 315,
-                    "textY": 375,
+                    "textX": 0,
+                    "textY": 0,
                     "textWidth": 160,
                     "textHeight": 40,
                     "padding": 10,
@@ -919,8 +898,8 @@
                 "type": "flow/decision",
                 "unit": "px",
                 "props": {
-                    "textX": 343,
-                    "textY": 478,
+                    "textX": 52,
+                    "textY": 21,
                     "textWidth": 104,
                     "textHeight": 43,
                     "padding": 10,
@@ -946,8 +925,8 @@
                 "type": "flow/process",
                 "unit": "px",
                 "props": {
-                    "textX": 315,
-                    "textY": 588,
+                    "textX": 0,
+                    "textY": 0,
                     "textWidth": 160,
                     "textHeight": 40,
                     "padding": 10,
@@ -973,8 +952,8 @@
                 "type": "flow/decision",
                 "unit": "px",
                 "props": {
-                    "textX": 343,
-                    "textY": 689,
+                    "textX": 52,
+                    "textY": 21,
                     "textWidth": 104,
                     "textHeight": 43,
                     "padding": 10,
@@ -1000,8 +979,8 @@
                 "type": "flow/decision",
                 "unit": "px",
                 "props": {
-                    "textX": 343,
-                    "textY": 813,
+                    "textX": 52,
+                    "textY": 21,
                     "textWidth": 104,
                     "textHeight": 43,
                     "padding": 10,
@@ -1027,8 +1006,8 @@
                 "type": "flow/process",
                 "unit": "px",
                 "props": {
-                    "textX": 600,
-                    "textY": 357,
+                    "textX": 0,
+                    "textY": 0,
                     "textWidth": 160,
                     "textHeight": 40,
                     "padding": 10,
@@ -1054,8 +1033,8 @@
                 "type": "flow/process",
                 "unit": "px",
                 "props": {
-                    "textX": 54,
-                    "textY": 578,
+                    "textX": 0,
+                    "textY": 0,
                     "textWidth": 160,
                     "textHeight": 40,
                     "padding": 10,
@@ -1081,8 +1060,8 @@
                 "type": "flow/process",
                 "unit": "px",
                 "props": {
-                    "textX": 547,
-                    "textY": 742,
+                    "textX": 0,
+                    "textY": 0,
                     "textWidth": 160,
                     "textHeight": 40,
                     "padding": 10,
@@ -1108,8 +1087,8 @@
                 "type": "flow/data",
                 "unit": "px",
                 "props": {
-                    "textX": 335,
-                    "textY": 914,
+                    "textX": 40,
+                    "textY": 0,
                     "textWidth": 120,
                     "textHeight": 60,
                     "padding": 10,
@@ -1135,8 +1114,8 @@
                 "type": "flow/terminator",
                 "unit": "px",
                 "props": {
-                    "textX": 315,
-                    "textY": 1018,
+                    "textX": 20,
+                    "textY": 0,
                     "textWidth": 160,
                     "textHeight": 60,
                     "padding": 10,
