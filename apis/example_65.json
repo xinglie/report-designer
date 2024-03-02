@@ -1,0 +1,428 @@
+{
+    "data": {
+        "unit": "mm",
+        "xs": [],
+        "ys": [],
+        "groups": [],
+        "page": {
+            "viewer": "stack",
+            "width": 209.815,
+            "height": 296.863,
+            "pages": 1,
+            "scale": "auto",
+            "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+            "xOffset": 0,
+            "yOffset": 0,
+            "space": 0,
+            "copies": 1,
+            "blank": "keep",
+            "labelCol": 1,
+            "labelGap": 2.646,
+            "font": "unset",
+            "gridWidth": 5.292,
+            "gridHeight": 5.292,
+            "background": "#fff",
+            "backgroundRepeat": "no-repeat",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundX": 0,
+            "backgroundY": 0
+        },
+        "elements": [
+            {
+                "id": "rde_lt6y4vct327",
+                "type": "data-ftable",
+                "unit": "mm",
+                "props": {
+                    "bind": {
+                        "id": "3",
+                        "tag": "apis/person.json"
+                    },
+                    "rows": [
+                        {
+                            "cols": [
+                                {
+                                    "height": 7.938,
+                                    "width": 40.429,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 48.375,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                }
+                            ]
+                        },
+                        {
+                            "label": true,
+                            "cols": [
+                                {
+                                    "height": 7.938,
+                                    "width": 40.429,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": [
+                                        {
+                                            "id": "rde_lt6y4vct562",
+                                            "type": "text",
+                                            "unit": "mm",
+                                            "props": {
+                                                "x": 0,
+                                                "y": 0.53,
+                                                "width": 46.147,
+                                                "height": 6.615,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "text": "基础信息",
+                                                "bind": {},
+                                                "match": true,
+                                                "size": 3.704,
+                                                "font": "unset",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#000",
+                                                "hpos": "center",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 132.292,
+                                                "winHeight": 132.292,
+                                                "ename": "文本-3",
+                                                "animations": []
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 48.375,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": [
+                                        {
+                                            "id": "rde_lt6y4vct632",
+                                            "type": "text",
+                                            "unit": "mm",
+                                            "props": {
+                                                "x": -2.401,
+                                                "y": 0.529,
+                                                "width": 52.917,
+                                                "height": 6.615,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "text": "照片",
+                                                "bind": {},
+                                                "match": true,
+                                                "size": 3.704,
+                                                "font": "unset",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#000",
+                                                "hpos": "center",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 132.292,
+                                                "winHeight": 132.292,
+                                                "ename": "文本-5",
+                                                "animations": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "data": true,
+                            "cols": [
+                                {
+                                    "height": 38.639,
+                                    "width": 40.429,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": [
+                                        {
+                                            "id": "rde_lt6y4vct349",
+                                            "type": "text",
+                                            "unit": "mm",
+                                            "props": {
+                                                "x": 4.622,
+                                                "y": 4.634,
+                                                "width": 30.922,
+                                                "height": 6.615,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "bind": {
+                                                    "id": "3",
+                                                    "tag": "apis/person.json",
+                                                    "name": "人物信息",
+                                                    "fields": [
+                                                        {
+                                                            "key": "order",
+                                                            "name": "序号"
+                                                        }
+                                                    ]
+                                                },
+                                                "format": "b:{\"id\":\"no\",\"body\":[],\"prefix\":\"序号：\"}",
+                                                "match": true,
+                                                "size": 3.704,
+                                                "font": "unset",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#000",
+                                                "hpos": "flex-start",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 132.292,
+                                                "winHeight": 132.292,
+                                                "ename": "文本-1",
+                                                "animations": []
+                                            }
+                                        },
+                                        {
+                                            "id": "rde_lt6y4vct369",
+                                            "type": "text",
+                                            "unit": "mm",
+                                            "props": {
+                                                "x": 4.622,
+                                                "y": 15.88,
+                                                "width": 30.922,
+                                                "height": 6.615,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "bind": {
+                                                    "id": "3",
+                                                    "tag": "apis/person.json",
+                                                    "name": "人物信息",
+                                                    "fields": [
+                                                        {
+                                                            "key": "gender",
+                                                            "name": "性别"
+                                                        }
+                                                    ]
+                                                },
+                                                "format": "b:{\"id\":\"no\",\"body\":[],\"prefix\":\"性别：\"}",
+                                                "match": true,
+                                                "size": 3.704,
+                                                "font": "unset",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#000",
+                                                "hpos": "flex-start",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 132.292,
+                                                "winHeight": 132.292,
+                                                "ename": "文本-2",
+                                                "animations": []
+                                            }
+                                        },
+                                        {
+                                            "id": "rde_lt6y4vct823",
+                                            "type": "text",
+                                            "unit": "mm",
+                                            "props": {
+                                                "x": 4.953,
+                                                "y": 27.127,
+                                                "width": 30.922,
+                                                "height": 6.615,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "bind": {
+                                                    "id": "3",
+                                                    "tag": "apis/person.json",
+                                                    "name": "人物信息",
+                                                    "fields": [
+                                                        {
+                                                            "key": "name",
+                                                            "name": "姓名"
+                                                        }
+                                                    ]
+                                                },
+                                                "format": "b:{\"id\":\"no\",\"body\":[],\"prefix\":\"姓名：\"}",
+                                                "match": true,
+                                                "size": 3.704,
+                                                "font": "unset",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#000",
+                                                "hpos": "flex-start",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 132.292,
+                                                "winHeight": 132.292,
+                                                "ename": "文本-7",
+                                                "animations": []
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "height": 38.639,
+                                    "width": 48.375,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": [
+                                        {
+                                            "id": "rde_lt6y4vct747",
+                                            "type": "image",
+                                            "unit": "mm",
+                                            "props": {
+                                                "x": 8.922,
+                                                "y": 4.055,
+                                                "width": 30.269,
+                                                "height": 30.269,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "bind": {
+                                                    "id": "3",
+                                                    "tag": "apis/person.json",
+                                                    "name": "人物信息",
+                                                    "fields": [
+                                                        {
+                                                            "key": "avatar",
+                                                            "name": "头像"
+                                                        }
+                                                    ]
+                                                },
+                                                "target": "tab",
+                                                "winWidth": 132.292,
+                                                "winHeight": 132.292,
+                                                "ename": "图片-1",
+                                                "animations": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "total": true,
+                            "cols": [
+                                {
+                                    "height": 7.938,
+                                    "width": 40.429,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 48.375,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                }
+                            ]
+                        },
+                        {
+                            "cols": [
+                                {
+                                    "height": 7.938,
+                                    "width": 40.429,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 48.375,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                }
+                            ]
+                        }
+                    ],
+                    "x": 13.354,
+                    "y": 13.113,
+                    "width": 89.069,
+                    "height": 132.058,
+                    "alpha": 1,
+                    "bdeed": "collapse",
+                    "bwidth": 0.265,
+                    "btype": "solid",
+                    "bcolor": "#000",
+                    "spacing": 7.938,
+                    "hideHead": true,
+                    "hideTotal": true,
+                    "hideFoot": true,
+                    "headFirst": true,
+                    "footLast": true,
+                    "match": true,
+                    "dynamicCols": true,
+                    "avgColsWidth": "percent",
+                    "columnsPrint": true,
+                    "hspace": 5.292,
+                    "rowsMax": 0,
+                    "ename": "自由表格-1",
+                    "animations": []
+                }
+            }
+        ]
+    },
+    "success": true
+}

@@ -1,965 +1,164 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,viewport-fit=cover"/>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
-        <link type="image/x-icon" href="//gw.alicdn.com/tfs/TB1gRomUlr0gK0jSZFnXXbRRXXa-200-200.png" rel="shortcut icon">
-        <title>独立使用测试</title>
-        <style>body{margin:0;padding:0}.root{position:relative;left:100px;top:100px}
-        html body .red{border-color:red!important}</style>
-    </head>
-    <body>
-        <div class="root">
-            <button id="toggle_collect">切换数据采集表格只读与编辑</button>
-            <div id="collect"></div>
-            <div id="text"></div>
-            <div id="table"></div>
-            <div id="data_table"></div>
-        </div>
-        <script src="dist/viewer.js?v=202402251045"></script>
-        <script>
-        //     document.addEventListener('elementinput',e=>{
-        //         for(let input of e.elementInputs){
-        //             if(input.value && !/^\d+$/.test(input.value)){
-        //                 input.node.classList.add('red');
-        //             }else{
-        //                 input.node.classList.remove('red');
-        //             }
-        //         }
-        //         console.log(e);
-        //     });
-        //     let  collectData={
-        //     "id": "e_67",
-        //     "unit":"px",
-        //     "type": "form-collect",
-        //     "props": {
-        //         "rows": [
-        //         {
-        //             "head": true,
-        //             "cols": [
-        //             {
-        //                 "height": 35,
-        //                 "width": 202,
-        //                 "rowspan": 1,
-        //                 "colspan": 1,
-        //                 "paddingLeft": 5,
-        //                 "paddingTop": 5,
-        //                 "paddingRight": 5,
-        //                 "paddingBottom": 5,
-        //                 "bLeft": true,
-        //                 "bTop": true,
-        //                 "bRight": true,
-        //                 "bBottom": true,
-        //                 "hpos": "flex-start",
-        //                 "vpos": "flex-start",
-        //                 "alpha": 1,
-        //                 "type": "text",
-        //                 "textLetterspacing": 0,
-        //                 "textForecolor": "#000000",
-        //                 "textFontsize": 14,
-        //                 "textFontfamily": "Microsoft YaHei",
-        //                 "textStyleBold": false,
-        //                 "textStyleUnderline": false,
-        //                 "textStyleItalic": false,
-        //                 "textStyleStrike": false,
-        //                 "textContent": "",
-        //                 "textFormat": "",
-        //                 "elements": []
-        //             },
-        //             {
-        //                 "height": 35,
-        //                 "width": 150,
-        //                 "rowspan": 1,
-        //                 "colspan": 1,
-        //                 "paddingLeft": 5,
-        //                 "paddingTop": 5,
-        //                 "paddingRight": 5,
-        //                 "paddingBottom": 5,
-        //                 "bLeft": true,
-        //                 "bTop": true,
-        //                 "bRight": true,
-        //                 "bBottom": true,
-        //                 "hpos": "flex-start",
-        //                 "vpos": "flex-start",
-        //                 "alpha": 1,
-        //                 "type": "text",
-        //                 "textLetterspacing": 0,
-        //                 "textForecolor": "#000000",
-        //                 "textFontsize": 14,
-        //                 "textFontfamily": "Microsoft YaHei",
-        //                 "textStyleBold": false,
-        //                 "textStyleUnderline": false,
-        //                 "textStyleItalic": false,
-        //                 "textStyleStrike": false,
-        //                 "textContent": "",
-        //                 "textFormat": "",
-        //                 "elements": []
-        //             },
-        //             {
-        //                 "height": 35,
-        //                 "width": 273,
-        //                 "rowspan": 1,
-        //                 "colspan": 1,
-        //                 "paddingLeft": 5,
-        //                 "paddingTop": 5,
-        //                 "paddingRight": 5,
-        //                 "paddingBottom": 5,
-        //                 "bLeft": true,
-        //                 "bTop": true,
-        //                 "bRight": true,
-        //                 "bBottom": true,
-        //                 "hpos": "flex-start",
-        //                 "vpos": "flex-start",
-        //                 "alpha": 1,
-        //                 "type": "text",
-        //                 "textLetterspacing": 0,
-        //                 "textForecolor": "#000000",
-        //                 "textFontsize": 14,
-        //                 "textFontfamily": "Microsoft YaHei",
-        //                 "textStyleBold": false,
-        //                 "textStyleUnderline": false,
-        //                 "textStyleItalic": false,
-        //                 "textStyleStrike": false,
-        //                 "textContent": "",
-        //                 "textFormat": "",
-        //                 "elements": [
-        //                 {
-        //                     "id": "e_105",
-        //                     "type": "form-input",
-        //                     "props": {
-        //                     "x": 109,
-        //                     "y": 6,
-        //                     "width": 158,
-        //                     "height": 25,
-        //                     "rotate": 0,
-        //                     "placeholder": "",
-        //                     "text": "",
-        //                     "markAs": "",
-        //                     "className": "",
-        //                     "inputName": "input_104",
-        //                     "multiline": false,
-        //                     "fontsize": 14,
-        //                     "fontfamily": "Microsoft YaHei",
-        //                     "alpha": 1,
-        //                     "letterspacing": 0,
-        //                     "forecolor": "#000000",
-        //                     "ename": "输入框"
-        //                     }
-        //                 },
-        //                 {
-        //                     "id": "e_456",
-        //                     "type": "text",
-        //                     "props": {
-        //                     "x": 4,
-        //                     "y": 6,
-        //                     "width": 98,
-        //                     "height": 25,
-        //                     "rotate": 0,
-        //                     "text": "表头输入框：",
-        //                     "bind": {
-        //                         "url": "",
-        //                         "id": "",
-        //                         "fields": []
-        //                     },
-        //                     "format": "",
-        //                     "fontsize": 14,
-        //                     "fontfamily": "Microsoft YaHei",
-        //                     "alpha": 1,
-        //                     "letterspacing": 0,
-        //                     "background": "",
-        //                     "forecolor": "#000000",
-        //                     "styleBold": false,
-        //                     "styleUnderline": false,
-        //                     "styleItalic": false,
-        //                     "styleStrike": false,
-        //                     "hpos": "flex-start",
-        //                     "vpos": "flex-start",
-        //                     "ename": "文本"
-        //                     }
-        //                 }
-        //                 ]
-        //             }
-        //             ]
-        //         },
-        //         {
-        //             "label": true,
-        //             "cols": [
-        //             {
-        //                 "height": 35,
-        //                 "width": 202,
-        //                 "rowspan": 1,
-        //                 "colspan": 1,
-        //                 "paddingLeft": 5,
-        //                 "paddingTop": 5,
-        //                 "paddingRight": 5,
-        //                 "paddingBottom": 5,
-        //                 "bLeft": true,
-        //                 "bTop": true,
-        //                 "bRight": true,
-        //                 "bBottom": true,
-        //                 "hpos": "flex-start",
-        //                 "vpos": "flex-start",
-        //                 "alpha": 1,
-        //                 "type": "text",
-        //                 "textLetterspacing": 0,
-        //                 "textForecolor": "#000000",
-        //                 "textFontsize": 14,
-        //                 "textFontfamily": "Microsoft YaHei",
-        //                 "textStyleBold": false,
-        //                 "textStyleUnderline": false,
-        //                 "textStyleItalic": false,
-        //                 "textStyleStrike": false,
-        //                 "textContent": "test",
-        //                 "textFormat": "",
-        //                 "elements": []
-        //             },
-        //             {
-        //                 "height": 35,
-        //                 "width": 150,
-        //                 "rowspan": 1,
-        //                 "colspan": 1,
-        //                 "paddingLeft": 5,
-        //                 "paddingTop": 5,
-        //                 "paddingRight": 5,
-        //                 "paddingBottom": 5,
-        //                 "bLeft": true,
-        //                 "bTop": true,
-        //                 "bRight": true,
-        //                 "bBottom": true,
-        //                 "hpos": "flex-start",
-        //                 "vpos": "flex-start",
-        //                 "alpha": 1,
-        //                 "type": "text",
-        //                 "textLetterspacing": 0,
-        //                 "textForecolor": "#000000",
-        //                 "textFontsize": 14,
-        //                 "textFontfamily": "Microsoft YaHei",
-        //                 "textStyleBold": false,
-        //                 "textStyleUnderline": false,
-        //                 "textStyleItalic": false,
-        //                 "textStyleStrike": false,
-        //                 "textContent": "测试表头",
-        //                 "textFormat": "",
-        //                 "elements": []
-        //             },
-        //             {
-        //                 "height": 35,
-        //                 "width": 273,
-        //                 "rowspan": 1,
-        //                 "colspan": 1,
-        //                 "paddingLeft": 5,
-        //                 "paddingTop": 5,
-        //                 "paddingRight": 5,
-        //                 "paddingBottom": 5,
-        //                 "bLeft": true,
-        //                 "bTop": true,
-        //                 "bRight": true,
-        //                 "bBottom": true,
-        //                 "hpos": "flex-start",
-        //                 "vpos": "flex-start",
-        //                 "alpha": 1,
-        //                 "type": "text",
-        //                 "textLetterspacing": 0,
-        //                 "textForecolor": "#000000",
-        //                 "textFontsize": 14,
-        //                 "textFontfamily": "Microsoft YaHei",
-        //                 "textStyleBold": false,
-        //                 "textStyleUnderline": false,
-        //                 "textStyleItalic": false,
-        //                 "textStyleStrike": false,
-        //                 "textContent": "测试",
-        //                 "textFormat": "",
-        //                 "elements": []
-        //             }
-        //             ]
-        //         },
-        //         {
-        //             "data": true,
-        //             "cols": [
-        //             {
-        //                 "height": 35,
-        //                 "width": 202,
-        //                 "rowspan": 1,
-        //                 "colspan": 1,
-        //                 "paddingLeft": 5,
-        //                 "paddingTop": 5,
-        //                 "paddingRight": 5,
-        //                 "paddingBottom": 5,
-        //                 "bLeft": true,
-        //                 "bTop": true,
-        //                 "bRight": true,
-        //                 "bBottom": true,
-        //                 "hpos": "flex-start",
-        //                 "vpos": "flex-start",
-        //                 "alpha": 1,
-        //                 "type": "input",
-        //                 "inputText": "",
-        //                 "inputPlaceholder": "",
-        //                 "inputMarkAs": "",
-        //                 "inputClassName": "",
-        //                 "inputName": "",
-        //                 "inputMultiline": false,
-        //                 "inputFontsize": 14,
-        //                 "inputFontfamily": "Microsoft YaHei",
-        //                 "inputLetterspacing": 0,
-        //                 "inputForecolor": "#000000"
-        //             },
-        //             {
-        //                 "height": 35,
-        //                 "width": 150,
-        //                 "rowspan": 1,
-        //                 "colspan": 1,
-        //                 "paddingLeft": 5,
-        //                 "paddingTop": 5,
-        //                 "paddingRight": 5,
-        //                 "paddingBottom": 5,
-        //                 "bLeft": true,
-        //                 "bTop": true,
-        //                 "bRight": true,
-        //                 "bBottom": true,
-        //                 "hpos": "flex-start",
-        //                 "vpos": "flex-start",
-        //                 "alpha": 1,
-        //                 "type": "input",
-        //                 "inputText": "",
-        //                 "inputPlaceholder": "",
-        //                 "inputMarkAs": "",
-        //                 "inputClassName": "",
-        //                 "inputName": "",
-        //                 "inputMultiline": false,
-        //                 "inputFontsize": 14,
-        //                 "inputUserValue":"100",
-        //                 "inputFontfamily": "Microsoft YaHei",
-        //                 "inputLetterspacing": 0,
-        //                 "inputForecolor": "#000000"
-        //             },
-        //             {
-        //                 "height": 35,
-        //                 "width": 273,
-        //                 "rowspan": 1,
-        //                 "colspan": 1,
-        //                 "paddingLeft": 5,
-        //                 "paddingTop": 5,
-        //                 "paddingRight": 5,
-        //                 "paddingBottom": 5,
-        //                 "bLeft": true,
-        //                 "bTop": true,
-        //                 "bRight": true,
-        //                 "bBottom": true,
-        //                 "hpos": "flex-start",
-        //                 "vpos": "flex-start",
-        //                 "alpha": 1,
-        //                 "type": "input",
-        //                 "inputText": "",
-        //                 "inputPlaceholder": "",
-        //                 "inputMarkAs": "",
-        //                 "inputClassName": "",
-        //                 "inputName": "",
-        //                 "inputUserValue":"40",
-        //                 "inputMultiline": false,
-        //                 "inputFontsize": 14,
-        //                 "inputFontfamily": "Microsoft YaHei",
-        //                 "inputLetterspacing": 0,
-        //                 "inputForecolor": "#000000"
-        //             }
-        //             ]
-        //         },
-        //         {
-        //             "data": true,
-        //             "cols": [
-        //             {
-        //                 "height": 35,
-        //                 "width": 202,
-        //                 "rowspan": 1,
-        //                 "colspan": 1,
-        //                 "paddingLeft": 5,
-        //                 "paddingTop": 5,
-        //                 "paddingRight": 5,
-        //                 "paddingBottom": 5,
-        //                 "bLeft": true,
-        //                 "bTop": true,
-        //                 "bRight": true,
-        //                 "bBottom": true,
-        //                 "hpos": "flex-start",
-        //                 "vpos": "flex-start",
-        //                 "alpha": 1,
-        //                 "type": "input",
-        //                 "inputText": "",
-        //                 "inputPlaceholder": "",
-        //                 "inputMarkAs": "",
-        //                 "inputClassName": "",
-        //                 "inputName": "user",
-        //                 "inputMultiline": false,
-        //                 "inputFontsize": 14,
-        //                 "inputFontfamily": "Microsoft YaHei",
-        //                 "inputLetterspacing": 0,
-        //                 "inputForecolor": "#000000"
-        //             },
-        //             {
-        //                 "height": 35,
-        //                 "width": 150,
-        //                 "rowspan": 1,
-        //                 "colspan": 1,
-        //                 "paddingLeft": 5,
-        //                 "paddingTop": 5,
-        //                 "paddingRight": 5,
-        //                 "paddingBottom": 5,
-        //                 "bLeft": true,
-        //                 "bTop": true,
-        //                 "bRight": true,
-        //                 "bBottom": true,
-        //                 "hpos": "flex-start",
-        //                 "vpos": "flex-start",
-        //                 "alpha": 1,
-        //                 "type": "input",
-        //                 "inputText": "",
-        //                 "inputPlaceholder": "",
-        //                 "inputMarkAs": "",
-        //                 "inputClassName": "",
-        //                 "inputName": "",
-        //                 "inputMultiline": false,
-        //                 "inputFontsize": 14,
-        //                 "inputFontfamily": "Microsoft YaHei",
-        //                 "inputLetterspacing": 0,
-        //                 "inputForecolor": "#000000"
-        //             },
-        //             {
-        //                 "height": 35,
-        //                 "width": 273,
-        //                 "rowspan": 1,
-        //                 "colspan": 1,
-        //                 "paddingLeft": 5,
-        //                 "paddingTop": 5,
-        //                 "paddingRight": 5,
-        //                 "paddingBottom": 5,
-        //                 "bLeft": true,
-        //                 "bTop": true,
-        //                 "bRight": true,
-        //                 "bBottom": true,
-        //                 "hpos": "flex-start",
-        //                 "vpos": "flex-start",
-        //                 "alpha": 1,
-        //                 "type": "input",
-        //                 "inputText": "",
-        //                 "inputPlaceholder": "",
-        //                 "inputMarkAs": "",
-        //                 "inputClassName": "",
-        //                 "inputName": "",
-        //                 "inputMultiline": false,
-        //                 "inputFontsize": 14,
-        //                 "inputFontfamily": "Microsoft YaHei",
-        //                 "inputLetterspacing": 0,
-        //                 "inputForecolor": "#000000"
-        //             }
-        //             ]
-        //         },
-        //         {
-        //             "cols": [
-        //             {
-        //                 "paddingBottom": 5,
-        //                 "paddingTop": 5,
-        //                 "paddingLeft": 5,
-        //                 "paddingRight": 5,
-        //                 "hpos": "flex-start",
-        //                 "vpos": "flex-start",
-        //                 "alpha": 1,
-        //                 "type": "input",
-        //                 "bLeft": true,
-        //                 "bTop": true,
-        //                 "bRight": true,
-        //                 "bBottom": true,
-        //                 "elements": [],
-        //                 "width": 202,
-        //                 "height": 35,
-        //                 "rowspan": 1,
-        //                 "colspan": 1,
-        //                 "inputText": "",
-        //                 "inputPlaceholder": "",
-        //                 "inputMarkAs": "",
-        //                 "inputClassName": "",
-        //                 "inputName": "",
-        //                 "inputMultiline": false,
-        //                 "inputFontsize": 14,
-        //                 "inputFontfamily": "Microsoft YaHei",
-        //                 "inputLetterspacing": 0,
-        //                 "inputForecolor": "#000000"
-        //             },
-        //             {
-        //                 "paddingBottom": 5,
-        //                 "paddingTop": 5,
-        //                 "paddingLeft": 5,
-        //                 "paddingRight": 5,
-        //                 "hpos": "flex-start",
-        //                 "vpos": "flex-start",
-        //                 "alpha": 1,
-        //                 "type": "input",
-        //                 "bLeft": true,
-        //                 "bTop": true,
-        //                 "bRight": true,
-        //                 "bBottom": true,
-        //                 "elements": [],
-        //                 "width": 150,
-        //                 "height": 35,
-        //                 "rowspan": 1,
-        //                 "colspan": 1,
-        //                 "inputText": "",
-        //                 "inputPlaceholder": "",
-        //                 "inputMarkAs": "",
-        //                 "inputClassName": "",
-        //                 "inputName": "",
-        //                 "inputMultiline": false,
-        //                 "inputFontsize": 14,
-        //                 "inputFontfamily": "Microsoft YaHei",
-        //                 "inputLetterspacing": 0,
-        //                 "inputForecolor": "#000000"
-        //             },
-        //             {
-        //                 "paddingBottom": 5,
-        //                 "paddingTop": 5,
-        //                 "paddingLeft": 5,
-        //                 "paddingRight": 5,
-        //                 "hpos": "flex-start",
-        //                 "vpos": "flex-start",
-        //                 "alpha": 1,
-        //                 "type": "input",
-        //                 "bLeft": true,
-        //                 "bTop": true,
-        //                 "bRight": true,
-        //                 "bBottom": true,
-        //                 "elements": [],
-        //                 "width": 273,
-        //                 "height": 35,
-        //                 "rowspan": 1,
-        //                 "colspan": 1,
-        //                 "inputText": "",
-        //                 "inputPlaceholder": "",
-        //                 "inputMarkAs": "",
-        //                 "inputClassName": "",
-        //                 "inputName": "",
-        //                 "inputMultiline": false,
-        //                 "inputFontsize": 14,
-        //                 "inputFontfamily": "Microsoft YaHei",
-        //                 "inputLetterspacing": 0,
-        //                 "inputForecolor": "#000000"
-        //             }
-        //             ],
-        //             "data": true
-        //         },
-        //         {
-        //             "data": true,
-        //             "copy":true,
-        //             "cols": [
-        //             {
-        //                 "height": 35,
-        //                 "width": 202,
-        //                 "rowspan": 1,
-        //                 "colspan": 1,
-        //                 "paddingLeft": 5,
-        //                 "paddingTop": 5,
-        //                 "paddingRight": 5,
-        //                 "paddingBottom": 5,
-        //                 "bLeft": true,
-        //                 "bTop": true,
-        //                 "bRight": true,
-        //                 "bBottom": true,
-        //                 "hpos": "flex-start",
-        //                 "vpos": "flex-start",
-        //                 "alpha": 1,
-        //                 "type": "input",
-        //                 "inputText": "",
-        //                 "inputPlaceholder": "",
-        //                 "inputMarkAs": "",
-        //                 "inputClassName": "",
-        //                 "inputName": "",
-        //                 "inputMultiline": false,
-        //                 "inputFontsize": 14,
-        //                 "inputFontfamily": "Microsoft YaHei",
-        //                 "inputLetterspacing": 0,
-        //                 "inputForecolor": "#000000"
-        //             },
-        //             {
-        //                 "height": 35,
-        //                 "width": 150,
-        //                 "rowspan": 1,
-        //                 "colspan": 1,
-        //                 "paddingLeft": 5,
-        //                 "paddingTop": 5,
-        //                 "paddingRight": 5,
-        //                 "paddingBottom": 5,
-        //                 "bLeft": true,
-        //                 "bTop": true,
-        //                 "bRight": true,
-        //                 "bBottom": true,
-        //                 "hpos": "flex-start",
-        //                 "vpos": "flex-start",
-        //                 "alpha": 1,
-        //                 "type": "input",
-        //                 "inputText": "",
-        //                 "inputPlaceholder": "",
-        //                 "inputMarkAs": "",
-        //                 "inputClassName": "",
-        //                 "inputName": "",
-        //                 "inputMultiline": false,
-        //                 "inputFontsize": 14,
-        //                 "inputUserValue":"100",
-        //                 "inputFontfamily": "Microsoft YaHei",
-        //                 "inputLetterspacing": 0,
-        //                 "inputForecolor": "#000000"
-        //             },
-        //             {
-        //                 "height": 35,
-        //                 "width": 273,
-        //                 "rowspan": 1,
-        //                 "colspan": 1,
-        //                 "paddingLeft": 5,
-        //                 "paddingTop": 5,
-        //                 "paddingRight": 5,
-        //                 "paddingBottom": 5,
-        //                 "bLeft": true,
-        //                 "bTop": true,
-        //                 "bRight": true,
-        //                 "bBottom": true,
-        //                 "hpos": "flex-start",
-        //                 "vpos": "flex-start",
-        //                 "alpha": 1,
-        //                 "type": "input",
-        //                 "inputText": "",
-        //                 "inputPlaceholder": "",
-        //                 "inputMarkAs": "",
-        //                 "inputClassName": "",
-        //                 "inputName": "",
-        //                 "inputUserValue":"40",
-        //                 "inputMultiline": false,
-        //                 "inputFontsize": 14,
-        //                 "inputFontfamily": "Microsoft YaHei",
-        //                 "inputLetterspacing": 0,
-        //                 "inputForecolor": "#000000"
-        //             }
-        //             ]
-        //         },
-        //         {
-        //             "total": true,
-        //             "cols": [
-        //             {
-        //                 "height": 35,
-        //                 "width": 202,
-        //                 "rowspan": 1,
-        //                 "colspan": 1,
-        //                 "paddingLeft": 5,
-        //                 "paddingTop": 5,
-        //                 "paddingRight": 5,
-        //                 "paddingBottom": 5,
-        //                 "bLeft": true,
-        //                 "bTop": true,
-        //                 "bRight": true,
-        //                 "bBottom": true,
-        //                 "hpos": "flex-start",
-        //                 "vpos": "flex-start",
-        //                 "alpha": 1,
-        //                 "type": "text",
-        //                 "textLetterspacing": 0,
-        //                 "textForecolor": "#000000",
-        //                 "textFontsize": 14,
-        //                 "textFontfamily": "Microsoft YaHei",
-        //                 "textStyleBold": false,
-        //                 "textStyleUnderline": false,
-        //                 "textStyleItalic": false,
-        //                 "textStyleStrike": false,
-        //                 "textContent": "总计",
-        //                 "textFormat": ""
-        //             },
-        //             {
-        //                 "height": 35,
-        //                 "width": 150,
-        //                 "rowspan": 1,
-        //                 "colspan": 1,
-        //                 "paddingLeft": 5,
-        //                 "paddingTop": 5,
-        //                 "paddingRight": 5,
-        //                 "paddingBottom": 5,
-        //                 "bLeft": true,
-        //                 "bTop": true,
-        //                 "bRight": true,
-        //                 "bBottom": true,
-        //                 "hpos": "flex-start",
-        //                 "vpos": "flex-start",
-        //                 "alpha": 1,
-        //                 "type": "sum",
-        //                 "textLetterspacing": 0,
-        //                 "textForecolor": "#000000",
-        //                 "textFontsize": 14,
-        //                 "textFontfamily": "Microsoft YaHei",
-        //                 "textStyleBold": false,
-        //                 "textStyleUnderline": false,
-        //                 "textStyleItalic": false,
-        //                 "textStyleStrike": false,
-        //                 "textContent": "",
-        //                 "textFormat": ""
-        //             },
-        //             {
-        //                 "height": 35,
-        //                 "width": 273,
-        //                 "rowspan": 1,
-        //                 "colspan": 1,
-        //                 "paddingLeft": 5,
-        //                 "paddingTop": 5,
-        //                 "paddingRight": 5,
-        //                 "paddingBottom": 5,
-        //                 "bLeft": true,
-        //                 "bTop": true,
-        //                 "bRight": true,
-        //                 "bBottom": true,
-        //                 "hpos": "flex-start",
-        //                 "vpos": "flex-start",
-        //                 "alpha": 1,
-        //                 "type": "text",
-        //                 "textLetterspacing": 0,
-        //                 "textForecolor": "#000000",
-        //                 "textFontsize": 14,
-        //                 "textFontfamily": "Microsoft YaHei",
-        //                 "textStyleBold": false,
-        //                 "textStyleUnderline": false,
-        //                 "textStyleItalic": false,
-        //                 "textStyleStrike": false,
-        //                 "textContent": "",
-        //                 "textFormat": ""
-        //             }
-        //             ],
-        //             "foot": true
-        //         },
-        //         {
-        //             "foot": true,
-        //             "cols": [
-        //             {
-        //                 "height": 35,
-        //                 "width": 202,
-        //                 "rowspan": 1,
-        //                 "colspan": 1,
-        //                 "paddingLeft": 5,
-        //                 "paddingTop": 5,
-        //                 "paddingRight": 5,
-        //                 "paddingBottom": 5,
-        //                 "bLeft": true,
-        //                 "bTop": true,
-        //                 "bRight": true,
-        //                 "bBottom": true,
-        //                 "hpos": "flex-start",
-        //                 "vpos": "flex-start",
-        //                 "alpha": 1,
-        //                 "type": "text",
-        //                 "textLetterspacing": 0,
-        //                 "textForecolor": "#000000",
-        //                 "textFontsize": 14,
-        //                 "textFontfamily": "Microsoft YaHei",
-        //                 "textStyleBold": false,
-        //                 "textStyleUnderline": false,
-        //                 "textStyleItalic": false,
-        //                 "textStyleStrike": false,
-        //                 "textContent": "",
-        //                 "textFormat": "",
-        //                 "elements": []
-        //             },
-        //             {
-        //                 "height": 35,
-        //                 "width": 150,
-        //                 "rowspan": 1,
-        //                 "colspan": 1,
-        //                 "paddingLeft": 5,
-        //                 "paddingTop": 5,
-        //                 "paddingRight": 5,
-        //                 "paddingBottom": 5,
-        //                 "bLeft": true,
-        //                 "bTop": true,
-        //                 "bRight": true,
-        //                 "bBottom": true,
-        //                 "hpos": "flex-start",
-        //                 "vpos": "flex-start",
-        //                 "alpha": 1,
-        //                 "type": "text",
-        //                 "textLetterspacing": 0,
-        //                 "textForecolor": "#000000",
-        //                 "textFontsize": 14,
-        //                 "textFontfamily": "Microsoft YaHei",
-        //                 "textStyleBold": false,
-        //                 "textStyleUnderline": false,
-        //                 "textStyleItalic": false,
-        //                 "textStyleStrike": false,
-        //                 "textContent": "",
-        //                 "textFormat": "",
-        //                 "elements": []
-        //             },
-        //             {
-        //                 "height": 35,
-        //                 "width": 273,
-        //                 "rowspan": 1,
-        //                 "colspan": 1,
-        //                 "paddingLeft": 5,
-        //                 "paddingTop": 5,
-        //                 "paddingRight": 5,
-        //                 "paddingBottom": 5,
-        //                 "bLeft": true,
-        //                 "bTop": true,
-        //                 "bRight": true,
-        //                 "bBottom": true,
-        //                 "hpos": "flex-start",
-        //                 "vpos": "flex-start",
-        //                 "alpha": 1,
-        //                 "type": "text",
-        //                 "textLetterspacing": 0,
-        //                 "textForecolor": "#000000",
-        //                 "textFontsize": 14,
-        //                 "textFontfamily": "Microsoft YaHei",
-        //                 "textStyleBold": false,
-        //                 "textStyleUnderline": false,
-        //                 "textStyleItalic": false,
-        //                 "textStyleStrike": false,
-        //                 "textContent": "",
-        //                 "textFormat": "",
-        //                 "elements": []
-        //             }
-        //             ]
-        //         }
-        //         ],
-        //         "x": 45,
-        //         "y": 60,
-        //         "width": 626,
-        //         "height": 246,
-        //         "alpha": 1,
-        //         "borderwidth": 1,
-        //         "bordertype": "solid",
-        //         "bordercolor": "#e6e6e6",
-        //         "borderdeed": "collapse",
-        //         "hideHead": false,
-        //         "hideTotal": false,
-        //         "hideFoot": false,
-        //         "ename": "数据采集"
-        //     }
-        //     };
-        //     document.getElementById('toggle_collect').addEventListener('click',()=>{
-        //         collectData.props.readonly=!collectData.props.readonly;
-        //         viewer.element('#collect',collectData);
-        //     });
-        // viewer.element('#collect',collectData);
-        viewer.element('#text',{
-            "unit":"px",
-            "type":"text",
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport"
+        content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,viewport-fit=cover" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <link type="image/x-icon" href="//gw.alicdn.com/tfs/TB1gRomUlr0gK0jSZFnXXbRRXXa-200-200.png" rel="shortcut icon">
+    <title>独立使用测试</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0
+        }
+
+        .root {
+            position: relative;
+            left: 100px;
+            top: 100px
+        }
+    </style>
+</head>
+
+<body>
+    <div class="root">
+        <div id="text"></div>
+        <div id="table"></div>
+        <div id="svg"></div>
+    </div>
+    <script src="dist/viewer.js?v=202403021720"></script>
+    <script>
+        viewer.element('#text', {
+            "id": "rde_lt6wkgan115",
+            "type": "text",
+            "unit": "mm",
             "props": {
-                "x": 0,
-                "y": 40,
-                "width": 200,
-                "height": 50,
-                "rotate": 0,
-                "text": "abc",
-                "bind": {
-                "url": "",
-                "id": "",
-                "fields": []
-                },
-                "format": "",
-                "fontsize": 14,
-                "fontfamily": "Microsoft YaHei",
+                "x": 43.588,
+                "y": 16.213,
+                "width": 52.917,
+                "height": 6.615,
                 "alpha": 1,
-                "letterspacing": 0,
-                "background": "",
-                "forecolor": "#000000",
-                "styleBold": false,
-                "styleUnderline": false,
-                "styleItalic": false,
-                "styleStrike": false,
-                "hpos": "flex-start",
-                "vpos": "flex-start",
-                "ename": "文本"
+                "rotate": 0,
+                "print": "each",
+                "text": "这是文本的单独渲染",
+                "bind": {},
+                "match": true,
+                "size": 3.704,
+                "font": "unset",
+                "line": 1.5,
+                "gap": 0,
+                "color": "#000",
+                "hpos": "center",
+                "vpos": "center",
+                "bwidth": 0,
+                "bcolor": "#000",
+                "btype": "solid",
+                "target": "tab",
+                "winWidth": 132.292,
+                "winHeight": 132.292,
+                "ename": "文本-1",
+                "animations": []
             }
         });
-        viewer.element('#table',{
-            "type":"hod-table",
-            "unit":"px",
+        viewer.element('#table', {
+            "id": "rde_lt6wkgan155",
+            "type": "hod-table",
+            "unit": "mm",
             "props": {
                 "rows": [
-                {
-                    "cols": [
                     {
-                        "height": 87,
-                        "width": 316,
-                        "bLeft": true,
-                        "bTop": true,
-                        "bRight": true,
-                        "bBottom": true,
-                        "rowspan": 1,
-                        "colspan": 1,
-                        "elements": [
-                        {
-                            "id": "e_177",
-                            "type": "circle",
-                            "props": {
-                            "x": 84,
-                            "y": 4,
-                            "width": 80,
-                            "height": 80,
-                            "rotate": 0,
-                            "alpha": 1,
-                            "borderwidth": 1,
-                            "bordertype": "solid",
-                            "bordercolor": "#000000",
-                            "fillcolor": "",
-                            "ename": "圆形"
+                        "cols": [
+                            {
+                                "height": 7.938,
+                                "width": 39.688,
+                                "bLeft": true,
+                                "bTop": true,
+                                "bRight": true,
+                                "bBottom": true,
+                                "rowspan": 1,
+                                "colspan": 1,
+                                "elements": []
+                            },
+                            {
+                                "height": 7.938,
+                                "width": 39.688,
+                                "bLeft": true,
+                                "bTop": true,
+                                "bRight": true,
+                                "bBottom": true,
+                                "rowspan": 1,
+                                "colspan": 1,
+                                "elements": []
                             }
-                        }
                         ]
                     },
                     {
-                        "height": 87,
-                        "width": 150,
-                        "bLeft": true,
-                        "bTop": true,
-                        "bRight": true,
-                        "bBottom": true,
-                        "rowspan": 1,
-                        "colspan": 1,
-                        "elements": []
+                        "cols": [
+                            {
+                                "height": 7.938,
+                                "width": 39.688,
+                                "bLeft": true,
+                                "bTop": true,
+                                "bRight": true,
+                                "bBottom": true,
+                                "rowspan": 1,
+                                "colspan": 1,
+                                "elements": []
+                            },
+                            {
+                                "height": 7.938,
+                                "width": 39.688,
+                                "bLeft": true,
+                                "bTop": true,
+                                "bRight": true,
+                                "bBottom": true,
+                                "rowspan": 1,
+                                "colspan": 1,
+                                "elements": []
+                            }
+                        ]
                     }
-                    ]
-                },
-                {
-                    "cols": [
-                    {
-                        "height": 30,
-                        "width": 316,
-                        "bLeft": true,
-                        "bTop": true,
-                        "bRight": true,
-                        "bBottom": true,
-                        "rowspan": 1,
-                        "colspan": 1,
-                        "elements": []
-                    },
-                    {
-                        "height": 30,
-                        "width": 150,
-                        "bLeft": true,
-                        "bTop": true,
-                        "bRight": true,
-                        "bBottom": true,
-                        "rowspan": 1,
-                        "colspan": 1,
-                        "elements": []
-                    }
-                    ]
-                }
                 ],
-                "x": 40,
-                "y": 520,
-                "width": 467,
-                "height": 118,
+                "x": 14.899,
+                "y": 35.186,
+                "width": 79.64,
+                "height": 16.14,
                 "alpha": 1,
-                "borderwidth": 1,
-                "bordertype": "solid",
-                "bordercolor": "#000000",
-                "borderdeed": "collapse",
-                "ename": "表格"
+                "bdeed": "collapse",
+                "bwidth": 0.265,
+                "btype": "solid",
+                "bcolor": "#000",
+                "ename": "表格-1",
+                "animations": []
             }
         });
-        </script>
-    </body>
+        rd.element('#svg', {
+            "id": "rde_lt6wkgan183",
+            "type": "svg/rect",
+            "unit": "pc",
+            "props": {
+                "x": 16.5327,
+                "y": 22.4768,
+                "width": 6.25,
+                "height": 11.7647,
+                "alpha": 1,
+                "ctrl1X": 22.7827,
+                "ctrl1Y": 22.4768,
+                "ctrl2X": 16.5327,
+                "ctrl2Y": 28.7268,
+                "ctrl3X": 21.7036,
+                "ctrl3Y": 34.2415,
+                "linewidth": 0.0625,
+                "color": "#000",
+                "dash": 0,
+                "linejoin": "meter",
+                "ename": "多边形-1",
+                "animations": []
+            }
+        });
+    </script>
+</body>
+
 </html>
