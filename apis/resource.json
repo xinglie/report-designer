@@ -40,46 +40,6 @@
             ]
         },
         {
-            "title": "普通图片",
-            "list": [
-                {
-                    "src": "https://img-qn-2.51miz.com/preview/element/00/01/25/26/E-1252677-FC0DDD2E.jpg!/quality/90/unsharp/true/compress/true/format/jpg/fh/400",
-                    "name": "卡通",
-                    "use": "timg",
-                    "width": 200,
-                    "height": 200
-                },
-                {
-                    "src": "https://img-qn-3.51miz.com/preview/element/00/01/24/90/E-1249003-B04B29A6.jpg!/quality/90/unsharp/true/compress/true/format/jpg/fh/400",
-                    "name": "书籍",
-                    "use": "timg",
-                    "width": 200,
-                    "height": 200
-                },
-                {
-                    "src": "https://img-qn-4.51miz.com/preview/element/00/01/25/24/E-1252437-925ED5FE.jpg!/quality/90/unsharp/true/compress/true/format/jpg/fh/400",
-                    "name": "卡通3",
-                    "use": "timg",
-                    "width": 200,
-                    "height": 200
-                },
-                {
-                    "src": "https://img-qn-5.51miz.com/preview/element/00/01/25/35/E-1253592-654D0D83.jpg!/quality/90/unsharp/true/compress/true/format/jpg/fh/400",
-                    "name": "数据统计",
-                    "use": "timg",
-                    "width": 200,
-                    "height": 200
-                },
-                {
-                    "src": "https://img-qn-1.51miz.com/preview/element/00/01/10/95/E-1109549-E44824F6.jpg!/quality/90/unsharp/true/compress/true/format/jpg/fh/400",
-                    "name": "梦想在路上",
-                    "use": "timg",
-                    "width": 240,
-                    "height": 170
-                }
-            ]
-        },
-        {
             "title": "flaticon.com 环保图标",
             "list": [
                 {

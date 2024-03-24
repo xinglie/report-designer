@@ -1,0 +1,242 @@
+{
+    "data": {
+        "unit": "mm",
+        "xs": [],
+        "ys": [],
+        "groups": [],
+        "page": {
+            "viewer": "stack",
+            "width": 209.815,
+            "height": 296.863,
+            "pages": 1,
+            "scale": "auto",
+            "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+            "xOffset": 0,
+            "yOffset": 0,
+            "space": 0,
+            "copies": 1,
+            "blank": "keep",
+            "labelCol": 1,
+            "labelGap": 2.646,
+            "font": "unset",
+            "gridWidth": 5.292,
+            "gridHeight": 5.292,
+            "background": "#fff",
+            "backgroundRepeat": "no-repeat",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundX": 0,
+            "backgroundY": 0
+        },
+        "elements": [
+            {
+                "id": "rde_ltqurchb278",
+                "type": "data-repeater",
+                "unit": "mm",
+                "props": {
+                    "bind": {
+                        "id": "3",
+                        "tag": "apis/person.json"
+                    },
+                    "rows": [
+                        {
+                            "height": 40.882,
+                            "cols": [
+                                {
+                                    "width": 85.616,
+                                    "elements": [
+                                        {
+                                            "id": "rde_ltqurchb334",
+                                            "type": "text",
+                                            "unit": "mm",
+                                            "props": {
+                                                "x": 6.861,
+                                                "y": 5.624,
+                                                "width": 30.922,
+                                                "height": 6.615,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "bind": {
+                                                    "id": "3",
+                                                    "tag": "apis/person.json",
+                                                    "name": "人物信息",
+                                                    "fields": [
+                                                        {
+                                                            "key": "order",
+                                                            "name": "序号"
+                                                        }
+                                                    ]
+                                                },
+                                                "format": "b:{\"id\":\"no\",\"body\":[],\"prefix\":\"序号：\"}",
+                                                "match": true,
+                                                "size": 3.704,
+                                                "font": "unset",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#000",
+                                                "hpos": "flex-start",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 132.292,
+                                                "winHeight": 132.292,
+                                                "ename": "文本-4",
+                                                "animations": []
+                                            }
+                                        },
+                                        {
+                                            "id": "rde_ltqurchb335",
+                                            "type": "text",
+                                            "unit": "mm",
+                                            "props": {
+                                                "x": 6.861,
+                                                "y": 16.871,
+                                                "width": 30.922,
+                                                "height": 6.615,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "bind": {
+                                                    "id": "3",
+                                                    "tag": "apis/person.json",
+                                                    "name": "人物信息",
+                                                    "fields": [
+                                                        {
+                                                            "key": "gender",
+                                                            "name": "性别"
+                                                        }
+                                                    ]
+                                                },
+                                                "format": "b:{\"id\":\"no\",\"body\":[],\"prefix\":\"性别：\"}",
+                                                "match": true,
+                                                "size": 3.704,
+                                                "font": "unset",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#000",
+                                                "hpos": "flex-start",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 132.292,
+                                                "winHeight": 132.292,
+                                                "ename": "文本-6",
+                                                "animations": []
+                                            }
+                                        },
+                                        {
+                                            "id": "rde_ltqurchb336",
+                                            "type": "text",
+                                            "unit": "mm",
+                                            "props": {
+                                                "x": 7.192,
+                                                "y": 28.118,
+                                                "width": 30.922,
+                                                "height": 6.615,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "bind": {
+                                                    "id": "3",
+                                                    "tag": "apis/person.json",
+                                                    "name": "人物信息",
+                                                    "fields": [
+                                                        {
+                                                            "key": "name",
+                                                            "name": "姓名"
+                                                        }
+                                                    ]
+                                                },
+                                                "format": "b:{\"id\":\"no\",\"body\":[],\"prefix\":\"姓名：\"}",
+                                                "match": true,
+                                                "size": 3.704,
+                                                "font": "unset",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#000",
+                                                "hpos": "flex-start",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 132.292,
+                                                "winHeight": 132.292,
+                                                "ename": "文本-8",
+                                                "animations": []
+                                            }
+                                        },
+                                        {
+                                            "id": "rde_ltqurchb372",
+                                            "type": "image",
+                                            "unit": "mm",
+                                            "props": {
+                                                "x": 47.958,
+                                                "y": 5.043,
+                                                "width": 30.269,
+                                                "height": 30.269,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "bind": {
+                                                    "id": "3",
+                                                    "tag": "apis/person.json",
+                                                    "name": "人物信息",
+                                                    "fields": [
+                                                        {
+                                                            "key": "avatar",
+                                                            "name": "头像"
+                                                        }
+                                                    ]
+                                                },
+                                                "target": "tab",
+                                                "winWidth": 132.292,
+                                                "winHeight": 132.292,
+                                                "ename": "图片-2",
+                                                "animations": []
+                                            }
+                                        }
+                                    ],
+                                    "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                                    "btype": [
+                                        "solid",
+                                        "solid",
+                                        "solid",
+                                        "solid"
+                                    ],
+                                    "bwidth": [
+                                        0.265,
+                                        0.265,
+                                        0.265,
+                                        0.265
+                                    ],
+                                    "bcolor": [
+                                        "#000",
+                                        "#000",
+                                        "#000",
+                                        "#000"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "x": 15.935,
+                    "y": 9.015,
+                    "width": 85.616,
+                    "height": 40.882,
+                    "alpha": 1,
+                    "hspace": 7.938,
+                    "vspace": 5.292,
+                    "ename": "横纵重复-1",
+                    "animations": []
+                }
+            }
+        ]
+    },
+    "success": true
+}
