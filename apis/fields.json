@@ -343,6 +343,41 @@
                     "use": "carousel"
                 }
             ]
+        },
+        {
+            "name": "课程表",
+            "id": 7,
+            "tag": "apis/schedule.json",
+            "fields": [
+                {
+                    "name": "上/下午",
+                    "key": "time"
+                },
+                {
+                    "name": "课时",
+                    "key": "period"
+                },
+                {
+                    "name": "星期一",
+                    "key": "mon"
+                },
+                {
+                    "name": "星期二",
+                    "key": "tue"
+                },
+                {
+                    "name": "星期三",
+                    "key": "wen"
+                },
+                {
+                    "name": "星期四",
+                    "key": "thu"
+                },
+                {
+                    "name": "星期五",
+                    "key": "fri"
+                }
+            ]
         }
     ],
     "success": true,

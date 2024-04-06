@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "id": "g1",
+            "title": "环保"
+        },
+        {
+            "id": "g2",
+            "title": "大屏"
+        }
+    ],
+    "success": true,
+    "message": ""
+}
