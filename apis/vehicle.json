@@ -1,0 +1,228 @@
+{
+    "data": [
+        {
+            "title": "项目名称或内容",
+            "price": 500,
+            "number": 1,
+            "discount": 0.8333,
+            "cost": 400,
+            "free": 10,
+            "order": 1,
+            "$group": true
+        },
+        {
+            "title": "项目名称或内容",
+            "price": 500,
+            "number": 1,
+            "discount": 0.8333,
+            "cost": 400,
+            "order": 1.1,
+            "$group": true
+        },
+        {
+            "title": "项目名称或内容",
+            "price": 500,
+            "number": 1,
+            "discount": 0.8333,
+            "cost": 400,
+            "order": 1.2,
+            "$group": true
+        },
+        {
+            "discount": "subtotal",
+            "cost": 1200,
+            "$group": true,
+            "$groupEnd": true
+        },
+        {
+            "title": "项目名称或内容",
+            "price": 500,
+            "number": 1,
+            "discount": 0.8333,
+            "cost": 400,
+            "order": 2,
+            "$group": true,
+            "$groupEnd": true
+        },
+        {
+            "title": "项目名称或内容",
+            "price": 500,
+            "number": 1,
+            "discount": 0.8333,
+            "cost": 400,
+            "order": 3,
+            "$group": true
+        },
+        {
+            "title": "项目名称或内容",
+            "price": 500,
+            "number": 1,
+            "discount": 0.8333,
+            "cost": 400,
+            "order": 3.1,
+            "$group": true
+        },
+        {
+            "title": "项目名称或内容",
+            "price": 500,
+            "number": 1,
+            "discount": 0.8333,
+            "cost": 400,
+            "order": 3.2,
+            "$group": true
+        },
+        {
+            "title": "项目名称或内容",
+            "price": 500,
+            "number": 1,
+            "discount": 0.8333,
+            "cost": 400,
+            "order": 3.3,
+            "$group": true
+        },
+        {
+            "discount": "subtotal",
+            "cost": 1600,
+            "$group": true,
+            "$groupEnd": true
+        },
+        {
+            "title": "项目名称或内容",
+            "price": 500,
+            "number": 1,
+            "discount": 0.8333,
+            "cost": 400,
+            "order": 4,
+            "$group": true
+        },
+        {
+            "title": "项目名称或内容",
+            "price": 500,
+            "number": 1,
+            "discount": 0.8333,
+            "cost": 400,
+            "order": 4.1,
+            "$group": true
+        },
+        {
+            "title": "项目名称或内容",
+            "price": 500,
+            "number": 1,
+            "discount": 0.8333,
+            "cost": 400,
+            "order": 4.2,
+            "$group": true
+        },
+        {
+            "title": "项目名称或内容",
+            "price": 500,
+            "number": 1,
+            "discount": 0.8333,
+            "cost": 400,
+            "order": 4.3,
+            "$group": true
+        },
+        {
+            "title": "项目名称或内容",
+            "price": 500,
+            "number": 1,
+            "discount": 0.8333,
+            "cost": 400,
+            "order": 4.4,
+            "$group": true
+        },
+        {
+            "title": "项目名称或内容",
+            "price": 500,
+            "number": 1,
+            "discount": 0.8333,
+            "cost": 400,
+            "order": 4.5,
+            "$group": true
+        },
+        {
+            "discount": "subtotal",
+            "cost": 2400,
+            "$group": true,
+            "$groupEnd": true
+        },
+        {
+            "title": "项目名称或内容",
+            "price": 500,
+            "number": 1,
+            "discount": 0.8333,
+            "cost": 400,
+            "order": 5,
+            "$group": true
+        },
+        {
+            "title": "项目名称或内容",
+            "price": 500,
+            "number": 1,
+            "discount": 0.8333,
+            "cost": 400,
+            "order": 5.1,
+            "$group": true
+        },
+        {
+            "title": "项目名称或内容",
+            "price": 500,
+            "number": 1,
+            "discount": 0.8333,
+            "cost": 400,
+            "order": 5.2,
+            "$group": true
+        },
+        {
+            "title": "项目名称或内容",
+            "price": 500,
+            "number": 1,
+            "discount": 0.8333,
+            "cost": 400,
+            "order": 5.3,
+            "$group": true
+        },
+        {
+            "discount": "subtotal",
+            "cost": 1600,
+            "$group": true,
+            "$groupEnd": true
+        },
+        {
+            "title": "项目名称或内容",
+            "price": 500,
+            "number": 1,
+            "discount": 0.8333,
+            "cost": 400,
+            "free": 200,
+            "order": 6
+        },
+        {
+            "title": "项目名称或内容",
+            "price": 500,
+            "number": 1,
+            "discount": 0.8333,
+            "cost": 400,
+            "free": 200,
+            "order": 7,
+            "$group": true
+        },
+        {
+            "title": "项目名称或内容",
+            "price": 500,
+            "number": 1,
+            "discount": 0.8333,
+            "cost": 400,
+            "order": 7.1,
+            "$group": true
+        },
+        {
+            "discount": "subtotal",
+            "cost": 800,
+            "$group": true,
+            "$groupEnd": true
+        }
+    ],
+    "success": true,
+    "message": "ok"
+}

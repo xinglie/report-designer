@@ -3,7 +3,9 @@
         {
             "name": "阿朱泡泡体",
             "family": "azpp",
-            "url": "../fonts/azpp.ttf"
+            "url": "../fonts/azpp.ttf",
+            "widthMult": 80,
+            "heightMult": 80
         },
         {
             "name": "站酷小薇LOGO体",
@@ -13,17 +15,78 @@
         {
             "name": "问藏书房",
             "family": "wcsf",
-            "url": "../fonts/wcsf.ttf"
+            "url": "../fonts/wcsf.ttf",
+            "widthMult": 80,
+            "heightMult": 80
+        },{
+            "name": "千图小兔体",
+            "family": "qtxtt",
+            "url": "../fonts/qtxtt.ttf",
+            "widthMult": 80,
+            "heightMult": 80
         },
         {
             "name": "LED",
             "family": "ds-digi",
-            "url": "../fonts/ds-digi.ttf"
+            "url": "../fonts/ds-digi.ttf",
+            "widthMult": 80,
+            "heightMult": 80
         },
         {
-            "name": "LED2",
-            "family": "dnf",
-            "url": "../fonts/dnf.ttf"
+            "name": "Planet Benson",
+            "family": "planetbe",
+            "url": "../fonts/planetbe.ttf",
+            "widthMult": 70,
+            "heightMult": 70
+        },
+        {
+            "name": "Montague",
+            "family": "montague",
+            "url": "../fonts/montague.ttf",
+            "widthMult": 80,
+            "heightMult": 80
+        },
+        {
+            "name": "Angelina",
+            "family": "angelina",
+            "url": "../fonts/angelina.ttf",
+            "widthMult": 80,
+            "heightMult": 80
+        },
+        {
+            "name": "Karma Future",
+            "family": "farmafuture",
+            "url": "../fonts/farmafuture.ttf",
+            "widthMult": 80,
+            "heightMult": 80
+        },
+        {
+            "name": "Famirids",
+            "family": "famirids",
+            "url": "../fonts/famirids.ttf",
+            "widthMult": 80,
+            "heightMult": 80
+        },
+        {
+            "name": "Immortal",
+            "family": "immortal",
+            "url": "../fonts/immortal.ttf",
+            "widthMult": 80,
+            "heightMult": 80
+        },
+        {
+            "name": "Midnight",
+            "family": "midnight",
+            "url": "../fonts/midnight.ttf",
+            "widthMult": 80,
+            "heightMult": 80
+        },
+        {
+            "name": "Big Dots",
+            "family": "bigdots",
+            "url": "../fonts/bigdots.ttf",
+            "widthMult": 80,
+            "heightMult": 80
         }
     ],
     "success": true,

@@ -18,6 +18,7 @@
             "blank": "drop",
             "labelCol": 1,
             "labelGap": 10,
+            "snap": false,
             "font": "unset",
             "gridWidth": 20,
             "gridHeight": 20,

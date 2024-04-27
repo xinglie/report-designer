@@ -22,11 +22,18 @@
                 },
                 {
                     "name": "姓名",
-                    "key": "name"
+                    "key": "name",
+                    "props": {
+                        "prefix": "姓名："
+                    }
                 },
                 {
                     "name": "性别",
-                    "key": "gender"
+                    "key": "gender",
+                    "props": {
+                        "prefix": "性别：",
+                        "postfix": "..."
+                    }
                 },
                 {
                     "name": "地址",
@@ -329,18 +336,18 @@
                             "use": "form-input"
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "name": "轮播",
-            "id": 7,
-            "tag": "apis/carousel.json",
-            "fields": [
+                },
                 {
-                    "name": "轮播图测试",
-                    "key": "images",
-                    "use": "carousel"
+                    "name": "轮播",
+                    "id": 7,
+                    "tag": "apis/carousel.json",
+                    "fields": [
+                        {
+                            "name": "轮播图测试",
+                            "key": "images",
+                            "use": "carousel"
+                        }
+                    ]
                 }
             ]
         },
@@ -376,6 +383,37 @@
                 {
                     "name": "星期五",
                     "key": "fri"
+                }
+            ]
+        },
+        {
+            "name": "车辆检修单",
+            "id": 8,
+            "tag": "apis/vehicle.json",
+            "fields": [
+                {
+                    "name": "序号",
+                    "key": "order"
+                },
+                {
+                    "name": "服务项目",
+                    "key": "title"
+                },
+                {
+                    "name": "单价",
+                    "key": "price"
+                },
+                {
+                    "name": "数量",
+                    "key": "number"
+                },
+                {
+                    "name": "折扣率",
+                    "key": "discount"
+                },
+                {
+                    "name": "费用",
+                    "key": "cost"
                 }
             ]
         }
