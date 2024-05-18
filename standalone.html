@@ -27,6 +27,7 @@
 
         #iot {
             height: 400px;
+            width:800px;
         }
     </style>
 </head>
@@ -39,8 +40,17 @@
         <div id="board"></div>
         <div id="iot"></div>
     </div>
-    <script src="dist/viewer.js?v=202404270948"></script>
+    <script src="dist/viewer.js?v=202405180834"></script>
     <script>
+        //--－start--- 以下是环境检测提示，方便有问题时自查，正式使用时建议删除
+        if(!CSS.supports('overflow:clip')||
+            !CSS.supports('inset:auto')){
+            console.error('unsupport browser: '+navigator.userAgent);
+        }
+        if(!location.protocol.startsWith('http')){
+            alert('请配置一个web服务器,通过http的方式访问~')
+        }
+        //---end---
         viewer.element('#text', {
             "id": "rde_lt6wkgan115",
             "type": "text",
@@ -1080,7 +1090,7 @@
             ]
         }, {
             iotTransfer: 'sse',
-            iotUrl: '//localhost:9988/iot^./abc',
+            iotUrl: '//localhost:9999/iot^./abc',
         });
     </script>
 </body>

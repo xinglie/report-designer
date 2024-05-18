@@ -37,13 +37,22 @@
         <input placeholder="外部输入框测试" />
         bottom text
     </div>
-    <script src="dist/designer.js?v=202404270948"></script>
+    <script src="dist/designer.js?v=202405180834"></script>
     <script>
+        //--－start--- 以下是环境检测提示，方便有问题时自查，正式使用时建议删除
+        if(!CSS.supports('overflow:clip')||
+            !CSS.supports('inset:auto')){
+            console.error('unsupport browser: '+navigator.userAgent);
+        }
+        if(!location.protocol.startsWith('http')){
+            alert('请配置一个web服务器,通过http的方式访问~')
+        }
+        //---end---
         let {searchParams} = new URL(location.href);
         let id = searchParams.get('id');
         let setup = () => {
             designer.setup({
-                version:'202404270948',
+                version:'202405180834',
                 rootId: 'app',
                 mini: true,//迷你模式需要配置该参数减少界面展示
                 viewerUrl: './viewer.html?from=mini',

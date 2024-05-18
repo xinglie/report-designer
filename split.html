@@ -23,7 +23,7 @@
             }
             #header{
                 height: 40px;
-                background-color:/*d-cb<*/var(--rd-dh)/*>d-cb*/;
+                background-color:/*d-cb<*/var(--rd-bo)/*>d-cb*/;
                 color:#fff;
                 padding: 0 40px 0 20px;
                 margin:10px 0;
@@ -101,11 +101,20 @@
         <div id="foot">
 
         </div>
-        <script src="dist/designer.js?v=202404270948"></script>
+        <script src="dist/designer.js?v=202405180834"></script>
         <script>
+            //--－start--- 以下是环境检测提示，方便有问题时自查，正式使用时建议删除
+            if(!CSS.supports('overflow:clip')||
+                !CSS.supports('inset:auto')){
+                console.error('unsupport browser: '+navigator.userAgent);
+            }
+            if(!location.protocol.startsWith('http')){
+                alert('请配置一个web服务器,通过http的方式访问~')
+            }
+            //---end---
             let setup=()=>{
                 designer.setup({
-                    version:'202404270948',
+                    version:'202405180834',
                     rootId:'app',
                     split:true,//一定要配置split为true，表示拆分模式
                     panels:{//把内置的浮动面板渲染到现有的节点里
@@ -151,6 +160,7 @@
                     getTemplateUrl:'./apis/example.json',
                     getTemplateContentUrl:'./apis/example_${id}.json',
                     getResourceUrl:'./apis/resource.json',
+                    saveContentUrl:'./apis/content.json'
                 });
             };
             let setupBtn=document.getElementById('setup-rd');

@@ -65,10 +65,7 @@
                 },
                 {
                     "name": "姓名与性别聚合",
-                    "key": [
-                        "name",
-                        "gender"
-                    ]
+                    "key": "name&gender"
                 }
             ]
         },
@@ -414,6 +411,48 @@
                 {
                     "name": "费用",
                     "key": "cost"
+                }
+            ]
+        },
+        {
+            "name": "复杂的数据结构",
+            "expand": true,
+            "fields": [
+                {
+                    "name": "表头数据(对象)",
+                    "id": 9,
+                    "tag": "apis/complex.json",
+                    "expand": true,
+                    "fields": [
+                        {
+                            "name": "区域",
+                            "key": "title/area"
+                        },
+                        {
+                            "name": "编码",
+                            "key": "title/code"
+                        }
+                    ]
+                },
+                {
+                    "name": "列表数据(数组)",
+                    "id": 9,
+                    "tag": "apis/complex.json",
+                    "expand": true,
+                    "fields": [
+                        {
+                            "name": "人数",
+                            "key": "list/crowd"
+                        },
+                        {
+                            "name": "随机数",
+                            "key": "list/random"
+                        },
+                        {
+                            "name": "浏览量",
+                            "key": "list/pv"
+                        }
+                    ]
                 }
             ]
         }

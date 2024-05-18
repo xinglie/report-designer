@@ -37,6 +37,18 @@
             "fri": "语文"
         },
         {
+            "$height": 2.8,
+            "$colspans": {
+                "0": 7
+            },
+            "$borderColors": {
+                "$first": {},
+                "$last": {},
+                "$default": {}
+            },
+            "$borderTypes": {}
+        },
+        {
             "time": "下午",
             "period": "第1节",
             "mon": "地理",
