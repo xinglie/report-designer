@@ -1,29 +1,40 @@
 {
     "data": {
         "unit": "px",
+        "xs": [],
+        "ys": [],
+        "groups": [],
         "page": {
+            "viewer": "default",
             "width": 791,
             "height": 1120,
             "pages": 1,
+            "scale": "auto",
+            "update": true,
+            "updateInterval": 1,
+            "radius": "0 0 0 0/0 0 0 0",
             "xOffset": 0,
             "yOffset": 0,
-            "marginTop": 0,
-            "marginRight": 0,
-            "marginBottom": 0,
-            "marginLeft": 0,
+            "copies": 1,
+            "blank": "drop",
+            "labelCol": 1,
+            "labelGap": 10,
+            "font": "unset",
+            "gridWidth": 20,
+            "gridHeight": 20,
             "background": "#ffffff",
             "backgroundImage": "",
             "backgroundRepeat": "full",
             "backgroundWidth": 0,
             "backgroundHeight": 0,
-            "backgroundXOffset": 0,
-            "backgroundYOffset": 0
+            "backgroundX": 0,
+            "backgroundY": 0
         },
-        "groups": [],
         "elements": [
             {
                 "id": "e_56",
                 "type": "data-dtable",
+                "unit": "px",
                 "props": {
                     "rows": [
                         {
@@ -58,7 +69,9 @@
                                         {
                                             "id": "e_57",
                                             "type": "data-ctable",
+                                            "unit": "px",
                                             "props": {
+                                                "full": false,
                                                 "rows": [
                                                     {
                                                         "cols": [
@@ -249,14 +262,18 @@
                                                 },
                                                 "x": 118,
                                                 "y": 14,
-                                                "width": 451,
-                                                "height": 61,
+                                                "width": 450,
+                                                "height": 60,
                                                 "alpha": 1,
+                                                "rotate": 0,
+                                                "hspace": 20,
+                                                "vspace": 20,
+                                                "bdeed": "collapse",
                                                 "bwidth": 0,
                                                 "btype": "solid",
                                                 "bcolor": "#000000",
-                                                "bdeed": "collapse",
-                                                "ename": "单元格"
+                                                "ename": "单元格",
+                                                "animations": []
                                             }
                                         }
                                     ]
@@ -742,7 +759,9 @@
                                         {
                                             "id": "e_58",
                                             "type": "data-ctable",
+                                            "unit": "px",
                                             "props": {
+                                                "full": false,
                                                 "rows": [
                                                     {
                                                         "cols": [
@@ -933,14 +952,18 @@
                                                 },
                                                 "x": 94,
                                                 "y": 19,
-                                                "width": 451,
-                                                "height": 61,
+                                                "width": 450,
+                                                "height": 60,
                                                 "alpha": 1,
+                                                "rotate": 0,
+                                                "hspace": 20,
+                                                "vspace": 20,
+                                                "bdeed": "collapse",
                                                 "bwidth": 0,
                                                 "btype": "solid",
                                                 "bcolor": "#000000",
-                                                "bdeed": "collapse",
-                                                "ename": "单元格"
+                                                "ename": "单元格",
+                                                "animations": []
                                             }
                                         }
                                     ]
@@ -957,33 +980,44 @@
                     "width": 751,
                     "height": 373,
                     "alpha": 1,
+                    "bdeed": "collapse",
                     "bwidth": 1,
                     "btype": "solid",
                     "bcolor": "#000000",
-                    "bdeed": "collapse",
                     "spacing": 30,
+                    "hideHead": false,
                     "hideTotal": false,
                     "hideFoot": false,
-                    "ename": "数据表格"
+                    "eachPageLabel": true,
+                    "headFirst": true,
+                    "footLast": true,
+                    "dynamicCols": true,
+                    "avgColsWidth": "percent",
+                    "columnsPrint": false,
+                    "hspace": 20,
+                    "rowsMax": 0,
+                    "singleRowScale": true,
+                    "ename": "数据表格",
+                    "animations": []
                 }
             },
             {
                 "id": "e_59",
                 "type": "pager",
+                "unit": "px",
                 "props": {
-                    "ext": {
-                        "total": "Y",
-                        "current": "X"
-                    },
                     "x": 491,
                     "y": 1095,
                     "width": 300,
                     "height": 25,
+                    "alpha": 1,
                     "rotate": 0,
+                    "print": "each",
                     "text": "当前第${current}页，共${total}页",
+                    "match": true,
                     "size": 14,
                     "font": "tahoma",
-                    "alpha": 1,
+                    "line": 1.5,
                     "gap": 0,
                     "background": "",
                     "color": "#000000",
@@ -993,26 +1027,30 @@
                     "styleStrike": false,
                     "hpos": "flex-end",
                     "vpos": "flex-end",
-                    "ename": "页码器"
+                    "bwidth": 0,
+                    "bcolor": "#000",
+                    "btype": "solid",
+                    "ename": "页码器",
+                    "animations": []
                 }
             },
             {
                 "id": "e_60",
                 "type": "pager",
+                "unit": "px",
                 "props": {
-                    "ext": {
-                        "total": "Y",
-                        "current": "X"
-                    },
                     "x": 11,
                     "y": 7,
                     "width": 300,
                     "height": 25,
+                    "alpha": 1,
                     "rotate": 0,
+                    "print": "each",
                     "text": "当前第${current}页，共${total}页",
+                    "match": true,
                     "size": 14,
                     "font": "tahoma",
-                    "alpha": 1,
+                    "line": 1.5,
                     "gap": 0,
                     "background": "",
                     "color": "#000000",
@@ -1022,7 +1060,11 @@
                     "styleStrike": false,
                     "hpos": "flex-start",
                     "vpos": "flex-start",
-                    "ename": "页码器"
+                    "bwidth": 0,
+                    "bcolor": "#000",
+                    "btype": "solid",
+                    "ename": "页码器",
+                    "animations": []
                 }
             }
         ]

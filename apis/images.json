@@ -36,6 +36,14 @@
             {
                 "src": "https://cdn-icons-png.flaticon.com/128/8914/8914686.png",
                 "title": "环保"
+            },
+            {
+                "src": "https://cdn-icons-png.flaticon.com/128/272/272340.png",
+                "title": "危险"
+            },
+            {
+                "src": "https://cdn-icons-png.flaticon.com/128/1008/1008928.png",
+                "title": "危险"
             }
         ],
         "total": 100000

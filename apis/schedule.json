@@ -37,7 +37,8 @@
             "fri": "语文"
         },
         {
-            "$height": 2.8,
+            "$height": 10,
+            "$height-comment": "$height use px unit",
             "$colspans": {
                 "0": 7
             },

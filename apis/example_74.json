@@ -1,0 +1,55 @@
+{
+    "data": {
+        "unit": "mm",
+        "xs": [],
+        "ys": [],
+        "groups": [],
+        "page": {
+            "viewer": "default",
+            "width": 209.815,
+            "height": 296.863,
+            "pages": 1,
+            "scale": "auto",
+            "update": true,
+            "updateInterval": 1,
+            "radius": "0 0 0 0/0 0 0 0",
+            "xOffset": 0,
+            "yOffset": 0,
+            "copies": 1,
+            "blank": "drop",
+            "labelCol": 1,
+            "labelGap": 2.646,
+            "font": "unset",
+            "gridWidth": 5.292,
+            "gridHeight": 5.292,
+            "background": "#fff",
+            "backgroundRepeat": "no-repeat",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundX": 0,
+            "backgroundY": 0
+        },
+        "elements": [
+            {
+                "id": "rde_lwsupb2v414",
+                "type": "pdf",
+                "unit": "mm",
+                "props": {
+                    "x": 12.304,
+                    "y": 8.508,
+                    "width": 92.604,
+                    "height": 132.292,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "hspace": 5.292,
+                    "vspace": 5.292,
+                    "text": "https://mozilla.github.io/pdf.js/web/compressed.tracemonkey-pldi-09.pdf",
+                    "bind": {},
+                    "ename": "PDF文件-1",
+                    "animations": []
+                }
+            }
+        ]
+    },
+    "success": true
+}
