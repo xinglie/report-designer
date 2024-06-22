@@ -9,6 +9,7 @@
                     "use": "iot",
                     "width": 200,
                     "height": 200,
+                    "others": "rotate:number,fx:number,fy:number",
                     "ctrls": [
                         {
                             "x": 156,

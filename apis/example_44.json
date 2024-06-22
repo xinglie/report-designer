@@ -13,6 +13,7 @@
             "yOffset": 0,
             "title": "",
             "labelCol": 5,
+            "labelGap": 2.646,
             "background": "#fff",
             "backgroundImage": "",
             "preformat": false,

@@ -15,7 +15,8 @@
             "backgroundWidth": 0,
             "backgroundHeight": 0,
             "backgroundXOffset": 0,
-            "backgroundYOffset": 0
+            "backgroundYOffset": 0,
+            "font":"qtxtt"
         },
         "xs": [],
         "ys": [],

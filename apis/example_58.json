@@ -10,6 +10,8 @@
             "height": 296.3,
             "pages": 1,
             "scale": "auto",
+            "update": true,
+            "updateInterval": 1,
             "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
             "xOffset": 0,
             "yOffset": 0,
@@ -17,14 +19,15 @@
             "blank": "keep",
             "labelCol": 1,
             "labelGap": 2.65,
+            "font": "unset",
             "gridWidth": 5.29,
             "gridHeight": 5.29,
             "background": "#ffffff",
             "backgroundRepeat": "full",
             "backgroundWidth": 0,
             "backgroundHeight": 0,
-            "backgroundXOffset": 0,
-            "backgroundYOffset": 0
+            "backgroundX": 0,
+            "backgroundY": 0
         },
         "elements": [
             {
@@ -817,12 +820,13 @@
                     "width": 179.96,
                     "height": 47.9,
                     "alpha": 1,
+                    "bdeed": "collapse",
                     "bwidth": 0.26,
                     "btype": "solid",
                     "bcolor": "#000",
-                    "bdeed": "collapse",
                     "spacing": 7.94,
                     "hideHead": true,
+                    "hideTotal": false,
                     "hideFoot": true,
                     "eachPageLabel": true,
                     "headFirst": true,
@@ -830,7 +834,10 @@
                     "padRows": true,
                     "dynamicCols": true,
                     "avgColsWidth": "percent",
+                    "columnsPrint": false,
                     "hspace": 5.29,
+                    "rowsMax": 0,
+                    "singleRowScale": true,
                     "ename": "数据表格-1",
                     "animations": []
                 }

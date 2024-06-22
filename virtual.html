@@ -6,14 +6,14 @@
 </head>
 
 <body>
-    <script src="dist/viewer.js?v=202406081257"></script>
+    <script src="dist/viewer.js?v=202406221739"></script>
     <script>
         //--－start--- 以下是环境检测提示，方便有问题时自查，正式使用时建议删除
-        if(!CSS.supports('overflow:clip')||
-            !CSS.supports('inset:auto')){
-            console.error('unsupport browser: '+navigator.userAgent);
+        if (!CSS.supports('overflow:clip') ||
+            !CSS.supports('inset:auto')) {
+            console.error('unsupport browser: ' + navigator.userAgent);
         }
-        if(!location.protocol.startsWith('http')){
+        if (!location.protocol.startsWith('http')) {
             alert('请配置一个web服务器,通过http的方式访问~')
         }
         //---end---
@@ -45,47 +45,47 @@
             //如果begin data与end data中间的逻辑对你来讲看不懂，则这部分代码不写，程序也能正常工作
             //只是这样预览器内部要去获取相应的数据，渲染时间上就会稍长
             //即：要么外部提供好内部需要的所有数据，内部只做渲染，速度快。要么外部不提供数据，内部自动获取，则渲染用时会变长
-
             let vf = await viewer.install({
-                version:'202406081257',//安装预览器，如果在其它代码中使用，请确保不要反复安装
-                use: 'default',//预览器内置了 试卷(exam) IoT(iot) 流式分页(stack) 标签(label) 静态分页(default) 五种预览，这里使用 静态分页(default) 进行内容渲染
+                version:'202406221739',//安装预览器，如果在其它代码中使用，请确保不要反复安装
+                use: 'default',//预览器内置了 IoT(iot) 流式分页(stack) 标签(label) 静态分页(default)　大屏看板(board) 五种预览，这里使用 静态分页(default) 进行内容渲染。另外获取board及iot的HTML是无意义的，所以当use是这2种类型时，是拿不到任何返回数据的
+                getFontFaceUrl: './apis/fontface.json',//如果在设计的时候使用了自定义字体，则这里一定要配置相应的字体接口，如果设计时未使用自定义字体则不需要配置。注意，当有自定义字体时，通常获得的样式中要包含字体文件，会比较大，这取决于字体文件的大小
                 latent: true,//一定要指定隐藏渲染
             });
-            let max = personData.data.length,
-                start = 0,
-                fetchOnce = 80;
-            while (1) {//可循环多次获取
-                if (start >= max) {
-                    break;
-                }
-                data['apis/person.json'] = personData.data.slice(start, start + fetchOnce);
-                start += fetchOnce;
-                let renderData = await vf.getHTML({ stage, data });//预览器会根据stage模板和提供的data数据返回相应的页面内容
-                console.log(renderData);
-            }
-            //renderData中包含styles数组，这个是页面中使用到的样式，pages则是分好页的每一页对应的html
-            //以下以lodop打印示范如何使用renderData
-            //从设计器保存的stage对象中拿出页面大小及单位数据
+            let renderData = await vf.getHTML({ stage, data, pageShadow: true });//预览器会根据stage模板和提供的data数据返回相应的页面内容 ，其中pageShadow用来控制生成的页面是否带阴影，如果不需要阴影，则可以配置pageShadow: false
+            viewer.uninstall(); //如果在代码中使用，请根据情况进行使用后的销毁处理
+
+            /* viewer在install后，可反复多次传入新的数据调用getHTML方法获取相应的样式和分页HTML。只有您确定不再需要时，再调用uninstall卸载即可。并不需要每次调用前install，调用后uninstall*/
+
+            console.log(renderData);
             let { page: { width, height }, unit } = stage;
             //需要注意的是report designer提供了8种单位，而这些单位并不一定被其它程序支持，这里不再处理单位转换的事情，仅跑通流程。
             if (unit != 'px') {//
                 console.error('非px单位需要转换!!');
             }
+            let allStyles = [];
+            for (let style of renderData.styles) {
+                allStyles.push(style);
+            }
+            let pageStyle = allStyles.join('');//把所有样式拼接到一起。
+
+            //以下是测试获取的样式和分页是否正确，把下面这个testHTML字符串内容保存成html文件查看效果
+            /***begin****/
+            //注意html文件最前面的<!DOCTYPE html>声明一定要有~
+            let testHTML = `<!DOCTYPE html><html><head><meta charset="utf-8"/>${pageStyle}</head><body>${renderData.pages.join('')}</body></html>`;
+            console.log(testHTML);
+            window.$testHTML = testHTML;
+            /***end****/
+
+            //以下是测试LODOP分页打印
             //尺寸+1防止ld自动分页
             // LODOP.SET_PRINT_PAGESIZE(0, (width + 1) + 'px', (height + 1) + 'px', 'report-designer');
             // LODOP.SET_PRINT_MODE("POS_BASEON_PAPER", true);
-            // let allStyles = [];
-            // for(let style of renderData.styles){
-            //   console.log(style);
-            //   allStyles.push(style);
-            // }
-            // let pageStyle = allStyles.join('');//把所有样式拼接到一起。
             // for (let page of renderData.pages){
             //   console.log(page);
             //   LODOP.NewPage();//开启新页面
-            //   LODOP.ADD_PRINT_HTM(0, 0, width + 'px', height + 'px', allStyles+page);
+            //   LODOP.ADD_PRINT_HTM(0, 0, width + 'px', height + 'px', allStyles + page);
             // }
-            //viewer.destroy(); //如果在代码中使用，请根据情况进行使用后的销毁处理
+            // LODOP.PRINT()
         })();
     </script>
 </body>

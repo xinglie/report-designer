@@ -9,7 +9,7 @@
 <div id="app"></div>
 
 <body>
-    <script src="dist/viewer.js?v=202406081257"></script>
+    <script src="dist/viewer.js?v=202406221739"></script>
     <script type="module">
         let { searchParams } = new URL(location.href);
         let id = searchParams.get('pId');//从地址栏获取pId并返回回去，供父页面识别
@@ -24,7 +24,7 @@
             } else {
                 let latent = action != 'print';
                 let vf = await viewer.install({
-                    version:'202406081257',
+                    version:'202406221739',
                     use: page.viewer,
                     latent,
                 });
