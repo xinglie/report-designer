@@ -14,23 +14,18 @@
 ### 预览
 
 #### 通用设计器完整示例
-github 示例：https://xinglie.github.io/report-designer/index.html
-
-gitee 示例：https://xinglie.gitee.io/report-designer/index.html
+https://xinglie.github.io/report-designer/?from=readme
 
 
 #### 流式布局脚手架
 仓库：https://github.com/xinglie/page-designer
 
 #### 通用设计器嵌入普通页面
-github 示例：https://xinglie.github.io/report-designer/mini.html
+https://xinglie.github.io/report-designer/mini.html
 
-gitee 示例：https://xinglie.gitee.io/report-designer/mini.html
 
 #### 拆分、重组通用设计器
-github 示例：https://xinglie.github.io/report-designer/split.html
-
-gitee 示例：https://xinglie.gitee.io/report-designer/split.html
+https://xinglie.github.io/report-designer/split.html
 
 #### 嵌入普通页面技术点
 https://github.com/xinglie/report-designer/issues/32
