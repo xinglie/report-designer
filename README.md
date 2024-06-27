@@ -18,7 +18,7 @@ https://xinglie.github.io/report-designer/?from=readme
 
 
 #### 流式布局脚手架
-仓库：https://github.com/xinglie/page-designer
+https://github.com/xinglie/page-designer
 
 #### 通用设计器嵌入普通页面
 https://xinglie.github.io/report-designer/mini.html
