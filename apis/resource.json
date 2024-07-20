@@ -4,37 +4,120 @@
             "title": "IoT",
             "list": [
                 {
-                    "src": "//img.alicdn.com/imgextra/i3/O1CN01Ij3eRW1Djv2vCSwwp_!!6000000000253-2-tps-752-752.png",
+                    "src": "https://cdn-icons-png.flaticon.com/128/2373/2373464.png",
                     "name": "管道",
                     "use": "iot",
-                    "width": 200,
-                    "height": 200,
+                    "width": 128,
+                    "height": 128,
                     "others": "rotate:number,fx:number,fy:number",
                     "ctrls": [
                         {
-                            "x": 156,
-                            "y": 77
+                            "x": 98,
+                            "y": 2
                         },
                         {
-                            "x": 155,
-                            "y": 123
-                        },
-                        {
-                            "x": 44,
-                            "y": 122
+                            "x": 30,
+                            "y": 126
                         }
                     ]
                 },
                 {
-                    "src": "http://tqjimg.tianqistatic.com/toutiao/jianbihuadaquan/images/202003/06/ab83b8559e76554e.jpg",
-                    "name": "水龙头",
+                    "src": "https://cdn-icons-png.flaticon.com/128/2373/2373412.png",
+                    "name": "管道",
                     "use": "iot",
-                    "width": 200,
-                    "height": 112,
+                    "width": 128,
+                    "height": 128,
                     "ctrls": [
                         {
-                            "x": 149,
-                            "y": 58
+                            "x": 7,
+                            "y": 19
+                        },
+                        {
+                            "x": 122,
+                            "y": 104
+                        }
+                    ]
+                },
+                {
+                    "src": "https://cdn-icons-png.flaticon.com/128/2373/2373446.png",
+                    "name": "水龙头",
+                    "use": "iot",
+                    "width": 128,
+                    "height": 128,
+                    "ctrls": [
+                        {
+                            "x": 126,
+                            "y": 86
+                        }
+                    ]
+                },
+                {
+                    "src": "https://cdn-icons-png.flaticon.com/128/2373/2373460.png",
+                    "name": "管道",
+                    "use": "iot",
+                    "width": 128,
+                    "height": 128,
+                    "ctrls": [
+                        {
+                            "x": 24,
+                            "y": 105
+                        },
+                        {
+                            "x": 105,
+                            "y": 105
+                        }
+                    ]
+                },
+                {
+                    "src": "https://cdn-icons-png.flaticon.com/128/2373/2373396.png",
+                    "name": "管道",
+                    "use": "iot",
+                    "width": 128,
+                    "height": 128,
+                    "ctrls": [
+                        {
+                            "x": 2,
+                            "y": 64
+                        },
+                        {
+                            "x": 126,
+                            "y": 64
+                        },
+                        {
+                            "x": 64,
+                            "y": 2
+                        },
+                        {
+                            "x": 64,
+                            "y": 126
+                        }
+                    ]
+                },
+                {
+                    "src": "https://cdn-icons-png.flaticon.com/128/2373/2373377.png",
+                    "name": "水龙头",
+                    "use": "iot",
+                    "width": 128,
+                    "height": 128,
+                    "ctrls": [
+                        {
+                            "x": 2,
+                            "y": 66
+                        }
+                    ]
+                },{
+                    "src":"https://cdn-icons-png.flaticon.com/128/2373/2373516.png",
+                    "name": "压力表",
+                    "use": "iot",
+                    "width": 128,
+                    "height": 128,
+                    "ctrls": [
+                        {
+                            "x": 25,
+                            "y": 2
+                        },{
+                            "x": 25,
+                            "y": 126
                         }
                     ]
                 }

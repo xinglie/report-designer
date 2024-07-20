@@ -1,6 +1,9 @@
 {
     "data": {
         "unit": "mm",
+        "xs": [],
+        "ys": [],
+        "groups": [],
         "page": {
             "readonly": false,
             "viewer": "default",
@@ -361,7 +364,8 @@
                                     "textMatch": true,
                                     "bindName": "月份",
                                     "bindKey": "month",
-                                    "bTop": true
+                                    "bTop": true,
+                                    "bBottom": false
                                 },
                                 {
                                     "pBottom": 1.323,
@@ -384,7 +388,8 @@
                                     "elements": [],
                                     "bindName": "展现量",
                                     "bindKey": "f1",
-                                    "bTop": true
+                                    "bTop": true,
+                                    "bBottom": false
                                 },
                                 {
                                     "pBottom": 1.323,
@@ -407,7 +412,8 @@
                                     "elements": [],
                                     "bindName": "点击量",
                                     "bindKey": "f2",
-                                    "bTop": true
+                                    "bTop": true,
+                                    "bBottom": false
                                 },
                                 {
                                     "pBottom": 1.323,
@@ -430,7 +436,8 @@
                                     "elements": [],
                                     "bindName": "关注",
                                     "bindKey": "f4",
-                                    "bTop": true
+                                    "bTop": true,
+                                    "bBottom": false
                                 },
                                 {
                                     "height": 9.448,
@@ -453,7 +460,8 @@
                                     "textMatch": true,
                                     "bindName": "收藏量",
                                     "bindKey": "f5",
-                                    "bTop": true
+                                    "bTop": true,
+                                    "bBottom": false
                                 },
                                 {
                                     "height": 9.448,
@@ -476,7 +484,8 @@
                                     "textMatch": true,
                                     "bindName": "成交量",
                                     "bindKey": "f6",
-                                    "bTop": true
+                                    "bTop": true,
+                                    "bBottom": false
                                 }
                             ]
                         },
@@ -768,7 +777,7 @@
                     "x": 13.114,
                     "y": 13.366,
                     "width": 183.589,
-                    "height": 47.131,
+                    "height": 44.485,
                     "alpha": 1,
                     "bdeed": "collapse",
                     "bwidth": 0.265,
@@ -777,12 +786,13 @@
                     "spacing": 7.938,
                     "hideHead": true,
                     "hideTotal": true,
-                    "hideFoot": false,
+                    "hideFoot": true,
                     "eachPageLabel": true,
                     "headFirst": true,
                     "footLast": false,
                     "dynamicCols": true,
                     "avgColsWidth": "percent",
+                    "columnsPrint": false,
                     "hspace": 5.292,
                     "rowsMax": 0,
                     "singleRowScale": true,
