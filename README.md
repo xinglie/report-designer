@@ -17,22 +17,13 @@
 https://xinglie.github.io/report-designer/?from=readme
 
 
-#### 流式布局脚手架
-https://github.com/xinglie/page-designer
-
-#### 通用设计器嵌入普通页面
+#### 迷你模式
 https://xinglie.github.io/report-designer/mini.html
 
 
-#### 拆分、重组通用设计器
+#### 自由组装设计器
 https://xinglie.github.io/report-designer/split.html
 
-#### 嵌入普通页面技术点
-https://github.com/xinglie/report-designer/issues/32
-
-
-#### 打印设计器仓库
-https://github.com/xinglie/printer-editor
 
 
 ### 联系
