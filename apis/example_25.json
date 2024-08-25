@@ -10,6 +10,8 @@
             "height": 500,
             "pages": 3,
             "scale": "auto",
+            "update": true,
+            "updateInterval": 1,
             "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
             "xOffset": 0,
             "yOffset": 0,
@@ -19,16 +21,17 @@
             "labelGap": 10,
             "gridWidth": 20,
             "gridHeight": 20,
+            "font": "unset",
             "background": "#ffffff",
             "backgroundRepeat": "full",
             "backgroundWidth": 0,
             "backgroundHeight": 0,
-            "backgroundXOffset": 0,
-            "backgroundYOffset": 0
+            "backgroundX": 0,
+            "backgroundY": 0
         },
         "elements": [
             {
-                "id": "e_86",
+                "id": "4Y2Q2MDEzNjE_86",
                 "type": "batch-barcode",
                 "unit": "px",
                 "props": {
@@ -56,16 +59,17 @@
                     "linewidth": 0,
                     "textGap": 0,
                     "size": 10,
+                    "font": "OCR-B",
                     "textColor": "#000",
-                    "textPosition": "bottom",
                     "textMargin": 0,
+                    "textPosition": "bottom",
                     "textAlign": "center",
                     "ename": "批量条码",
                     "animations": []
                 }
             },
             {
-                "id": "e_93",
+                "id": "4Y2Q2MDEzNjE_93",
                 "type": "batch-qrcode",
                 "unit": "px",
                 "props": {
@@ -85,6 +89,7 @@
                             }
                         ]
                     },
+                    "format": "qrcode",
                     "colorDark": "#000",
                     "colorLight": "#fff",
                     "correctLevel": "H",
@@ -95,7 +100,7 @@
                 }
             },
             {
-                "id": "e_116",
+                "id": "4Y2Q2MDEzNjE_116",
                 "type": "batch-text",
                 "unit": "px",
                 "props": {
@@ -133,7 +138,7 @@
                 }
             },
             {
-                "id": "e_132",
+                "id": "4Y2Q2MDEzNjE_132",
                 "type": "hod-footer",
                 "unit": "px",
                 "props": {

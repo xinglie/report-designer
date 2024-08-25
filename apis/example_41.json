@@ -10,6 +10,8 @@
             "height": 400,
             "pages": 3,
             "scale": "auto",
+            "update": true,
+            "updateInterval": 1,
             "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
             "xOffset": 0,
             "yOffset": 0,
@@ -19,16 +21,17 @@
             "labelGap": 10,
             "gridWidth": 20,
             "gridHeight": 20,
+            "font": "unset",
             "background": "#ffffff",
             "backgroundRepeat": "full",
             "backgroundWidth": 0,
             "backgroundHeight": 0,
-            "backgroundXOffset": 0,
-            "backgroundYOffset": 0
+            "backgroundX": 0,
+            "backgroundY": 0
         },
         "elements": [
             {
-                "id": "e_87",
+                "id": "4Y2Q2MDEzNjE_87",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -63,7 +66,7 @@
                 }
             },
             {
-                "id": "e_197",
+                "id": "4Y2Q2MDEzNjE_197",
                 "type": "pager",
                 "unit": "px",
                 "props": {
@@ -91,7 +94,7 @@
                 }
             },
             {
-                "id": "e_217",
+                "id": "4Y2Q2MDEzNjE_217",
                 "type": "pager",
                 "unit": "px",
                 "props": {
@@ -119,7 +122,7 @@
                 }
             },
             {
-                "id": "e_252",
+                "id": "4Y2Q2MDEzNjE_252",
                 "type": "barcode",
                 "unit": "px",
                 "props": {
@@ -135,22 +138,22 @@
                         "fields": []
                     },
                     "format": "code128",
-                    "render": "img",
-                    "fill": "full",
                     "showText": true,
                     "color": "#000000",
-                    "font": "tahoma",
-                    "size": 20,
                     "linewidth": 0,
-                    "textPosition": "bottom",
+                    "textGap": 0,
+                    "size": 20,
+                    "font": "tahoma",
+                    "textColor": "#000",
                     "textMargin": 2,
+                    "textPosition": "bottom",
                     "textAlign": "center",
                     "ename": "条形码",
                     "animations": []
                 }
             },
             {
-                "id": "e_268",
+                "id": "4Y2Q2MDEzNjE_268",
                 "type": "image",
                 "unit": "px",
                 "props": {
@@ -173,7 +176,7 @@
                 }
             },
             {
-                "id": "e_334",
+                "id": "4Y2Q2MDEzNjE_334",
                 "type": "qrcode",
                 "unit": "px",
                 "props": {
@@ -188,6 +191,7 @@
                     "bind": {
                         "fields": []
                     },
+                    "format": "qrcode",
                     "colorDark": "#000000",
                     "colorLight": "#ffffff",
                     "correctLevel": "H",
@@ -196,7 +200,7 @@
                 }
             },
             {
-                "id": "rde_lhuc7psk147",
+                "id": "4Y2Q2MDEzNjE_lhuc7psk147",
                 "type": "data-dtable",
                 "unit": "px",
                 "props": {
@@ -595,10 +599,10 @@
                     "width": 472,
                     "height": 131,
                     "alpha": 1,
+                    "bdeed": "collapse",
                     "bwidth": 1,
                     "btype": "solid",
                     "bcolor": "#000",
-                    "bdeed": "collapse",
                     "spacing": 10,
                     "hideHead": true,
                     "hideTotal": true,
@@ -607,14 +611,17 @@
                     "headFirst": true,
                     "footLast": true,
                     "dynamicCols": true,
-                    "avgDynamicColsWidth": "percent",
+                    "avgColsWidth": "percent",
+                    "columnsPrint": false,
                     "hspace": 20,
+                    "rowsMax": 0,
+                    "singleRowScale": true,
                     "ename": "数据表格-1",
                     "animations": []
                 }
             },
             {
-                "id": "rde_lhuc7psk194",
+                "id": "4Y2Q2MDEzNjE_lhuc7psk194",
                 "type": "bwip",
                 "unit": "px",
                 "props": {
@@ -625,6 +632,8 @@
                     "alpha": 1,
                     "rotate": 0,
                     "bwipFormat": "ean5",
+                    "font": "OCR-B",
+                    "fontext": "OCR-A",
                     "bwipValue": "90200",
                     "bind": {},
                     "bwipParams": "includetext guardwhitespace",

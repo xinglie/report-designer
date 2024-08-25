@@ -1,29 +1,43 @@
 {
     "data": {
         "unit": "pc",
+        "xs": [],
+        "ys": [],
+        "groups": [],
         "page": {
             "readonly": false,
+            "viewer": "default",
             "width": 49.4375,
             "height": 70,
             "pages": 1,
+            "scale": "auto",
+            "update": true,
+            "updateInterval": 1,
+            "radius": "0 0 0 0/0 0 0 0",
             "xOffset": 0,
             "yOffset": 0,
-            "title": "",
+            "copies": 1,
+            "blank": "drop",
+            "labelCol": 1,
+            "labelGap": 0.625,
+            "gridWidth": 1.25,
+            "gridHeight": 1.25,
+            "font": "unset",
             "background": "#ffffff",
             "backgroundImage": "",
             "backgroundRepeat": "full",
             "backgroundWidth": 0,
             "backgroundHeight": 0,
-            "backgroundXOffset": 0,
-            "backgroundYOffset": 0
+            "backgroundX": 0,
+            "backgroundY": 0
         },
-        "groups": [],
         "elements": [
             {
-                "id": "rde_89",
+                "id": "4Y2Q2MDEzNjE_89",
                 "type": "data-dtable",
                 "unit": "pc",
                 "props": {
+                    "readonly": false,
                     "rows": [
                         {
                             "cols": [
@@ -505,22 +519,30 @@
                     },
                     "x": 3.78,
                     "y": 3.41,
-                    "width": 28.19,
-                    "height": 15.06,
+                    "width": 28.2,
+                    "height": 9.46,
                     "alpha": 1,
+                    "bdeed": "collapse",
                     "bwidth": 0.06,
                     "btype": "solid",
                     "bcolor": "#000000",
-                    "bdeed": "collapse",
                     "spacing": 1.88,
+                    "hideHead": true,
+                    "hideLabel": false,
+                    "hideTotal": true,
+                    "hideFoot": true,
+                    "eachPageLabel": true,
                     "headFirst": true,
                     "footLast": true,
-                    "hideHead": false,
-                    "hideLabel": false,
-                    "hideTotal": false,
-                    "hideFoot": false,
+                    "dynamicCols": true,
+                    "avgColsWidth": "percent",
+                    "columnsPrint": false,
+                    "hspace": 1.25,
+                    "rowsMax": 0,
+                    "singleRowScale": true,
                     "ename": "数据表格",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             }
         ]

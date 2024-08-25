@@ -40,7 +40,7 @@
         <div id="board"></div>
         <div id="iot"></div>
     </div>
-    <script src="dist/viewer.js?v=202408100942"></script>
+    <script src="dist/viewer.js?v=202408251032"></script>
     <script>
         //--－start--- 以下是环境检测提示，方便有问题时自查，正式使用时建议删除
         if(!CSS.supports('overflow:clip')||
@@ -640,7 +640,7 @@
                                 }
                             ]
                         },
-                        "options": "f:function(data,fields){\n    //data是绑定数据源的接口数据，fields是图表绑定了数据源中的哪些字段\n    //可以在绑定数据后，去掉下面的debugger前的注释查看相应的数据\n    //debugger\n    //下面返回的是echart完整的option配置\n    let value = 0;\n    if(fields &&\n       fields.length &&\n       data){\n        if(Array.isArray(data)&&\n           data.length){\n            data = data[0];\n        }\n        value = data[fields[0].key] || 0;\n    }\n    return {\n  tooltip: {\n    formatter: '{a} <br/>{b} : {c}%'\n  },\n  series: [\n    {\n      name: 'Pressure',\n      type: 'gauge',\n      progress: {\n        show: true\n      },\n      detail: {\n        valueAnimation: true,\n        formatter: '{value}'\n      },\n      data: [\n        {\n          value: value,\n          name: ''\n        }\n      ]\n    }\n  ]\n};\n}",
+                        "options": "f:function main(data,fields){\n    //data是绑定数据源的接口数据，fields是图表绑定了数据源中的哪些字段\n    //可以在绑定数据后，去掉下面的debugger前的注释查看相应的数据\n    //debugger\n    //下面返回的是echart完整的option配置\n    let value = 0;\n    if(fields &&\n       fields.length &&\n       data){\n        if(Array.isArray(data)&&\n           data.length){\n            data = data[0];\n        }\n        value = data[fields[0].key] || 0;\n    }\n    return {\n  tooltip: {\n    formatter: '{a} <br/>{b} : {c}%'\n  },\n  series: [\n    {\n      name: 'Pressure',\n      type: 'gauge',\n      progress: {\n        show: true\n      },\n      detail: {\n        valueAnimation: true,\n        formatter: '{value}'\n      },\n      data: [\n        {\n          value: value,\n          name: ''\n        }\n      ]\n    }\n  ]\n};\n}",
                         "ename": "仪表盘21",
                         "animations": []
                     }
@@ -667,7 +667,7 @@
                                 }
                             ]
                         },
-                        "options": "f:function(data, fields){\n    //data是绑定数据源的接口数据，fields是图表绑定了数据源中的哪些字段\n    //可以在绑定数据后，去掉下面的debugger前的注释查看相应的数据\n    //debugger\n    //下面返回的是echart完整的option配置\n   let value = [],xData=[];\n    if(fields &&\n       fields.length &&\n       data){\n      let chartData=data[fields[0].key];\n      for(let cd of chartData){\n        value.push(cd.value);\n        xData.push(cd.key);\n      }\n    }\n    return {\n      color:['#fff'],\n      xAxis: {\n        type: 'category',\n        data: xData,\n        axisLine: {\n          lineStyle: {\n            color: \"#fff\"\n          }\n        }\n      },\n      yAxis: {\n        min:0,\n        max:100,\n        type: 'value',\n        axisLine: {\n          lineStyle: {\n            color: \"#fff\"\n          }\n        }\n      },\n      series: [\n        {\n          data: value,\n          type: 'line'\n        }\n      ]\n    };\n}",
+                        "options": "f:function main(data, fields){\n    //data是绑定数据源的接口数据，fields是图表绑定了数据源中的哪些字段\n    //可以在绑定数据后，去掉下面的debugger前的注释查看相应的数据\n    //debugger\n    //下面返回的是echart完整的option配置\n   let value = [],xData=[];\n    if(fields &&\n       fields.length &&\n       data){\n      let chartData=data[fields[0].key];\n      for(let cd of chartData){\n        value.push(cd.value);\n        xData.push(cd.key);\n      }\n    }\n    return {\n      color:['#fff'],\n      xAxis: {\n        type: 'category',\n        data: xData,\n        axisLine: {\n          lineStyle: {\n            color: \"#fff\"\n          }\n        }\n      },\n      yAxis: {\n        min:0,\n        max:100,\n        type: 'value',\n        axisLine: {\n          lineStyle: {\n            color: \"#fff\"\n          }\n        }\n      },\n      series: [\n        {\n          data: value,\n          type: 'line'\n        }\n      ]\n    };\n}",
                         "ename": "ECharts1",
                         "animations": []
                     }
@@ -1068,7 +1068,7 @@
                                 }
                             ]
                         },
-                        "format": "f:/*\n    data是根据根据当前绑定的字段取到的数据\n    item是完整的单条数据对象\n    可以把下面的console前的注释去掉查看相应的数据\n*/\nfunction(data,item){\n    //console.log(data,item);\n    //return data+item.name;\n    return '阀门状态：'+(data==0?'关闭':'打开');\n}",
+                        "format": "f:/*\n    data是根据根据当前绑定的字段取到的数据\n    item是完整的单条数据对象\n    可以把下面的console前的注释去掉查看相应的数据\n*/\nfunction main(data,item){\n    //console.log(data,item);\n    //return data+item.name;\n    return '阀门状态：'+(data==0?'关闭':'打开');\n}",
                         "match": true,
                         "size": 14,
                         "font": "tahoma",

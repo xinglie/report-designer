@@ -1,97 +1,147 @@
 {
     "data": {
         "unit": "mm",
+        "xs": [],
+        "ys": [],
+        "groups": [],
         "page": {
             "readonly": false,
+            "viewer": "default",
             "width": 209.26,
             "height": 296.3,
             "pages": 1,
+            "scale": "auto",
+            "update": true,
+            "updateInterval": 1,
+            "radius": "0 0 0 0/0 0 0 0",
             "xOffset": 0,
             "yOffset": 0,
-            "title": "",
+            "copies": 1,
+            "blank": "drop",
+            "labelCol": 1,
+            "labelGap": 2.646,
+            "gridWidth": 5.292,
+            "gridHeight": 5.292,
+            "font": "unset",
             "background": "#fff",
             "backgroundImage": "",
             "backgroundRepeat": "full",
             "backgroundWidth": 0,
             "backgroundHeight": 0,
-            "backgroundXOffset": 0,
-            "backgroundYOffset": 0
+            "backgroundX": 0,
+            "backgroundY": 0
         },
-        "groups": [],
         "elements": [
             {
-                "id": "e_49",
+                "id": "4Y2Q2MDEzNjE_49",
                 "type": "line",
+                "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 5.55,
                     "y": 13.63,
                     "width": 52.92,
-                    "rotate": 0,
-                    "alpha": 1,
                     "height": 0.26,
-                    "linetype": "solid",
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "btype": "solid",
                     "color": "#000000",
                     "ename": "直线",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             },
             {
-                "id": "e_61",
+                "id": "4Y2Q2MDEzNjE_61",
                 "type": "rect",
+                "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 5.55,
                     "y": 19.58,
                     "width": 52.92,
                     "height": 26.46,
-                    "rotate": 0,
                     "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "bcolor": [
+                        "#000",
+                        "#000",
+                        "#000",
+                        "#000"
+                    ],
+                    "btype": [
+                        "solid",
+                        "solid",
+                        "solid",
+                        "solid"
+                    ],
+                    "bwidth": [
+                        0.265,
+                        0.265,
+                        0.265,
+                        0.265
+                    ],
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
                     "ename": "矩形",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             },
             {
-                "id": "e_72",
+                "id": "4Y2Q2MDEzNjE_72",
                 "type": "circle",
+                "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 5.55,
                     "y": 50.27,
                     "width": 39.69,
                     "height": 39.69,
-                    "rotate": 0,
                     "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
                     "bwidth": 0.26,
                     "btype": "solid",
                     "bcolor": "#000000",
                     "fillcolor": "",
                     "ename": "圆形",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             },
             {
-                "id": "e_76",
+                "id": "4Y2Q2MDEzNjE_76",
                 "type": "rod",
+                "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 5.55,
                     "y": 105.31,
                     "width": 105.83,
-                    "text": 105.83,
+                    "height": 3.7,
+                    "alpha": 1,
                     "rotate": 0,
+                    "text": 105.83,
                     "textRotate": 0,
                     "startBorder": true,
                     "endBorder": true,
-                    "alpha": 1,
-                    "height": 3.7,
-                    "linetype": "solid",
+                    "linewidth": 0.265,
+                    "btype": "solid",
                     "color": "#000000",
+                    "size": 3.704,
                     "ename": "标尺",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             },
             {
-                "id": "e_82",
+                "id": "4Y2Q2MDEzNjE_82",
                 "type": "clock",
+                "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 64.95,
                     "y": 6.35,
                     "width": 42.34,
@@ -101,18 +151,23 @@
                     "handleColor": "#ffffff",
                     "markColor": "#ffffff80",
                     "ename": "时钟",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             },
             {
-                "id": "e_92",
+                "id": "4Y2Q2MDEzNjE_92",
                 "type": "text",
+                "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 111.38,
                     "y": 7.55,
                     "width": 52.92,
                     "height": 6.61,
+                    "alpha": 1,
                     "rotate": 0,
+                    "print": "each",
                     "text": "",
                     "bind": {
                         "tag": "",
@@ -120,9 +175,10 @@
                         "fields": []
                     },
                     "format": "",
+                    "match": true,
                     "size": 3.7,
                     "font": "tahoma",
-                    "alpha": 1,
+                    "line": 1.5,
                     "gap": 0,
                     "background": "",
                     "color": "#000000",
@@ -133,20 +189,30 @@
                     "styleOverline": false,
                     "hpos": "flex-start",
                     "vpos": "flex-start",
+                    "bwidth": 0,
+                    "bcolor": "#000",
+                    "btype": "solid",
+                    "target": "tab",
+                    "winWidth": 132.292,
+                    "winHeight": 132.292,
                     "ename": "文本",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             },
             {
-                "id": "e_105",
+                "id": "4Y2Q2MDEzNjE_105",
                 "type": "image",
+                "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 111.38,
                     "y": 19.58,
                     "width": 52.92,
                     "height": 26.46,
-                    "rotate": 0,
                     "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
                     "webUrl": "",
                     "image": "",
                     "bind": {
@@ -156,20 +222,26 @@
                     },
                     "rotateX": false,
                     "rotateY": false,
+                    "target": "tab",
+                    "winWidth": 132.292,
+                    "winHeight": 132.292,
                     "ename": "图片",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             },
             {
-                "id": "e_112",
+                "id": "4Y2Q2MDEzNjE_112",
                 "type": "repeat",
+                "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 68.79,
                     "y": 48.69,
                     "width": 52.92,
                     "height": 26.46,
-                    "rotate": 0,
                     "alpha": 1,
+                    "rotate": 0,
                     "webUrl": "",
                     "image": "",
                     "bind": {
@@ -177,45 +249,57 @@
                         "id": "",
                         "fields": []
                     },
+                    "repeat": "repeat",
                     "imageWidth": 0,
                     "imageHeight": 0,
-                    "backgroundXOffset": 0,
-                    "backgroundYOffset": 0,
-                    "repeat": "repeat",
+                    "backgroundX": 0,
+                    "backgroundY": 0,
                     "ename": "平铺图",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             },
             {
-                "id": "e_116",
+                "id": "4Y2Q2MDEzNjE_116",
                 "type": "qrcode",
+                "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 134.41,
                     "y": 55.3,
                     "width": 39.69,
                     "height": 39.69,
-                    "rotate": 0,
                     "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
                     "text": "",
                     "bind": {
                         "tag": "",
                         "id": "",
                         "fields": []
                     },
+                    "format": "qrcode",
+                    "colorDark": "#000",
+                    "colorLight": "#fff",
+                    "correctLevel": "H",
                     "ename": "二维码",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             },
             {
-                "id": "e_121",
+                "id": "4Y2Q2MDEzNjE_121",
                 "type": "barcode",
+                "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 127.79,
                     "y": 98.42,
                     "width": 52.92,
                     "height": 21.17,
-                    "rotate": 0,
                     "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
                     "text": "",
                     "bind": {
                         "tag": "",
@@ -226,8 +310,16 @@
                     "showText": true,
                     "color": "#000000",
                     "linewidth": 0,
+                    "textGap": 0,
+                    "size": 10,
+                    "font": "OCR-B",
+                    "textColor": "#000",
+                    "textMargin": 0,
+                    "textPosition": "bottom",
+                    "textAlign": "center",
                     "ename": "条形码",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             }
         ]

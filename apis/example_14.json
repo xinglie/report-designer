@@ -1,58 +1,73 @@
 {
     "data": {
         "unit": "mm",
+        "xs": [],
+        "ys": [],
+        "groups": [],
         "page": {
             "readonly": false,
+            "viewer": "default",
             "width": 209.26,
             "height": 296.3,
             "pages": 1,
+            "scale": "auto",
+            "update": true,
+            "updateInterval": 1,
+            "radius": "0 0 0 0/0 0 0 0",
             "xOffset": 0,
             "yOffset": 0,
-            "title": "",
+            "copies": 1,
+            "blank": "drop",
+            "labelCol": 1,
+            "labelGap": 2.646,
+            "gridWidth": 5.292,
+            "gridHeight": 5.292,
+            "font": "unset",
             "background": "#ffffff",
             "backgroundImage": "",
             "backgroundRepeat": "full",
             "backgroundWidth": 0,
             "backgroundHeight": 0,
-            "backgroundXOffset": 0,
-            "backgroundYOffset": 0
+            "backgroundX": 0,
+            "backgroundY": 0
         },
-        "groups": [],
         "elements": [
             {
-                "id": "e_88",
+                "id": "4Y2Q2MDEzNjE_88",
                 "type": "svg/line",
                 "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 51.72,
                     "y": 64.29,
                     "width": 0,
                     "height": 26.45,
+                    "alpha": 1,
                     "ctrl1X": 51.72,
                     "ctrl1Y": 64.29,
                     "ctrl2X": 51.72,
                     "ctrl2Y": 90.74,
-                    "startArrow": false,
-                    "endArrow": false,
                     "linewidth": 0.26,
-                    "dash": 0,
-                    "alpha": 1,
                     "color": "#000000",
+                    "dash": 0,
                     "ename": "线段",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             },
             {
-                "id": "e_90",
+                "id": "4Y2Q2MDEzNjE_90",
                 "type": "image",
                 "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 112.57,
                     "y": 13.76,
                     "width": 0,
                     "height": 26.46,
-                    "rotate": 0,
                     "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
                     "webUrl": "",
                     "image": "",
                     "bind": {
@@ -62,21 +77,27 @@
                     },
                     "rotateX": false,
                     "rotateY": false,
+                    "target": "tab",
+                    "winWidth": 132.292,
+                    "winHeight": 132.292,
                     "ename": "图片",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             },
             {
-                "id": "e_128",
+                "id": "4Y2Q2MDEzNjE_128",
                 "type": "image",
                 "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 18.78,
                     "y": 23.28,
                     "width": 52.91,
                     "height": 0,
-                    "rotate": 0,
                     "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
                     "webUrl": "",
                     "image": "",
                     "bind": {
@@ -86,37 +107,63 @@
                     },
                     "rotateX": false,
                     "rotateY": false,
+                    "target": "tab",
+                    "winWidth": 132.292,
+                    "winHeight": 132.292,
                     "ename": "图片",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             },
             {
-                "id": "e_145",
+                "id": "4Y2Q2MDEzNjE_145",
                 "type": "rect",
                 "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 107.67,
                     "y": 75.13,
                     "width": 52.91,
                     "height": 0,
-                    "rotate": 0,
                     "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "bcolor": [
+                        "#000",
+                        "#000",
+                        "#000",
+                        "#000"
+                    ],
+                    "btype": [
+                        "solid",
+                        "solid",
+                        "solid",
+                        "solid"
+                    ],
+                    "bwidth": [
+                        0.265,
+                        0.265,
+                        0.265,
+                        0.265
+                    ],
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
                     "ename": "矩形",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             },
             {
-                "id": "e_157",
+                "id": "4Y2Q2MDEzNjE_157",
                 "type": "repeat",
                 "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 107.67,
                     "y": 103.18,
                     "width": 52.91,
                     "height": 26.46,
-                    "rotate": 0,
                     "alpha": 1,
+                    "rotate": 0,
                     "webUrl": "",
                     "image": "",
                     "bind": {
@@ -124,53 +171,57 @@
                         "id": "",
                         "fields": []
                     },
+                    "repeat": "repeat",
                     "imageWidth": 0,
                     "imageHeight": 0,
-                    "backgroundXOffset": 0,
-                    "backgroundYOffset": 0,
-                    "repeat": "repeat",
+                    "backgroundX": 0,
+                    "backgroundY": 0,
                     "ename": "背景图",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             },
             {
-                "id": "e_161",
+                "id": "4Y2Q2MDEzNjE_161",
                 "type": "line",
                 "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 139.15,
                     "y": 26.98,
                     "width": 52.91,
-                    "rotate": 0,
-                    "alpha": 1,
                     "height": 0.26,
-                    "linetype": "solid",
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "btype": "solid",
                     "color": "#000000",
                     "ename": "直线",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             },
             {
-                "id": "e_173",
+                "id": "4Y2Q2MDEzNjE_173",
                 "type": "svg/line",
                 "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 35.45,
                     "y": 103.17,
                     "width": 54.23,
                     "height": 0,
+                    "alpha": 1,
                     "ctrl1X": 35.45,
                     "ctrl1Y": 103.17,
                     "ctrl2X": 89.68,
                     "ctrl2Y": 103.17,
-                    "startArrow": false,
-                    "endArrow": false,
                     "linewidth": 0.26,
-                    "dash": 0,
-                    "alpha": 1,
                     "color": "#000000",
+                    "dash": 0,
                     "ename": "线段",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             }
         ]

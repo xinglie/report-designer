@@ -1,34 +1,50 @@
 {
     "data": {
         "unit": "mm",
+        "xs": [],
+        "ys": [],
+        "groups": [],
         "page": {
             "readonly": false,
+            "viewer": "default",
             "width": 209.26,
             "height": 296.3,
             "pages": 1,
+            "scale": "auto",
+            "update": true,
+            "updateInterval": 1,
+            "radius": "0 0 0 0/0 0 0 0",
             "xOffset": 0,
             "yOffset": 0,
-            "title": "",
+            "copies": 1,
+            "blank": "drop",
+            "labelCol": 1,
+            "labelGap": 2.646,
+            "gridWidth": 5.292,
+            "gridHeight": 5.292,
+            "font": "unset",
             "background": "#ffffff",
             "backgroundImage": "",
             "backgroundRepeat": "full",
             "backgroundWidth": 0,
             "backgroundHeight": 0,
-            "backgroundXOffset": 0,
-            "backgroundYOffset": 0
+            "backgroundX": 0,
+            "backgroundY": 0
         },
-        "groups": [],
         "elements": [
             {
-                "id": "e_129",
+                "id": "4Y2Q2MDEzNjE_129",
                 "type": "text",
                 "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 0,
                     "y": 18.12,
                     "width": 52.91,
                     "height": 6.61,
+                    "alpha": 1,
                     "rotate": 0,
+                    "print": "each",
                     "text": "",
                     "bind": {
                         "tag": "",
@@ -39,7 +55,7 @@
                     "match": false,
                     "size": 3.7,
                     "font": "tahoma",
-                    "alpha": 1,
+                    "line": 1.5,
                     "gap": 0,
                     "background": "",
                     "color": "#000000",
@@ -51,23 +67,29 @@
                     "hpos": "flex-start",
                     "vpos": "flex-start",
                     "bwidth": 0,
-                    "btype": "solid",
                     "bcolor": "#000000",
+                    "btype": "solid",
+                    "target": "tab",
+                    "winWidth": 132.292,
+                    "winHeight": 132.292,
                     "ename": "文本",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             },
             {
-                "id": "e_144",
+                "id": "4Y2Q2MDEzNjE_144",
                 "type": "image",
                 "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 61.38,
                     "y": 4.89,
                     "width": 52.91,
                     "height": 26.46,
-                    "rotate": 0,
                     "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
                     "webUrl": "",
                     "image": "",
                     "bind": {
@@ -77,21 +99,26 @@
                     },
                     "rotateX": false,
                     "rotateY": false,
+                    "target": "tab",
+                    "winWidth": 132.292,
+                    "winHeight": 132.292,
                     "ename": "图片",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             },
             {
-                "id": "e_150",
+                "id": "4Y2Q2MDEzNjE_150",
                 "type": "repeat",
                 "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 3.7,
                     "y": 45.24,
                     "width": 52.91,
                     "height": 26.46,
-                    "rotate": 0,
                     "alpha": 1,
+                    "rotate": 0,
                     "webUrl": "",
                     "image": "",
                     "bind": {
@@ -99,47 +126,57 @@
                         "id": "",
                         "fields": []
                     },
+                    "repeat": "repeat",
                     "imageWidth": 0,
                     "imageHeight": 0,
-                    "backgroundXOffset": 0,
-                    "backgroundYOffset": 0,
-                    "repeat": "repeat",
+                    "backgroundX": 0,
+                    "backgroundY": 0,
                     "ename": "背景图",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             },
             {
-                "id": "e_153",
+                "id": "4Y2Q2MDEzNjE_153",
                 "type": "qrcode",
                 "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 71.96,
                     "y": 25.39,
                     "width": 39.68,
                     "height": 39.68,
-                    "rotate": 0,
                     "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
                     "text": "",
                     "bind": {
                         "tag": "",
                         "id": "",
                         "fields": []
                     },
+                    "format": "qrcode",
+                    "colorDark": "#000",
+                    "colorLight": "#fff",
+                    "correctLevel": "H",
                     "ename": "二维码",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             },
             {
-                "id": "e_157",
+                "id": "4Y2Q2MDEzNjE_157",
                 "type": "barcode",
                 "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 118.78,
                     "y": 58.46,
                     "width": 52.91,
                     "height": 21.16,
-                    "rotate": 0,
                     "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
                     "text": "",
                     "bind": {
                         "tag": "",
@@ -150,21 +187,30 @@
                     "showText": true,
                     "color": "#000000",
                     "linewidth": 0,
+                    "textGap": 0,
+                    "size": 10,
+                    "font": "OCR-B",
+                    "textColor": "#000",
+                    "textMargin": 0,
+                    "textPosition": "bottom",
+                    "textAlign": "center",
                     "ename": "条形码",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             },
             {
-                "id": "e_172",
+                "id": "4Y2Q2MDEzNjE_172",
                 "type": "batch-barcode",
                 "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 30.15,
                     "y": 71.69,
                     "width": 52.91,
                     "height": 21.16,
-                    "rotate": 0,
                     "alpha": 1,
+                    "rotate": 0,
                     "bind": {
                         "tag": "",
                         "id": "",
@@ -176,41 +222,57 @@
                     "showText": true,
                     "color": "#000000",
                     "linewidth": 0,
+                    "textGap": 0,
+                    "size": 10,
+                    "font": "OCR-B",
+                    "textColor": "#000",
+                    "textMargin": 0,
+                    "textPosition": "bottom",
+                    "textAlign": "center",
                     "ename": "批量条码",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             },
             {
-                "id": "e_178",
+                "id": "4Y2Q2MDEzNjE_178",
                 "type": "batch-qrcode",
                 "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 101.06,
                     "y": 87.83,
                     "width": 39.68,
                     "height": 39.68,
-                    "rotate": 0,
                     "alpha": 1,
+                    "rotate": 0,
                     "bind": {
                         "tag": "",
                         "id": "",
                         "fields": []
                     },
+                    "format": "qrcode",
+                    "colorDark": "#000",
+                    "colorLight": "#fff",
+                    "correctLevel": "H",
                     "hspace": 7.94,
                     "vspace": 7.94,
                     "ename": "二维码",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             },
             {
-                "id": "e_181",
+                "id": "4Y2Q2MDEzNjE_181",
                 "type": "batch-text",
                 "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "x": 23.28,
                     "y": 114.68,
                     "width": 52.91,
                     "height": 6.61,
+                    "alpha": 1,
                     "rotate": 0,
                     "bind": {
                         "tag": "",
@@ -218,12 +280,12 @@
                         "fields": []
                     },
                     "format": "",
+                    "match": false,
                     "hspace": 7.94,
                     "vspace": 7.94,
-                    "match": false,
                     "size": 3.7,
                     "font": "tahoma",
-                    "alpha": 1,
+                    "line": 1.5,
                     "gap": 0,
                     "background": "",
                     "color": "#000000",
@@ -235,10 +297,11 @@
                     "hpos": "flex-start",
                     "vpos": "flex-start",
                     "bwidth": 0,
-                    "btype": "solid",
                     "bcolor": "#000000",
+                    "btype": "solid",
                     "ename": "批量文本",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             }
         ]

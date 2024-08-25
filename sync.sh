@@ -11,5 +11,6 @@ git co iot standalone.html
 git co iot split.html
 git co iot virtual.html
 git co iot proxy.html
+git co iot multiple.html
 git co iot apis/**
 git co iot CHANGELOG.md

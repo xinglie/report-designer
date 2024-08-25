@@ -10,6 +10,8 @@
             "height": 200,
             "pages": 1,
             "scale": "auto",
+            "update": true,
+            "updateInterval": 1,
             "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
             "xOffset": 0,
             "yOffset": 0,
@@ -19,16 +21,17 @@
             "labelGap": 2.65,
             "gridWidth": 5.29,
             "gridHeight": 5.29,
+            "font": "unset",
             "background": "#ffffff",
             "backgroundRepeat": "full",
             "backgroundWidth": 0,
             "backgroundHeight": 0,
-            "backgroundXOffset": 0,
-            "backgroundYOffset": 0
+            "backgroundX": 0,
+            "backgroundY": 0
         },
         "elements": [
             {
-                "id": "rde_75",
+                "id": "4Y2Q2MDEzNjE_75",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -43,6 +46,7 @@
                     "bind": {
                         "fields": []
                     },
+                    "match": true,
                     "size": 6.56,
                     "font": "tahoma",
                     "line": 1.5,
@@ -62,7 +66,7 @@
                 }
             },
             {
-                "id": "rde_76",
+                "id": "4Y2Q2MDEzNjE_76",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -77,6 +81,7 @@
                     "bind": {
                         "fields": []
                     },
+                    "match": true,
                     "size": 3.7,
                     "font": "tahoma",
                     "line": 1.5,
@@ -95,7 +100,7 @@
                 }
             },
             {
-                "id": "rde_77",
+                "id": "4Y2Q2MDEzNjE_77",
                 "type": "barcode",
                 "unit": "mm",
                 "props": {
@@ -113,17 +118,20 @@
                     "format": "code128",
                     "showText": true,
                     "color": "#000000",
-                    "size": 10,
                     "linewidth": 0,
-                    "textPosition": "bottom",
+                    "textGap": 0,
+                    "size": 10,
+                    "font": "OCR-B",
+                    "textColor": "#000",
                     "textMargin": 0,
+                    "textPosition": "bottom",
                     "textAlign": "center",
                     "ename": "条形码",
                     "animations": []
                 }
             },
             {
-                "id": "rde_95",
+                "id": "4Y2Q2MDEzNjE_95",
                 "type": "line",
                 "unit": "mm",
                 "props": {
@@ -141,7 +149,7 @@
                 }
             },
             {
-                "id": "rde_100",
+                "id": "4Y2Q2MDEzNjE_100",
                 "type": "line",
                 "unit": "mm",
                 "props": {
@@ -159,7 +167,7 @@
                 }
             },
             {
-                "id": "rde_103",
+                "id": "4Y2Q2MDEzNjE_103",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -174,6 +182,7 @@
                     "bind": {
                         "fields": []
                     },
+                    "match": true,
                     "size": 3.7,
                     "font": "tahoma",
                     "line": 1.5,
@@ -192,7 +201,7 @@
                 }
             },
             {
-                "id": "rde_118",
+                "id": "4Y2Q2MDEzNjE_118",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -207,6 +216,7 @@
                     "bind": {
                         "fields": []
                     },
+                    "match": true,
                     "size": 3.7,
                     "font": "tahoma",
                     "line": 1.5,
@@ -225,7 +235,7 @@
                 }
             },
             {
-                "id": "rde_121",
+                "id": "4Y2Q2MDEzNjE_121",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -240,6 +250,7 @@
                     "bind": {
                         "fields": []
                     },
+                    "match": true,
                     "size": 3.7,
                     "font": "tahoma",
                     "line": 1.5,
@@ -258,7 +269,7 @@
                 }
             },
             {
-                "id": "rde_125",
+                "id": "4Y2Q2MDEzNjE_125",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -273,6 +284,7 @@
                     "bind": {
                         "fields": []
                     },
+                    "match": true,
                     "size": 3.7,
                     "font": "tahoma",
                     "line": 1.5,
@@ -291,7 +303,7 @@
                 }
             },
             {
-                "id": "rde_131",
+                "id": "4Y2Q2MDEzNjE_131",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -306,6 +318,7 @@
                     "bind": {
                         "fields": []
                     },
+                    "match": true,
                     "size": 3.7,
                     "font": "tahoma",
                     "line": 1.5,
@@ -324,7 +337,7 @@
                 }
             },
             {
-                "id": "rde_138",
+                "id": "4Y2Q2MDEzNjE_138",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -339,6 +352,7 @@
                     "bind": {
                         "fields": []
                     },
+                    "match": true,
                     "size": 4.74,
                     "font": "tahoma",
                     "line": 1.5,
@@ -358,7 +372,7 @@
                 }
             },
             {
-                "id": "rde_143",
+                "id": "4Y2Q2MDEzNjE_143",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -373,6 +387,7 @@
                     "bind": {
                         "fields": []
                     },
+                    "match": true,
                     "size": 4.74,
                     "font": "tahoma",
                     "line": 1.5,
@@ -392,7 +407,7 @@
                 }
             },
             {
-                "id": "rde_146",
+                "id": "4Y2Q2MDEzNjE_146",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -407,6 +422,7 @@
                     "bind": {
                         "fields": []
                     },
+                    "match": true,
                     "size": 3.7,
                     "font": "tahoma",
                     "line": 1.5,
@@ -426,7 +442,7 @@
                 }
             },
             {
-                "id": "rde_152",
+                "id": "4Y2Q2MDEzNjE_152",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -441,6 +457,7 @@
                     "bind": {
                         "fields": []
                     },
+                    "match": true,
                     "size": 3.7,
                     "font": "tahoma",
                     "line": 1.5,
@@ -460,7 +477,7 @@
                 }
             },
             {
-                "id": "rde_158",
+                "id": "4Y2Q2MDEzNjE_158",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -475,6 +492,7 @@
                     "bind": {
                         "fields": []
                     },
+                    "match": true,
                     "size": 3.7,
                     "font": "tahoma",
                     "line": 1.5,
@@ -494,7 +512,7 @@
                 }
             },
             {
-                "id": "rde_161",
+                "id": "4Y2Q2MDEzNjE_161",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -509,6 +527,7 @@
                     "bind": {
                         "fields": []
                     },
+                    "match": true,
                     "size": 3.7,
                     "font": "tahoma",
                     "line": 1.5,
@@ -527,7 +546,7 @@
                 }
             },
             {
-                "id": "rde_184",
+                "id": "4Y2Q2MDEzNjE_184",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -542,6 +561,7 @@
                     "bind": {
                         "fields": []
                     },
+                    "match": true,
                     "size": 3.7,
                     "font": "tahoma",
                     "line": 1.5,
@@ -560,7 +580,7 @@
                 }
             },
             {
-                "id": "rde_190",
+                "id": "4Y2Q2MDEzNjE_190",
                 "type": "line",
                 "unit": "mm",
                 "props": {
@@ -578,7 +598,7 @@
                 }
             },
             {
-                "id": "rde_201",
+                "id": "4Y2Q2MDEzNjE_201",
                 "type": "barcode",
                 "unit": "mm",
                 "props": {
@@ -596,17 +616,20 @@
                     "format": "code128",
                     "showText": true,
                     "color": "#000000",
-                    "size": 10,
                     "linewidth": 0,
-                    "textPosition": "bottom",
+                    "textGap": 0,
+                    "size": 10,
+                    "font": "OCR-B",
+                    "textColor": "#000",
                     "textMargin": 0,
+                    "textPosition": "bottom",
                     "textAlign": "center",
                     "ename": "条形码",
                     "animations": []
                 }
             },
             {
-                "id": "rde_214",
+                "id": "4Y2Q2MDEzNjE_214",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -621,6 +644,7 @@
                     "bind": {
                         "fields": []
                     },
+                    "match": true,
                     "size": 3.7,
                     "font": "tahoma",
                     "line": 1.5,
@@ -639,7 +663,7 @@
                 }
             },
             {
-                "id": "rde_220",
+                "id": "4Y2Q2MDEzNjE_220",
                 "type": "line",
                 "unit": "mm",
                 "props": {
@@ -657,7 +681,7 @@
                 }
             },
             {
-                "id": "rde_223",
+                "id": "4Y2Q2MDEzNjE_223",
                 "type": "image",
                 "unit": "mm",
                 "props": {
@@ -680,7 +704,7 @@
                 }
             },
             {
-                "id": "rde_236",
+                "id": "4Y2Q2MDEzNjE_236",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -695,6 +719,7 @@
                     "bind": {
                         "fields": []
                     },
+                    "match": true,
                     "size": 3.7,
                     "font": "tahoma",
                     "line": 1.5,

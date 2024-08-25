@@ -1,35 +1,49 @@
 {
     "data": {
         "unit": "px",
+        "xs": [],
+        "ys": [],
+        "groups": [],
         "page": {
             "readonly": false,
+            "viewer": "default",
             "width": 791,
             "height": 1120,
             "pages": 1,
+            "scale": "auto",
+            "update": true,
+            "updateInterval": 1,
+            "radius": "0 0 0 0/0 0 0 0",
             "xOffset": 0,
             "yOffset": 0,
-            "title": "",
+            "copies": 1,
+            "blank": "drop",
+            "labelCol": 1,
+            "labelGap": 10,
+            "gridWidth": 20,
+            "gridHeight": 20,
+            "font": "unset",
             "background": "#ffffff",
             "backgroundImage": "",
             "backgroundRepeat": "full",
             "backgroundWidth": 0,
             "backgroundHeight": 0,
-            "backgroundXOffset": 0,
-            "backgroundYOffset": 0
+            "backgroundX": 0,
+            "backgroundY": 0
         },
-        "groups": [],
         "elements": [
             {
-                "id": "e_70",
+                "id": "4Y2Q2MDEzNjE_70",
                 "type": "batch-barcode",
                 "unit": "px",
                 "props": {
+                    "readonly": false,
                     "x": 88,
                     "y": 26,
                     "width": 195,
                     "height": 80,
-                    "rotate": 0,
                     "alpha": 1,
+                    "rotate": 0,
                     "bind": {
                         "tag": "apis/report.json",
                         "id": "2",
@@ -46,8 +60,16 @@
                     "showText": true,
                     "color": "#000000",
                     "linewidth": 0,
+                    "textGap": 0,
+                    "size": 10,
+                    "font": "OCR-B",
+                    "textColor": "#000",
+                    "textMargin": 0,
+                    "textPosition": "bottom",
+                    "textAlign": "center",
                     "ename": "批量条码",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             }
         ]

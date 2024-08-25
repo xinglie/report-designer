@@ -1,42 +1,44 @@
 {
     "data": {
         "unit": "cm",
+        "xs": [],
+        "ys": [],
+        "groups": [],
         "page": {
             "readonly": false,
+            "viewer": "label",
             "width": 8,
             "height": 4,
             "pages": 1,
             "scale": "auto",
-            "viewer": "label",
-            "labelCol": 2,
-            "copies": 1,
+            "update": true,
+            "updateInterval": 1,
+            "radius": "0 0 0 0/0 0 0 0",
             "xOffset": 0,
             "yOffset": 0,
-            "title": "",
+            "copies": 1,
+            "blank": "drop",
+            "labelCol": 2,
+            "labelGap": 0.2646,
+            "gridWidth": 0.5292,
+            "gridHeight": 0.5292,
+            "font": "unset",
             "background": "#ffffff",
             "backgroundImage": "",
             "preformat": false,
             "backgroundRepeat": "full",
             "backgroundWidth": 0,
             "backgroundHeight": 0,
-            "backgroundXOffset": 0,
-            "backgroundYOffset": 0
+            "backgroundX": 0,
+            "backgroundY": 0
         },
-        "groups": [],
         "elements": [
             {
-                "id": "rde_60",
+                "id": "4Y2Q2MDEzNjE_60",
                 "type": "number",
                 "unit": "cm",
                 "props": {
-                    "ext": {
-                        "type": "number",
-                        "pad": true,
-                        "fx": "GP",
-                        "step": 2,
-                        "start": 4,
-                        "reverse": true
-                    },
+                    "readonly": false,
                     "x": 1.354,
                     "y": 1.67,
                     "width": 5.292,
@@ -44,10 +46,18 @@
                     "alpha": 1,
                     "rotate": 0,
                     "text": "{#}_{#}",
+                    "type": "text",
+                    "rule": {
+                        "type": "number",
+                        "fx": "AP",
+                        "step": 1,
+                        "start": 1
+                    },
+                    "match": true,
                     "size": 0.37,
                     "font": "tahoma",
-                    "gap": 0,
                     "line": 1.5,
+                    "gap": 0,
                     "background": "",
                     "color": "#000",
                     "styleBold": false,
@@ -58,27 +68,25 @@
                     "hpos": "center",
                     "vpos": "center",
                     "bwidth": 0,
-                    "btype": "solid",
                     "bcolor": "#000",
+                    "btype": "solid",
+                    "qrcodeFormat": "qrcode",
+                    "qrcodeColorDark": "#000",
+                    "qrcodeColorLight": "#fff",
+                    "qrcodeCorrectLevel": "H",
                     "ename": "序号器",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             },
             {
-                "id": "rde_61",
+                "id": "4Y2Q2MDEzNjE_61",
                 "type": "number",
                 "unit": "cm",
                 "props": {
+                    "readonly": false,
                     "pinX": false,
                     "pinY": false,
-                    "ext": {
-                        "type": "number",
-                        "pad": true,
-                        "fx": "AP",
-                        "step": 3,
-                        "start": 10,
-                        "reverse": false
-                    },
                     "x": 1.354,
                     "y": 2.835,
                     "width": 5.292,
@@ -86,10 +94,18 @@
                     "alpha": 1,
                     "rotate": 0,
                     "text": "LABEL-{#}",
+                    "type": "text",
+                    "rule": {
+                        "type": "number",
+                        "fx": "AP",
+                        "step": 1,
+                        "start": 1
+                    },
+                    "match": true,
                     "size": 0.37,
                     "font": "tahoma",
-                    "gap": 0,
                     "line": 1.5,
+                    "gap": 0,
                     "background": "",
                     "color": "#000",
                     "styleBold": false,
@@ -100,17 +116,23 @@
                     "hpos": "center",
                     "vpos": "center",
                     "bwidth": 0,
-                    "btype": "solid",
                     "bcolor": "#000",
+                    "btype": "solid",
+                    "qrcodeFormat": "qrcode",
+                    "qrcodeColorDark": "#000",
+                    "qrcodeColorLight": "#fff",
+                    "qrcodeCorrectLevel": "H",
                     "ename": "序号器",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             },
             {
-                "id": "rde_62",
+                "id": "4Y2Q2MDEzNjE_62",
                 "type": "text",
                 "unit": "cm",
                 "props": {
+                    "readonly": false,
                     "x": 0.157,
                     "y": 0.285,
                     "width": 5.292,
@@ -131,13 +153,11 @@
                         ]
                     },
                     "format": "",
-                    "dynamicSize": false,
                     "match": false,
-                    "richtext": false,
                     "size": 0.37,
                     "font": "tahoma",
-                    "gap": 0,
                     "line": 1.5,
+                    "gap": 0,
                     "background": "",
                     "color": "#000",
                     "styleBold": false,
@@ -148,10 +168,14 @@
                     "hpos": "flex-start",
                     "vpos": "flex-start",
                     "bwidth": 0,
-                    "btype": "solid",
                     "bcolor": "#000",
+                    "btype": "solid",
+                    "target": "tab",
+                    "winWidth": 13.2292,
+                    "winHeight": 13.2292,
                     "ename": "文本",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             }
         ]

@@ -1,29 +1,48 @@
 {
     "data": {
         "unit": "px",
+        "xs": [],
+        "ys": [],
+        "groups": [],
         "page": {
             "readonly": false,
+            "viewer": "default",
             "width": 791,
             "height": 1120,
             "pages": 1,
+            "scale": "auto",
+            "update": true,
+            "updateInterval": 1,
+            "radius": "0 0 0 0/0 0 0 0",
             "xOffset": 0,
             "yOffset": 0,
-            "title": "",
+            "copies": 1,
+            "blank": "drop",
+            "labelCol": 1,
+            "labelGap": 10,
+            "gridWidth": 20,
+            "gridHeight": 20,
+            "font": "unset",
             "background": "#ffffff",
             "backgroundImage": "",
             "backgroundRepeat": "full",
             "backgroundWidth": 0,
             "backgroundHeight": 0,
-            "backgroundXOffset": 0,
-            "backgroundYOffset": 0
+            "backgroundX": 0,
+            "backgroundY": 0
         },
-        "groups": [],
         "elements": [
             {
-                "id": "e_303",
+                "id": "4Y2Q2MDEzNjE_303",
                 "type": "data-repeater",
                 "unit": "px",
                 "props": {
+                    "readonly": false,
+                    "bind": {
+                        "id": 3,
+                        "tag": "apis/person.json",
+                        "fields": []
+                    },
                     "rows": [
                         {
                             "height": 226,
@@ -32,16 +51,19 @@
                                     "width": 300,
                                     "elements": [
                                         {
-                                            "id": "e_307",
+                                            "id": "4Y2Q2MDEzNjE_307",
                                             "type": "qrcode",
                                             "unit": "px",
                                             "props": {
+                                                "readonly": false,
+                                                "full": false,
                                                 "x": 24,
                                                 "y": 50,
                                                 "width": 97,
                                                 "height": 97,
-                                                "rotate": 0,
                                                 "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
                                                 "text": "",
                                                 "bind": {
                                                     "tag": "apis/person.json",
@@ -53,23 +75,31 @@
                                                         }
                                                     ]
                                                 },
+                                                "format": "qrcode",
+                                                "colorDark": "#000",
+                                                "colorLight": "#fff",
+                                                "correctLevel": "H",
                                                 "ename": "二维码",
-                                                "locked": false
+                                                "locked": false,
+                                                "animations": []
                                             }
                                         },
                                         {
-                                            "id": "e_342",
+                                            "id": "4Y2Q2MDEzNjE_342",
                                             "type": "qrcode",
                                             "unit": "px",
                                             "props": {
+                                                "readonly": false,
                                                 "pinX": false,
                                                 "pinY": false,
+                                                "full": false,
                                                 "x": 153,
                                                 "y": 50,
                                                 "width": 97,
                                                 "height": 97,
-                                                "rotate": 0,
                                                 "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
                                                 "text": "",
                                                 "bind": {
                                                     "tag": "apis/person.json",
@@ -81,21 +111,29 @@
                                                         }
                                                     ]
                                                 },
+                                                "format": "qrcode",
+                                                "colorDark": "#000",
+                                                "colorLight": "#fff",
+                                                "correctLevel": "H",
                                                 "ename": "二维码",
-                                                "locked": false
+                                                "locked": false,
+                                                "animations": []
                                             }
                                         },
                                         {
-                                            "id": "e_348",
+                                            "id": "4Y2Q2MDEzNjE_348",
                                             "type": "barcode",
                                             "unit": "px",
                                             "props": {
+                                                "readonly": false,
+                                                "full": false,
                                                 "x": 24,
                                                 "y": 159,
                                                 "width": 226,
                                                 "height": 67,
-                                                "rotate": 0,
                                                 "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
                                                 "text": "",
                                                 "bind": {
                                                     "tag": "apis/person.json",
@@ -111,20 +149,32 @@
                                                 "showText": true,
                                                 "color": "#000000",
                                                 "linewidth": 0,
+                                                "textGap": 0,
+                                                "size": 10,
+                                                "font": "OCR-B",
+                                                "textColor": "#000",
+                                                "textMargin": 0,
+                                                "textPosition": "bottom",
+                                                "textAlign": "center",
                                                 "ename": "条形码",
-                                                "locked": false
+                                                "locked": false,
+                                                "animations": []
                                             }
                                         },
                                         {
-                                            "id": "e_368",
+                                            "id": "4Y2Q2MDEzNjE_368",
                                             "type": "text",
                                             "unit": "px",
                                             "props": {
+                                                "readonly": false,
+                                                "full": false,
                                                 "x": 24,
                                                 "y": 14,
                                                 "width": 200,
                                                 "height": 25,
+                                                "alpha": 1,
                                                 "rotate": 0,
+                                                "print": "each",
                                                 "text": "",
                                                 "bind": {
                                                     "tag": "apis/person.json",
@@ -140,7 +190,7 @@
                                                 "match": false,
                                                 "size": 14,
                                                 "font": "tahoma",
-                                                "alpha": 1,
+                                                "line": 1.5,
                                                 "gap": 0,
                                                 "background": "",
                                                 "color": "#000000",
@@ -152,10 +202,14 @@
                                                 "hpos": "flex-start",
                                                 "vpos": "flex-start",
                                                 "bwidth": 0,
-                                                "btype": "solid",
                                                 "bcolor": "#000000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 500,
+                                                "winHeight": 500,
                                                 "ename": "文本",
-                                                "locked": false
+                                                "locked": false,
+                                                "animations": []
                                             }
                                         }
                                     ],
@@ -187,15 +241,11 @@
                     "width": 300,
                     "height": 226,
                     "alpha": 1,
-                    "bind": {
-                        "id": 3,
-                        "tag": "apis/person.json",
-                        "fields": []
-                    },
                     "hspace": 20,
                     "vspace": 20,
                     "ename": "重复容器",
-                    "locked": false
+                    "locked": false,
+                    "animations": []
                 }
             }
         ]

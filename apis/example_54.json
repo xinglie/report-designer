@@ -10,6 +10,8 @@
             "height": 296.83,
             "pages": 2,
             "scale": "auto",
+            "update": true,
+            "updateInterval": 1,
             "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
             "xOffset": 0,
             "yOffset": 0,
@@ -19,16 +21,17 @@
             "labelGap": 2.65,
             "gridWidth": 5.29,
             "gridHeight": 5.29,
+            "font": "unset",
             "background": "#fff",
             "backgroundRepeat": "no-repeat",
             "backgroundWidth": 0,
             "backgroundHeight": 0,
-            "backgroundXOffset": 0,
-            "backgroundYOffset": 0
+            "backgroundX": 0,
+            "backgroundY": 0
         },
         "elements": [
             {
-                "id": "rde_lhpo5vzn324",
+                "id": "4Y2Q2MDEzNjE_lhpo5vzn324",
                 "type": "hod-header",
                 "unit": "mm",
                 "props": {
@@ -40,10 +43,11 @@
                                     "width": 209.79,
                                     "elements": [
                                         {
-                                            "id": "rde_ljo0c5hr142",
+                                            "id": "4Y2Q2MDEzNjE_ljo0c5hr142",
                                             "type": "pager",
                                             "unit": "mm",
                                             "props": {
+                                                "full": false,
                                                 "x": 156.87,
                                                 "y": 0,
                                                 "width": 52.92,
@@ -99,7 +103,7 @@
                 }
             },
             {
-                "id": "rde_lhpo5vzn163",
+                "id": "4Y2Q2MDEzNjE_lhpo5vzn163",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -141,7 +145,7 @@
                 }
             },
             {
-                "id": "rde_lhpo5vzn212",
+                "id": "4Y2Q2MDEzNjE_lhpo5vzn212",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -182,7 +186,7 @@
                 }
             },
             {
-                "id": "rde_lhpo5vzn260",
+                "id": "4Y2Q2MDEzNjE_lhpo5vzn260",
                 "type": "hod-footer",
                 "unit": "mm",
                 "props": {
@@ -194,10 +198,11 @@
                                     "width": 209.79,
                                     "elements": [
                                         {
-                                            "id": "rde_ljo0gf4n155",
+                                            "id": "4Y2Q2MDEzNjE_ljo0gf4n155",
                                             "type": "line",
                                             "unit": "mm",
                                             "props": {
+                                                "full": false,
                                                 "x": 19.4,
                                                 "y": 15.46,
                                                 "width": 52.92,
@@ -212,10 +217,11 @@
                                             }
                                         },
                                         {
-                                            "id": "rde_ljo0gf4n159",
+                                            "id": "4Y2Q2MDEzNjE_ljo0gf4n159",
                                             "type": "rect",
                                             "unit": "mm",
                                             "props": {
+                                                "full": false,
                                                 "x": 91.73,
                                                 "y": 2.23,
                                                 "width": 52.92,
@@ -247,10 +253,11 @@
                                             }
                                         },
                                         {
-                                            "id": "rde_ljo0gf4n170",
+                                            "id": "4Y2Q2MDEzNjE_ljo0gf4n170",
                                             "type": "circle",
                                             "unit": "mm",
                                             "props": {
+                                                "full": false,
                                                 "x": 164.06,
                                                 "y": 2.37,
                                                 "width": 26.33,
@@ -297,10 +304,14 @@
                 }
             },
             {
-                "id": "rde_lhpo5vzn460",
+                "id": "4Y2Q2MDEzNjE_lhpo5vzn460",
                 "type": "data-ftable",
                 "unit": "mm",
                 "props": {
+                    "bind": {
+                        "id": "3",
+                        "tag": "apis/person.json"
+                    },
                     "rows": [
                         {
                             "cols": [
@@ -342,10 +353,11 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "rde_lhuca9mt219",
+                                            "id": "4Y2Q2MDEzNjE_lhuca9mt219",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
+                                                "full": false,
                                                 "x": 0,
                                                 "y": 0.6,
                                                 "width": 38.22,
@@ -386,10 +398,11 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "rde_lhuca9mt281",
+                                            "id": "4Y2Q2MDEzNjE_lhuca9mt281",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
+                                                "full": false,
                                                 "x": 1.39,
                                                 "y": 0.6,
                                                 "width": 38.22,
@@ -435,10 +448,11 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "rde_lhpo5vzn464",
+                                            "id": "4Y2Q2MDEzNjE_lhpo5vzn464",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
+                                                "full": false,
                                                 "x": 0,
                                                 "y": 0.6,
                                                 "width": 38.09,
@@ -488,10 +502,11 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "rde_lhuca9mt305",
+                                            "id": "4Y2Q2MDEzNjE_lhuca9mt305",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
+                                                "full": false,
                                                 "x": 1.52,
                                                 "y": 0.6,
                                                 "width": 38.09,
@@ -591,14 +606,10 @@
                     "width": 79.62,
                     "height": 39.96,
                     "alpha": 1,
-                    "bind": {
-                        "id": "3",
-                        "tag": "apis/person.json"
-                    },
+                    "bdeed": "collapse",
                     "bwidth": 0.26,
                     "btype": "solid",
                     "bcolor": "#000",
-                    "bdeed": "collapse",
                     "spacing": 7.94,
                     "hideHead": true,
                     "hideTotal": true,
@@ -608,13 +619,15 @@
                     "match": true,
                     "dynamicCols": true,
                     "avgColsWidth": "percent",
+                    "columnsPrint": false,
                     "hspace": 5.29,
+                    "rowsMax": 0,
                     "ename": "自由表格-1",
                     "animations": []
                 }
             },
             {
-                "id": "rde_lhpo5vzn547",
+                "id": "4Y2Q2MDEzNjE_lhpo5vzn547",
                 "type": "data-ctable",
                 "unit": "mm",
                 "props": {
@@ -733,16 +746,18 @@
                     "height": 16.14,
                     "alpha": 1,
                     "rotate": 0,
+                    "hspace": 5.292,
+                    "vspace": 5.292,
+                    "bdeed": "collapse",
                     "bwidth": 0.26,
                     "btype": "solid",
                     "bcolor": "#000",
-                    "bdeed": "collapse",
                     "ename": "单元格-1",
                     "animations": []
                 }
             },
             {
-                "id": "rde_lhpo5vzn595",
+                "id": "4Y2Q2MDEzNjE_lhpo5vzn595",
                 "type": "data-dtable",
                 "unit": "mm",
                 "props": {
@@ -973,25 +988,31 @@
                     "x": 118.89,
                     "y": 37.13,
                     "width": 79.62,
-                    "height": 63.78,
+                    "height": 39.96,
                     "alpha": 1,
+                    "bdeed": "collapse",
                     "bwidth": 0.26,
                     "btype": "solid",
                     "bcolor": "#000",
-                    "bdeed": "collapse",
                     "spacing": 7.94,
+                    "hideHead": true,
+                    "hideTotal": true,
+                    "hideFoot": true,
                     "eachPageLabel": true,
                     "headFirst": true,
                     "footLast": true,
                     "dynamicCols": true,
                     "avgColsWidth": "percent",
+                    "columnsPrint": false,
                     "hspace": 5.29,
+                    "rowsMax": 0,
+                    "singleRowScale": true,
                     "ename": "数据表格-1",
                     "animations": []
                 }
             },
             {
-                "id": "rde_lhpo5vzn651",
+                "id": "4Y2Q2MDEzNjE_lhpo5vzn651",
                 "type": "bwip",
                 "unit": "mm",
                 "props": {
@@ -1002,6 +1023,8 @@
                     "alpha": 1,
                     "rotate": 0,
                     "bwipFormat": "ean5",
+                    "font": "OCR-B",
+                    "fontext": "OCR-A",
                     "bwipValue": "90200",
                     "bind": {},
                     "bwipParams": "includetext guardwhitespace",
@@ -1010,7 +1033,7 @@
                 }
             },
             {
-                "id": "rde_lhuca9mt137",
+                "id": "4Y2Q2MDEzNjE_lhuca9mt137",
                 "type": "rect",
                 "unit": "mm",
                 "props": {
@@ -1045,7 +1068,7 @@
                 }
             },
             {
-                "id": "rde_ljo0c5hr219",
+                "id": "4Y2Q2MDEzNjE_ljo0c5hr219",
                 "type": "data-dtable",
                 "unit": "mm",
                 "props": {
@@ -1276,25 +1299,31 @@
                     "x": 9.09,
                     "y": 324.85,
                     "width": 79.62,
-                    "height": 63.78,
+                    "height": 39.96,
                     "alpha": 1,
+                    "bdeed": "collapse",
                     "bwidth": 0.26,
                     "btype": "solid",
                     "bcolor": "#000",
-                    "bdeed": "collapse",
                     "spacing": 7.94,
+                    "hideHead": true,
+                    "hideTotal": true,
+                    "hideFoot": true,
                     "eachPageLabel": true,
                     "headFirst": true,
                     "footLast": true,
                     "dynamicCols": true,
                     "avgColsWidth": "percent",
+                    "columnsPrint": false,
                     "hspace": 5.29,
+                    "rowsMax": 0,
+                    "singleRowScale": true,
                     "ename": "数据表格-2",
                     "animations": []
                 }
             },
             {
-                "id": "rde_ljo0c5hr222",
+                "id": "4Y2Q2MDEzNjE_ljo0c5hr222",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -1335,7 +1364,7 @@
                 }
             },
             {
-                "id": "rde_ljo0c5hr239",
+                "id": "4Y2Q2MDEzNjE_ljo0c5hr239",
                 "type": "data-dtable",
                 "unit": "mm",
                 "props": {
@@ -1734,10 +1763,10 @@
                     "width": 90.28,
                     "height": 39.96,
                     "alpha": 1,
+                    "bdeed": "collapse",
                     "bwidth": 0.26,
                     "btype": "solid",
                     "bcolor": "#000",
-                    "bdeed": "collapse",
                     "spacing": 7.94,
                     "hideHead": true,
                     "hideTotal": true,
@@ -1748,7 +1777,10 @@
                     "padRows": true,
                     "dynamicCols": true,
                     "avgColsWidth": "percent",
+                    "columnsPrint": false,
                     "hspace": 5.29,
+                    "rowsMax": 0,
+                    "singleRowScale": true,
                     "ename": "数据表格-3",
                     "animations": []
                 }
