@@ -30,7 +30,7 @@
         },
         "elements": [
             {
-                "id": "4Y2Q2MDEzNjE_logut5ub949",
+                "id": "rde_logut5ub949",
                 "type": "rect",
                 "unit": "mm",
                 "props": {
@@ -65,7 +65,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_logut5ub1022",
+                "id": "rde_logut5ub1022",
                 "type": "data-repeater",
                 "unit": "mm",
                 "props": {
@@ -77,7 +77,7 @@
                                     "width": 60.815,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_logut5ub1025",
+                                            "id": "rde_logut5ub1025",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {

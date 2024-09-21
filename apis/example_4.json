@@ -21,7 +21,7 @@
         "groups": [],
         "elements": [
             {
-                "id": "4Y2Q2MDEzNjE_353",
+                "id": "rde_353",
                 "type": "data-ftable",
                 "unit": "pc",
                 "props": {
@@ -39,7 +39,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_591",
+                                            "id": "rde_591",
                                             "type": "text",
                                             "unit": "pc",
                                             "props": {
@@ -94,7 +94,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_481",
+                                            "id": "rde_481",
                                             "type": "text",
                                             "unit": "pc",
                                             "props": {
@@ -144,7 +144,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_535",
+                                            "id": "rde_535",
                                             "type": "text",
                                             "unit": "pc",
                                             "props": {
@@ -196,7 +196,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_563",
+                                            "id": "rde_563",
                                             "type": "text",
                                             "unit": "pc",
                                             "props": {
@@ -253,7 +253,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_364",
+                                            "id": "rde_364",
                                             "type": "text",
                                             "unit": "pc",
                                             "props": {
@@ -308,7 +308,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_382",
+                                            "id": "rde_382",
                                             "type": "text",
                                             "unit": "pc",
                                             "props": {
@@ -363,7 +363,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_385",
+                                            "id": "rde_385",
                                             "type": "text",
                                             "unit": "pc",
                                             "props": {
@@ -460,7 +460,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_654",
+                                            "id": "rde_654",
                                             "type": "text",
                                             "unit": "pc",
                                             "props": {

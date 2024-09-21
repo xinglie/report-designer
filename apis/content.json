@@ -20,7 +20,7 @@
         "groups": [],
         "elements": [
             {
-                "id": "4Y2Q2MDEzNjE_335",
+                "id": "rde_335",
                 "type": "data-dtable",
                 "unit": "px",
                 "props": {
@@ -56,7 +56,7 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_336",
+                                            "id": "rde_336",
                                             "type": "data-ctable",
                                             "unit": "px",
                                             "props": {
@@ -209,7 +209,7 @@
                                             }
                                         },
                                         {
-                                            "id": "4Y2Q2MDEzNjE_386",
+                                            "id": "rde_386",
                                             "type": "text",
                                             "unit": "px",
                                             "props": {
@@ -588,7 +588,7 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_337",
+                                            "id": "rde_337",
                                             "type": "text",
                                             "unit": "px",
                                             "props": {

@@ -32,7 +32,7 @@
         },
         "elements": [
             {
-                "id": "4Y2Q2MDEzNjE_53",
+                "id": "rde_53",
                 "type": "image",
                 "unit": "px",
                 "props": {
@@ -60,7 +60,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_54",
+                "id": "rde_54",
                 "type": "repeat",
                 "unit": "px",
                 "props": {
@@ -87,7 +87,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_55",
+                "id": "rde_55",
                 "type": "barcode",
                 "unit": "px",
                 "props": {
@@ -121,7 +121,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_56",
+                "id": "rde_56",
                 "type": "hod-table",
                 "unit": "px",
                 "props": {
@@ -140,7 +140,7 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_57",
+                                            "id": "rde_57",
                                             "type": "text",
                                             "unit": "px",
                                             "props": {
@@ -196,7 +196,7 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_58",
+                                            "id": "rde_58",
                                             "type": "line",
                                             "unit": "px",
                                             "props": {
@@ -260,7 +260,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_105",
+                "id": "rde_105",
                 "type": "hod-hflex",
                 "unit": "px",
                 "props": {
@@ -272,7 +272,7 @@
                                     "width": 300,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_110",
+                                            "id": "rde_110",
                                             "type": "circle",
                                             "unit": "px",
                                             "props": {

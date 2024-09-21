@@ -18,7 +18,7 @@
         "groups": [],
         "elements": [
             {
-                "id": "4Y2Q2MDEzNjE_80",
+                "id": "rde_80",
                 "type": "data-dtable",
                 "props": {
                     "rows": [
@@ -53,7 +53,7 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_325",
+                                            "id": "rde_325",
                                             "type": "data-ctable",
                                             "props": {
                                                 "rows": [
@@ -542,7 +542,7 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_222",
+                                            "id": "rde_222",
                                             "type": "text",
                                             "props": {
                                                 "x": 32,

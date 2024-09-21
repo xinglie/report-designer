@@ -21,7 +21,7 @@
         "groups": [],
         "elements": [
             {
-                "id": "4Y2Q2MDEzNjE_49",
+                "id": "rde_49",
                 "type": "pager",
                 "unit": "pc",
                 "props": {
@@ -52,7 +52,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_50",
+                "id": "rde_50",
                 "type": "pager",
                 "unit": "pc",
                 "props": {
@@ -83,7 +83,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_99",
+                "id": "rde_99",
                 "type": "data-dtable",
                 "unit": "pc",
                 "props": {

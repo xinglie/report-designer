@@ -23,7 +23,7 @@
         "groups": [],
         "elements": [
             {
-                "id": "4Y2Q2MDEzNjE_101",
+                "id": "rde_101",
                 "type": "html",
                 "unit": "mm",
                 "props": {
@@ -56,7 +56,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_102",
+                "id": "rde_102",
                 "type": "hod-footer",
                 "unit": "mm",
                 "props": {
@@ -70,7 +70,7 @@
                                     "width": 211.64,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_103",
+                                            "id": "rde_103",
                                             "type": "pager",
                                             "unit": "mm",
                                             "props": {

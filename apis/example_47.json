@@ -34,7 +34,7 @@
         },
         "elements": [
             {
-                "id": "4Y2Q2MDEzNjE_142",
+                "id": "rde_142",
                 "type": "svg/heart",
                 "unit": "px",
                 "props": {
@@ -62,7 +62,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_106",
+                "id": "rde_106",
                 "type": "line",
                 "unit": "px",
                 "props": {
@@ -92,7 +92,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_107",
+                "id": "rde_107",
                 "type": "rect",
                 "unit": "px",
                 "props": {
@@ -139,7 +139,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_108",
+                "id": "rde_108",
                 "type": "circle",
                 "unit": "px",
                 "props": {
@@ -180,7 +180,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_109",
+                "id": "rde_109",
                 "type": "line",
                 "unit": "px",
                 "props": {
@@ -212,7 +212,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_110",
+                "id": "rde_110",
                 "type": "rect",
                 "unit": "px",
                 "props": {
@@ -261,7 +261,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_111",
+                "id": "rde_111",
                 "type": "circle",
                 "unit": "px",
                 "props": {
@@ -304,7 +304,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_144",
+                "id": "rde_144",
                 "type": "rect",
                 "unit": "px",
                 "props": {

@@ -29,7 +29,7 @@
         },
         "elements": [
             {
-                "id": "4Y2Q2MDEzNjE_lmowjlsk120",
+                "id": "rde_lmowjlsk120",
                 "type": "hod-table",
                 "unit": "mm",
                 "props": {
@@ -47,7 +47,7 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_lmowjlsk140",
+                                            "id": "rde_lmowjlsk140",
                                             "type": "hod-hflex",
                                             "unit": "mm",
                                             "props": {
@@ -59,7 +59,7 @@
                                                                 "width": 79.38,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "4Y2Q2MDEzNjE_lmowjlsk191",
+                                                                        "id": "rde_lmowjlsk191",
                                                                         "type": "hod-hflex",
                                                                         "unit": "mm",
                                                                         "props": {
@@ -71,7 +71,7 @@
                                                                                             "width": 68.78,
                                                                                             "elements": [
                                                                                                 {
-                                                                                                    "id": "4Y2Q2MDEzNjE_lmowjlsk214",
+                                                                                                    "id": "rde_lmowjlsk214",
                                                                                                     "type": "line",
                                                                                                     "unit": "mm",
                                                                                                     "props": {
@@ -167,7 +167,7 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_lmowjlsk234",
+                                            "id": "rde_lmowjlsk234",
                                             "type": "hod-vflex",
                                             "unit": "mm",
                                             "props": {
@@ -179,7 +179,7 @@
                                                                 "height": 79.38,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "4Y2Q2MDEzNjE_lmowjlsk255",
+                                                                        "id": "rde_lmowjlsk255",
                                                                         "type": "hod-vflex",
                                                                         "unit": "mm",
                                                                         "props": {
@@ -191,7 +191,7 @@
                                                                                             "height": 68.78,
                                                                                             "elements": [
                                                                                                 {
-                                                                                                    "id": "4Y2Q2MDEzNjE_lmowjlsk301",
+                                                                                                    "id": "rde_lmowjlsk301",
                                                                                                     "type": "rect",
                                                                                                     "unit": "mm",
                                                                                                     "props": {
@@ -308,7 +308,7 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_lmowjlsk314",
+                                            "id": "rde_lmowjlsk314",
                                             "type": "hod-table",
                                             "unit": "mm",
                                             "props": {
@@ -337,7 +337,7 @@
                                                                 "colspan": 1,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "4Y2Q2MDEzNjE_lmowjlsk332",
+                                                                        "id": "rde_lmowjlsk332",
                                                                         "type": "line",
                                                                         "unit": "mm",
                                                                         "props": {
@@ -382,7 +382,7 @@
                                                                 "bBottom": true,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "4Y2Q2MDEzNjE_lmowjlsk337",
+                                                                        "id": "rde_lmowjlsk337",
                                                                         "type": "circle",
                                                                         "unit": "mm",
                                                                         "props": {
@@ -472,7 +472,7 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_lmowjlsk358",
+                                            "id": "rde_lmowjlsk358",
                                             "type": "rect",
                                             "unit": "mm",
                                             "props": {
@@ -507,7 +507,7 @@
                                             }
                                         },
                                         {
-                                            "id": "4Y2Q2MDEzNjE_lmowjlsk370",
+                                            "id": "rde_lmowjlsk370",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -550,7 +550,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_lmowjlsk391",
+                                            "id": "rde_lmowjlsk391",
                                             "type": "circle",
                                             "unit": "mm",
                                             "props": {
@@ -569,7 +569,7 @@
                                             }
                                         },
                                         {
-                                            "id": "4Y2Q2MDEzNjE_lmowjlsk394",
+                                            "id": "rde_lmowjlsk394",
                                             "type": "hod-hflex",
                                             "unit": "mm",
                                             "props": {
@@ -581,7 +581,7 @@
                                                                 "width": 79.38,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "4Y2Q2MDEzNjE_lmowjlsk398",
+                                                                        "id": "rde_lmowjlsk398",
                                                                         "type": "text",
                                                                         "unit": "mm",
                                                                         "props": {

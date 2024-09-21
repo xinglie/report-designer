@@ -34,7 +34,7 @@
         },
         "elements": [
             {
-                "id": "4Y2Q2MDEzNjE_60",
+                "id": "rde_60",
                 "type": "number",
                 "unit": "cm",
                 "props": {
@@ -80,7 +80,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_61",
+                "id": "rde_61",
                 "type": "number",
                 "unit": "cm",
                 "props": {
@@ -128,7 +128,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_62",
+                "id": "rde_62",
                 "type": "text",
                 "unit": "cm",
                 "props": {

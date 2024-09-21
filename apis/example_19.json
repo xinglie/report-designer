@@ -33,7 +33,7 @@
         },
         "elements": [
             {
-                "id": "4Y2Q2MDEzNjE_49",
+                "id": "rde_49",
                 "type": "line",
                 "unit": "mm",
                 "props": {
@@ -53,7 +53,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_61",
+                "id": "rde_61",
                 "type": "rect",
                 "unit": "mm",
                 "props": {
@@ -90,7 +90,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_72",
+                "id": "rde_72",
                 "type": "circle",
                 "unit": "mm",
                 "props": {
@@ -112,7 +112,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_76",
+                "id": "rde_76",
                 "type": "rod",
                 "unit": "mm",
                 "props": {
@@ -137,7 +137,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_82",
+                "id": "rde_82",
                 "type": "clock",
                 "unit": "mm",
                 "props": {
@@ -156,7 +156,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_92",
+                "id": "rde_92",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -201,7 +201,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_105",
+                "id": "rde_105",
                 "type": "image",
                 "unit": "mm",
                 "props": {
@@ -231,7 +231,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_112",
+                "id": "rde_112",
                 "type": "repeat",
                 "unit": "mm",
                 "props": {
@@ -260,7 +260,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_116",
+                "id": "rde_116",
                 "type": "qrcode",
                 "unit": "mm",
                 "props": {
@@ -288,7 +288,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_121",
+                "id": "rde_121",
                 "type": "barcode",
                 "unit": "mm",
                 "props": {

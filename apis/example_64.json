@@ -30,7 +30,7 @@
         },
         "elements": [
             {
-                "id": "4Y2Q2MDEzNjE_loh07ahn126",
+                "id": "rde_loh07ahn126",
                 "type": "data-dtable",
                 "unit": "mm",
                 "props": {
@@ -330,7 +330,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_loh07ahn172",
+                "id": "rde_loh07ahn172",
                 "type": "rect",
                 "unit": "mm",
                 "props": {
@@ -365,7 +365,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_loh07ahn209",
+                "id": "rde_loh07ahn209",
                 "type": "line",
                 "unit": "mm",
                 "props": {

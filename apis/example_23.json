@@ -33,7 +33,7 @@
         },
         "elements": [
             {
-                "id": "4Y2Q2MDEzNjE_303",
+                "id": "rde_303",
                 "type": "data-repeater",
                 "unit": "px",
                 "props": {
@@ -51,7 +51,7 @@
                                     "width": 300,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_307",
+                                            "id": "rde_307",
                                             "type": "qrcode",
                                             "unit": "px",
                                             "props": {
@@ -85,7 +85,7 @@
                                             }
                                         },
                                         {
-                                            "id": "4Y2Q2MDEzNjE_342",
+                                            "id": "rde_342",
                                             "type": "qrcode",
                                             "unit": "px",
                                             "props": {
@@ -121,7 +121,7 @@
                                             }
                                         },
                                         {
-                                            "id": "4Y2Q2MDEzNjE_348",
+                                            "id": "rde_348",
                                             "type": "barcode",
                                             "unit": "px",
                                             "props": {
@@ -162,7 +162,7 @@
                                             }
                                         },
                                         {
-                                            "id": "4Y2Q2MDEzNjE_368",
+                                            "id": "rde_368",
                                             "type": "text",
                                             "unit": "px",
                                             "props": {

@@ -20,7 +20,7 @@
         "groups": [],
         "elements": [
             {
-                "id": "4Y2Q2MDEzNjE_754",
+                "id": "rde_754",
                 "type": "batch-text",
                 "unit": "px",
                 "props": {
@@ -64,7 +64,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_824",
+                "id": "rde_824",
                 "type": "batch-text",
                 "unit": "px",
                 "props": {
@@ -110,7 +110,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_833",
+                "id": "rde_833",
                 "type": "batch-text",
                 "unit": "px",
                 "props": {
@@ -156,7 +156,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_836",
+                "id": "rde_836",
                 "type": "batch-text",
                 "unit": "px",
                 "props": {

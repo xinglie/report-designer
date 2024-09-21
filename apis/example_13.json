@@ -33,7 +33,7 @@
         },
         "elements": [
             {
-                "id": "4Y2Q2MDEzNjE_129",
+                "id": "rde_129",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -78,7 +78,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_144",
+                "id": "rde_144",
                 "type": "image",
                 "unit": "mm",
                 "props": {
@@ -108,7 +108,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_150",
+                "id": "rde_150",
                 "type": "repeat",
                 "unit": "mm",
                 "props": {
@@ -137,7 +137,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_153",
+                "id": "rde_153",
                 "type": "qrcode",
                 "unit": "mm",
                 "props": {
@@ -165,7 +165,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_157",
+                "id": "rde_157",
                 "type": "barcode",
                 "unit": "mm",
                 "props": {
@@ -200,7 +200,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_172",
+                "id": "rde_172",
                 "type": "batch-barcode",
                 "unit": "mm",
                 "props": {
@@ -235,7 +235,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_178",
+                "id": "rde_178",
                 "type": "batch-qrcode",
                 "unit": "mm",
                 "props": {
@@ -263,7 +263,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_181",
+                "id": "rde_181",
                 "type": "batch-text",
                 "unit": "mm",
                 "props": {

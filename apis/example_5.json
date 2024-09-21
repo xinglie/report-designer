@@ -21,7 +21,7 @@
         "groups": [],
         "elements": [
             {
-                "id": "4Y2Q2MDEzNjE_141",
+                "id": "rde_141",
                 "type": "pager",
                 "unit": "pc",
                 "props": {
@@ -52,7 +52,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_142",
+                "id": "rde_142",
                 "type": "pager",
                 "unit": "pc",
                 "props": {
@@ -83,7 +83,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_190",
+                "id": "rde_190",
                 "type": "data-ftable",
                 "unit": "pc",
                 "props": {
@@ -150,7 +150,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_208",
+                                            "id": "rde_208",
                                             "type": "text",
                                             "unit": "pc",
                                             "props": {
@@ -205,7 +205,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_236",
+                                            "id": "rde_236",
                                             "type": "text",
                                             "unit": "pc",
                                             "props": {
@@ -260,7 +260,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_233",
+                                            "id": "rde_233",
                                             "type": "text",
                                             "unit": "pc",
                                             "props": {
@@ -315,7 +315,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_228",
+                                            "id": "rde_228",
                                             "type": "text",
                                             "unit": "pc",
                                             "props": {

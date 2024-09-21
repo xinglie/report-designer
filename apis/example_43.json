@@ -18,7 +18,7 @@
         "groups": [],
         "elements": [
             {
-                "id": "4Y2Q2MDEzNjE_133",
+                "id": "rde_133",
                 "type": "hod-header",
                 "props": {
                     "rows": [
@@ -29,7 +29,7 @@
                                     "width": 791,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_142",
+                                            "id": "rde_142",
                                             "type": "pager",
                                             "props": {
                                                 "ext": {},
@@ -87,7 +87,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_360",
+                "id": "rde_360",
                 "type": "hod-footer",
                 "props": {
                     "rows": [
@@ -98,7 +98,7 @@
                                     "width": 791,
                                     "elements": [
                                         {
-                                            "id": "4Y2Q2MDEzNjE_387",
+                                            "id": "rde_387",
                                             "type": "line",
                                             "props": {
                                                 "x": 44,
@@ -113,7 +113,7 @@
                                             }
                                         },
                                         {
-                                            "id": "4Y2Q2MDEzNjE_533",
+                                            "id": "rde_533",
                                             "type": "line",
                                             "props": {
                                                 "x": 451,
@@ -128,7 +128,7 @@
                                             }
                                         },
                                         {
-                                            "id": "4Y2Q2MDEzNjE_571",
+                                            "id": "rde_571",
                                             "type": "text",
                                             "props": {
                                                 "x": 273,
@@ -191,7 +191,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_607",
+                "id": "rde_607",
                 "type": "text",
                 "props": {
                     "x": 283,
@@ -222,7 +222,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_653",
+                "id": "rde_653",
                 "type": "image",
                 "props": {
                     "x": 266,
@@ -243,7 +243,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_691",
+                "id": "rde_691",
                 "type": "text",
                 "props": {
                     "x": 267,
@@ -274,7 +274,7 @@
                 }
             },
             {
-                "id": "4Y2Q2MDEzNjE_710",
+                "id": "rde_710",
                 "type": "data-dtable",
                 "props": {
                     "rows": [
