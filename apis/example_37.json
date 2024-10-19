@@ -244,7 +244,7 @@
                     "bwidth": 1,
                     "btype": "solid",
                     "bcolor": "#000000",
-                    "ename": "单元格"
+                    "name": "单元格"
                 }
             }
         ]

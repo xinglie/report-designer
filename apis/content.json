@@ -204,7 +204,7 @@
                                                 "btype": "solid",
                                                 "bcolor": "#000000",
                                                 "bdeed": "collapse",
-                                                "ename": "单元格",
+                                                "name": "单元格",
                                                 "locked": false
                                             }
                                         },
@@ -244,7 +244,7 @@
                                                 "bwidth": 0,
                                                 "btype": "solid",
                                                 "bcolor": "#000000",
-                                                "ename": "文本",
+                                                "name": "文本",
                                                 "locked": false
                                             }
                                         }
@@ -621,7 +621,7 @@
                                                 "bwidth": 0,
                                                 "btype": "solid",
                                                 "bcolor": "#000000",
-                                                "ename": "文本",
+                                                "name": "文本",
                                                 "locked": false
                                             }
                                         }
@@ -650,7 +650,7 @@
                     "hideLabel": false,
                     "hideTotal": false,
                     "hideFoot": false,
-                    "ename": "数据表格",
+                    "name": "数据表格",
                     "locked": false
                 }
             }

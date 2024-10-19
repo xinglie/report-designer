@@ -467,7 +467,7 @@
                     "avgDynamicColsWidth": "percent",
                     "columnsPrint": true,
                     "hspace": 5.29,
-                    "ename": "数据表格",
+                    "name": "数据表格",
                     "locked": false
                 }
             }

@@ -540,7 +540,7 @@
                     "hspace": 1.25,
                     "rowsMax": 0,
                     "singleRowScale": true,
-                    "ename": "数据表格",
+                    "name": "数据表格",
                     "locked": false,
                     "animations": []
                 }

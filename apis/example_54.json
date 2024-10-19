@@ -67,7 +67,7 @@
                                                 "bwidth": 0,
                                                 "bcolor": "#000",
                                                 "btype": "solid",
-                                                "ename": "页码器-1",
+                                                "name": "页码器-1",
                                                 "animations": []
                                             }
                                         }
@@ -98,7 +98,7 @@
                     "width": 209.79,
                     "height": 10.58,
                     "alpha": 1,
-                    "ename": "页头-1",
+                    "name": "页头-1",
                     "animations": []
                 }
             },
@@ -140,7 +140,7 @@
                     "target": "tab",
                     "winWidth": 132.28,
                     "winHeight": 132.28,
-                    "ename": "文本-1",
+                    "name": "文本-1",
                     "animations": []
                 }
             },
@@ -181,7 +181,7 @@
                     "target": "tab",
                     "winWidth": 132.28,
                     "winHeight": 132.28,
-                    "ename": "文本-2",
+                    "name": "文本-2",
                     "animations": []
                 }
             },
@@ -212,7 +212,7 @@
                                                 "print": "each",
                                                 "btype": "solid",
                                                 "color": "#000",
-                                                "ename": "直线-1",
+                                                "name": "直线-1",
                                                 "animations": []
                                             }
                                         },
@@ -248,7 +248,7 @@
                                                     0.26
                                                 ],
                                                 "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
-                                                "ename": "矩形-2",
+                                                "name": "矩形-2",
                                                 "animations": []
                                             }
                                         },
@@ -268,7 +268,7 @@
                                                 "bwidth": 0.26,
                                                 "btype": "solid",
                                                 "bcolor": "#000",
-                                                "ename": "圆形-1",
+                                                "name": "圆形-1",
                                                 "animations": []
                                             }
                                         }
@@ -299,7 +299,7 @@
                     "width": 209.79,
                     "height": 31.19,
                     "alpha": 1,
-                    "ename": "页脚-1",
+                    "name": "页脚-1",
                     "animations": []
                 }
             },
@@ -381,7 +381,7 @@
                                                 "target": "tab",
                                                 "winWidth": 132.28,
                                                 "winHeight": 132.28,
-                                                "ename": "文本-4",
+                                                "name": "文本-4",
                                                 "animations": []
                                             }
                                         }
@@ -426,7 +426,7 @@
                                                 "target": "tab",
                                                 "winWidth": 132.28,
                                                 "winHeight": 132.28,
-                                                "ename": "文本-5",
+                                                "name": "文本-5",
                                                 "animations": []
                                             }
                                         }
@@ -485,7 +485,7 @@
                                                 "target": "tab",
                                                 "winWidth": 132.28,
                                                 "winHeight": 132.28,
-                                                "ename": "文本-3",
+                                                "name": "文本-3",
                                                 "animations": []
                                             }
                                         }
@@ -539,7 +539,7 @@
                                                 "target": "tab",
                                                 "winWidth": 132.28,
                                                 "winHeight": 132.28,
-                                                "ename": "文本-6",
+                                                "name": "文本-6",
                                                 "animations": []
                                             }
                                         }
@@ -622,7 +622,7 @@
                     "columnsPrint": false,
                     "hspace": 5.29,
                     "rowsMax": 0,
-                    "ename": "自由表格-1",
+                    "name": "自由表格-1",
                     "animations": []
                 }
             },
@@ -752,7 +752,7 @@
                     "bwidth": 0.26,
                     "btype": "solid",
                     "bcolor": "#000",
-                    "ename": "单元格-1",
+                    "name": "单元格-1",
                     "animations": []
                 }
             },
@@ -1007,7 +1007,7 @@
                     "hspace": 5.29,
                     "rowsMax": 0,
                     "singleRowScale": true,
-                    "ename": "数据表格-1",
+                    "name": "数据表格-1",
                     "animations": []
                 }
             },
@@ -1028,7 +1028,7 @@
                     "bwipValue": "90200",
                     "bind": {},
                     "bwipParams": "includetext guardwhitespace",
-                    "ename": "BWIP-1",
+                    "name": "BWIP-1",
                     "animations": []
                 }
             },
@@ -1063,7 +1063,7 @@
                         0.26
                     ],
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
-                    "ename": "矩形-1",
+                    "name": "矩形-1",
                     "animations": []
                 }
             },
@@ -1318,7 +1318,7 @@
                     "hspace": 5.29,
                     "rowsMax": 0,
                     "singleRowScale": true,
-                    "ename": "数据表格-2",
+                    "name": "数据表格-2",
                     "animations": []
                 }
             },
@@ -1359,7 +1359,7 @@
                     "target": "tab",
                     "winWidth": 132.29,
                     "winHeight": 132.29,
-                    "ename": "文本-7",
+                    "name": "文本-7",
                     "animations": []
                 }
             },
@@ -1781,7 +1781,7 @@
                     "hspace": 5.29,
                     "rowsMax": 0,
                     "singleRowScale": true,
-                    "ename": "数据表格-3",
+                    "name": "数据表格-3",
                     "animations": []
                 }
             }

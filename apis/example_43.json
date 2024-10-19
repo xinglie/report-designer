@@ -51,7 +51,7 @@
                                                 "styleStrike": false,
                                                 "hpos": "flex-start",
                                                 "vpos": "flex-start",
-                                                "ename": "页码器"
+                                                "name": "页码器"
                                             }
                                         }
                                     ],
@@ -83,7 +83,7 @@
                     "width": 791,
                     "height": 23,
                     "alpha": 1,
-                    "ename": "页头"
+                    "name": "页头"
                 }
             },
             {
@@ -109,7 +109,7 @@
                                                 "height": 1,
                                                 "linetype": "solid",
                                                 "color": "#000000",
-                                                "ename": "直线"
+                                                "name": "直线"
                                             }
                                         },
                                         {
@@ -124,7 +124,7 @@
                                                 "height": 1,
                                                 "linetype": "solid",
                                                 "color": "#000000",
-                                                "ename": "直线"
+                                                "name": "直线"
                                             }
                                         },
                                         {
@@ -155,7 +155,7 @@
                                                 "styleStrike": false,
                                                 "hpos": "center",
                                                 "vpos": "center",
-                                                "ename": "文本"
+                                                "name": "文本"
                                             }
                                         }
                                     ],
@@ -187,7 +187,7 @@
                     "width": 791,
                     "height": 25,
                     "alpha": 1,
-                    "ename": "页脚"
+                    "name": "页脚"
                 }
             },
             {
@@ -218,7 +218,7 @@
                     "styleStrike": false,
                     "hpos": "center",
                     "vpos": "center",
-                    "ename": "文本"
+                    "name": "文本"
                 }
             },
             {
@@ -239,7 +239,7 @@
                     },
                     "rotateX": false,
                     "rotateY": false,
-                    "ename": "图片"
+                    "name": "图片"
                 }
             },
             {
@@ -270,7 +270,7 @@
                     "styleStrike": false,
                     "hpos": "center",
                     "vpos": "center",
-                    "ename": "文本"
+                    "name": "文本"
                 }
             },
             {
@@ -898,7 +898,7 @@
                     "hideTotal": true,
                     "hideFoot": true,
                     "hideHead": true,
-                    "ename": "数据表格"
+                    "name": "数据表格"
                 }
             }
         ]

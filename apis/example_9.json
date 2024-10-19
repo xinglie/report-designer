@@ -52,7 +52,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000000",
-                    "ename": "过程"
+                    "name": "过程"
                 }
             },
             {
@@ -78,7 +78,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000000",
-                    "ename": "判定"
+                    "name": "判定"
                 }
             },
             {
@@ -104,7 +104,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000000",
-                    "ename": "开始结束"
+                    "name": "开始结束"
                 }
             },
             {
@@ -130,7 +130,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000000",
-                    "ename": "数据"
+                    "name": "数据"
                 }
             },
             {
@@ -156,7 +156,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000000",
-                    "ename": "文档"
+                    "name": "文档"
                 }
             },
             {
@@ -182,7 +182,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000000",
-                    "ename": "子流程"
+                    "name": "子流程"
                 }
             },
             {
@@ -208,7 +208,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000000",
-                    "ename": "人工输入"
+                    "name": "人工输入"
                 }
             },
             {
@@ -234,7 +234,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000000",
-                    "ename": "页内引用"
+                    "name": "页内引用"
                 }
             },
             {
@@ -260,7 +260,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000000",
-                    "ename": "内部存储"
+                    "name": "内部存储"
                 }
             },
             {
@@ -286,7 +286,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000000",
-                    "ename": "卡片"
+                    "name": "卡片"
                 }
             },
             {
@@ -312,7 +312,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000000",
-                    "ename": "人工操作"
+                    "name": "人工操作"
                 }
             },
             {
@@ -338,7 +338,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000000",
-                    "ename": "并行模式"
+                    "name": "并行模式"
                 }
             },
             {
@@ -364,7 +364,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000000",
-                    "ename": "预备"
+                    "name": "预备"
                 }
             },
             {
@@ -390,7 +390,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000000",
-                    "ename": "数据库"
+                    "name": "数据库"
                 }
             },
             {
@@ -416,7 +416,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000000",
-                    "ename": "外部数据"
+                    "name": "外部数据"
                 }
             },
             {
@@ -442,7 +442,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000000",
-                    "ename": "队列数据"
+                    "name": "队列数据"
                 }
             },
             {
@@ -468,7 +468,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000000",
-                    "ename": "条带"
+                    "name": "条带"
                 }
             },
             {
@@ -494,7 +494,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000000",
-                    "ename": "跨页引用"
+                    "name": "跨页引用"
                 }
             },
             {
@@ -520,7 +520,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000000",
-                    "ename": "展示"
+                    "name": "展示"
                 }
             },
             {
@@ -546,7 +546,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000000",
-                    "ename": "循环限值"
+                    "name": "循环限值"
                 }
             },
             {
@@ -572,7 +572,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000000",
-                    "ename": "注释"
+                    "name": "注释"
                 }
             },
             {
@@ -603,7 +603,7 @@
                             "color": "#793f99"
                         }
                     ],
-                    "ename": "数据表1"
+                    "name": "数据表1"
                 }
             }
         ]

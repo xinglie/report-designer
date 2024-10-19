@@ -72,7 +72,7 @@
                     "target": "tab",
                     "winWidth": 132.292,
                     "winHeight": 132.292,
-                    "ename": "文本",
+                    "name": "文本",
                     "locked": false,
                     "animations": []
                 }
@@ -102,7 +102,7 @@
                     "target": "tab",
                     "winWidth": 132.292,
                     "winHeight": 132.292,
-                    "ename": "图片",
+                    "name": "图片",
                     "locked": false,
                     "animations": []
                 }
@@ -131,7 +131,7 @@
                     "imageHeight": 0,
                     "backgroundX": 0,
                     "backgroundY": 0,
-                    "ename": "背景图",
+                    "name": "背景图",
                     "locked": false,
                     "animations": []
                 }
@@ -159,7 +159,7 @@
                     "colorDark": "#000",
                     "colorLight": "#fff",
                     "correctLevel": "H",
-                    "ename": "二维码",
+                    "name": "二维码",
                     "locked": false,
                     "animations": []
                 }
@@ -194,7 +194,7 @@
                     "textMargin": 0,
                     "textPosition": "bottom",
                     "textAlign": "center",
-                    "ename": "条形码",
+                    "name": "条形码",
                     "locked": false,
                     "animations": []
                 }
@@ -229,7 +229,7 @@
                     "textMargin": 0,
                     "textPosition": "bottom",
                     "textAlign": "center",
-                    "ename": "批量条码",
+                    "name": "批量条码",
                     "locked": false,
                     "animations": []
                 }
@@ -257,7 +257,7 @@
                     "correctLevel": "H",
                     "hspace": 7.94,
                     "vspace": 7.94,
-                    "ename": "二维码",
+                    "name": "二维码",
                     "locked": false,
                     "animations": []
                 }
@@ -299,7 +299,7 @@
                     "bwidth": 0,
                     "bcolor": "#000000",
                     "btype": "solid",
-                    "ename": "批量文本",
+                    "name": "批量文本",
                     "locked": false,
                     "animations": []
                 }

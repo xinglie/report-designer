@@ -72,7 +72,7 @@
                                                 "bwidth": 0,
                                                 "btype": "solid",
                                                 "bcolor": "#000000",
-                                                "ename": "文本",
+                                                "name": "文本",
                                                 "locked": false
                                             }
                                         }
@@ -127,7 +127,7 @@
                                                 "bwidth": 0,
                                                 "btype": "solid",
                                                 "bcolor": "#000000",
-                                                "ename": "文本",
+                                                "name": "文本",
                                                 "locked": false
                                             }
                                         }
@@ -179,7 +179,7 @@
                                                 "bwidth": 0,
                                                 "btype": "solid",
                                                 "bcolor": "#000000",
-                                                "ename": "文本",
+                                                "name": "文本",
                                                 "locked": false
                                             }
                                         }
@@ -231,7 +231,7 @@
                                                 "bwidth": 0,
                                                 "btype": "solid",
                                                 "bcolor": "#000000",
-                                                "ename": "文本",
+                                                "name": "文本",
                                                 "locked": false
                                             }
                                         }
@@ -291,7 +291,7 @@
                                                 "bwidth": 0,
                                                 "btype": "solid",
                                                 "bcolor": "#000000",
-                                                "ename": "文本",
+                                                "name": "文本",
                                                 "locked": false
                                             }
                                         }
@@ -346,7 +346,7 @@
                                                 "bwidth": 0,
                                                 "btype": "solid",
                                                 "bcolor": "#000000",
-                                                "ename": "文本",
+                                                "name": "文本",
                                                 "locked": false
                                             }
                                         }
@@ -401,7 +401,7 @@
                                                 "bwidth": 0,
                                                 "btype": "solid",
                                                 "bcolor": "#000000",
-                                                "ename": "文本",
+                                                "name": "文本",
                                                 "locked": false
                                             }
                                         }
@@ -495,7 +495,7 @@
                                                 "bwidth": 0,
                                                 "btype": "solid",
                                                 "bcolor": "#000000",
-                                                "ename": "文本",
+                                                "name": "文本",
                                                 "locked": false
                                             }
                                         }
@@ -527,7 +527,7 @@
                     "match": true,
                     "dynamicCols": true,
                     "avgDynamicColsWidth": "percent",
-                    "ename": "自由表格",
+                    "name": "自由表格",
                     "locked": false
                 }
             }

@@ -3,6 +3,9 @@
         "unit": "px",
         "xs": [],
         "ys": [],
+        "panels": [
+            "animate"
+        ],
         "groups": [],
         "page": {
             "readonly": false,
@@ -46,7 +49,7 @@
                     "alpha": 1,
                     "rotate": 0,
                     "fill": "#fa742b",
-                    "ename": "心形",
+                    "name": "心形",
                     "locked": false,
                     "animations": [
                         {
@@ -76,7 +79,7 @@
                     "print": "each",
                     "btype": "solid",
                     "color": "#000",
-                    "ename": "直线",
+                    "name": "直线",
                     "locked": false,
                     "animations": [
                         {
@@ -123,7 +126,7 @@
                         1
                     ],
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
-                    "ename": "矩形",
+                    "name": "矩形",
                     "locked": false,
                     "animations": [
                         {
@@ -155,7 +158,7 @@
                     "btype": "solid",
                     "bcolor": "#000",
                     "fillcolor": "",
-                    "ename": "圆形",
+                    "name": "圆形",
                     "locked": false,
                     "animations": [
                         {
@@ -196,7 +199,7 @@
                     "print": "each",
                     "btype": "solid",
                     "color": "#000",
-                    "ename": "直线",
+                    "name": "直线",
                     "locked": false,
                     "animations": [
                         {
@@ -245,7 +248,7 @@
                         1
                     ],
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
-                    "ename": "矩形",
+                    "name": "矩形",
                     "locked": false,
                     "animations": [
                         {
@@ -279,7 +282,7 @@
                     "btype": "solid",
                     "bcolor": "#000",
                     "fillcolor": "",
-                    "ename": "圆形",
+                    "name": "圆形",
                     "locked": false,
                     "animations": [
                         {
@@ -335,7 +338,7 @@
                         1
                     ],
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
-                    "ename": "矩形",
+                    "name": "矩形",
                     "locked": false,
                     "animations": [
                         {

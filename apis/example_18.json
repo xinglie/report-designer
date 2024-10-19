@@ -67,7 +67,7 @@
                     "textMargin": 0,
                     "textPosition": "bottom",
                     "textAlign": "center",
-                    "ename": "批量条码",
+                    "name": "批量条码",
                     "locked": false,
                     "animations": []
                 }

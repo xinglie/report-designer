@@ -172,7 +172,7 @@
                     "btype": "solid",
                     "bcolor": "#000",
                     "bdeed": "collapse",
-                    "ename": "单元格",
+                    "name": "单元格",
                     "locked": false
                 }
             }

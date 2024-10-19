@@ -74,7 +74,7 @@
                                                 "rotate": 0,
                                                 "bind": {},
                                                 "options": "f:function main(data,fields){\n\t//data是綁定數據源的接口數據，fields是圖表綁定了數據源中的哪些字段\n\t//可以在綁定數據後，去掉下面的debugger前的註釋查看相應的數據\n\t//debugger\n\t//下面返回的是圖表完整的option配置\n    let value = 0;\n    if(fields &&\n       fields.length &&\n       data){\n        if(Array.isArray(data)&&\n           data.length){\n            data = data[0];\n        }\n        value = data[fields[0].key] || 0;\n    }\n    return {\n        series: [{\n            type: 'gauge',\n            axisLine: {\n                lineStyle: {\n                    width: 30,\n                    color: [\n                        [0.3, '#67e0e3'],\n                        [0.7, '#37a2da'],\n                        [1, '#fd666d']\n                    ]\n                }\n            },\n            pointer: {\n                itemStyle: {\n                    color: 'auto'\n                }\n            },\n            axisTick: {\n                distance: -30,\n                length: 8,\n                lineStyle: {\n                    color: '#fff',\n                    width: 2\n                }\n            },\n            splitLine: {\n                distance: -30,\n                length: 30,\n                lineStyle: {\n                    color: '#fff',\n                    width: 4\n                }\n            },\n            axisLabel: {\n                color: 'auto',\n                distance: 40,\n                fontSize: 20\n            },\n            detail: {\n                valueAnimation: true,\n                formatter: '{value} K',\n                color: 'auto'\n            },\n            data: [{\n                value: value\n            }]\n        }]\n    };\n}",
-                                                "ename": "儀表盤2-1",
+                                                "name": "儀表盤2-1",
                                                 "animations": []
                                             }
                                         }
@@ -96,7 +96,7 @@
                                                 "rotate": 0,
                                                 "bind": {},
                                                 "options": "f:function main(data, fields){\n\t//data是綁定數據源的接口數據，fields是圖表綁定了數據源中的哪些字段\n\t//可以在綁定數據後，去掉下面的debugger前的註釋查看相應的數據\n\t//debugger\n\t//下面返回的是圖表完整的option配置\n    return {\n        xAxis: {\n          data: ['2017-10-24', '2017-10-25', '2017-10-26', '2017-10-27']\n        },\n        yAxis: {},\n        series: [{\n            type: 'candlestick',\n            data: [\n              [20, 34, 10, 38],\n              [40, 35, 30, 50],\n              [31, 38, 33, 44],\n              [38, 15, 5, 42]\n            ]\n        }]\n    };\n}",
-                                                "ename": "ECharts-1",
+                                                "name": "ECharts-1",
                                                 "animations": []
                                             }
                                         }
@@ -172,7 +172,7 @@
                                                 "colors": [
                                                     "#35b8ca"
                                                 ],
-                                                "ename": "折線圖-1",
+                                                "name": "折線圖-1",
                                                 "animations": []
                                             }
                                         }
@@ -220,7 +220,7 @@
                                                 "rotate": 0,
                                                 "bind": {},
                                                 "options": "f:function main(data, fields){\n\t//data是綁定數據源的接口數據，fields是圖表綁定了數據源中的哪些字段\n\t//可以在綁定數據後，去掉下面的debugger前的註釋查看相應的數據\n\t//debugger\n\t//下面返回的是圖表完整的option配置\n    return {\n        xAxis: { },\n        yAxis: { },\n        series: [{\n            symbolSize: 20,\n            data: [\n                [10.0, 8.04],\n                [8.07, 6.95],\n                [13.0, 7.58],\n                [9.05, 8.81],\n                [11.0, 8.33],\n                [14.0, 7.66],\n                [13.4, 6.81],\n                [10.0, 6.33],\n                [14.0, 8.96],\n                [12.5, 6.82],\n                [9.15, 7.2],\n                [11.5, 7.2],\n                [3.03, 4.23],\n                [12.2, 7.83],\n                [2.02, 4.47],\n                [1.05, 3.33],\n                [4.05, 4.96],\n                [6.03, 7.24],\n                [12.0, 6.26],\n                [12.0, 8.84],\n                [7.08, 5.82],\n                [5.02, 5.68]\n            ],\n            type: 'scatter'\n        }]\n    }\n}",
-                                                "ename": "散點圖-1",
+                                                "name": "散點圖-1",
                                                 "animations": []
                                             }
                                         }
@@ -257,7 +257,7 @@
                     "alpha": 1,
                     "hgap": 10,
                     "vgap": 10,
-                    "ename": "H-格子-1",
+                    "name": "H-格子-1",
                     "animations": []
                 }
             }

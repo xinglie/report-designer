@@ -47,7 +47,7 @@
                     "styleStrike": false,
                     "hpos": "flex-end",
                     "vpos": "flex-end",
-                    "ename": "页码器",
+                    "name": "页码器",
                     "locked": false
                 }
             },
@@ -78,7 +78,7 @@
                     "styleStrike": false,
                     "hpos": "flex-start",
                     "vpos": "flex-start",
-                    "ename": "页码器",
+                    "name": "页码器",
                     "locked": false
                 }
             },
@@ -892,7 +892,7 @@
                     "hideFoot": false,
                     "dynamicCols": true,
                     "avgDynamicColsWidth": true,
-                    "ename": "数据表格",
+                    "name": "数据表格",
                     "locked": false
                 }
             }

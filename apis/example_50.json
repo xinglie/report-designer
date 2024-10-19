@@ -75,7 +75,7 @@
                     "textPosition": 0.5,
                     "textOffsetX": 0,
                     "textOffsetY": 0,
-                    "ename": "连接线3"
+                    "name": "连接线3"
                 }
             },
             {
@@ -123,7 +123,7 @@
                     "textPosition": 0.5,
                     "textOffsetX": 0,
                     "textOffsetY": 0,
-                    "ename": "连接线5"
+                    "name": "连接线5"
                 }
             },
             {
@@ -171,7 +171,7 @@
                     "textPosition": 0.5,
                     "textOffsetX": 0,
                     "textOffsetY": 0,
-                    "ename": "连接线4"
+                    "name": "连接线4"
                 }
             },
             {
@@ -227,7 +227,7 @@
                     "textPosition": 0.5,
                     "textOffsetX": 0,
                     "textOffsetY": 0,
-                    "ename": "连接线2"
+                    "name": "连接线2"
                 }
             },
             {
@@ -275,7 +275,7 @@
                     "textPosition": 0.5,
                     "textOffsetX": 0,
                     "textOffsetY": -0.26,
-                    "ename": "连接线1"
+                    "name": "连接线1"
                 }
             },
             {
@@ -314,7 +314,7 @@
                             "color": "#bfbfbf"
                         }
                     ],
-                    "ename": "数据表1"
+                    "name": "数据表1"
                 }
             },
             {
@@ -361,7 +361,7 @@
                             "color": "#dbdbdb"
                         }
                     ],
-                    "ename": "数据表2"
+                    "name": "数据表2"
                 }
             },
             {
@@ -400,7 +400,7 @@
                             "color": "#bfbfbf"
                         }
                     ],
-                    "ename": "数据表3"
+                    "name": "数据表3"
                 }
             },
             {
@@ -447,7 +447,7 @@
                             "color": "#dbdbdb"
                         }
                     ],
-                    "ename": "数据表4"
+                    "name": "数据表4"
                 }
             }
         ]

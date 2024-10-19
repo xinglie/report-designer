@@ -272,7 +272,7 @@
                                                 "bwidth": 0,
                                                 "btype": "solid",
                                                 "bcolor": "#000000",
-                                                "ename": "单元格",
+                                                "name": "单元格",
                                                 "animations": []
                                             }
                                         }
@@ -962,7 +962,7 @@
                                                 "bwidth": 0,
                                                 "btype": "solid",
                                                 "bcolor": "#000000",
-                                                "ename": "单元格",
+                                                "name": "单元格",
                                                 "animations": []
                                             }
                                         }
@@ -997,7 +997,7 @@
                     "hspace": 20,
                     "rowsMax": 0,
                     "singleRowScale": true,
-                    "ename": "数据表格",
+                    "name": "数据表格",
                     "animations": []
                 }
             },
@@ -1030,7 +1030,7 @@
                     "bwidth": 0,
                     "bcolor": "#000",
                     "btype": "solid",
-                    "ename": "页码器",
+                    "name": "页码器",
                     "animations": []
                 }
             },
@@ -1063,7 +1063,7 @@
                     "bwidth": 0,
                     "bcolor": "#000",
                     "btype": "solid",
-                    "ename": "页码器",
+                    "name": "页码器",
                     "animations": []
                 }
             }

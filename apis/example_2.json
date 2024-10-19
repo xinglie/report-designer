@@ -61,7 +61,7 @@
                     "target": "tab",
                     "winWidth": 132.29,
                     "winHeight": 132.29,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             },
@@ -95,7 +95,7 @@
                     "target": "tab",
                     "winWidth": 132.29,
                     "winHeight": 132.29,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             },
@@ -126,7 +126,7 @@
                     "textMargin": 0,
                     "textPosition": "bottom",
                     "textAlign": "center",
-                    "ename": "条形码",
+                    "name": "条形码",
                     "animations": []
                 }
             },
@@ -144,7 +144,7 @@
                     "print": "each",
                     "btype": "solid",
                     "color": "#bfbfbf",
-                    "ename": "直线",
+                    "name": "直线",
                     "animations": []
                 }
             },
@@ -162,7 +162,7 @@
                     "print": "each",
                     "btype": "solid",
                     "color": "#000000",
-                    "ename": "直线",
+                    "name": "直线",
                     "animations": []
                 }
             },
@@ -196,7 +196,7 @@
                     "target": "tab",
                     "winWidth": 132.29,
                     "winHeight": 132.29,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             },
@@ -230,7 +230,7 @@
                     "target": "tab",
                     "winWidth": 132.29,
                     "winHeight": 132.29,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             },
@@ -264,7 +264,7 @@
                     "target": "tab",
                     "winWidth": 132.29,
                     "winHeight": 132.29,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             },
@@ -298,7 +298,7 @@
                     "target": "tab",
                     "winWidth": 132.29,
                     "winHeight": 132.29,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             },
@@ -332,7 +332,7 @@
                     "target": "tab",
                     "winWidth": 132.29,
                     "winHeight": 132.29,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             },
@@ -367,7 +367,7 @@
                     "target": "tab",
                     "winWidth": 132.29,
                     "winHeight": 132.29,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             },
@@ -402,7 +402,7 @@
                     "target": "tab",
                     "winWidth": 132.29,
                     "winHeight": 132.29,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             },
@@ -437,7 +437,7 @@
                     "target": "tab",
                     "winWidth": 132.29,
                     "winHeight": 132.29,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             },
@@ -472,7 +472,7 @@
                     "target": "tab",
                     "winWidth": 132.29,
                     "winHeight": 132.29,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             },
@@ -507,7 +507,7 @@
                     "target": "tab",
                     "winWidth": 132.29,
                     "winHeight": 132.29,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             },
@@ -541,7 +541,7 @@
                     "target": "tab",
                     "winWidth": 132.29,
                     "winHeight": 132.29,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             },
@@ -575,7 +575,7 @@
                     "target": "tab",
                     "winWidth": 132.29,
                     "winHeight": 132.29,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             },
@@ -593,7 +593,7 @@
                     "print": "each",
                     "btype": "solid",
                     "color": "#bfbfbf",
-                    "ename": "直线",
+                    "name": "直线",
                     "animations": []
                 }
             },
@@ -624,7 +624,7 @@
                     "textMargin": 0,
                     "textPosition": "bottom",
                     "textAlign": "center",
-                    "ename": "条形码",
+                    "name": "条形码",
                     "animations": []
                 }
             },
@@ -658,7 +658,7 @@
                     "target": "tab",
                     "winWidth": 132.29,
                     "winHeight": 132.29,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             },
@@ -676,7 +676,7 @@
                     "print": "each",
                     "btype": "solid",
                     "color": "#bfbfbf",
-                    "ename": "直线",
+                    "name": "直线",
                     "animations": []
                 }
             },
@@ -699,7 +699,7 @@
                     "target": "tab",
                     "winWidth": 132.29,
                     "winHeight": 132.29,
-                    "ename": "图片",
+                    "name": "图片",
                     "animations": []
                 }
             },
@@ -733,7 +733,7 @@
                     "target": "tab",
                     "winWidth": 132.29,
                     "winHeight": 132.29,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             }

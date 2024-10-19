@@ -45,7 +45,7 @@
                     "linewidth": 1,
                     "color": "#000000",
                     "dash": 0,
-                    "ename": "线段",
+                    "name": "线段",
                     "animations": []
                 }
             },
@@ -68,7 +68,7 @@
                     "linewidth": 1,
                     "color": "#000000",
                     "dash": 0,
-                    "ename": "贝塞尔2",
+                    "name": "贝塞尔2",
                     "animations": []
                 }
             },
@@ -93,7 +93,7 @@
                     "linewidth": 1,
                     "color": "#000000",
                     "dash": 0,
-                    "ename": "贝塞尔3",
+                    "name": "贝塞尔3",
                     "animations": []
                 }
             },
@@ -119,7 +119,7 @@
                     "color": "#000000",
                     "dash": 0,
                     "linejoin": "meter",
-                    "ename": "弧",
+                    "name": "弧",
                     "animations": []
                 }
             },
@@ -145,7 +145,7 @@
                     "color": "#000000",
                     "dash": 0,
                     "linejoin": "meter",
-                    "ename": "四边形",
+                    "name": "四边形",
                     "animations": []
                 }
             },
@@ -166,7 +166,7 @@
                     "color": "#000000",
                     "dash": 0,
                     "linejoin": "meter",
-                    "ename": "矩形",
+                    "name": "矩形",
                     "animations": []
                 }
             },
@@ -186,7 +186,7 @@
                     "linewidth": 1,
                     "color": "#000000",
                     "dash": 0,
-                    "ename": "圆",
+                    "name": "圆",
                     "animations": []
                 }
             },
@@ -208,7 +208,7 @@
                     "linewidth": 1,
                     "color": "#000000",
                     "dash": 0,
-                    "ename": "椭圆",
+                    "name": "椭圆",
                     "animations": []
                 }
             },
@@ -226,7 +226,7 @@
                     "linewidth": 1,
                     "color": "#000000",
                     "dash": 0,
-                    "ename": "大括号",
+                    "name": "大括号",
                     "animations": []
                 }
             },
@@ -247,7 +247,7 @@
                     "color": "#000000",
                     "dash": 0,
                     "linejoin": "meter",
-                    "ename": "星星",
+                    "name": "星星",
                     "animations": []
                 }
             },
@@ -268,7 +268,7 @@
                     "color": "#000000",
                     "dash": 0,
                     "linejoin": "meter",
-                    "ename": "箭头",
+                    "name": "箭头",
                     "animations": []
                 }
             },
@@ -293,7 +293,7 @@
                     "color": "#000000",
                     "dash": 0,
                     "linejoin": "meter",
-                    "ename": "气泡",
+                    "name": "气泡",
                     "animations": []
                 }
             },
@@ -314,7 +314,7 @@
                     "color": "#000000",
                     "dash": 0,
                     "linejoin": "meter",
-                    "ename": "十字",
+                    "name": "十字",
                     "animations": []
                 }
             },
@@ -335,7 +335,7 @@
                     "color": "#000000",
                     "dash": 0,
                     "linejoin": "meter",
-                    "ename": "双箭头",
+                    "name": "双箭头",
                     "animations": []
                 }
             },
@@ -354,7 +354,7 @@
                     "linewidth": 1,
                     "color": "#000000",
                     "dash": 0,
-                    "ename": "圆柱",
+                    "name": "圆柱",
                     "animations": []
                 }
             },
@@ -374,7 +374,7 @@
                     "color": "#000000",
                     "dash": 0,
                     "linejoin": "meter",
-                    "ename": "立方体",
+                    "name": "立方体",
                     "animations": []
                 }
             },
@@ -394,7 +394,7 @@
                     "color": "#000000",
                     "dash": 0,
                     "linejoin": "meter",
-                    "ename": "月牙",
+                    "name": "月牙",
                     "animations": []
                 }
             },
@@ -421,7 +421,7 @@
                     "color": "#000000",
                     "dash": 0,
                     "linejoin": "meter",
-                    "ename": "圆饼",
+                    "name": "圆饼",
                     "animations": []
                 }
             },
@@ -442,7 +442,7 @@
                     "color": "#000000",
                     "dash": 0,
                     "linejoin": "meter",
-                    "ename": "卡片",
+                    "name": "卡片",
                     "animations": []
                 }
             },
@@ -465,7 +465,7 @@
                     "color": "#000000",
                     "dash": 0,
                     "linejoin": "meter",
-                    "ename": "拐角",
+                    "name": "拐角",
                     "animations": []
                 }
             },
@@ -485,7 +485,7 @@
                     "color": "#000",
                     "dash": 0,
                     "linejoin": "meter",
-                    "ename": "内圆角矩形-1",
+                    "name": "内圆角矩形-1",
                     "animations": []
                 }
             },
@@ -502,7 +502,7 @@
                     "bind": {},
                     "fill": "#83c6c2ff",
                     "speed": 5,
-                    "ename": "风扇-1",
+                    "name": "风扇-1",
                     "animations": []
                 }
             },
@@ -523,7 +523,7 @@
                     "outline": "#000",
                     "fill": "#000",
                     "lightning": "#fff",
-                    "ename": "电池-1",
+                    "name": "电池-1",
                     "animations": []
                 }
             }

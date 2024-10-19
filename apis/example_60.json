@@ -443,7 +443,7 @@
                     "avgColsWidth": "percent",
                     "hspace": 5.29,
                     "singleRowScale": true,
-                    "ename": "数据表格-1",
+                    "name": "数据表格-1",
                     "animations": []
                 }
             },
@@ -485,7 +485,7 @@
                                                 "colorDark": "#000",
                                                 "colorLight": "#fff",
                                                 "correctLevel": "H",
-                                                "ename": "二维码-1",
+                                                "name": "二维码-1",
                                                 "animations": []
                                             }
                                         },
@@ -518,7 +518,7 @@
                                                 "target": "tab",
                                                 "winWidth": 132.29,
                                                 "winHeight": 132.29,
-                                                "ename": "文本-1",
+                                                "name": "文本-1",
                                                 "animations": []
                                             }
                                         },
@@ -550,7 +550,7 @@
                                                 "target": "tab",
                                                 "winWidth": 132.29,
                                                 "winHeight": 132.29,
-                                                "ename": "文本-2",
+                                                "name": "文本-2",
                                                 "animations": []
                                             }
                                         },
@@ -582,7 +582,7 @@
                                                 "target": "tab",
                                                 "winWidth": 132.29,
                                                 "winHeight": 132.29,
-                                                "ename": "文本-3",
+                                                "name": "文本-3",
                                                 "animations": []
                                             }
                                         },
@@ -623,7 +623,7 @@
                                                 "target": "tab",
                                                 "winWidth": 132.29,
                                                 "winHeight": 132.29,
-                                                "ename": "文本-4",
+                                                "name": "文本-4",
                                                 "animations": []
                                             }
                                         }
@@ -654,7 +654,7 @@
                     "width": 209.81,
                     "height": 26.33,
                     "alpha": 1,
-                    "ename": "页头-1",
+                    "name": "页头-1",
                     "animations": []
                 }
             },
@@ -944,7 +944,7 @@
                     "btype": "solid",
                     "bcolor": "#000",
                     "bdeed": "collapse",
-                    "ename": "单元格-1",
+                    "name": "单元格-1",
                     "animations": []
                 }
             },
@@ -976,7 +976,7 @@
                     "target": "tab",
                     "winWidth": 132.29,
                     "winHeight": 132.29,
-                    "ename": "文本-5",
+                    "name": "文本-5",
                     "animations": []
                 }
             },
@@ -1642,7 +1642,7 @@
                     "avgColsWidth": "percent",
                     "hspace": 5.29,
                     "singleRowScale": true,
-                    "ename": "数据表格-2",
+                    "name": "数据表格-2",
                     "animations": []
                 }
             },
@@ -1674,7 +1674,7 @@
                     "target": "tab",
                     "winWidth": 132.29,
                     "winHeight": 132.29,
-                    "ename": "文本-6",
+                    "name": "文本-6",
                     "animations": []
                 }
             },
@@ -1714,7 +1714,7 @@
                                                 "bwidth": 0,
                                                 "bcolor": "#000",
                                                 "btype": "solid",
-                                                "ename": "页码器-1",
+                                                "name": "页码器-1",
                                                 "animations": []
                                             }
                                         }
@@ -1745,7 +1745,7 @@
                     "width": 209.81,
                     "height": 10.58,
                     "alpha": 1,
-                    "ename": "页脚-1",
+                    "name": "页脚-1",
                     "animations": []
                 }
             }

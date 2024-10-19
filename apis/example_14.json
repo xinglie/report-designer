@@ -50,7 +50,7 @@
                     "linewidth": 0.26,
                     "color": "#000000",
                     "dash": 0,
-                    "ename": "线段",
+                    "name": "线段",
                     "locked": false,
                     "animations": []
                 }
@@ -80,7 +80,7 @@
                     "target": "tab",
                     "winWidth": 132.292,
                     "winHeight": 132.292,
-                    "ename": "图片",
+                    "name": "图片",
                     "locked": false,
                     "animations": []
                 }
@@ -110,7 +110,7 @@
                     "target": "tab",
                     "winWidth": 132.292,
                     "winHeight": 132.292,
-                    "ename": "图片",
+                    "name": "图片",
                     "locked": false,
                     "animations": []
                 }
@@ -147,7 +147,7 @@
                         0.265
                     ],
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
-                    "ename": "矩形",
+                    "name": "矩形",
                     "locked": false,
                     "animations": []
                 }
@@ -176,7 +176,7 @@
                     "imageHeight": 0,
                     "backgroundX": 0,
                     "backgroundY": 0,
-                    "ename": "背景图",
+                    "name": "背景图",
                     "locked": false,
                     "animations": []
                 }
@@ -196,7 +196,7 @@
                     "print": "each",
                     "btype": "solid",
                     "color": "#000000",
-                    "ename": "直线",
+                    "name": "直线",
                     "locked": false,
                     "animations": []
                 }
@@ -219,7 +219,7 @@
                     "linewidth": 0.26,
                     "color": "#000000",
                     "dash": 0,
-                    "ename": "线段",
+                    "name": "线段",
                     "locked": false,
                     "animations": []
                 }

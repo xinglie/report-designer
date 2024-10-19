@@ -347,7 +347,7 @@
                     "avgColsWidth": "percent",
                     "hspace": 20,
                     "singleRowScale": true,
-                    "ename": "数据表格-1",
+                    "name": "数据表格-1",
                     "animations": []
                 }
             }

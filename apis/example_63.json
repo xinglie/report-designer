@@ -60,7 +60,7 @@
                         0.265
                     ],
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
-                    "ename": "矩形-1",
+                    "name": "矩形-1",
                     "animations": []
                 }
             },
@@ -113,7 +113,7 @@
                                                 "target": "tab",
                                                 "winWidth": 132.292,
                                                 "winHeight": 132.292,
-                                                "ename": "文本-1",
+                                                "name": "文本-1",
                                                 "animations": []
                                             }
                                         }
@@ -152,7 +152,7 @@
                     },
                     "hspace": 5.292,
                     "vspace": 5.292,
-                    "ename": "横纵重复-1",
+                    "name": "横纵重复-1",
                     "animations": []
                 }
             }

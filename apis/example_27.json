@@ -692,7 +692,7 @@
                     "hspace": 20,
                     "rowsMax": 0,
                     "singleRowScale": true,
-                    "ename": "数据表格",
+                    "name": "数据表格",
                     "animations": []
                 }
             }

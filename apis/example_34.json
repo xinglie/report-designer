@@ -510,7 +510,7 @@
                     "spacing": 30,
                     "hideTotal": false,
                     "hideFoot": true,
-                    "ename": "数据表格"
+                    "name": "数据表格"
                 }
             }
         ]

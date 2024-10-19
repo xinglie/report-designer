@@ -59,7 +59,7 @@
                     "bwidth": 0,
                     "btype": "solid",
                     "bcolor": "#000000",
-                    "ename": "批量文本",
+                    "name": "批量文本",
                     "locked": false
                 }
             },
@@ -105,7 +105,7 @@
                     "bwidth": 0,
                     "btype": "solid",
                     "bcolor": "#000000",
-                    "ename": "批量文本",
+                    "name": "批量文本",
                     "locked": false
                 }
             },
@@ -151,7 +151,7 @@
                     "bwidth": 0,
                     "btype": "solid",
                     "bcolor": "#000000",
-                    "ename": "批量文本",
+                    "name": "批量文本",
                     "locked": false
                 }
             },
@@ -197,7 +197,7 @@
                     "bwidth": 0,
                     "btype": "solid",
                     "bcolor": "#000000",
-                    "ename": "批量文本",
+                    "name": "批量文本",
                     "locked": false
                 }
             }

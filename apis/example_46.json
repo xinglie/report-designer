@@ -85,7 +85,7 @@
                     "textPosition": 0.5,
                     "textOffsetX": 0,
                     "textOffsetY": 0,
-                    "ename": "连接线",
+                    "name": "连接线",
                     "locked": false
                 }
             },
@@ -137,7 +137,7 @@
                     "textPosition": 0.5,
                     "textOffsetX": 0,
                     "textOffsetY": 0,
-                    "ename": "连接线",
+                    "name": "连接线",
                     "locked": false
                 }
             },
@@ -189,7 +189,7 @@
                     "textPosition": 0.5,
                     "textOffsetX": 0,
                     "textOffsetY": 0,
-                    "ename": "连接线",
+                    "name": "连接线",
                     "locked": false
                 }
             },
@@ -241,7 +241,7 @@
                     "textPosition": 0.5,
                     "textOffsetX": 0,
                     "textOffsetY": 0,
-                    "ename": "连接线",
+                    "name": "连接线",
                     "locked": false
                 }
             },
@@ -293,7 +293,7 @@
                     "textPosition": 0.5,
                     "textOffsetX": 0,
                     "textOffsetY": 0,
-                    "ename": "连接线",
+                    "name": "连接线",
                     "locked": false
                 }
             },
@@ -336,7 +336,7 @@
                     "textPosition": 0.5,
                     "textOffsetX": 0,
                     "textOffsetY": 0,
-                    "ename": "连接线",
+                    "name": "连接线",
                     "locked": false
                 }
             },
@@ -365,7 +365,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000",
-                    "ename": "过程",
+                    "name": "过程",
                     "locked": false
                 }
             },
@@ -396,7 +396,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000",
-                    "ename": "过程",
+                    "name": "过程",
                     "locked": false
                 }
             },
@@ -427,7 +427,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000",
-                    "ename": "过程",
+                    "name": "过程",
                     "locked": false
                 }
             },
@@ -458,7 +458,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000",
-                    "ename": "过程",
+                    "name": "过程",
                     "locked": false
                 }
             },
@@ -489,7 +489,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000",
-                    "ename": "过程",
+                    "name": "过程",
                     "locked": false
                 }
             },
@@ -520,7 +520,7 @@
                     "textFont": "tahoma",
                     "textGap": 0,
                     "textColor": "#000",
-                    "ename": "过程",
+                    "name": "过程",
                     "locked": false
                 }
             }

@@ -106,7 +106,7 @@
                                                 "target": "tab",
                                                 "winWidth": 132.292,
                                                 "winHeight": 132.292,
-                                                "ename": "文本-3",
+                                                "name": "文本-3",
                                                 "animations": []
                                             }
                                         }
@@ -150,7 +150,7 @@
                                                 "target": "tab",
                                                 "winWidth": 132.292,
                                                 "winHeight": 132.292,
-                                                "ename": "文本-5",
+                                                "name": "文本-5",
                                                 "animations": []
                                             }
                                         }
@@ -209,7 +209,7 @@
                                                 "target": "tab",
                                                 "winWidth": 132.292,
                                                 "winHeight": 132.292,
-                                                "ename": "文本-1",
+                                                "name": "文本-1",
                                                 "animations": []
                                             }
                                         },
@@ -251,7 +251,7 @@
                                                 "target": "tab",
                                                 "winWidth": 132.292,
                                                 "winHeight": 132.292,
-                                                "ename": "文本-2",
+                                                "name": "文本-2",
                                                 "animations": []
                                             }
                                         },
@@ -293,7 +293,7 @@
                                                 "target": "tab",
                                                 "winWidth": 132.292,
                                                 "winHeight": 132.292,
-                                                "ename": "文本-7",
+                                                "name": "文本-7",
                                                 "animations": []
                                             }
                                         }
@@ -335,7 +335,7 @@
                                                 "target": "tab",
                                                 "winWidth": 132.292,
                                                 "winHeight": 132.292,
-                                                "ename": "图片-1",
+                                                "name": "图片-1",
                                                 "animations": []
                                             }
                                         }
@@ -418,7 +418,7 @@
                     "columnsPrint": true,
                     "hspace": 5.292,
                     "rowsMax": 0,
-                    "ename": "自由表格-1",
+                    "name": "自由表格-1",
                     "animations": []
                 }
             }

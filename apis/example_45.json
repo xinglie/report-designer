@@ -74,7 +74,7 @@
                     "qrcodeColorDark": "#000",
                     "qrcodeColorLight": "#fff",
                     "qrcodeCorrectLevel": "H",
-                    "ename": "序号器",
+                    "name": "序号器",
                     "locked": false,
                     "animations": []
                 }
@@ -122,7 +122,7 @@
                     "qrcodeColorDark": "#000",
                     "qrcodeColorLight": "#fff",
                     "qrcodeCorrectLevel": "H",
-                    "ename": "序号器",
+                    "name": "序号器",
                     "locked": false,
                     "animations": []
                 }
@@ -173,7 +173,7 @@
                     "target": "tab",
                     "winWidth": 13.2292,
                     "winHeight": 13.2292,
-                    "ename": "文本",
+                    "name": "文本",
                     "locked": false,
                     "animations": []
                 }

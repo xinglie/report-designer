@@ -66,7 +66,7 @@
                     "color": "#000",
                     "dash": 0,
                     "linejoin": "meter",
-                    "ename": "折线-1",
+                    "name": "折线-1",
                     "animations": []
                 }
             },
@@ -98,7 +98,7 @@
                     "target": "tab",
                     "winWidth": 500,
                     "winHeight": 500,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             },
@@ -130,7 +130,7 @@
                     "target": "tab",
                     "winWidth": 500,
                     "winHeight": 500,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             },
@@ -162,7 +162,7 @@
                     "target": "tab",
                     "winWidth": 500,
                     "winHeight": 500,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             },
@@ -194,7 +194,7 @@
                     "target": "tab",
                     "winWidth": 500,
                     "winHeight": 500,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             },
@@ -226,7 +226,7 @@
                     "target": "tab",
                     "winWidth": 500,
                     "winHeight": 500,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             },
@@ -258,7 +258,7 @@
                     "target": "tab",
                     "winWidth": 500,
                     "winHeight": 500,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             },
@@ -290,7 +290,7 @@
                     "target": "tab",
                     "winWidth": 500,
                     "winHeight": 500,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             },
@@ -323,7 +323,7 @@
                     "target": "tab",
                     "winWidth": 500,
                     "winHeight": 500,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             },
@@ -343,7 +343,7 @@
                     "text": "x^2-2xy-3y^2=5",
                     "hpos": "flex-start",
                     "vpos": "flex-start",
-                    "ename": "公式",
+                    "name": "公式",
                     "animations": []
                 }
             },
@@ -363,7 +363,7 @@
                     "text": "x+y=1",
                     "hpos": "flex-start",
                     "vpos": "flex-start",
-                    "ename": "公式",
+                    "name": "公式",
                     "animations": []
                 }
             },
@@ -381,7 +381,7 @@
                     "linewidth": 1,
                     "color": "#000000",
                     "dash": 0,
-                    "ename": "大括号",
+                    "name": "大括号",
                     "animations": []
                 }
             }

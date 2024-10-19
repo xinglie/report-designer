@@ -61,7 +61,7 @@
                     "target": "tab",
                     "winWidth": 500,
                     "winHeight": 500,
-                    "ename": "文本",
+                    "name": "文本",
                     "animations": []
                 }
             },
@@ -89,7 +89,7 @@
                     "bwidth": 0,
                     "bcolor": "#000",
                     "btype": "solid",
-                    "ename": "页码器",
+                    "name": "页码器",
                     "animations": []
                 }
             },
@@ -117,7 +117,7 @@
                     "bwidth": 0,
                     "bcolor": "#000",
                     "btype": "solid",
-                    "ename": "页码器",
+                    "name": "页码器",
                     "animations": []
                 }
             },
@@ -148,7 +148,7 @@
                     "textMargin": 2,
                     "textPosition": "bottom",
                     "textAlign": "center",
-                    "ename": "条形码",
+                    "name": "条形码",
                     "animations": []
                 }
             },
@@ -171,7 +171,7 @@
                     "target": "tab",
                     "winWidth": 500,
                     "winHeight": 500,
-                    "ename": "图片",
+                    "name": "图片",
                     "animations": []
                 }
             },
@@ -195,7 +195,7 @@
                     "colorDark": "#000000",
                     "colorLight": "#ffffff",
                     "correctLevel": "H",
-                    "ename": "二维码",
+                    "name": "二维码",
                     "animations": []
                 }
             },
@@ -616,7 +616,7 @@
                     "hspace": 20,
                     "rowsMax": 0,
                     "singleRowScale": true,
-                    "ename": "数据表格-1",
+                    "name": "数据表格-1",
                     "animations": []
                 }
             },
@@ -637,7 +637,7 @@
                     "bwipValue": "90200",
                     "bind": {},
                     "bwipParams": "includetext guardwhitespace",
-                    "ename": "BWIP-1",
+                    "name": "BWIP-1",
                     "animations": []
                 }
             }

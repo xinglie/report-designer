@@ -69,7 +69,7 @@
                     "bwidth": 0,
                     "btype": "solid",
                     "bcolor": "#000000",
-                    "ename": "文本",
+                    "name": "文本",
                     "locked": false
                 }
             },
@@ -109,7 +109,7 @@
                     "bwidth": 0,
                     "btype": "solid",
                     "bcolor": "#000000",
-                    "ename": "文本",
+                    "name": "文本",
                     "locked": false
                 }
             },
@@ -149,7 +149,7 @@
                     "bwidth": 0,
                     "btype": "solid",
                     "bcolor": "#000000",
-                    "ename": "文本",
+                    "name": "文本",
                     "locked": false
                 }
             },
@@ -173,7 +173,7 @@
                     },
                     "rotateX": false,
                     "rotateY": false,
-                    "ename": "图片",
+                    "name": "图片",
                     "locked": false
                 }
             },
@@ -197,7 +197,7 @@
                     },
                     "rotateX": false,
                     "rotateY": false,
-                    "ename": "图片",
+                    "name": "图片",
                     "locked": false
                 }
             },
@@ -235,7 +235,7 @@
                     "bwidth": 0,
                     "btype": "solid",
                     "bcolor": "#000000",
-                    "ename": "文本",
+                    "name": "文本",
                     "locked": false
                 }
             },
@@ -273,7 +273,7 @@
                     "bwidth": 0,
                     "btype": "solid",
                     "bcolor": "#000000",
-                    "ename": "文本",
+                    "name": "文本",
                     "locked": false
                 }
             },
@@ -297,7 +297,7 @@
                     },
                     "rotateX": false,
                     "rotateY": false,
-                    "ename": "图片",
+                    "name": "图片",
                     "locked": false
                 }
             }

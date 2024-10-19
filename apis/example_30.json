@@ -48,7 +48,7 @@
                     "styleOverline": false,
                     "hpos": "flex-start",
                     "vpos": "flex-start",
-                    "ename": "文本",
+                    "name": "文本",
                     "locked": false
                 }
             },
@@ -82,7 +82,7 @@
                     "styleOverline": false,
                     "hpos": "flex-start",
                     "vpos": "flex-start",
-                    "ename": "文本",
+                    "name": "文本",
                     "locked": false
                 }
             },
@@ -117,7 +117,7 @@
                     "styleOverline": false,
                     "hpos": "flex-start",
                     "vpos": "flex-start",
-                    "ename": "文本",
+                    "name": "文本",
                     "locked": false
                 }
             },
@@ -139,7 +139,7 @@
                     },
                     "rotateX": false,
                     "rotateY": false,
-                    "ename": "图片",
+                    "name": "图片",
                     "locked": false
                 }
             },
@@ -172,7 +172,7 @@
                     "styleOverline": false,
                     "hpos": "flex-start",
                     "vpos": "flex-start",
-                    "ename": "文本",
+                    "name": "文本",
                     "locked": false
                 }
             }

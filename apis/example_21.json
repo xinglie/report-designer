@@ -56,7 +56,7 @@
                     "imageHeight": 135.468,
                     "backgroundX": 0,
                     "backgroundY": 0,
-                    "ename": "背景图",
+                    "name": "背景图",
                     "locked": false,
                     "animations": []
                 }
@@ -86,7 +86,7 @@
                     "imageHeight": 135.468,
                     "backgroundX": 0,
                     "backgroundY": 0,
-                    "ename": "背景图",
+                    "name": "背景图",
                     "locked": false,
                     "animations": []
                 }

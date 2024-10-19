@@ -51,7 +51,7 @@
                             }
                         ]
                     },
-                    "ename": "HTML",
+                    "name": "HTML",
                     "locked": false
                 }
             },
@@ -94,7 +94,7 @@
                                                 "styleStrike": false,
                                                 "hpos": "flex-start",
                                                 "vpos": "flex-start",
-                                                "ename": "页码器",
+                                                "name": "页码器",
                                                 "locked": false
                                             }
                                         }
@@ -125,7 +125,7 @@
                     "width": 211.64,
                     "height": 10.58,
                     "alpha": 1,
-                    "ename": "页脚",
+                    "name": "页脚",
                     "locked": false
                 }
             }

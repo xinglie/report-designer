@@ -47,7 +47,7 @@
                     "print": "each",
                     "btype": "solid",
                     "color": "#000000",
-                    "ename": "直线",
+                    "name": "直线",
                     "locked": false,
                     "animations": []
                 }
@@ -84,7 +84,7 @@
                         0.265
                     ],
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
-                    "ename": "矩形",
+                    "name": "矩形",
                     "locked": false,
                     "animations": []
                 }
@@ -106,7 +106,7 @@
                     "btype": "solid",
                     "bcolor": "#000000",
                     "fillcolor": "",
-                    "ename": "圆形",
+                    "name": "圆形",
                     "locked": false,
                     "animations": []
                 }
@@ -131,7 +131,7 @@
                     "btype": "solid",
                     "color": "#000000",
                     "size": 3.704,
-                    "ename": "标尺",
+                    "name": "标尺",
                     "locked": false,
                     "animations": []
                 }
@@ -150,7 +150,7 @@
                     "dialColor": "#00000040",
                     "handleColor": "#ffffff",
                     "markColor": "#ffffff80",
-                    "ename": "时钟",
+                    "name": "时钟",
                     "locked": false,
                     "animations": []
                 }
@@ -195,7 +195,7 @@
                     "target": "tab",
                     "winWidth": 132.292,
                     "winHeight": 132.292,
-                    "ename": "文本",
+                    "name": "文本",
                     "locked": false,
                     "animations": []
                 }
@@ -225,7 +225,7 @@
                     "target": "tab",
                     "winWidth": 132.292,
                     "winHeight": 132.292,
-                    "ename": "图片",
+                    "name": "图片",
                     "locked": false,
                     "animations": []
                 }
@@ -254,7 +254,7 @@
                     "imageHeight": 0,
                     "backgroundX": 0,
                     "backgroundY": 0,
-                    "ename": "平铺图",
+                    "name": "平铺图",
                     "locked": false,
                     "animations": []
                 }
@@ -282,7 +282,7 @@
                     "colorDark": "#000",
                     "colorLight": "#fff",
                     "correctLevel": "H",
-                    "ename": "二维码",
+                    "name": "二维码",
                     "locked": false,
                     "animations": []
                 }
@@ -317,7 +317,7 @@
                     "textMargin": 0,
                     "textPosition": "bottom",
                     "textAlign": "center",
-                    "ename": "条形码",
+                    "name": "条形码",
                     "locked": false,
                     "animations": []
                 }

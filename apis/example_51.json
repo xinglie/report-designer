@@ -52,7 +52,7 @@
                         ]
                     },
                     "options": "f:function main(data,fields){\n    //data是绑定数据源的接口数据，fields是图表绑定了数据源中的哪些字段\n    //可以在绑定数据后，去掉下面的debugger前的注释查看相应的数据\n    //debugger\n    //下面返回的是echart完整的option配置\n    let value = 0;\n    if(fields &&\n       fields.length &&\n       data){\n        if(Array.isArray(data)&&\n           data.length){\n            data = data[0];\n        }\n        value = data[fields[0].key] || 0;\n    }\n    return {\n  tooltip: {\n    formatter: '{a} <br/>{b} : {c}%'\n  },\n  series: [\n    {\n      name: 'Pressure',\n      type: 'gauge',\n      progress: {\n        show: true\n      },\n      detail: {\n        valueAnimation: true,\n        formatter: '{value}'\n      },\n      data: [\n        {\n          value: value,\n          name: ''\n        }\n      ]\n    }\n  ]\n};\n}",
-                    "ename": "仪表盘21",
+                    "name": "仪表盘21",
                     "animations": []
                 }
             },
@@ -79,7 +79,7 @@
                         ]
                     },
                     "options": "f:function main(data, fields){\n    //data是绑定数据源的接口数据，fields是图表绑定了数据源中的哪些字段\n    //可以在绑定数据后，去掉下面的debugger前的注释查看相应的数据\n    //debugger\n    //下面返回的是echart完整的option配置\n   let value = [],xData=[];\n    if(fields &&\n       fields.length &&\n       data){\n      let chartData=data[fields[0].key];\n      for(let cd of chartData){\n        value.push(cd.value);\n        xData.push(cd.key);\n      }\n    }\n    return {\n      color:['#fff'],\n      xAxis: {\n        type: 'category',\n        data: xData,\n        axisLine: {\n          lineStyle: {\n            color: \"#fff\"\n          }\n        }\n      },\n      yAxis: {\n        min:0,\n        max:100,\n        type: 'value',\n        axisLine: {\n          lineStyle: {\n            color: \"#fff\"\n          }\n        }\n      },\n      series: [\n        {\n          data: value,\n          type: 'line'\n        }\n      ]\n    };\n}",
-                    "ename": "ECharts1",
+                    "name": "ECharts1",
                     "animations": []
                 }
             },
@@ -101,7 +101,7 @@
                     "target": "tab",
                     "winWidth": 500,
                     "winHeight": 500,
-                    "ename": "图片1",
+                    "name": "图片1",
                     "animations": []
                 }
             },
@@ -141,7 +141,7 @@
                     "liquidDash": 15,
                     "flowing": true,
                     "speed": 5,
-                    "ename": "液体管道2",
+                    "name": "液体管道2",
                     "animations": []
                 }
             },
@@ -173,7 +173,7 @@
                     "enter": "确定",
                     "hspace": 20,
                     "color": "#fff",
-                    "ename": "数字调节1",
+                    "name": "数字调节1",
                     "animations": []
                 }
             },
@@ -205,7 +205,7 @@
                     "target": "tab",
                     "winWidth": 500,
                     "winHeight": 500,
-                    "ename": "文本1",
+                    "name": "文本1",
                     "animations": []
                 }
             },
@@ -241,7 +241,7 @@
                     "wallWidth": 5,
                     "wallColor": "#707070",
                     "liquidColor": "#13227a",
-                    "ename": "液罐1",
+                    "name": "液罐1",
                     "animations": []
                 }
             },
@@ -262,7 +262,7 @@
                     "target": "tab",
                     "winWidth": 500,
                     "winHeight": 500,
-                    "ename": "图片2",
+                    "name": "图片2",
                     "animations": []
                 }
             },
@@ -302,7 +302,7 @@
                     "liquidDash": 15,
                     "flowing": true,
                     "speed": 5,
-                    "ename": "液体管道1",
+                    "name": "液体管道1",
                     "animations": []
                 }
             },
@@ -340,7 +340,7 @@
                             "speed": 5
                         }
                     ],
-                    "ename": "信号灯1",
+                    "name": "信号灯1",
                     "animations": []
                 }
             },
@@ -368,7 +368,7 @@
                     "fill": "#1baba8ff",
                     "working": true,
                     "speed": 5,
-                    "ename": "风扇1",
+                    "name": "风扇1",
                     "animations": []
                 }
             },
@@ -410,7 +410,7 @@
                     "target": "tab",
                     "winWidth": 500,
                     "winHeight": 500,
-                    "ename": "文本2",
+                    "name": "文本2",
                     "animations": []
                 }
             },
@@ -452,7 +452,7 @@
                     "target": "tab",
                     "winWidth": 500,
                     "winHeight": 500,
-                    "ename": "文本3",
+                    "name": "文本3",
                     "animations": []
                 }
             },
@@ -494,7 +494,7 @@
                     "target": "tab",
                     "winWidth": 500,
                     "winHeight": 500,
-                    "ename": "文本4",
+                    "name": "文本4",
                     "animations": []
                 }
             }

@@ -38,7 +38,7 @@
                             }
                         ]
                     },
-                    "ename": "富文本"
+                    "name": "富文本"
                 }
             },
             {
@@ -79,7 +79,7 @@
                                                 "styleStrike": false,
                                                 "hpos": "flex-end",
                                                 "vpos": "center",
-                                                "ename": "页码器",
+                                                "name": "页码器",
                                                 "locked": false
                                             }
                                         }
@@ -112,7 +112,7 @@
                     "width": 209.26,
                     "height": 10.58,
                     "alpha": 1,
-                    "ename": "页头",
+                    "name": "页头",
                     "locked": false
                 }
             },
@@ -158,7 +158,7 @@
                     "width": 209.26,
                     "height": 21.96,
                     "alpha": 1,
-                    "ename": "页脚",
+                    "name": "页脚",
                     "locked": false
                 }
             }

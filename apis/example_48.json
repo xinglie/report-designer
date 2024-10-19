@@ -45,7 +45,7 @@
                     "target": "tab",
                     "winWidth": 500,
                     "winHeight": 500,
-                    "ename": "图片1",
+                    "name": "图片1",
                     "animations": []
                 }
             },
@@ -65,7 +65,7 @@
                     "colorDark": "#000000",
                     "colorLight": "#ffffff",
                     "correctLevel": "H",
-                    "ename": "二维码1",
+                    "name": "二维码1",
                     "animations": []
                 }
             }

@@ -823,7 +823,7 @@
                     "hspace": 5.292,
                     "rowsMax": 0,
                     "singleRowScale": true,
-                    "ename": "數據表格-1",
+                    "name": "數據表格-1",
                     "animations": []
                 }
             },
@@ -855,7 +855,7 @@
                     "target": "tab",
                     "winWidth": 132.292,
                     "winHeight": 132.292,
-                    "ename": "文本-1",
+                    "name": "文本-1",
                     "animations": []
                 }
             },
@@ -887,7 +887,7 @@
                     "target": "tab",
                     "winWidth": 132.292,
                     "winHeight": 132.292,
-                    "ename": "文本-2",
+                    "name": "文本-2",
                     "animations": []
                 }
             },
@@ -915,7 +915,7 @@
                     "bwidth": 0,
                     "bcolor": "#000",
                     "btype": "solid",
-                    "ename": "頁碼器-1",
+                    "name": "頁碼器-1",
                     "animations": []
                 }
             },
@@ -947,7 +947,7 @@
                     "target": "tab",
                     "winWidth": 132.292,
                     "winHeight": 132.292,
-                    "ename": "文本-3",
+                    "name": "文本-3",
                     "animations": []
                 }
             }

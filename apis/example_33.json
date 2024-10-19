@@ -199,7 +199,7 @@
                                                 "btype": "solid",
                                                 "bcolor": "#000000",
                                                 "bdeed": "collapse",
-                                                "ename": "单元格"
+                                                "name": "单元格"
                                             }
                                         }
                                     ]
@@ -569,7 +569,7 @@
                                                 "styleStrike": false,
                                                 "hpos": "flex-start",
                                                 "vpos": "flex-start",
-                                                "ename": "文本"
+                                                "name": "文本"
                                             }
                                         }
                                     ]
@@ -596,7 +596,7 @@
                     "hideHead": false,
                     "hideTotal": false,
                     "hideFoot": false,
-                    "ename": "数据表格"
+                    "name": "数据表格"
                 }
             }
         ]

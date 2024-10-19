@@ -63,7 +63,7 @@
                                                 "qrcodeColorDark": "#000000",
                                                 "qrcodeColorLight": "#ffffff",
                                                 "qrcodeCorrectLevel": "H",
-                                                "ename": "日期时间1",
+                                                "name": "日期时间1",
                                                 "animations": []
                                             }
                                         }
@@ -94,7 +94,7 @@
                     "width": 209.79,
                     "height": 15.13,
                     "alpha": 1,
-                    "ename": "页头1",
+                    "name": "页头1",
                     "animations": []
                 }
             },
@@ -136,7 +136,7 @@
                     "width": 209.79,
                     "height": 10.58,
                     "alpha": 1,
-                    "ename": "页脚1",
+                    "name": "页脚1",
                     "animations": []
                 }
             },
@@ -153,7 +153,7 @@
                     "rotate": 0,
                     "print": "each",
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
-                    "ename": "矩形1",
+                    "name": "矩形1",
                     "animations": []
                 }
             },
@@ -172,7 +172,7 @@
                     "bwidth": 0.26,
                     "btype": "solid",
                     "bcolor": "#000",
-                    "ename": "圆形1",
+                    "name": "圆形1",
                     "animations": []
                 }
             },
@@ -191,7 +191,7 @@
                     "bwidth": 0.26,
                     "btype": "solid",
                     "bcolor": "#000",
-                    "ename": "圆形2",
+                    "name": "圆形2",
                     "animations": []
                 }
             },
@@ -208,7 +208,7 @@
                     "rotate": 0,
                     "print": "each",
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
-                    "ename": "矩形2",
+                    "name": "矩形2",
                     "animations": []
                 }
             }

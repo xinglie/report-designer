@@ -79,7 +79,7 @@
                                                 "colorDark": "#000",
                                                 "colorLight": "#fff",
                                                 "correctLevel": "H",
-                                                "ename": "二维码",
+                                                "name": "二维码",
                                                 "locked": false,
                                                 "animations": []
                                             }
@@ -115,7 +115,7 @@
                                                 "colorDark": "#000",
                                                 "colorLight": "#fff",
                                                 "correctLevel": "H",
-                                                "ename": "二维码",
+                                                "name": "二维码",
                                                 "locked": false,
                                                 "animations": []
                                             }
@@ -156,7 +156,7 @@
                                                 "textMargin": 0,
                                                 "textPosition": "bottom",
                                                 "textAlign": "center",
-                                                "ename": "条形码",
+                                                "name": "条形码",
                                                 "locked": false,
                                                 "animations": []
                                             }
@@ -207,7 +207,7 @@
                                                 "target": "tab",
                                                 "winWidth": 500,
                                                 "winHeight": 500,
-                                                "ename": "文本",
+                                                "name": "文本",
                                                 "locked": false,
                                                 "animations": []
                                             }
@@ -243,7 +243,7 @@
                     "alpha": 1,
                     "hspace": 20,
                     "vspace": 20,
-                    "ename": "重复容器",
+                    "name": "重复容器",
                     "locked": false,
                     "animations": []
                 }

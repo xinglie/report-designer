@@ -83,7 +83,7 @@
                                                 "target": "tab",
                                                 "winWidth": 132.292,
                                                 "winHeight": 132.292,
-                                                "ename": "文本-4",
+                                                "name": "文本-4",
                                                 "animations": []
                                             }
                                         },
@@ -125,7 +125,7 @@
                                                 "target": "tab",
                                                 "winWidth": 132.292,
                                                 "winHeight": 132.292,
-                                                "ename": "文本-6",
+                                                "name": "文本-6",
                                                 "animations": []
                                             }
                                         },
@@ -167,7 +167,7 @@
                                                 "target": "tab",
                                                 "winWidth": 132.292,
                                                 "winHeight": 132.292,
-                                                "ename": "文本-8",
+                                                "name": "文本-8",
                                                 "animations": []
                                             }
                                         },
@@ -197,7 +197,7 @@
                                                 "target": "tab",
                                                 "winWidth": 132.292,
                                                 "winHeight": 132.292,
-                                                "ename": "图片-2",
+                                                "name": "图片-2",
                                                 "animations": []
                                             }
                                         }
@@ -232,7 +232,7 @@
                     "alpha": 1,
                     "hspace": 7.938,
                     "vspace": 5.292,
-                    "ename": "横纵重复-1",
+                    "name": "横纵重复-1",
                     "animations": []
                 }
             }

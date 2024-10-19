@@ -64,7 +64,7 @@
                     "textMargin": 0,
                     "textPosition": "bottom",
                     "textAlign": "center",
-                    "ename": "批量条码",
+                    "name": "批量条码",
                     "animations": []
                 }
             },
@@ -95,7 +95,7 @@
                     "correctLevel": "H",
                     "hspace": 30,
                     "vspace": 30,
-                    "ename": "二维码",
+                    "name": "二维码",
                     "animations": []
                 }
             },
@@ -133,7 +133,7 @@
                     "bwidth": 0,
                     "bcolor": "#000000",
                     "btype": "solid",
-                    "ename": "批量文本",
+                    "name": "批量文本",
                     "animations": []
                 }
             },
@@ -177,7 +177,7 @@
                     "width": 791,
                     "height": 40,
                     "alpha": 1,
-                    "ename": "页脚",
+                    "name": "页脚",
                     "animations": []
                 }
             }
