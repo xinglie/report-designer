@@ -5,12 +5,12 @@
         "ys": [],
         "groups": [
             [
-                "rde_lh4ey1ha147",
-                "rde_10",
-                "rde_11",
-                "rde_12",
-                "rde_13",
-                "rde_14"
+                "mIyMDdmNT_lh4ey1ha147",
+                "mIyMDdmNT_10",
+                "mIyMDdmNT_11",
+                "mIyMDdmNT_12",
+                "mIyMDdmNT_13",
+                "mIyMDdmNT_14"
             ]
         ],
         "page": {
@@ -19,17 +19,18 @@
             "height": 1120,
             "pages": 1,
             "scale": "auto",
+            "update": true,
+            "updateInterval": 1,
             "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
             "xOffset": 0,
             "yOffset": 0,
-            "space": 0,
             "copies": 1,
             "blank": "keep",
             "labelCol": 1,
             "labelGap": 10,
-            "font": "unset",
             "gridWidth": 20,
             "gridHeight": 20,
+            "font": "unset",
             "background": "#ffffff",
             "backgroundRepeat": "full",
             "backgroundWidth": 0,
@@ -39,7 +40,7 @@
         },
         "elements": [
             {
-                "id": "rde_lh4ey1ha147",
+                "id": "mIyMDdmNT_lh4ey1ha147",
                 "type": "svg/polyline2",
                 "unit": "px",
                 "props": {
@@ -71,7 +72,7 @@
                 }
             },
             {
-                "id": "rde_7",
+                "id": "mIyMDdmNT_7",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -103,7 +104,7 @@
                 }
             },
             {
-                "id": "rde_8",
+                "id": "mIyMDdmNT_8",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -135,7 +136,7 @@
                 }
             },
             {
-                "id": "rde_10",
+                "id": "mIyMDdmNT_10",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -167,7 +168,7 @@
                 }
             },
             {
-                "id": "rde_11",
+                "id": "mIyMDdmNT_11",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -199,7 +200,7 @@
                 }
             },
             {
-                "id": "rde_12",
+                "id": "mIyMDdmNT_12",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -231,7 +232,7 @@
                 }
             },
             {
-                "id": "rde_13",
+                "id": "mIyMDdmNT_13",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -263,7 +264,7 @@
                 }
             },
             {
-                "id": "rde_14",
+                "id": "mIyMDdmNT_14",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -295,7 +296,7 @@
                 }
             },
             {
-                "id": "rde_16",
+                "id": "mIyMDdmNT_16",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -328,7 +329,7 @@
                 }
             },
             {
-                "id": "rde_17",
+                "id": "mIyMDdmNT_17",
                 "type": "formula",
                 "unit": "px",
                 "props": {
@@ -338,17 +339,18 @@
                     "height": 28,
                     "alpha": 1,
                     "rotate": 0,
-                    "size": 14,
-                    "color": "#000000",
                     "text": "x^2-2xy-3y^2=5",
+                    "bind": {},
+                    "color": "#000000",
+                    "size": 14,
                     "hpos": "flex-start",
-                    "vpos": "flex-start",
+                    "vpos": "center",
                     "name": "公式",
                     "animations": []
                 }
             },
             {
-                "id": "rde_18",
+                "id": "mIyMDdmNT_18",
                 "type": "formula",
                 "unit": "px",
                 "props": {
@@ -358,17 +360,18 @@
                     "height": 28,
                     "alpha": 1,
                     "rotate": 0,
-                    "size": 14,
-                    "color": "#000000",
                     "text": "x+y=1",
+                    "bind": {},
+                    "color": "#000000",
+                    "size": 14,
                     "hpos": "flex-start",
-                    "vpos": "flex-start",
+                    "vpos": "center",
                     "name": "公式",
                     "animations": []
                 }
             },
             {
-                "id": "rde_75",
+                "id": "mIyMDdmNT_75",
                 "type": "svg/brace",
                 "unit": "px",
                 "props": {

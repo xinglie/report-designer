@@ -33,7 +33,7 @@
         },
         "elements": [
             {
-                "id": "rde_303",
+                "id": "mIyMDdmNT_303",
                 "type": "data-repeater",
                 "unit": "px",
                 "props": {
@@ -51,7 +51,7 @@
                                     "width": 300,
                                     "elements": [
                                         {
-                                            "id": "rde_307",
+                                            "id": "mIyMDdmNT_307",
                                             "type": "qrcode",
                                             "unit": "px",
                                             "props": {
@@ -85,7 +85,7 @@
                                             }
                                         },
                                         {
-                                            "id": "rde_342",
+                                            "id": "mIyMDdmNT_342",
                                             "type": "qrcode",
                                             "unit": "px",
                                             "props": {
@@ -121,7 +121,7 @@
                                             }
                                         },
                                         {
-                                            "id": "rde_348",
+                                            "id": "mIyMDdmNT_348",
                                             "type": "barcode",
                                             "unit": "px",
                                             "props": {
@@ -162,7 +162,7 @@
                                             }
                                         },
                                         {
-                                            "id": "rde_368",
+                                            "id": "mIyMDdmNT_368",
                                             "type": "text",
                                             "unit": "px",
                                             "props": {

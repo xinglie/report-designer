@@ -33,7 +33,7 @@
         },
         "elements": [
             {
-                "id": "rde_129",
+                "id": "mIyMDdmNT_129",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -78,7 +78,7 @@
                 }
             },
             {
-                "id": "rde_144",
+                "id": "mIyMDdmNT_144",
                 "type": "image",
                 "unit": "mm",
                 "props": {
@@ -108,7 +108,7 @@
                 }
             },
             {
-                "id": "rde_150",
+                "id": "mIyMDdmNT_150",
                 "type": "repeat",
                 "unit": "mm",
                 "props": {
@@ -137,7 +137,7 @@
                 }
             },
             {
-                "id": "rde_153",
+                "id": "mIyMDdmNT_153",
                 "type": "qrcode",
                 "unit": "mm",
                 "props": {
@@ -165,7 +165,7 @@
                 }
             },
             {
-                "id": "rde_157",
+                "id": "mIyMDdmNT_157",
                 "type": "barcode",
                 "unit": "mm",
                 "props": {
@@ -200,7 +200,7 @@
                 }
             },
             {
-                "id": "rde_172",
+                "id": "mIyMDdmNT_172",
                 "type": "batch-barcode",
                 "unit": "mm",
                 "props": {
@@ -235,7 +235,7 @@
                 }
             },
             {
-                "id": "rde_178",
+                "id": "mIyMDdmNT_178",
                 "type": "batch-qrcode",
                 "unit": "mm",
                 "props": {
@@ -263,7 +263,7 @@
                 }
             },
             {
-                "id": "rde_181",
+                "id": "mIyMDdmNT_181",
                 "type": "batch-text",
                 "unit": "mm",
                 "props": {

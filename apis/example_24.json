@@ -20,7 +20,7 @@
         "groups": [],
         "elements": [
             {
-                "id": "rde_131",
+                "id": "mIyMDdmNT_131",
                 "type": "data-repeater",
                 "unit": "px",
                 "props": {
@@ -32,7 +32,7 @@
                                     "width": 328,
                                     "elements": [
                                         {
-                                            "id": "rde_195",
+                                            "id": "mIyMDdmNT_195",
                                             "type": "text",
                                             "unit": "px",
                                             "props": {
@@ -75,7 +75,7 @@
                                             }
                                         },
                                         {
-                                            "id": "rde_424",
+                                            "id": "mIyMDdmNT_424",
                                             "type": "image",
                                             "unit": "px",
                                             "props": {
@@ -104,7 +104,7 @@
                                             }
                                         },
                                         {
-                                            "id": "rde_139",
+                                            "id": "mIyMDdmNT_139",
                                             "type": "text",
                                             "unit": "px",
                                             "props": {

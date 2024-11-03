@@ -31,7 +31,7 @@
         },
         "elements": [
             {
-                "id": "rde_87",
+                "id": "mIyMDdmNT_87",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -66,7 +66,7 @@
                 }
             },
             {
-                "id": "rde_197",
+                "id": "mIyMDdmNT_197",
                 "type": "pager",
                 "unit": "px",
                 "props": {
@@ -94,7 +94,7 @@
                 }
             },
             {
-                "id": "rde_217",
+                "id": "mIyMDdmNT_217",
                 "type": "pager",
                 "unit": "px",
                 "props": {
@@ -122,7 +122,7 @@
                 }
             },
             {
-                "id": "rde_252",
+                "id": "mIyMDdmNT_252",
                 "type": "barcode",
                 "unit": "px",
                 "props": {
@@ -153,7 +153,7 @@
                 }
             },
             {
-                "id": "rde_268",
+                "id": "mIyMDdmNT_268",
                 "type": "image",
                 "unit": "px",
                 "props": {
@@ -176,7 +176,7 @@
                 }
             },
             {
-                "id": "rde_334",
+                "id": "mIyMDdmNT_334",
                 "type": "qrcode",
                 "unit": "px",
                 "props": {
@@ -200,7 +200,7 @@
                 }
             },
             {
-                "id": "rde_lhuc7psk147",
+                "id": "mIyMDdmNT_lhuc7psk147",
                 "type": "data-dtable",
                 "unit": "px",
                 "props": {
@@ -621,7 +621,7 @@
                 }
             },
             {
-                "id": "rde_lhuc7psk194",
+                "id": "mIyMDdmNT_lhuc7psk194",
                 "type": "bwip",
                 "unit": "px",
                 "props": {
