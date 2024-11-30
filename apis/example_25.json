@@ -31,7 +31,7 @@
         },
         "elements": [
             {
-                "id": "mIyMDdmNT_86",
+                "id": "WViYjUzZmNkY_86",
                 "type": "batch-barcode",
                 "unit": "px",
                 "props": {
@@ -69,7 +69,7 @@
                 }
             },
             {
-                "id": "mIyMDdmNT_93",
+                "id": "WViYjUzZmNkY_93",
                 "type": "batch-qrcode",
                 "unit": "px",
                 "props": {
@@ -100,7 +100,7 @@
                 }
             },
             {
-                "id": "mIyMDdmNT_116",
+                "id": "WViYjUzZmNkY_116",
                 "type": "batch-text",
                 "unit": "px",
                 "props": {
@@ -138,7 +138,7 @@
                 }
             },
             {
-                "id": "mIyMDdmNT_132",
+                "id": "WViYjUzZmNkY_132",
                 "type": "hod-footer",
                 "unit": "px",
                 "props": {

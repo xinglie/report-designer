@@ -30,7 +30,7 @@
         },
         "elements": [
             {
-                "id": "mIyMDdmNT_lg4t6ji8365",
+                "id": "WViYjUzZmNkY_lg4t6ji8365",
                 "type": "chart/meter2",
                 "unit": "px",
                 "props": {
@@ -57,7 +57,7 @@
                 }
             },
             {
-                "id": "mIyMDdmNT_lg4t6ji8421",
+                "id": "WViYjUzZmNkY_lg4t6ji8421",
                 "type": "chart/echart",
                 "unit": "px",
                 "props": {
@@ -84,7 +84,7 @@
                 }
             },
             {
-                "id": "mIyMDdmNT_lfuvg8pv131",
+                "id": "WViYjUzZmNkY_lfuvg8pv131",
                 "type": "image",
                 "unit": "px",
                 "props": {
@@ -106,7 +106,7 @@
                 }
             },
             {
-                "id": "mIyMDdmNT_lfuvg8pv197",
+                "id": "WViYjUzZmNkY_lfuvg8pv197",
                 "type": "svg/pipe",
                 "unit": "px",
                 "props": {
@@ -146,7 +146,7 @@
                 }
             },
             {
-                "id": "mIyMDdmNT_lfuvg8pv248",
+                "id": "WViYjUzZmNkY_lfuvg8pv248",
                 "type": "nbtn",
                 "unit": "px",
                 "props": {
@@ -178,7 +178,7 @@
                 }
             },
             {
-                "id": "mIyMDdmNT_lfuvg8pv316",
+                "id": "WViYjUzZmNkY_lfuvg8pv316",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -210,7 +210,7 @@
                 }
             },
             {
-                "id": "mIyMDdmNT_lfuvg8pv378",
+                "id": "WViYjUzZmNkY_lfuvg8pv378",
                 "type": "svg/tank",
                 "unit": "px",
                 "props": {
@@ -246,7 +246,7 @@
                 }
             },
             {
-                "id": "mIyMDdmNT_lfuvg8pv426",
+                "id": "WViYjUzZmNkY_lfuvg8pv426",
                 "type": "image",
                 "unit": "px",
                 "props": {
@@ -267,7 +267,7 @@
                 }
             },
             {
-                "id": "mIyMDdmNT_lfuvg8pv154",
+                "id": "WViYjUzZmNkY_lfuvg8pv154",
                 "type": "svg/pipe",
                 "unit": "px",
                 "props": {
@@ -307,7 +307,7 @@
                 }
             },
             {
-                "id": "mIyMDdmNT_lfuxbd1153",
+                "id": "WViYjUzZmNkY_lfuxbd1153",
                 "type": "slight",
                 "unit": "px",
                 "props": {
@@ -345,7 +345,7 @@
                 }
             },
             {
-                "id": "mIyMDdmNT_lg4t6ji8269",
+                "id": "WViYjUzZmNkY_lg4t6ji8269",
                 "type": "svg/fan",
                 "unit": "px",
                 "props": {
@@ -373,7 +373,7 @@
                 }
             },
             {
-                "id": "mIyMDdmNT_lg4xb6l6187",
+                "id": "WViYjUzZmNkY_lg4xb6l6187",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -415,7 +415,7 @@
                 }
             },
             {
-                "id": "mIyMDdmNT_lg4xb6l6225",
+                "id": "WViYjUzZmNkY_lg4xb6l6225",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -457,7 +457,7 @@
                 }
             },
             {
-                "id": "mIyMDdmNT_lg4xb6l6264",
+                "id": "WViYjUzZmNkY_lg4xb6l6264",
                 "type": "text",
                 "unit": "px",
                 "props": {

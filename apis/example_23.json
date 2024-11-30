@@ -33,7 +33,7 @@
         },
         "elements": [
             {
-                "id": "mIyMDdmNT_303",
+                "id": "WViYjUzZmNkY_303",
                 "type": "data-repeater",
                 "unit": "px",
                 "props": {
@@ -51,7 +51,7 @@
                                     "width": 300,
                                     "elements": [
                                         {
-                                            "id": "mIyMDdmNT_307",
+                                            "id": "WViYjUzZmNkY_307",
                                             "type": "qrcode",
                                             "unit": "px",
                                             "props": {
@@ -85,7 +85,7 @@
                                             }
                                         },
                                         {
-                                            "id": "mIyMDdmNT_342",
+                                            "id": "WViYjUzZmNkY_342",
                                             "type": "qrcode",
                                             "unit": "px",
                                             "props": {
@@ -121,7 +121,7 @@
                                             }
                                         },
                                         {
-                                            "id": "mIyMDdmNT_348",
+                                            "id": "WViYjUzZmNkY_348",
                                             "type": "barcode",
                                             "unit": "px",
                                             "props": {
@@ -162,7 +162,7 @@
                                             }
                                         },
                                         {
-                                            "id": "mIyMDdmNT_368",
+                                            "id": "WViYjUzZmNkY_368",
                                             "type": "text",
                                             "unit": "px",
                                             "props": {
