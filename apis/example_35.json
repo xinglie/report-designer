@@ -19,7 +19,7 @@
             "blank": "drop",
             "labelCol": 1,
             "labelGap": 10,
-            "font": "unset",
+            "font": "tahoma",
             "gridWidth": 20,
             "gridHeight": 20,
             "background": "#ffffff",
@@ -32,8 +32,8 @@
         },
         "elements": [
             {
-                "id": "WViYjUzZmNkY_56",
-                "type": "data-dtable",
+                "id": "0ZGJj_56",
+                "type": "pt",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -67,8 +67,8 @@
                                     "textContent": "",
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_57",
-                                            "type": "data-ctable",
+                                            "id": "0ZGJj_57",
+                                            "type": "ru",
                                             "unit": "px",
                                             "props": {
                                                 "full": false,
@@ -757,8 +757,8 @@
                                     "textContent": "",
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_58",
-                                            "type": "data-ctable",
+                                            "id": "0ZGJj_58",
+                                            "type": "ru",
                                             "unit": "px",
                                             "props": {
                                                 "full": false,
@@ -1002,8 +1002,8 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_59",
-                "type": "pager",
+                "id": "0ZGJj_59",
+                "type": "1oa",
                 "unit": "px",
                 "props": {
                     "x": 491,
@@ -1035,8 +1035,8 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_60",
-                "type": "pager",
+                "id": "0ZGJj_60",
+                "type": "1oa",
                 "unit": "px",
                 "props": {
                     "x": 11,

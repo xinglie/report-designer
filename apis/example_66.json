@@ -18,7 +18,7 @@
             "blank": "drop",
             "labelCol": 1,
             "labelGap": 2.646,
-            "font": "unset",
+            "font": "tahoma",
             "gridWidth": 5.292,
             "gridHeight": 5.292,
             "background": "#fff",
@@ -30,8 +30,8 @@
         },
         "elements": [
             {
-                "id": "WViYjUzZmNkY_ltcrh409162",
-                "type": "data-dtable",
+                "id": "0ZGJj_ltcrh409162",
+                "type": "pt",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -57,7 +57,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "elements": []
                                 },
@@ -81,7 +81,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "elements": []
                                 },
@@ -105,7 +105,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "elements": []
                                 }
@@ -134,7 +134,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "textContent": "地址"
                                 },
@@ -158,7 +158,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "textContent": "合并测试"
                                 }
@@ -182,7 +182,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "height": 7.938,
                                     "width": 46.708,
@@ -207,7 +207,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "textContent": "序号",
                                     "height": 7.938,
@@ -242,7 +242,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "bindKey": "addr",
                                     "bindName": "地址"
@@ -267,7 +267,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "bindKey": [
                                         "name",
@@ -295,7 +295,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "bindKey": "order",
                                     "bindName": "序号"
@@ -325,7 +325,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true
                                 },
                                 {
@@ -348,7 +348,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true
                                 },
                                 {
@@ -371,7 +371,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true
                                 }
                             ]
@@ -398,7 +398,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "elements": []
                                 },
@@ -422,7 +422,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "elements": []
                                 },
@@ -446,7 +446,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "elements": []
                                 }

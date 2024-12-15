@@ -18,8 +18,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "WViYjUzZmNkY_80",
-                "type": "data-dtable",
+                "id": "0ZGJj_80",
+                "type": "pt",
                 "props": {
                     "rows": [
                         {
@@ -53,8 +53,8 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_325",
-                                            "type": "data-ctable",
+                                            "id": "0ZGJj_325",
+                                            "type": "ru",
                                             "props": {
                                                 "rows": [
                                                     {
@@ -542,7 +542,7 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_222",
+                                            "id": "0ZGJj_222",
                                             "type": "text",
                                             "props": {
                                                 "x": 32,

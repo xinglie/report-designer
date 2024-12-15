@@ -21,7 +21,7 @@
             "labelGap": 2.65,
             "gridWidth": 5.29,
             "gridHeight": 5.29,
-            "font": "unset",
+            "font": "tahoma",
             "background": "#ffffff",
             "backgroundRepeat": "full",
             "backgroundWidth": 0,
@@ -31,7 +31,7 @@
         },
         "elements": [
             {
-                "id": "WViYjUzZmNkY_75",
+                "id": "0ZGJj_75",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -66,7 +66,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_76",
+                "id": "0ZGJj_76",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -100,7 +100,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_77",
+                "id": "0ZGJj_77",
                 "type": "barcode",
                 "unit": "mm",
                 "props": {
@@ -131,7 +131,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_95",
+                "id": "0ZGJj_95",
                 "type": "line",
                 "unit": "mm",
                 "props": {
@@ -149,7 +149,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_100",
+                "id": "0ZGJj_100",
                 "type": "line",
                 "unit": "mm",
                 "props": {
@@ -167,7 +167,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_103",
+                "id": "0ZGJj_103",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -201,7 +201,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_118",
+                "id": "0ZGJj_118",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -235,7 +235,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_121",
+                "id": "0ZGJj_121",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -269,7 +269,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_125",
+                "id": "0ZGJj_125",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -303,7 +303,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_131",
+                "id": "0ZGJj_131",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -337,7 +337,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_138",
+                "id": "0ZGJj_138",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -372,7 +372,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_143",
+                "id": "0ZGJj_143",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -407,7 +407,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_146",
+                "id": "0ZGJj_146",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -442,7 +442,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_152",
+                "id": "0ZGJj_152",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -477,7 +477,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_158",
+                "id": "0ZGJj_158",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -512,7 +512,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_161",
+                "id": "0ZGJj_161",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -546,7 +546,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_184",
+                "id": "0ZGJj_184",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -580,7 +580,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_190",
+                "id": "0ZGJj_190",
                 "type": "line",
                 "unit": "mm",
                 "props": {
@@ -598,7 +598,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_201",
+                "id": "0ZGJj_201",
                 "type": "barcode",
                 "unit": "mm",
                 "props": {
@@ -629,7 +629,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_214",
+                "id": "0ZGJj_214",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -663,7 +663,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_220",
+                "id": "0ZGJj_220",
                 "type": "line",
                 "unit": "mm",
                 "props": {
@@ -681,7 +681,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_223",
+                "id": "0ZGJj_223",
                 "type": "image",
                 "unit": "mm",
                 "props": {
@@ -704,7 +704,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_236",
+                "id": "0ZGJj_236",
                 "type": "text",
                 "unit": "mm",
                 "props": {

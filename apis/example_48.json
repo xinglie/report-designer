@@ -30,7 +30,7 @@
         "groups": [],
         "elements": [
             {
-                "id": "WViYjUzZmNkY_l7twxz8s167",
+                "id": "0ZGJj_l7twxz8s167",
                 "type": "image",
                 "unit": "mm",
                 "props": {
@@ -50,7 +50,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_l7twxz8s180",
+                "id": "0ZGJj_l7twxz8s180",
                 "type": "qrcode",
                 "unit": "mm",
                 "props": {

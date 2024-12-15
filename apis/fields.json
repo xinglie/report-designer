@@ -264,7 +264,7 @@
                 {
                     "name": "片断1",
                     "key": "p1",
-                    "use": "data-richtext",
+                    "use": "1i7",
                     "props": {
                         "width": 500
                     }
@@ -272,7 +272,7 @@
                 {
                     "name": "片断2",
                     "key": "p2",
-                    "use": "data-richtext",
+                    "use": "1i7",
                     "props": {
                         "width": 500
                     }
@@ -342,7 +342,7 @@
                         {
                             "name": "轮播图测试",
                             "key": "images",
-                            "use": "carousel"
+                            "use": "2os"
                         }
                     ]
                 }
@@ -402,7 +402,7 @@
                 },
                 {
                     "name": "数量",
-                    "key": "number"
+                    "key": "1m9"
                 },
                 {
                     "name": "折扣率",
@@ -457,6 +457,74 @@
                         {
                             "name": "浏览量",
                             "key": "list/pv"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "护士层级申请",
+            "expand": true,
+            "id": "nurse",
+            "tag": "apis/nurse.json",
+            "fields": [
+                {
+                    "name": "基础数据",
+                    "id": "nurse",
+                    "tag": "apis/nurse.json",
+                    "expand": true,
+                    "fields": [
+                        {
+                            "name": "姓名",
+                            "key": "base/name"
+                        },
+                        {
+                            "name": "工号",
+                            "key": "base/no"
+                        }
+                    ]
+                },
+                {
+                    "name": "富文本",
+                    "key": "1k8"
+                },
+                {
+                    "name": "审核数据",
+                    "id": "nurse",
+                    "tag": "apis/nurse.json",
+                    "expand": true,
+                    "fields": [
+                        {
+                            "name": "申请标题",
+                            "key": "approve/title"
+                        },
+                        {
+                            "name": "护士长意见",
+                            "key": "approve/opinion"
+                        },
+                        {
+                            "name": "层级",
+                            "key": "approve/level"
+                        },
+                        {
+                            "name": "申请人",
+                            "key": "approve/apply"
+                        }
+                    ]
+                },
+                {
+                    "name": "申请数据",
+                    "id": "nurse",
+                    "tag": "apis/nurse.json",
+                    "expand": true,
+                    "fields": [
+                        {
+                            "name": "申请标题",
+                            "key": "apply/title"
+                        },
+                        {
+                            "name": "申请历史",
+                            "key": "apply/history"
                         }
                     ]
                 }

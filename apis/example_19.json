@@ -22,7 +22,7 @@
             "labelGap": 2.646,
             "gridWidth": 5.292,
             "gridHeight": 5.292,
-            "font": "unset",
+            "font": "tahoma",
             "background": "#fff",
             "backgroundImage": "",
             "backgroundRepeat": "full",
@@ -33,7 +33,7 @@
         },
         "elements": [
             {
-                "id": "WViYjUzZmNkY_49",
+                "id": "0ZGJj_49",
                 "type": "line",
                 "unit": "mm",
                 "props": {
@@ -53,7 +53,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_61",
+                "id": "0ZGJj_61",
                 "type": "rect",
                 "unit": "mm",
                 "props": {
@@ -90,7 +90,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_72",
+                "id": "0ZGJj_72",
                 "type": "circle",
                 "unit": "mm",
                 "props": {
@@ -112,7 +112,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_76",
+                "id": "0ZGJj_76",
                 "type": "rod",
                 "unit": "mm",
                 "props": {
@@ -137,7 +137,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_82",
+                "id": "0ZGJj_82",
                 "type": "clock",
                 "unit": "mm",
                 "props": {
@@ -156,7 +156,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_92",
+                "id": "0ZGJj_92",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -201,7 +201,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_105",
+                "id": "0ZGJj_105",
                 "type": "image",
                 "unit": "mm",
                 "props": {
@@ -231,8 +231,8 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_112",
-                "type": "repeat",
+                "id": "0ZGJj_112",
+                "type": "2kq",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -249,7 +249,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "repeat": "repeat",
+                    "2kq": "2kq",
                     "imageWidth": 0,
                     "imageHeight": 0,
                     "backgroundX": 0,
@@ -260,7 +260,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_116",
+                "id": "0ZGJj_116",
                 "type": "qrcode",
                 "unit": "mm",
                 "props": {
@@ -288,7 +288,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_121",
+                "id": "0ZGJj_121",
                 "type": "barcode",
                 "unit": "mm",
                 "props": {

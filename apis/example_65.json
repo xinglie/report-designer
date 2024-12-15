@@ -18,7 +18,7 @@
             "blank": "keep",
             "labelCol": 1,
             "labelGap": 2.646,
-            "font": "unset",
+            "font": "tahoma",
             "gridWidth": 5.292,
             "gridHeight": 5.292,
             "background": "#fff",
@@ -30,8 +30,8 @@
         },
         "elements": [
             {
-                "id": "WViYjUzZmNkY_lt6y4vct327",
-                "type": "data-ftable",
+                "id": "0ZGJj_lt6y4vct327",
+                "type": "tv",
                 "unit": "mm",
                 "props": {
                     "bind": {
@@ -79,7 +79,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_lt6y4vct562",
+                                            "id": "0ZGJj_lt6y4vct562",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -94,7 +94,7 @@
                                                 "bind": {},
                                                 "match": true,
                                                 "size": 3.704,
-                                                "font": "unset",
+                                                "font": "tahoma",
                                                 "line": 1.5,
                                                 "gap": 0,
                                                 "color": "#000",
@@ -123,7 +123,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_lt6y4vct632",
+                                            "id": "0ZGJj_lt6y4vct632",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -138,7 +138,7 @@
                                                 "bind": {},
                                                 "match": true,
                                                 "size": 3.704,
-                                                "font": "unset",
+                                                "font": "tahoma",
                                                 "line": 1.5,
                                                 "gap": 0,
                                                 "color": "#000",
@@ -172,7 +172,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_lt6y4vct349",
+                                            "id": "0ZGJj_lt6y4vct349",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -197,7 +197,7 @@
                                                 "format": "b:{\"id\":\"no\",\"body\":[],\"prefix\":\"序号：\"}",
                                                 "match": true,
                                                 "size": 3.704,
-                                                "font": "unset",
+                                                "font": "tahoma",
                                                 "line": 1.5,
                                                 "gap": 0,
                                                 "color": "#000",
@@ -214,7 +214,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_lt6y4vct369",
+                                            "id": "0ZGJj_lt6y4vct369",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -239,7 +239,7 @@
                                                 "format": "b:{\"id\":\"no\",\"body\":[],\"prefix\":\"性别：\"}",
                                                 "match": true,
                                                 "size": 3.704,
-                                                "font": "unset",
+                                                "font": "tahoma",
                                                 "line": 1.5,
                                                 "gap": 0,
                                                 "color": "#000",
@@ -256,7 +256,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_lt6y4vct823",
+                                            "id": "0ZGJj_lt6y4vct823",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -281,7 +281,7 @@
                                                 "format": "b:{\"id\":\"no\",\"body\":[],\"prefix\":\"姓名：\"}",
                                                 "match": true,
                                                 "size": 3.704,
-                                                "font": "unset",
+                                                "font": "tahoma",
                                                 "line": 1.5,
                                                 "gap": 0,
                                                 "color": "#000",
@@ -310,7 +310,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_lt6y4vct747",
+                                            "id": "0ZGJj_lt6y4vct747",
                                             "type": "image",
                                             "unit": "mm",
                                             "props": {

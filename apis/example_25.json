@@ -21,7 +21,7 @@
             "labelGap": 10,
             "gridWidth": 20,
             "gridHeight": 20,
-            "font": "unset",
+            "font": "tahoma",
             "background": "#ffffff",
             "backgroundRepeat": "full",
             "backgroundWidth": 0,
@@ -31,7 +31,7 @@
         },
         "elements": [
             {
-                "id": "WViYjUzZmNkY_86",
+                "id": "0ZGJj_86",
                 "type": "batch-barcode",
                 "unit": "px",
                 "props": {
@@ -69,7 +69,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_93",
+                "id": "0ZGJj_93",
                 "type": "batch-qrcode",
                 "unit": "px",
                 "props": {
@@ -100,7 +100,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_116",
+                "id": "0ZGJj_116",
                 "type": "batch-text",
                 "unit": "px",
                 "props": {
@@ -138,8 +138,8 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_132",
-                "type": "hod-footer",
+                "id": "0ZGJj_132",
+                "type": "11z",
                 "unit": "px",
                 "props": {
                     "pinX": true,

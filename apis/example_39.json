@@ -5,12 +5,12 @@
         "ys": [],
         "groups": [
             [
-                "WViYjUzZmNkY_lh4ey1ha147",
-                "WViYjUzZmNkY_10",
-                "WViYjUzZmNkY_11",
-                "WViYjUzZmNkY_12",
-                "WViYjUzZmNkY_13",
-                "WViYjUzZmNkY_14"
+                "0ZGJj_lh4ey1ha147",
+                "0ZGJj_10",
+                "0ZGJj_11",
+                "0ZGJj_12",
+                "0ZGJj_13",
+                "0ZGJj_14"
             ]
         ],
         "page": {
@@ -30,7 +30,7 @@
             "labelGap": 10,
             "gridWidth": 20,
             "gridHeight": 20,
-            "font": "unset",
+            "font": "tahoma",
             "background": "#ffffff",
             "backgroundRepeat": "full",
             "backgroundWidth": 0,
@@ -40,7 +40,7 @@
         },
         "elements": [
             {
-                "id": "WViYjUzZmNkY_lh4ey1ha147",
+                "id": "0ZGJj_lh4ey1ha147",
                 "type": "svg/polyline2",
                 "unit": "px",
                 "props": {
@@ -72,7 +72,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_7",
+                "id": "0ZGJj_7",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -104,7 +104,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_8",
+                "id": "0ZGJj_8",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -136,7 +136,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_10",
+                "id": "0ZGJj_10",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -168,7 +168,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_11",
+                "id": "0ZGJj_11",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -200,7 +200,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_12",
+                "id": "0ZGJj_12",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -232,7 +232,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_13",
+                "id": "0ZGJj_13",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -264,7 +264,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_14",
+                "id": "0ZGJj_14",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -296,7 +296,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_16",
+                "id": "0ZGJj_16",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -329,8 +329,8 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_17",
-                "type": "formula",
+                "id": "0ZGJj_17",
+                "type": "2go",
                 "unit": "px",
                 "props": {
                     "x": 76,
@@ -350,8 +350,8 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_18",
-                "type": "formula",
+                "id": "0ZGJj_18",
+                "type": "2go",
                 "unit": "px",
                 "props": {
                     "x": 76,
@@ -371,7 +371,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_75",
+                "id": "0ZGJj_75",
                 "type": "svg/brace",
                 "unit": "px",
                 "props": {

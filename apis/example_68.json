@@ -20,7 +20,7 @@
             "blank": "drop",
             "labelCol": 1,
             "labelGap": 2.646,
-            "font": "unset",
+            "font": "tahoma",
             "gridWidth": 5.292,
             "gridHeight": 5.292,
             "background": "#fff",
@@ -32,8 +32,8 @@
         },
         "elements": [
             {
-                "id": "WViYjUzZmNkY_lu6hulsv395",
-                "type": "hod-hflex",
+                "id": "0ZGJj_lu6hulsv395",
+                "type": "161",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -64,8 +64,8 @@
                                     ],
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_lu6hulsv463",
-                                            "type": "data-repeater",
+                                            "id": "0ZGJj_lu6hulsv463",
+                                            "type": "vw",
                                             "unit": "mm",
                                             "props": {
                                                 "bind": {
@@ -80,7 +80,7 @@
                                                                 "width": 64.713,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "WViYjUzZmNkY_lu6hulsv488",
+                                                                        "id": "0ZGJj_lu6hulsv488",
                                                                         "type": "text",
                                                                         "unit": "mm",
                                                                         "props": {
@@ -104,7 +104,7 @@
                                                                             },
                                                                             "match": true,
                                                                             "size": 3.704,
-                                                                            "font": "unset",
+                                                                            "font": "tahoma",
                                                                             "line": 1.5,
                                                                             "gap": 0,
                                                                             "color": "#000",
@@ -121,7 +121,7 @@
                                                                         }
                                                                     },
                                                                     {
-                                                                        "id": "WViYjUzZmNkY_lu6hulsv514",
+                                                                        "id": "0ZGJj_lu6hulsv514",
                                                                         "type": "image",
                                                                         "unit": "mm",
                                                                         "props": {
@@ -151,7 +151,7 @@
                                                                         }
                                                                     },
                                                                     {
-                                                                        "id": "WViYjUzZmNkY_lu6hulsv517",
+                                                                        "id": "0ZGJj_lu6hulsv517",
                                                                         "type": "text",
                                                                         "unit": "mm",
                                                                         "props": {
@@ -175,7 +175,7 @@
                                                                             },
                                                                             "match": true,
                                                                             "size": 3.704,
-                                                                            "font": "unset",
+                                                                            "font": "tahoma",
                                                                             "line": 1.5,
                                                                             "gap": 0,
                                                                             "color": "#000",
@@ -241,8 +241,8 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_lu6hulsv578",
-                "type": "hod-hflex",
+                "id": "0ZGJj_lu6hulsv578",
+                "type": "161",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -273,8 +273,8 @@
                                     ],
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_lu6hulsv579",
-                                            "type": "data-repeater",
+                                            "id": "0ZGJj_lu6hulsv579",
+                                            "type": "vw",
                                             "unit": "mm",
                                             "props": {
                                                 "bind": {
@@ -289,7 +289,7 @@
                                                                 "width": 64.713,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "WViYjUzZmNkY_lu6hulsv580",
+                                                                        "id": "0ZGJj_lu6hulsv580",
                                                                         "type": "text",
                                                                         "unit": "mm",
                                                                         "props": {
@@ -313,7 +313,7 @@
                                                                             },
                                                                             "match": true,
                                                                             "size": 3.704,
-                                                                            "font": "unset",
+                                                                            "font": "tahoma",
                                                                             "line": 1.5,
                                                                             "gap": 0,
                                                                             "color": "#000",
@@ -330,7 +330,7 @@
                                                                         }
                                                                     },
                                                                     {
-                                                                        "id": "WViYjUzZmNkY_lu6hulsv582",
+                                                                        "id": "0ZGJj_lu6hulsv582",
                                                                         "type": "text",
                                                                         "unit": "mm",
                                                                         "props": {
@@ -355,7 +355,7 @@
                                                                             "format": "b:{\"id\":\"no\",\"body\":[\"#,###\"]}",
                                                                             "match": true,
                                                                             "size": 3.704,
-                                                                            "font": "unset",
+                                                                            "font": "tahoma",
                                                                             "line": 1.5,
                                                                             "gap": 0,
                                                                             "color": "#000",
@@ -372,7 +372,7 @@
                                                                         }
                                                                     },
                                                                     {
-                                                                        "id": "WViYjUzZmNkY_lu6hulsv640",
+                                                                        "id": "0ZGJj_lu6hulsv640",
                                                                         "type": "text",
                                                                         "unit": "mm",
                                                                         "props": {
@@ -397,7 +397,7 @@
                                                                             "format": "b:{\"id\":\"no\",\"body\":[\"#,###\"]}",
                                                                             "match": true,
                                                                             "size": 3.704,
-                                                                            "font": "unset",
+                                                                            "font": "tahoma",
                                                                             "line": 1.5,
                                                                             "gap": 0,
                                                                             "color": "#000",
@@ -414,7 +414,7 @@
                                                                         }
                                                                     },
                                                                     {
-                                                                        "id": "WViYjUzZmNkY_lu6hulsv663",
+                                                                        "id": "0ZGJj_lu6hulsv663",
                                                                         "type": "text",
                                                                         "unit": "mm",
                                                                         "props": {
@@ -439,7 +439,7 @@
                                                                             "format": "b:{\"id\":\"no\",\"body\":[\"#,###\"]}",
                                                                             "match": true,
                                                                             "size": 3.704,
-                                                                            "font": "unset",
+                                                                            "font": "tahoma",
                                                                             "line": 1.5,
                                                                             "gap": 0,
                                                                             "color": "#000",
@@ -505,8 +505,8 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_lu6kq3p2213",
-                "type": "hod-hflex",
+                "id": "0ZGJj_lu6kq3p2213",
+                "type": "161",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -537,8 +537,8 @@
                                     ],
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_lu6kwl70218",
-                                            "type": "data-ftable",
+                                            "id": "0ZGJj_lu6kwl70218",
+                                            "type": "tv",
                                             "unit": "mm",
                                             "props": {
                                                 "bind": {
@@ -701,7 +701,7 @@
                                                                 "bBottom": true,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "WViYjUzZmNkY_lu6kwl70219",
+                                                                        "id": "0ZGJj_lu6kwl70219",
                                                                         "type": "text",
                                                                         "unit": "mm",
                                                                         "props": {
@@ -725,7 +725,7 @@
                                                                             },
                                                                             "match": true,
                                                                             "size": 3.704,
-                                                                            "font": "unset",
+                                                                            "font": "tahoma",
                                                                             "line": 1.5,
                                                                             "gap": 0,
                                                                             "color": "#000",
@@ -754,7 +754,7 @@
                                                                 "bBottom": true,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "WViYjUzZmNkY_lu6kwl70220",
+                                                                        "id": "0ZGJj_lu6kwl70220",
                                                                         "type": "text",
                                                                         "unit": "mm",
                                                                         "props": {
@@ -778,7 +778,7 @@
                                                                             },
                                                                             "match": true,
                                                                             "size": 3.704,
-                                                                            "font": "unset",
+                                                                            "font": "tahoma",
                                                                             "line": 1.5,
                                                                             "gap": 0,
                                                                             "color": "#000",
@@ -807,7 +807,7 @@
                                                                 "bBottom": true,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "WViYjUzZmNkY_lu6kwl70221",
+                                                                        "id": "0ZGJj_lu6kwl70221",
                                                                         "type": "text",
                                                                         "unit": "mm",
                                                                         "props": {
@@ -831,7 +831,7 @@
                                                                             },
                                                                             "match": true,
                                                                             "size": 3.704,
-                                                                            "font": "unset",
+                                                                            "font": "tahoma",
                                                                             "line": 1.5,
                                                                             "gap": 0,
                                                                             "color": "#000",
@@ -860,7 +860,7 @@
                                                                 "colspan": 1,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "WViYjUzZmNkY_lu6kwl70222",
+                                                                        "id": "0ZGJj_lu6kwl70222",
                                                                         "type": "text",
                                                                         "unit": "mm",
                                                                         "props": {
@@ -884,7 +884,7 @@
                                                                             },
                                                                             "match": true,
                                                                             "size": 3.704,
-                                                                            "font": "unset",
+                                                                            "font": "tahoma",
                                                                             "line": 1.5,
                                                                             "gap": 0,
                                                                             "color": "#000",
@@ -913,7 +913,7 @@
                                                                 "colspan": 1,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "WViYjUzZmNkY_lu6kwl70223",
+                                                                        "id": "0ZGJj_lu6kwl70223",
                                                                         "type": "text",
                                                                         "unit": "mm",
                                                                         "props": {
@@ -937,7 +937,7 @@
                                                                             },
                                                                             "match": true,
                                                                             "size": 3.704,
-                                                                            "font": "unset",
+                                                                            "font": "tahoma",
                                                                             "line": 1.5,
                                                                             "gap": 0,
                                                                             "color": "#000",
@@ -966,7 +966,7 @@
                                                                 "colspan": 1,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "WViYjUzZmNkY_lu6kwl70224",
+                                                                        "id": "0ZGJj_lu6kwl70224",
                                                                         "type": "text",
                                                                         "unit": "mm",
                                                                         "props": {
@@ -990,7 +990,7 @@
                                                                             },
                                                                             "match": true,
                                                                             "size": 3.704,
-                                                                            "font": "unset",
+                                                                            "font": "tahoma",
                                                                             "line": 1.5,
                                                                             "gap": 0,
                                                                             "color": "#000",

@@ -25,7 +25,7 @@
             "labelGap": 10,
             "gridWidth": 20,
             "gridHeight": 20,
-            "font": "unset",
+            "font": "tahoma",
             "background": "#ffffff",
             "backgroundImage": "",
             "preformat": false,
@@ -37,7 +37,7 @@
         },
         "elements": [
             {
-                "id": "WViYjUzZmNkY_142",
+                "id": "0ZGJj_142",
                 "type": "svg/heart",
                 "unit": "px",
                 "props": {
@@ -53,7 +53,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "repeat": "infinite",
+                            "2kq": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -65,7 +65,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_106",
+                "id": "0ZGJj_106",
                 "type": "line",
                 "unit": "px",
                 "props": {
@@ -83,7 +83,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "repeat": "infinite",
+                            "2kq": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -95,7 +95,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_107",
+                "id": "0ZGJj_107",
                 "type": "rect",
                 "unit": "px",
                 "props": {
@@ -130,7 +130,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "repeat": "infinite",
+                            "2kq": "infinite",
                             "fn": "linear",
                             "delay": 2,
                             "duration": 1,
@@ -142,7 +142,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_108",
+                "id": "0ZGJj_108",
                 "type": "circle",
                 "unit": "px",
                 "props": {
@@ -162,7 +162,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "repeat": "infinite",
+                            "2kq": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -171,7 +171,7 @@
                             "use": "shakeY"
                         },
                         {
-                            "repeat": "infinite",
+                            "2kq": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1.52,
@@ -183,7 +183,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_109",
+                "id": "0ZGJj_109",
                 "type": "line",
                 "unit": "px",
                 "props": {
@@ -203,7 +203,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "repeat": "infinite",
+                            "2kq": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -215,7 +215,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_110",
+                "id": "0ZGJj_110",
                 "type": "rect",
                 "unit": "px",
                 "props": {
@@ -252,7 +252,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "repeat": "infinite",
+                            "2kq": "infinite",
                             "fn": "linear",
                             "delay": 2,
                             "duration": 1,
@@ -264,7 +264,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_111",
+                "id": "0ZGJj_111",
                 "type": "circle",
                 "unit": "px",
                 "props": {
@@ -286,7 +286,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "repeat": "infinite",
+                            "2kq": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -295,7 +295,7 @@
                             "use": "shakeY"
                         },
                         {
-                            "repeat": "infinite",
+                            "2kq": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1.52,
@@ -307,7 +307,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_144",
+                "id": "0ZGJj_144",
                 "type": "rect",
                 "unit": "px",
                 "props": {
@@ -342,7 +342,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "repeat": 3,
+                            "2kq": 3,
                             "fn": "cubic-bezier(0.73,-0.02,0.25,0.99)",
                             "delay": 1.5,
                             "duration": 0.8,

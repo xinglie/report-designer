@@ -21,8 +21,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "WViYjUzZmNkY_141",
-                "type": "pager",
+                "id": "0ZGJj_141",
+                "type": "1oa",
                 "unit": "pc",
                 "props": {
                     "ext": {
@@ -52,8 +52,8 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_142",
-                "type": "pager",
+                "id": "0ZGJj_142",
+                "type": "1oa",
                 "unit": "pc",
                 "props": {
                     "ext": {
@@ -83,8 +83,8 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_190",
-                "type": "data-ftable",
+                "id": "0ZGJj_190",
+                "type": "tv",
                 "unit": "pc",
                 "props": {
                     "rows": [
@@ -150,7 +150,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_208",
+                                            "id": "0ZGJj_208",
                                             "type": "text",
                                             "unit": "pc",
                                             "props": {
@@ -205,7 +205,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_236",
+                                            "id": "0ZGJj_236",
                                             "type": "text",
                                             "unit": "pc",
                                             "props": {
@@ -260,7 +260,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_233",
+                                            "id": "0ZGJj_233",
                                             "type": "text",
                                             "unit": "pc",
                                             "props": {
@@ -315,7 +315,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_228",
+                                            "id": "0ZGJj_228",
                                             "type": "text",
                                             "unit": "pc",
                                             "props": {

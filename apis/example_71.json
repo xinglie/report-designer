@@ -17,7 +17,7 @@
             "blank": "drop",
             "labelCol": 1,
             "labelGap": 2.646,
-            "font": "unset",
+            "font": "tahoma",
             "gridWidth": 5.292,
             "gridHeight": 5.292,
             "background": "#fff",
@@ -29,8 +29,8 @@
         },
         "elements": [
             {
-                "id": "WViYjUzZmNkY_lv1yoyfn445",
-                "type": "hod-hcell",
+                "id": "0ZGJj_lv1yoyfn445",
+                "type": "1a3",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -61,8 +61,8 @@
                                     ],
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_lv1z6ded259",
-                                            "type": "chart/meter2",
+                                            "id": "0ZGJj_lv1z6ded259",
+                                            "type": "chart/26j",
                                             "unit": "mm",
                                             "props": {
                                                 "full": true,
@@ -83,7 +83,7 @@
                                 {
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_lv1yoyfn570",
+                                            "id": "0ZGJj_lv1yoyfn570",
                                             "type": "chart/echart",
                                             "unit": "mm",
                                             "props": {
@@ -131,7 +131,7 @@
                                 {
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_lv1z7dt4245",
+                                            "id": "0ZGJj_lv1z7dt4245",
                                             "type": "chart/line",
                                             "unit": "mm",
                                             "props": {
@@ -207,8 +207,8 @@
                                 {
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_lv1z9nbm215",
-                                            "type": "chart/scatter",
+                                            "id": "0ZGJj_lv1z9nbm215",
+                                            "type": "chart/28k",
                                             "unit": "mm",
                                             "props": {
                                                 "full": 1,

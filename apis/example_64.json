@@ -18,7 +18,7 @@
             "blank": "keep",
             "labelCol": 1,
             "labelGap": 2.646,
-            "font": "unset",
+            "font": "tahoma",
             "gridWidth": 5.292,
             "gridHeight": 5.292,
             "background": "#fff",
@@ -30,8 +30,8 @@
         },
         "elements": [
             {
-                "id": "WViYjUzZmNkY_loh07ahn126",
-                "type": "data-dtable",
+                "id": "0ZGJj_loh07ahn126",
+                "type": "pt",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -57,7 +57,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "elements": []
                                 },
@@ -81,7 +81,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "elements": []
                                 }
@@ -110,7 +110,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "textContent": "序号"
                                 },
@@ -134,7 +134,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "textContent": "姓名"
                                 }
@@ -163,7 +163,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "bindKey": "order",
                                     "bindName": "序号"
@@ -188,7 +188,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "bindKey": "name",
                                     "bindName": "姓名"
@@ -218,7 +218,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true
                                 },
                                 {
@@ -241,7 +241,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true
                                 }
                             ]
@@ -268,7 +268,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "elements": []
                                 },
@@ -292,7 +292,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "elements": []
                                 }
@@ -330,7 +330,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_loh07ahn172",
+                "id": "0ZGJj_loh07ahn172",
                 "type": "rect",
                 "unit": "mm",
                 "props": {
@@ -365,7 +365,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_loh07ahn209",
+                "id": "0ZGJj_loh07ahn209",
                 "type": "line",
                 "unit": "mm",
                 "props": {

@@ -20,7 +20,7 @@
             "blank": "drop",
             "labelCol": 1,
             "labelGap": 2.646,
-            "font": "unset",
+            "font": "tahoma",
             "gridWidth": 5.292,
             "gridHeight": 5.292,
             "background": "#fff",
@@ -32,8 +32,8 @@
         },
         "elements": [
             {
-                "id": "WViYjUzZmNkY_luvcf0ji507",
-                "type": "data-dtable",
+                "id": "0ZGJj_luvcf0ji507",
+                "type": "pt",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -59,7 +59,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "elements": []
                                 },
@@ -83,7 +83,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "elements": []
                                 }
@@ -112,7 +112,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "textContent": "<b>富</b><i>文本</i><span style=\"font-size:20px\">测试</san>",
                                     "textRichText": true
@@ -142,7 +142,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "textFormat": "f:/*\n\tdata是當前綁定的字段取到的數據\n\titem是完整的單條數據對象\n\t可以把下面的console前的註釋去掉查看相應的數據\n*/\nfunction main(data,item){\n\t//console.log(data,item);\n\t//return data+item.name;\n\treturn `<table style=\"border:solid 1px #ccc\"><tr><td>姓名：${item.name}</td><td style=\"color:${item.gender=='女'?'red':'blue'}\">性别：${item.gender}</td></tr><tr><td colspan=\"2\">${item.addr}</td></tr></table>`;\n}",
                                     "bindKey": "name",
@@ -169,7 +169,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "textFormat": "f:/*\n\tdata是當前綁定的字段取到的數據\n\titem是完整的單條數據對象\n\t可以把下面的console前的註釋去掉查看相應的數據\n*/\nfunction main(data,item){\n\t//console.log(data,item);\n\t//return data+item.name;\n\treturn `<div style=\"display:flex;flex-direction:column;align-items:center\"><img style=\"max-width:100%\" src=\"${item.avatar}\"/><span>序号：${item.order}</span></div>`;\n}",
                                     "bindKey": "avatar",
@@ -201,7 +201,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true
                                 },
                                 {
@@ -224,7 +224,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true
                                 }
                             ]
@@ -251,7 +251,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "elements": []
                                 },
@@ -275,7 +275,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.704,
-                                    "textFont": "unset",
+                                    "textFont": "tahoma",
                                     "textMatch": true,
                                     "elements": []
                                 }

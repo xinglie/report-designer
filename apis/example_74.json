@@ -19,7 +19,7 @@
             "blank": "drop",
             "labelCol": 1,
             "labelGap": 2.646,
-            "font": "unset",
+            "font": "tahoma",
             "gridWidth": 5.292,
             "gridHeight": 5.292,
             "background": "#fff",
@@ -31,7 +31,7 @@
         },
         "elements": [
             {
-                "id": "WViYjUzZmNkY_lwsupb2v414",
+                "id": "0ZGJj_lwsupb2v414",
                 "type": "pdf",
                 "unit": "mm",
                 "props": {

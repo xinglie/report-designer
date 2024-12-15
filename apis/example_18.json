@@ -22,7 +22,7 @@
             "labelGap": 0.10417,
             "gridWidth": 0.20833,
             "gridHeight": 0.20833,
-            "font": "unset",
+            "font": "tahoma",
             "background": "#ffffff",
             "backgroundImage": "",
             "backgroundRepeat": "full",
@@ -33,7 +33,7 @@
         },
         "elements": [
             {
-                "id": "WViYjUzZmNkY_101",
+                "id": "0ZGJj_101",
                 "type": "batch-barcode",
                 "unit": "in",
                 "props": {

@@ -30,7 +30,7 @@
             "labelGap": 7.5,
             "gridWidth": 15,
             "gridHeight": 15,
-            "font": "unset",
+            "font": "tahoma",
             "background": "#ffffff",
             "backgroundImage": "",
             "preformat": false,
@@ -42,14 +42,14 @@
         },
         "elements": [
             {
-                "id": "WViYjUzZmNkY_153",
-                "type": "flow/connector",
+                "id": "0ZGJj_153",
+                "type": "flow/2al",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
-                    "linkFromId": "WViYjUzZmNkY_141",
+                    "linkFromId": "0ZGJj_141",
                     "linkFromKey": "p4",
-                    "linkToId": "WViYjUzZmNkY_90",
+                    "linkToId": "0ZGJj_90",
                     "linkToKey": "p6",
                     "x": 155.66,
                     "y": 275.62,
@@ -90,14 +90,14 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_150",
-                "type": "flow/connector",
+                "id": "0ZGJj_150",
+                "type": "flow/2al",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
-                    "linkFromId": "WViYjUzZmNkY_144",
+                    "linkFromId": "0ZGJj_144",
                     "linkFromKey": "p6",
-                    "linkToId": "WViYjUzZmNkY_141",
+                    "linkToId": "0ZGJj_141",
                     "linkToKey": "p7",
                     "x": 351.09,
                     "y": 341.27,
@@ -142,14 +142,14 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_147",
-                "type": "flow/connector",
+                "id": "0ZGJj_147",
+                "type": "flow/2al",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
-                    "linkFromId": "WViYjUzZmNkY_106",
+                    "linkFromId": "0ZGJj_106",
                     "linkFromKey": "p6",
-                    "linkToId": "WViYjUzZmNkY_144",
+                    "linkToId": "0ZGJj_144",
                     "linkToKey": "p7",
                     "x": 351.09,
                     "y": 275.62,
@@ -194,14 +194,14 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_134",
-                "type": "flow/connector",
+                "id": "0ZGJj_134",
+                "type": "flow/2al",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
-                    "linkFromId": "WViYjUzZmNkY_124",
+                    "linkFromId": "0ZGJj_124",
                     "linkFromKey": "p6",
-                    "linkToId": "WViYjUzZmNkY_106",
+                    "linkToId": "0ZGJj_106",
                     "linkToKey": "p7",
                     "x": 351.08,
                     "y": 172.2,
@@ -246,14 +246,14 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_131",
-                "type": "flow/connector",
+                "id": "0ZGJj_131",
+                "type": "flow/2al",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
-                    "linkFromId": "WViYjUzZmNkY_112",
+                    "linkFromId": "0ZGJj_112",
                     "linkFromKey": "p6",
-                    "linkToId": "WViYjUzZmNkY_124",
+                    "linkToId": "0ZGJj_124",
                     "linkToKey": "p7",
                     "x": 351.08,
                     "y": 96.32,
@@ -298,14 +298,14 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_109",
-                "type": "flow/connector",
+                "id": "0ZGJj_109",
+                "type": "flow/2al",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
-                    "linkFromId": "WViYjUzZmNkY_90",
+                    "linkFromId": "0ZGJj_90",
                     "linkFromKey": "p5",
-                    "linkToId": "WViYjUzZmNkY_106",
+                    "linkToId": "0ZGJj_106",
                     "linkToKey": "p4",
                     "x": 225.44,
                     "y": 238.11,
@@ -341,7 +341,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_90",
+                "id": "0ZGJj_90",
                 "type": "flow/process",
                 "unit": "pt",
                 "props": {
@@ -370,7 +370,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_106",
+                "id": "0ZGJj_106",
                 "type": "flow/process",
                 "unit": "pt",
                 "props": {
@@ -401,7 +401,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_112",
+                "id": "0ZGJj_112",
                 "type": "flow/process",
                 "unit": "pt",
                 "props": {
@@ -432,7 +432,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_124",
+                "id": "0ZGJj_124",
                 "type": "flow/process",
                 "unit": "pt",
                 "props": {
@@ -463,7 +463,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_141",
+                "id": "0ZGJj_141",
                 "type": "flow/process",
                 "unit": "pt",
                 "props": {
@@ -494,7 +494,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_144",
+                "id": "0ZGJj_144",
                 "type": "flow/process",
                 "unit": "pt",
                 "props": {

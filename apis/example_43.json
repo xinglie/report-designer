@@ -18,8 +18,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "WViYjUzZmNkY_133",
-                "type": "hod-header",
+                "id": "0ZGJj_133",
+                "type": "140",
                 "props": {
                     "rows": [
                         {
@@ -29,8 +29,8 @@
                                     "width": 791,
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_142",
-                                            "type": "pager",
+                                            "id": "0ZGJj_142",
+                                            "type": "1oa",
                                             "props": {
                                                 "ext": {},
                                                 "x": 580,
@@ -87,8 +87,8 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_360",
-                "type": "hod-footer",
+                "id": "0ZGJj_360",
+                "type": "11z",
                 "props": {
                     "rows": [
                         {
@@ -98,7 +98,7 @@
                                     "width": 791,
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_387",
+                                            "id": "0ZGJj_387",
                                             "type": "line",
                                             "props": {
                                                 "x": 44,
@@ -113,7 +113,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_533",
+                                            "id": "0ZGJj_533",
                                             "type": "line",
                                             "props": {
                                                 "x": 451,
@@ -128,7 +128,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_571",
+                                            "id": "0ZGJj_571",
                                             "type": "text",
                                             "props": {
                                                 "x": 273,
@@ -191,7 +191,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_607",
+                "id": "0ZGJj_607",
                 "type": "text",
                 "props": {
                     "x": 283,
@@ -222,7 +222,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_653",
+                "id": "0ZGJj_653",
                 "type": "image",
                 "props": {
                     "x": 266,
@@ -243,7 +243,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_691",
+                "id": "0ZGJj_691",
                 "type": "text",
                 "props": {
                     "x": 267,
@@ -274,8 +274,8 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_710",
-                "type": "data-dtable",
+                "id": "0ZGJj_710",
+                "type": "pt",
                 "props": {
                     "rows": [
                         {

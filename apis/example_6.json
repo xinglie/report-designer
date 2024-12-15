@@ -21,8 +21,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "WViYjUzZmNkY_49",
-                "type": "pager",
+                "id": "0ZGJj_49",
+                "type": "1oa",
                 "unit": "pc",
                 "props": {
                     "ext": {
@@ -52,8 +52,8 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_50",
-                "type": "pager",
+                "id": "0ZGJj_50",
+                "type": "1oa",
                 "unit": "pc",
                 "props": {
                     "ext": {
@@ -83,8 +83,8 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_99",
-                "type": "data-dtable",
+                "id": "0ZGJj_99",
+                "type": "pt",
                 "unit": "pc",
                 "props": {
                     "rows": [

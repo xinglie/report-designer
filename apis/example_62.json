@@ -17,7 +17,7 @@
             "blank": "keep",
             "labelCol": 1,
             "labelGap": 2.65,
-            "font": "unset",
+            "font": "tahoma",
             "gridWidth": 5.29,
             "gridHeight": 5.29,
             "background": "#ffffff",
@@ -29,8 +29,8 @@
         },
         "elements": [
             {
-                "id": "WViYjUzZmNkY_lmowjlsk120",
-                "type": "hod-table",
+                "id": "0ZGJj_lmowjlsk120",
+                "type": "zy",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -47,8 +47,8 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_lmowjlsk140",
-                                            "type": "hod-hflex",
+                                            "id": "0ZGJj_lmowjlsk140",
+                                            "type": "161",
                                             "unit": "mm",
                                             "props": {
                                                 "rows": [
@@ -59,8 +59,8 @@
                                                                 "width": 79.38,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "WViYjUzZmNkY_lmowjlsk191",
-                                                                        "type": "hod-hflex",
+                                                                        "id": "0ZGJj_lmowjlsk191",
+                                                                        "type": "161",
                                                                         "unit": "mm",
                                                                         "props": {
                                                                             "rows": [
@@ -71,7 +71,7 @@
                                                                                             "width": 68.78,
                                                                                             "elements": [
                                                                                                 {
-                                                                                                    "id": "WViYjUzZmNkY_lmowjlsk214",
+                                                                                                    "id": "0ZGJj_lmowjlsk214",
                                                                                                     "type": "line",
                                                                                                     "unit": "mm",
                                                                                                     "props": {
@@ -167,8 +167,8 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_lmowjlsk234",
-                                            "type": "hod-vflex",
+                                            "id": "0ZGJj_lmowjlsk234",
+                                            "type": "182",
                                             "unit": "mm",
                                             "props": {
                                                 "rows": [
@@ -179,8 +179,8 @@
                                                                 "height": 79.38,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "WViYjUzZmNkY_lmowjlsk255",
-                                                                        "type": "hod-vflex",
+                                                                        "id": "0ZGJj_lmowjlsk255",
+                                                                        "type": "182",
                                                                         "unit": "mm",
                                                                         "props": {
                                                                             "rows": [
@@ -191,7 +191,7 @@
                                                                                             "height": 68.78,
                                                                                             "elements": [
                                                                                                 {
-                                                                                                    "id": "WViYjUzZmNkY_lmowjlsk301",
+                                                                                                    "id": "0ZGJj_lmowjlsk301",
                                                                                                     "type": "rect",
                                                                                                     "unit": "mm",
                                                                                                     "props": {
@@ -308,8 +308,8 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_lmowjlsk314",
-                                            "type": "hod-table",
+                                            "id": "0ZGJj_lmowjlsk314",
+                                            "type": "zy",
                                             "unit": "mm",
                                             "props": {
                                                 "rows": [
@@ -337,7 +337,7 @@
                                                                 "colspan": 1,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "WViYjUzZmNkY_lmowjlsk332",
+                                                                        "id": "0ZGJj_lmowjlsk332",
                                                                         "type": "line",
                                                                         "unit": "mm",
                                                                         "props": {
@@ -382,7 +382,7 @@
                                                                 "bBottom": true,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "WViYjUzZmNkY_lmowjlsk337",
+                                                                        "id": "0ZGJj_lmowjlsk337",
                                                                         "type": "circle",
                                                                         "unit": "mm",
                                                                         "props": {
@@ -472,7 +472,7 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_lmowjlsk358",
+                                            "id": "0ZGJj_lmowjlsk358",
                                             "type": "rect",
                                             "unit": "mm",
                                             "props": {
@@ -507,7 +507,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_lmowjlsk370",
+                                            "id": "0ZGJj_lmowjlsk370",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -521,7 +521,7 @@
                                                 "bind": {},
                                                 "match": true,
                                                 "size": 3.7,
-                                                "font": "unset",
+                                                "font": "tahoma",
                                                 "line": 1.5,
                                                 "gap": 0,
                                                 "color": "#000",
@@ -550,7 +550,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_lmowjlsk391",
+                                            "id": "0ZGJj_lmowjlsk391",
                                             "type": "circle",
                                             "unit": "mm",
                                             "props": {
@@ -569,8 +569,8 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_lmowjlsk394",
-                                            "type": "hod-hflex",
+                                            "id": "0ZGJj_lmowjlsk394",
+                                            "type": "161",
                                             "unit": "mm",
                                             "props": {
                                                 "rows": [
@@ -581,7 +581,7 @@
                                                                 "width": 79.38,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "WViYjUzZmNkY_lmowjlsk398",
+                                                                        "id": "0ZGJj_lmowjlsk398",
                                                                         "type": "text",
                                                                         "unit": "mm",
                                                                         "props": {
@@ -595,7 +595,7 @@
                                                                             "bind": {},
                                                                             "match": true,
                                                                             "size": 3.7,
-                                                                            "font": "unset",
+                                                                            "font": "tahoma",
                                                                             "line": 1.5,
                                                                             "gap": 0,
                                                                             "color": "#000",

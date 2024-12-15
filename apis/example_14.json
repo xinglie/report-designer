@@ -22,7 +22,7 @@
             "labelGap": 2.646,
             "gridWidth": 5.292,
             "gridHeight": 5.292,
-            "font": "unset",
+            "font": "tahoma",
             "background": "#ffffff",
             "backgroundImage": "",
             "backgroundRepeat": "full",
@@ -33,7 +33,7 @@
         },
         "elements": [
             {
-                "id": "WViYjUzZmNkY_88",
+                "id": "0ZGJj_88",
                 "type": "svg/line",
                 "unit": "mm",
                 "props": {
@@ -56,7 +56,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_90",
+                "id": "0ZGJj_90",
                 "type": "image",
                 "unit": "mm",
                 "props": {
@@ -86,7 +86,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_128",
+                "id": "0ZGJj_128",
                 "type": "image",
                 "unit": "mm",
                 "props": {
@@ -116,7 +116,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_145",
+                "id": "0ZGJj_145",
                 "type": "rect",
                 "unit": "mm",
                 "props": {
@@ -153,8 +153,8 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_157",
-                "type": "repeat",
+                "id": "0ZGJj_157",
+                "type": "2kq",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -171,7 +171,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "repeat": "repeat",
+                    "2kq": "2kq",
                     "imageWidth": 0,
                     "imageHeight": 0,
                     "backgroundX": 0,
@@ -182,7 +182,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_161",
+                "id": "0ZGJj_161",
                 "type": "line",
                 "unit": "mm",
                 "props": {
@@ -202,7 +202,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_173",
+                "id": "0ZGJj_173",
                 "type": "svg/line",
                 "unit": "mm",
                 "props": {

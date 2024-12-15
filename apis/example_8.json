@@ -20,8 +20,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "WViYjUzZmNkY_114",
-                "type": "data-repeater",
+                "id": "0ZGJj_114",
+                "type": "vw",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -32,7 +32,7 @@
                                     "width": 193.92,
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_115",
+                                            "id": "0ZGJj_115",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -70,7 +70,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_116",
+                                            "id": "0ZGJj_116",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -108,7 +108,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_117",
+                                            "id": "0ZGJj_117",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -148,7 +148,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_118",
+                                            "id": "0ZGJj_118",
                                             "type": "line",
                                             "unit": "mm",
                                             "props": {
@@ -165,7 +165,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_119",
+                                            "id": "0ZGJj_119",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -203,7 +203,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_120",
+                                            "id": "0ZGJj_120",
                                             "type": "line",
                                             "unit": "mm",
                                             "props": {
@@ -220,7 +220,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_121",
+                                            "id": "0ZGJj_121",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -260,7 +260,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_122",
+                                            "id": "0ZGJj_122",
                                             "type": "line",
                                             "unit": "mm",
                                             "props": {
@@ -279,7 +279,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_123",
+                                            "id": "0ZGJj_123",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -319,7 +319,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_124",
+                                            "id": "0ZGJj_124",
                                             "type": "line",
                                             "unit": "mm",
                                             "props": {
@@ -338,7 +338,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_125",
+                                            "id": "0ZGJj_125",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -378,7 +378,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_126",
+                                            "id": "0ZGJj_126",
                                             "type": "line",
                                             "unit": "mm",
                                             "props": {
@@ -397,7 +397,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_127",
+                                            "id": "0ZGJj_127",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -437,7 +437,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_128",
+                                            "id": "0ZGJj_128",
                                             "type": "line",
                                             "unit": "mm",
                                             "props": {
@@ -456,7 +456,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_129",
+                                            "id": "0ZGJj_129",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -496,7 +496,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_130",
+                                            "id": "0ZGJj_130",
                                             "type": "line",
                                             "unit": "mm",
                                             "props": {
@@ -515,7 +515,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_131",
+                                            "id": "0ZGJj_131",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -555,7 +555,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_132",
+                                            "id": "0ZGJj_132",
                                             "type": "line",
                                             "unit": "mm",
                                             "props": {
@@ -574,7 +574,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_133",
+                                            "id": "0ZGJj_133",
                                             "type": "line",
                                             "unit": "mm",
                                             "props": {
@@ -593,7 +593,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_134",
+                                            "id": "0ZGJj_134",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -633,7 +633,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_135",
+                                            "id": "0ZGJj_135",
                                             "type": "line",
                                             "unit": "mm",
                                             "props": {
@@ -652,7 +652,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_136",
+                                            "id": "0ZGJj_136",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -692,7 +692,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_137",
+                                            "id": "0ZGJj_137",
                                             "type": "line",
                                             "unit": "mm",
                                             "props": {
@@ -711,7 +711,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_138",
+                                            "id": "0ZGJj_138",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -751,7 +751,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_139",
+                                            "id": "0ZGJj_139",
                                             "type": "line",
                                             "unit": "mm",
                                             "props": {
@@ -770,7 +770,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_140",
+                                            "id": "0ZGJj_140",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -810,7 +810,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_141",
+                                            "id": "0ZGJj_141",
                                             "type": "line",
                                             "unit": "mm",
                                             "props": {
@@ -829,7 +829,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_142",
+                                            "id": "0ZGJj_142",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -867,7 +867,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_250",
+                                            "id": "0ZGJj_250",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {

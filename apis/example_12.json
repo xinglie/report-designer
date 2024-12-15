@@ -22,7 +22,7 @@
             "labelGap": 7.5,
             "gridWidth": 15,
             "gridHeight": 15,
-            "font": "unset",
+            "font": "tahoma",
             "background": "#ffffff",
             "backgroundImage": "",
             "backgroundRepeat": "full",
@@ -33,7 +33,7 @@
         },
         "elements": [
             {
-                "id": "WViYjUzZmNkY_189",
+                "id": "0ZGJj_189",
                 "type": "svg/rect2",
                 "unit": "pt",
                 "props": {
@@ -59,7 +59,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_131",
+                "id": "0ZGJj_131",
                 "type": "svg/rect2",
                 "unit": "pt",
                 "props": {
@@ -83,14 +83,14 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_87",
-                "type": "flow/connector",
+                "id": "0ZGJj_87",
+                "type": "flow/2al",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
-                    "linkFromId": "WViYjUzZmNkY_85",
+                    "linkFromId": "0ZGJj_85",
                     "linkFromKey": "p9",
-                    "linkToId": "WViYjUzZmNkY_86",
+                    "linkToId": "0ZGJj_86",
                     "linkToKey": "p6",
                     "x": 300.02,
                     "y": 210.04,
@@ -135,14 +135,14 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_89",
-                "type": "flow/connector",
+                "id": "0ZGJj_89",
+                "type": "flow/2al",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
-                    "linkFromId": "WViYjUzZmNkY_85",
+                    "linkFromId": "0ZGJj_85",
                     "linkFromKey": "p7",
-                    "linkToId": "WViYjUzZmNkY_88",
+                    "linkToId": "0ZGJj_88",
                     "linkToKey": "p6",
                     "x": 224.62,
                     "y": 210.05,
@@ -187,14 +187,14 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_91",
-                "type": "flow/connector",
+                "id": "0ZGJj_91",
+                "type": "flow/2al",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
-                    "linkFromId": "WViYjUzZmNkY_85",
+                    "linkFromId": "0ZGJj_85",
                     "linkFromKey": "p7",
-                    "linkToId": "WViYjUzZmNkY_90",
+                    "linkToId": "0ZGJj_90",
                     "linkToKey": "p6",
                     "x": 185.25,
                     "y": 210.05,
@@ -239,14 +239,14 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_93",
-                "type": "flow/connector",
+                "id": "0ZGJj_93",
+                "type": "flow/2al",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
-                    "linkFromId": "WViYjUzZmNkY_85",
+                    "linkFromId": "0ZGJj_85",
                     "linkFromKey": "p8",
-                    "linkToId": "WViYjUzZmNkY_92",
+                    "linkToId": "0ZGJj_92",
                     "linkToKey": "p6",
                     "x": 107.97,
                     "y": 210.04,
@@ -291,14 +291,14 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_95",
-                "type": "flow/connector",
+                "id": "0ZGJj_95",
+                "type": "flow/2al",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
-                    "linkFromId": "WViYjUzZmNkY_94",
+                    "linkFromId": "0ZGJj_94",
                     "linkFromKey": "p7",
-                    "linkToId": "WViYjUzZmNkY_85",
+                    "linkToId": "0ZGJj_85",
                     "linkToKey": "p6",
                     "x": 224.62,
                     "y": 261,
@@ -334,7 +334,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_94",
+                "id": "0ZGJj_94",
                 "type": "flow/process",
                 "unit": "pt",
                 "props": {
@@ -363,7 +363,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_85",
+                "id": "0ZGJj_85",
                 "type": "flow/process",
                 "unit": "pt",
                 "props": {
@@ -394,7 +394,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_92",
+                "id": "0ZGJj_92",
                 "type": "flow/process",
                 "unit": "pt",
                 "props": {
@@ -423,7 +423,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_90",
+                "id": "0ZGJj_90",
                 "type": "flow/process",
                 "unit": "pt",
                 "props": {
@@ -454,7 +454,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_88",
+                "id": "0ZGJj_88",
                 "type": "flow/process",
                 "unit": "pt",
                 "props": {
@@ -485,7 +485,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_86",
+                "id": "0ZGJj_86",
                 "type": "flow/process",
                 "unit": "pt",
                 "props": {
@@ -516,7 +516,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_155",
+                "id": "0ZGJj_155",
                 "type": "flow/process",
                 "unit": "pt",
                 "props": {
@@ -547,7 +547,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_158",
+                "id": "0ZGJj_158",
                 "type": "flow/process",
                 "unit": "pt",
                 "props": {
@@ -578,7 +578,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_170",
+                "id": "0ZGJj_170",
                 "type": "text",
                 "unit": "pt",
                 "props": {
@@ -623,7 +623,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_197",
+                "id": "0ZGJj_197",
                 "type": "svg/brace",
                 "unit": "pt",
                 "props": {
@@ -643,7 +643,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_201",
+                "id": "0ZGJj_201",
                 "type": "text",
                 "unit": "pt",
                 "props": {
@@ -688,7 +688,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_216",
+                "id": "0ZGJj_216",
                 "type": "text",
                 "unit": "pt",
                 "props": {
@@ -735,7 +735,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_222",
+                "id": "0ZGJj_222",
                 "type": "svg/brace",
                 "unit": "pt",
                 "props": {
@@ -757,7 +757,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_239",
+                "id": "0ZGJj_239",
                 "type": "svg/rect2",
                 "unit": "pt",
                 "props": {
@@ -783,16 +783,16 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_240",
-                "type": "flow/connector",
+                "id": "0ZGJj_240",
+                "type": "flow/2al",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
                     "pinX": false,
                     "pinY": false,
-                    "linkFromId": "WViYjUzZmNkY_246",
+                    "linkFromId": "0ZGJj_246",
                     "linkFromKey": "p9",
-                    "linkToId": "WViYjUzZmNkY_250",
+                    "linkToId": "0ZGJj_250",
                     "linkToKey": "p6",
                     "x": 704.4,
                     "y": 161.66,
@@ -837,16 +837,16 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_241",
-                "type": "flow/connector",
+                "id": "0ZGJj_241",
+                "type": "flow/2al",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
                     "pinX": false,
                     "pinY": false,
-                    "linkFromId": "WViYjUzZmNkY_246",
+                    "linkFromId": "0ZGJj_246",
                     "linkFromKey": "p7",
-                    "linkToId": "WViYjUzZmNkY_249",
+                    "linkToId": "0ZGJj_249",
                     "linkToKey": "p6",
                     "x": 629,
                     "y": 161.67,
@@ -891,16 +891,16 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_242",
-                "type": "flow/connector",
+                "id": "0ZGJj_242",
+                "type": "flow/2al",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
                     "pinX": false,
                     "pinY": false,
-                    "linkFromId": "WViYjUzZmNkY_246",
+                    "linkFromId": "0ZGJj_246",
                     "linkFromKey": "p7",
-                    "linkToId": "WViYjUzZmNkY_248",
+                    "linkToId": "0ZGJj_248",
                     "linkToKey": "p6",
                     "x": 589.63,
                     "y": 161.67,
@@ -945,16 +945,16 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_243",
-                "type": "flow/connector",
+                "id": "0ZGJj_243",
+                "type": "flow/2al",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
                     "pinX": false,
                     "pinY": false,
-                    "linkFromId": "WViYjUzZmNkY_246",
+                    "linkFromId": "0ZGJj_246",
                     "linkFromKey": "p8",
-                    "linkToId": "WViYjUzZmNkY_247",
+                    "linkToId": "0ZGJj_247",
                     "linkToKey": "p6",
                     "x": 512.35,
                     "y": 161.66,
@@ -999,16 +999,16 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_244",
-                "type": "flow/connector",
+                "id": "0ZGJj_244",
+                "type": "flow/2al",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
                     "pinX": false,
                     "pinY": false,
-                    "linkFromId": "WViYjUzZmNkY_245",
+                    "linkFromId": "0ZGJj_245",
                     "linkFromKey": "p7",
-                    "linkToId": "WViYjUzZmNkY_246",
+                    "linkToId": "0ZGJj_246",
                     "linkToKey": "p6",
                     "x": 629,
                     "y": 212.62,
@@ -1044,7 +1044,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_245",
+                "id": "0ZGJj_245",
                 "type": "flow/process",
                 "unit": "pt",
                 "props": {
@@ -1075,7 +1075,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_246",
+                "id": "0ZGJj_246",
                 "type": "flow/process",
                 "unit": "pt",
                 "props": {
@@ -1106,7 +1106,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_247",
+                "id": "0ZGJj_247",
                 "type": "flow/process",
                 "unit": "pt",
                 "props": {
@@ -1137,7 +1137,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_248",
+                "id": "0ZGJj_248",
                 "type": "flow/process",
                 "unit": "pt",
                 "props": {
@@ -1168,7 +1168,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_249",
+                "id": "0ZGJj_249",
                 "type": "flow/process",
                 "unit": "pt",
                 "props": {
@@ -1199,7 +1199,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_250",
+                "id": "0ZGJj_250",
                 "type": "flow/process",
                 "unit": "pt",
                 "props": {
@@ -1230,7 +1230,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_254",
+                "id": "0ZGJj_254",
                 "type": "svg/brace",
                 "unit": "pt",
                 "props": {
@@ -1252,7 +1252,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_255",
+                "id": "0ZGJj_255",
                 "type": "text",
                 "unit": "pt",
                 "props": {

@@ -18,7 +18,7 @@
             "blank": "keep",
             "labelCol": 1,
             "labelGap": 2.646,
-            "font": "unset",
+            "font": "tahoma",
             "gridWidth": 5.292,
             "gridHeight": 5.292,
             "background": "#fff",
@@ -30,8 +30,8 @@
         },
         "elements": [
             {
-                "id": "WViYjUzZmNkY_ltqurchb278",
-                "type": "data-repeater",
+                "id": "0ZGJj_ltqurchb278",
+                "type": "vw",
                 "unit": "mm",
                 "props": {
                     "bind": {
@@ -46,7 +46,7 @@
                                     "width": 85.616,
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_ltqurchb334",
+                                            "id": "0ZGJj_ltqurchb334",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -71,7 +71,7 @@
                                                 "format": "b:{\"id\":\"no\",\"body\":[],\"prefix\":\"序号：\"}",
                                                 "match": true,
                                                 "size": 3.704,
-                                                "font": "unset",
+                                                "font": "tahoma",
                                                 "line": 1.5,
                                                 "gap": 0,
                                                 "color": "#000",
@@ -88,7 +88,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_ltqurchb335",
+                                            "id": "0ZGJj_ltqurchb335",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -113,7 +113,7 @@
                                                 "format": "b:{\"id\":\"no\",\"body\":[],\"prefix\":\"性别：\"}",
                                                 "match": true,
                                                 "size": 3.704,
-                                                "font": "unset",
+                                                "font": "tahoma",
                                                 "line": 1.5,
                                                 "gap": 0,
                                                 "color": "#000",
@@ -130,7 +130,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_ltqurchb336",
+                                            "id": "0ZGJj_ltqurchb336",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -155,7 +155,7 @@
                                                 "format": "b:{\"id\":\"no\",\"body\":[],\"prefix\":\"姓名：\"}",
                                                 "match": true,
                                                 "size": 3.704,
-                                                "font": "unset",
+                                                "font": "tahoma",
                                                 "line": 1.5,
                                                 "gap": 0,
                                                 "color": "#000",
@@ -172,7 +172,7 @@
                                             }
                                         },
                                         {
-                                            "id": "WViYjUzZmNkY_ltqurchb372",
+                                            "id": "0ZGJj_ltqurchb372",
                                             "type": "image",
                                             "unit": "mm",
                                             "props": {

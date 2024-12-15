@@ -22,7 +22,7 @@
             "labelGap": 2.646,
             "gridWidth": 5.292,
             "gridHeight": 5.292,
-            "font": "unset",
+            "font": "tahoma",
             "background": "#ffffff",
             "backgroundImage": "",
             "backgroundRepeat": "full",
@@ -33,7 +33,7 @@
         },
         "elements": [
             {
-                "id": "WViYjUzZmNkY_129",
+                "id": "0ZGJj_129",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -78,7 +78,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_144",
+                "id": "0ZGJj_144",
                 "type": "image",
                 "unit": "mm",
                 "props": {
@@ -108,8 +108,8 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_150",
-                "type": "repeat",
+                "id": "0ZGJj_150",
+                "type": "2kq",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -126,7 +126,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "repeat": "repeat",
+                    "2kq": "2kq",
                     "imageWidth": 0,
                     "imageHeight": 0,
                     "backgroundX": 0,
@@ -137,7 +137,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_153",
+                "id": "0ZGJj_153",
                 "type": "qrcode",
                 "unit": "mm",
                 "props": {
@@ -165,7 +165,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_157",
+                "id": "0ZGJj_157",
                 "type": "barcode",
                 "unit": "mm",
                 "props": {
@@ -200,7 +200,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_172",
+                "id": "0ZGJj_172",
                 "type": "batch-barcode",
                 "unit": "mm",
                 "props": {
@@ -235,7 +235,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_178",
+                "id": "0ZGJj_178",
                 "type": "batch-qrcode",
                 "unit": "mm",
                 "props": {
@@ -263,7 +263,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_181",
+                "id": "0ZGJj_181",
                 "type": "batch-text",
                 "unit": "mm",
                 "props": {

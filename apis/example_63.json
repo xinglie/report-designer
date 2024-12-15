@@ -18,7 +18,7 @@
             "blank": "keep",
             "labelCol": 1,
             "labelGap": 2.646,
-            "font": "unset",
+            "font": "tahoma",
             "gridWidth": 5.292,
             "gridHeight": 5.292,
             "background": "#fff",
@@ -30,7 +30,7 @@
         },
         "elements": [
             {
-                "id": "WViYjUzZmNkY_logut5ub949",
+                "id": "0ZGJj_logut5ub949",
                 "type": "rect",
                 "unit": "mm",
                 "props": {
@@ -65,8 +65,8 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_logut5ub1022",
-                "type": "data-repeater",
+                "id": "0ZGJj_logut5ub1022",
+                "type": "vw",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -77,7 +77,7 @@
                                     "width": 60.815,
                                     "elements": [
                                         {
-                                            "id": "WViYjUzZmNkY_logut5ub1025",
+                                            "id": "0ZGJj_logut5ub1025",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -101,7 +101,7 @@
                                                 },
                                                 "match": true,
                                                 "size": 3.704,
-                                                "font": "unset",
+                                                "font": "tahoma",
                                                 "line": 1.5,
                                                 "gap": 0,
                                                 "color": "#000",

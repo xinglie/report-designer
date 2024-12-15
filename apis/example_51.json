@@ -17,7 +17,7 @@
             "blank": "keep",
             "labelCol": 1,
             "labelGap": 10,
-            "font": "unset",
+            "font": "tahoma",
             "gridWidth": 20,
             "gridHeight": 20,
             "background": "#00a7ff41",
@@ -30,8 +30,8 @@
         },
         "elements": [
             {
-                "id": "WViYjUzZmNkY_lg4t6ji8365",
-                "type": "chart/meter2",
+                "id": "0ZGJj_lg4t6ji8365",
+                "type": "chart/26j",
                 "unit": "px",
                 "props": {
                     "x": -32,
@@ -57,7 +57,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_lg4t6ji8421",
+                "id": "0ZGJj_lg4t6ji8421",
                 "type": "chart/echart",
                 "unit": "px",
                 "props": {
@@ -84,7 +84,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_lfuvg8pv131",
+                "id": "0ZGJj_lfuvg8pv131",
                 "type": "image",
                 "unit": "px",
                 "props": {
@@ -106,8 +106,8 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_lfuvg8pv197",
-                "type": "svg/pipe",
+                "id": "0ZGJj_lfuvg8pv197",
+                "type": "svg/1ud",
                 "unit": "px",
                 "props": {
                     "x": 139,
@@ -146,8 +146,8 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_lfuvg8pv248",
-                "type": "nbtn",
+                "id": "0ZGJj_lfuvg8pv248",
+                "type": "2su",
                 "unit": "px",
                 "props": {
                     "x": 716,
@@ -178,7 +178,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_lfuvg8pv316",
+                "id": "0ZGJj_lfuvg8pv316",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -210,8 +210,8 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_lfuvg8pv378",
-                "type": "svg/tank",
+                "id": "0ZGJj_lfuvg8pv378",
+                "type": "svg/1we",
                 "unit": "px",
                 "props": {
                     "x": 697,
@@ -246,7 +246,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_lfuvg8pv426",
+                "id": "0ZGJj_lfuvg8pv426",
                 "type": "image",
                 "unit": "px",
                 "props": {
@@ -267,8 +267,8 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_lfuvg8pv154",
-                "type": "svg/pipe",
+                "id": "0ZGJj_lfuvg8pv154",
+                "type": "svg/1ud",
                 "unit": "px",
                 "props": {
                     "x": 197,
@@ -307,8 +307,8 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_lfuxbd1153",
-                "type": "slight",
+                "id": "0ZGJj_lfuxbd1153",
+                "type": "2mr",
                 "unit": "px",
                 "props": {
                     "x": 826,
@@ -345,7 +345,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_lg4t6ji8269",
+                "id": "0ZGJj_lg4t6ji8269",
                 "type": "svg/fan",
                 "unit": "px",
                 "props": {
@@ -373,7 +373,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_lg4xb6l6187",
+                "id": "0ZGJj_lg4xb6l6187",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -415,7 +415,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_lg4xb6l6225",
+                "id": "0ZGJj_lg4xb6l6225",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -457,7 +457,7 @@
                 }
             },
             {
-                "id": "WViYjUzZmNkY_lg4xb6l6264",
+                "id": "0ZGJj_lg4xb6l6264",
                 "type": "text",
                 "unit": "px",
                 "props": {

@@ -22,7 +22,7 @@
             "labelGap": 7.5,
             "gridWidth": 15,
             "gridHeight": 15,
-            "font": "unset",
+            "font": "tahoma",
             "background": "#ffffff",
             "backgroundImage": "",
             "backgroundRepeat": "full",
@@ -33,8 +33,8 @@
         },
         "elements": [
             {
-                "id": "WViYjUzZmNkY_95",
-                "type": "richtext",
+                "id": "0ZGJj_95",
+                "type": "1k8",
                 "unit": "pt",
                 "props": {
                     "readonly": false,

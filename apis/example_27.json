@@ -20,7 +20,7 @@
             "blank": "drop",
             "labelCol": 1,
             "labelGap": 10,
-            "font": "unset",
+            "font": "tahoma",
             "gridWidth": 20,
             "gridHeight": 20,
             "background": "#ffffff",
@@ -32,8 +32,8 @@
         },
         "elements": [
             {
-                "id": "WViYjUzZmNkY_113",
-                "type": "data-dtable",
+                "id": "0ZGJj_113",
+                "type": "pt",
                 "unit": "px",
                 "props": {
                     "rows": [
