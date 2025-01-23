@@ -21,8 +21,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "0ZGJj_353",
-                "type": "tv",
+                "id": "YWQ2YzVmYTg2_353",
+                "type": "hd",
                 "unit": "pc",
                 "props": {
                     "rows": [
@@ -39,7 +39,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_591",
+                                            "id": "YWQ2YzVmYTg2_591",
                                             "type": "text",
                                             "unit": "pc",
                                             "props": {
@@ -94,7 +94,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_481",
+                                            "id": "YWQ2YzVmYTg2_481",
                                             "type": "text",
                                             "unit": "pc",
                                             "props": {
@@ -144,7 +144,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_535",
+                                            "id": "YWQ2YzVmYTg2_535",
                                             "type": "text",
                                             "unit": "pc",
                                             "props": {
@@ -196,7 +196,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_563",
+                                            "id": "YWQ2YzVmYTg2_563",
                                             "type": "text",
                                             "unit": "pc",
                                             "props": {
@@ -253,7 +253,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_364",
+                                            "id": "YWQ2YzVmYTg2_364",
                                             "type": "text",
                                             "unit": "pc",
                                             "props": {
@@ -308,7 +308,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_382",
+                                            "id": "YWQ2YzVmYTg2_382",
                                             "type": "text",
                                             "unit": "pc",
                                             "props": {
@@ -363,7 +363,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_385",
+                                            "id": "YWQ2YzVmYTg2_385",
                                             "type": "text",
                                             "unit": "pc",
                                             "props": {
@@ -460,7 +460,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_654",
+                                            "id": "YWQ2YzVmYTg2_654",
                                             "type": "text",
                                             "unit": "pc",
                                             "props": {

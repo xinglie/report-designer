@@ -20,8 +20,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "0ZGJj_335",
-                "type": "pt",
+                "id": "YWQ2YzVmYTg2_335",
+                "type": "bj",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -56,8 +56,8 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_336",
-                                            "type": "ru",
+                                            "id": "YWQ2YzVmYTg2_336",
+                                            "type": "eg",
                                             "unit": "px",
                                             "props": {
                                                 "rows": [
@@ -209,7 +209,7 @@
                                             }
                                         },
                                         {
-                                            "id": "0ZGJj_386",
+                                            "id": "YWQ2YzVmYTg2_386",
                                             "type": "text",
                                             "unit": "px",
                                             "props": {
@@ -588,7 +588,7 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_337",
+                                            "id": "YWQ2YzVmYTg2_337",
                                             "type": "text",
                                             "unit": "px",
                                             "props": {

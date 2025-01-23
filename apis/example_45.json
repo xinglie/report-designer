@@ -34,8 +34,8 @@
         },
         "elements": [
             {
-                "id": "0ZGJj_60",
-                "type": "1m9",
+                "id": "YWQ2YzVmYTg2_60",
+                "type": "1m7",
                 "unit": "cm",
                 "props": {
                     "readonly": false,
@@ -48,7 +48,7 @@
                     "text": "{#}_{#}",
                     "type": "text",
                     "rule": {
-                        "type": "1m9",
+                        "type": "1m7",
                         "fx": "AP",
                         "step": 1,
                         "start": 1
@@ -80,8 +80,8 @@
                 }
             },
             {
-                "id": "0ZGJj_61",
-                "type": "1m9",
+                "id": "YWQ2YzVmYTg2_61",
+                "type": "1m7",
                 "unit": "cm",
                 "props": {
                     "readonly": false,
@@ -96,7 +96,7 @@
                     "text": "LABEL-{#}",
                     "type": "text",
                     "rule": {
-                        "type": "1m9",
+                        "type": "1m7",
                         "fx": "AP",
                         "step": 1,
                         "start": 1
@@ -128,7 +128,7 @@
                 }
             },
             {
-                "id": "0ZGJj_62",
+                "id": "YWQ2YzVmYTg2_62",
                 "type": "text",
                 "unit": "cm",
                 "props": {

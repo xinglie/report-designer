@@ -33,7 +33,7 @@
         },
         "elements": [
             {
-                "id": "0ZGJj_88",
+                "id": "YWQ2YzVmYTg2_88",
                 "type": "svg/line",
                 "unit": "mm",
                 "props": {
@@ -56,7 +56,7 @@
                 }
             },
             {
-                "id": "0ZGJj_90",
+                "id": "YWQ2YzVmYTg2_90",
                 "type": "image",
                 "unit": "mm",
                 "props": {
@@ -86,7 +86,7 @@
                 }
             },
             {
-                "id": "0ZGJj_128",
+                "id": "YWQ2YzVmYTg2_128",
                 "type": "image",
                 "unit": "mm",
                 "props": {
@@ -116,7 +116,7 @@
                 }
             },
             {
-                "id": "0ZGJj_145",
+                "id": "YWQ2YzVmYTg2_145",
                 "type": "rect",
                 "unit": "mm",
                 "props": {
@@ -153,8 +153,8 @@
                 }
             },
             {
-                "id": "0ZGJj_157",
-                "type": "2kq",
+                "id": "YWQ2YzVmYTg2_157",
+                "type": "35m",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -171,7 +171,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "2kq": "2kq",
+                    "35m": "35m",
                     "imageWidth": 0,
                     "imageHeight": 0,
                     "backgroundX": 0,
@@ -182,7 +182,7 @@
                 }
             },
             {
-                "id": "0ZGJj_161",
+                "id": "YWQ2YzVmYTg2_161",
                 "type": "line",
                 "unit": "mm",
                 "props": {
@@ -202,7 +202,7 @@
                 }
             },
             {
-                "id": "0ZGJj_173",
+                "id": "YWQ2YzVmYTg2_173",
                 "type": "svg/line",
                 "unit": "mm",
                 "props": {

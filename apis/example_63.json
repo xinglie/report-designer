@@ -30,7 +30,7 @@
         },
         "elements": [
             {
-                "id": "0ZGJj_logut5ub949",
+                "id": "YWQ2YzVmYTg2_logut5ub949",
                 "type": "rect",
                 "unit": "mm",
                 "props": {
@@ -65,8 +65,8 @@
                 }
             },
             {
-                "id": "0ZGJj_logut5ub1022",
-                "type": "vw",
+                "id": "YWQ2YzVmYTg2_logut5ub1022",
+                "type": "ka",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -77,7 +77,7 @@
                                     "width": 60.815,
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_logut5ub1025",
+                                            "id": "YWQ2YzVmYTg2_logut5ub1025",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {

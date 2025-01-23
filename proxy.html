@@ -14,18 +14,22 @@
 <div id="app"></div>
 
 <body>
-    <script src="dist/viewer.js?v=202412151014"></script>
+    <script src="dist/viewer.js?v=202501230830"></script>
     <script type="module">
         let { searchParams } = new URL(location.href);
         let id = searchParams.get('pId');//从地址栏获取pId并返回回去，供父页面识别
         let action = searchParams.get('action');
         let { origin } = location;
         window.addEventListener('message', async e => {
-            let stage;
+            let stage,hasException;
             try {
                 stage = JSON.parse(e.data);
             } catch {
                 stage = e.data;
+                hasException=true;
+            }
+            if (hasException) {
+                Promise.reject(JSON.stringify(stage));
             }
             let { page } = stage;
             if (page.viewer == 'iot') {
@@ -34,7 +38,7 @@
             } else {
                 let latent = action != 'print';
                 let vf = await viewer.install({
-                    version:'202412151014',
+                    version:'202501230830',
                     use: page.viewer,
                     latent,
                 });

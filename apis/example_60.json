@@ -29,8 +29,8 @@
         },
         "elements": [
             {
-                "id": "0ZGJj_lkcd75xz284",
-                "type": "pt",
+                "id": "YWQ2YzVmYTg2_lkcd75xz284",
+                "type": "bj",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -448,8 +448,8 @@
                 }
             },
             {
-                "id": "0ZGJj_lkcd75xz323",
-                "type": "140",
+                "id": "YWQ2YzVmYTg2_lkcd75xz323",
+                "type": "vy",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -460,7 +460,7 @@
                                     "width": 209.81,
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_lkcd75xz345",
+                                            "id": "YWQ2YzVmYTg2_lkcd75xz345",
                                             "type": "qrcode",
                                             "unit": "mm",
                                             "props": {
@@ -490,7 +490,7 @@
                                             }
                                         },
                                         {
-                                            "id": "0ZGJj_lkcd75xz365",
+                                            "id": "YWQ2YzVmYTg2_lkcd75xz365",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -523,7 +523,7 @@
                                             }
                                         },
                                         {
-                                            "id": "0ZGJj_lkcd75xz414",
+                                            "id": "YWQ2YzVmYTg2_lkcd75xz414",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -555,7 +555,7 @@
                                             }
                                         },
                                         {
-                                            "id": "0ZGJj_lkcd75xz421",
+                                            "id": "YWQ2YzVmYTg2_lkcd75xz421",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -587,7 +587,7 @@
                                             }
                                         },
                                         {
-                                            "id": "0ZGJj_lkcd75xz509",
+                                            "id": "YWQ2YzVmYTg2_lkcd75xz509",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -659,8 +659,8 @@
                 }
             },
             {
-                "id": "0ZGJj_lkcd75xz602",
-                "type": "ru",
+                "id": "YWQ2YzVmYTg2_lkcd75xz602",
+                "type": "eg",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -949,7 +949,7 @@
                 }
             },
             {
-                "id": "0ZGJj_lkcd75xz709",
+                "id": "YWQ2YzVmYTg2_lkcd75xz709",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -981,8 +981,8 @@
                 }
             },
             {
-                "id": "0ZGJj_lkcd75xz756",
-                "type": "pt",
+                "id": "YWQ2YzVmYTg2_lkcd75xz756",
+                "type": "bj",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -1647,7 +1647,7 @@
                 }
             },
             {
-                "id": "0ZGJj_lkcd75xz757",
+                "id": "YWQ2YzVmYTg2_lkcd75xz757",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -1679,8 +1679,8 @@
                 }
             },
             {
-                "id": "0ZGJj_lkcmz287426",
-                "type": "11z",
+                "id": "YWQ2YzVmYTg2_lkcmz287426",
+                "type": "t1",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -1691,8 +1691,8 @@
                                     "width": 209.81,
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_lkcmz287491",
-                                            "type": "1oa",
+                                            "id": "YWQ2YzVmYTg2_lkcmz287491",
+                                            "type": "1p4",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 4.9,

@@ -29,8 +29,8 @@
         },
         "elements": [
             {
-                "id": "0ZGJj_lv1yoyfn445",
-                "type": "1a3",
+                "id": "YWQ2YzVmYTg2_lv1yoyfn445",
+                "type": "14p",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -61,8 +61,8 @@
                                     ],
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_lv1z6ded259",
-                                            "type": "chart/26j",
+                                            "id": "YWQ2YzVmYTg2_lv1z6ded259",
+                                            "type": "chart/2l7",
                                             "unit": "mm",
                                             "props": {
                                                 "full": true,
@@ -83,7 +83,7 @@
                                 {
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_lv1yoyfn570",
+                                            "id": "YWQ2YzVmYTg2_lv1yoyfn570",
                                             "type": "chart/echart",
                                             "unit": "mm",
                                             "props": {
@@ -131,7 +131,7 @@
                                 {
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_lv1z7dt4245",
+                                            "id": "YWQ2YzVmYTg2_lv1z7dt4245",
                                             "type": "chart/line",
                                             "unit": "mm",
                                             "props": {
@@ -207,8 +207,8 @@
                                 {
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_lv1z9nbm215",
-                                            "type": "chart/28k",
+                                            "id": "YWQ2YzVmYTg2_lv1z9nbm215",
+                                            "type": "chart/2o4",
                                             "unit": "mm",
                                             "props": {
                                                 "full": 1,

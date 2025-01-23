@@ -33,7 +33,7 @@
         },
         "elements": [
             {
-                "id": "0ZGJj_49",
+                "id": "YWQ2YzVmYTg2_49",
                 "type": "line",
                 "unit": "mm",
                 "props": {
@@ -53,7 +53,7 @@
                 }
             },
             {
-                "id": "0ZGJj_61",
+                "id": "YWQ2YzVmYTg2_61",
                 "type": "rect",
                 "unit": "mm",
                 "props": {
@@ -90,7 +90,7 @@
                 }
             },
             {
-                "id": "0ZGJj_72",
+                "id": "YWQ2YzVmYTg2_72",
                 "type": "circle",
                 "unit": "mm",
                 "props": {
@@ -112,7 +112,7 @@
                 }
             },
             {
-                "id": "0ZGJj_76",
+                "id": "YWQ2YzVmYTg2_76",
                 "type": "rod",
                 "unit": "mm",
                 "props": {
@@ -137,7 +137,7 @@
                 }
             },
             {
-                "id": "0ZGJj_82",
+                "id": "YWQ2YzVmYTg2_82",
                 "type": "clock",
                 "unit": "mm",
                 "props": {
@@ -156,7 +156,7 @@
                 }
             },
             {
-                "id": "0ZGJj_92",
+                "id": "YWQ2YzVmYTg2_92",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -201,7 +201,7 @@
                 }
             },
             {
-                "id": "0ZGJj_105",
+                "id": "YWQ2YzVmYTg2_105",
                 "type": "image",
                 "unit": "mm",
                 "props": {
@@ -231,8 +231,8 @@
                 }
             },
             {
-                "id": "0ZGJj_112",
-                "type": "2kq",
+                "id": "YWQ2YzVmYTg2_112",
+                "type": "35m",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -249,7 +249,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "2kq": "2kq",
+                    "35m": "35m",
                     "imageWidth": 0,
                     "imageHeight": 0,
                     "backgroundX": 0,
@@ -260,7 +260,7 @@
                 }
             },
             {
-                "id": "0ZGJj_116",
+                "id": "YWQ2YzVmYTg2_116",
                 "type": "qrcode",
                 "unit": "mm",
                 "props": {
@@ -288,7 +288,7 @@
                 }
             },
             {
-                "id": "0ZGJj_121",
+                "id": "YWQ2YzVmYTg2_121",
                 "type": "barcode",
                 "unit": "mm",
                 "props": {

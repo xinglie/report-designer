@@ -33,7 +33,7 @@
         },
         "elements": [
             {
-                "id": "0ZGJj_129",
+                "id": "YWQ2YzVmYTg2_129",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -78,7 +78,7 @@
                 }
             },
             {
-                "id": "0ZGJj_144",
+                "id": "YWQ2YzVmYTg2_144",
                 "type": "image",
                 "unit": "mm",
                 "props": {
@@ -108,8 +108,8 @@
                 }
             },
             {
-                "id": "0ZGJj_150",
-                "type": "2kq",
+                "id": "YWQ2YzVmYTg2_150",
+                "type": "35m",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -126,7 +126,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "2kq": "2kq",
+                    "35m": "35m",
                     "imageWidth": 0,
                     "imageHeight": 0,
                     "backgroundX": 0,
@@ -137,7 +137,7 @@
                 }
             },
             {
-                "id": "0ZGJj_153",
+                "id": "YWQ2YzVmYTg2_153",
                 "type": "qrcode",
                 "unit": "mm",
                 "props": {
@@ -165,7 +165,7 @@
                 }
             },
             {
-                "id": "0ZGJj_157",
+                "id": "YWQ2YzVmYTg2_157",
                 "type": "barcode",
                 "unit": "mm",
                 "props": {
@@ -200,7 +200,7 @@
                 }
             },
             {
-                "id": "0ZGJj_172",
+                "id": "YWQ2YzVmYTg2_172",
                 "type": "batch-barcode",
                 "unit": "mm",
                 "props": {
@@ -235,7 +235,7 @@
                 }
             },
             {
-                "id": "0ZGJj_178",
+                "id": "YWQ2YzVmYTg2_178",
                 "type": "batch-qrcode",
                 "unit": "mm",
                 "props": {
@@ -263,7 +263,7 @@
                 }
             },
             {
-                "id": "0ZGJj_181",
+                "id": "YWQ2YzVmYTg2_181",
                 "type": "batch-text",
                 "unit": "mm",
                 "props": {

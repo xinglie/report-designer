@@ -29,8 +29,8 @@
         },
         "elements": [
             {
-                "id": "0ZGJj_lv6g4oka410",
-                "type": "pt",
+                "id": "YWQ2YzVmYTg2_lv6g4oka410",
+                "type": "bj",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -442,7 +442,7 @@
                                     "rowspan": 1,
                                     "colspan": 1,
                                     "elements": [],
-                                    "bindKey": "1m9",
+                                    "bindKey": "1m7",
                                     "bindName": "数量"
                                 },
                                 {
@@ -828,7 +828,7 @@
                 }
             },
             {
-                "id": "0ZGJj_lv6pi07t553",
+                "id": "YWQ2YzVmYTg2_lv6pi07t553",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -860,7 +860,7 @@
                 }
             },
             {
-                "id": "0ZGJj_lv6pi07t636",
+                "id": "YWQ2YzVmYTg2_lv6pi07t636",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -892,8 +892,8 @@
                 }
             },
             {
-                "id": "0ZGJj_lv6pi07t643",
-                "type": "1oa",
+                "id": "YWQ2YzVmYTg2_lv6pi07t643",
+                "type": "1p4",
                 "unit": "mm",
                 "props": {
                     "x": 169.422,
@@ -920,7 +920,7 @@
                 }
             },
             {
-                "id": "0ZGJj_lvacugcx315",
+                "id": "YWQ2YzVmYTg2_lvacugcx315",
                 "type": "text",
                 "unit": "mm",
                 "props": {

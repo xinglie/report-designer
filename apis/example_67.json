@@ -30,8 +30,8 @@
         },
         "elements": [
             {
-                "id": "0ZGJj_ltqurchb278",
-                "type": "vw",
+                "id": "YWQ2YzVmYTg2_ltqurchb278",
+                "type": "ka",
                 "unit": "mm",
                 "props": {
                     "bind": {
@@ -46,7 +46,7 @@
                                     "width": 85.616,
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_ltqurchb334",
+                                            "id": "YWQ2YzVmYTg2_ltqurchb334",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -88,7 +88,7 @@
                                             }
                                         },
                                         {
-                                            "id": "0ZGJj_ltqurchb335",
+                                            "id": "YWQ2YzVmYTg2_ltqurchb335",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -130,7 +130,7 @@
                                             }
                                         },
                                         {
-                                            "id": "0ZGJj_ltqurchb336",
+                                            "id": "YWQ2YzVmYTg2_ltqurchb336",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -172,7 +172,7 @@
                                             }
                                         },
                                         {
-                                            "id": "0ZGJj_ltqurchb372",
+                                            "id": "YWQ2YzVmYTg2_ltqurchb372",
                                             "type": "image",
                                             "unit": "mm",
                                             "props": {

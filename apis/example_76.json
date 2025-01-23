@@ -1,0 +1,1204 @@
+{
+    "data": {
+        "unit": "mm",
+        "xs": [],
+        "ys": [],
+        "groups": [],
+        "page": {
+            "viewer": "default",
+            "width": 209.815,
+            "height": 296.863,
+            "pages": 1,
+            "scale": "auto",
+            "update": true,
+            "updateInterval": 5,
+            "radius": "0 0 0 0/0 0 0 0",
+            "xOffset": 0,
+            "yOffset": 0,
+            "copies": 1,
+            "blank": "drop",
+            "labelCol": 1,
+            "labelGap": 2.646,
+            "gridWidth": 5.292,
+            "gridHeight": 5.292,
+            "font": "microsoft yahei",
+            "background": "#fff",
+            "backgroundRepeat": "no-repeat",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundX": 0,
+            "backgroundY": 0
+        },
+        "elements": [
+            {
+                "id": "YWQ2YzVmYTg2_m57zr7jq606",
+                "type": "vy",
+                "unit": "mm",
+                "props": {
+                    "rows": [
+                        {
+                            "height": 10.583,
+                            "cols": [
+                                {
+                                    "width": 209.815,
+                                    "elements": [],
+                                    "btype": [
+                                        "dashed",
+                                        "dashed",
+                                        "dashed",
+                                        "dashed"
+                                    ],
+                                    "bwidth": [
+                                        0,
+                                        0,
+                                        0.265,
+                                        0
+                                    ],
+                                    "bcolor": [
+                                        "#ccc",
+                                        "#ccc",
+                                        "#ccc",
+                                        "#ccc"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "width": 209.815,
+                    "height": 10.583,
+                    "alpha": 1,
+                    "name": "頁頭-1",
+                    "animations": []
+                }
+            },
+            {
+                "id": "YWQ2YzVmYTg2_m57zr7jq352",
+                "type": "q4",
+                "unit": "mm",
+                "props": {
+                    "rows": [
+                        {
+                            "cols": [
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "elements": []
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "elements": []
+                                }
+                            ]
+                        },
+                        {
+                            "cols": [
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "elements": []
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "elements": []
+                                }
+                            ]
+                        }
+                    ],
+                    "x": 17.57,
+                    "y": 10.377,
+                    "width": 79.64,
+                    "height": 16.14,
+                    "alpha": 1,
+                    "bdeed": "collapse",
+                    "bwidth": 0.265,
+                    "btype": "solid",
+                    "bcolor": "#000",
+                    "name": "表格-1",
+                    "animations": []
+                }
+            },
+            {
+                "id": "YWQ2YzVmYTg2_m57zr7jq638",
+                "type": "ka",
+                "unit": "mm",
+                "props": {
+                    "bind": {},
+                    "rows": [
+                        {
+                            "height": 39.688,
+                            "cols": [
+                                {
+                                    "width": 79.375,
+                                    "elements": [],
+                                    "btype": [
+                                        "solid",
+                                        "solid",
+                                        "solid",
+                                        "solid"
+                                    ],
+                                    "bwidth": [
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "bcolor": [
+                                        "#000",
+                                        "#000",
+                                        "#000",
+                                        "#000"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "x": 130.441,
+                    "y": 15.061,
+                    "width": 79.375,
+                    "height": 39.688,
+                    "alpha": 1,
+                    "hspace": 5.292,
+                    "vspace": 5.292,
+                    "name": "橫縱重復-1",
+                    "animations": []
+                }
+            },
+            {
+                "id": "YWQ2YzVmYTg2_m57zr7jq629",
+                "type": "bj",
+                "unit": "mm",
+                "props": {
+                    "rows": [
+                        {
+                            "cols": [
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "pLeft": 1.323,
+                                    "pTop": 1.323,
+                                    "pRight": 1.323,
+                                    "pBottom": 1.323,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "hpos": "center",
+                                    "vpos": "center",
+                                    "alpha": 1,
+                                    "type": "text",
+                                    "textGap": 0,
+                                    "textColor": "#000",
+                                    "textSize": 3.704,
+                                    "textFont": "inherit",
+                                    "textMatch": true,
+                                    "textContent": "",
+                                    "textFormat": "",
+                                    "elements": []
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "pLeft": 1.323,
+                                    "pTop": 1.323,
+                                    "pRight": 1.323,
+                                    "pBottom": 1.323,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "hpos": "center",
+                                    "vpos": "center",
+                                    "alpha": 1,
+                                    "type": "text",
+                                    "textGap": 0,
+                                    "textColor": "#000",
+                                    "textSize": 3.704,
+                                    "textFont": "inherit",
+                                    "textMatch": true,
+                                    "textContent": "",
+                                    "textFormat": "",
+                                    "elements": []
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "pLeft": 1.323,
+                                    "pTop": 1.323,
+                                    "pRight": 1.323,
+                                    "pBottom": 1.323,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "hpos": "center",
+                                    "vpos": "center",
+                                    "alpha": 1,
+                                    "type": "text",
+                                    "textGap": 0,
+                                    "textColor": "#000",
+                                    "textSize": 3.704,
+                                    "textFont": "inherit",
+                                    "textMatch": true,
+                                    "textContent": "",
+                                    "textFormat": "",
+                                    "elements": []
+                                }
+                            ]
+                        },
+                        {
+                            "label": true,
+                            "cols": [
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "pLeft": 1.323,
+                                    "pTop": 1.323,
+                                    "pRight": 1.323,
+                                    "pBottom": 1.323,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "hpos": "center",
+                                    "vpos": "center",
+                                    "alpha": 1,
+                                    "type": "text",
+                                    "textGap": 0,
+                                    "textColor": "#000",
+                                    "textSize": 3.704,
+                                    "textFont": "inherit",
+                                    "textMatch": true,
+                                    "textContent": "",
+                                    "textFormat": ""
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "pLeft": 1.323,
+                                    "pTop": 1.323,
+                                    "pRight": 1.323,
+                                    "pBottom": 1.323,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "hpos": "center",
+                                    "vpos": "center",
+                                    "alpha": 1,
+                                    "type": "text",
+                                    "textGap": 0,
+                                    "textColor": "#000",
+                                    "textSize": 3.704,
+                                    "textFont": "inherit",
+                                    "textMatch": true,
+                                    "textContent": "",
+                                    "textFormat": ""
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "pLeft": 1.323,
+                                    "pTop": 1.323,
+                                    "pRight": 1.323,
+                                    "pBottom": 1.323,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "hpos": "center",
+                                    "vpos": "center",
+                                    "alpha": 1,
+                                    "type": "text",
+                                    "textGap": 0,
+                                    "textColor": "#000",
+                                    "textSize": 3.704,
+                                    "textFont": "inherit",
+                                    "textMatch": true,
+                                    "textContent": "",
+                                    "textFormat": ""
+                                }
+                            ]
+                        },
+                        {
+                            "data": true,
+                            "cols": [
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "pLeft": 1.323,
+                                    "pTop": 1.323,
+                                    "pRight": 1.323,
+                                    "pBottom": 1.323,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "hpos": "center",
+                                    "vpos": "center",
+                                    "alpha": 1,
+                                    "type": "text",
+                                    "textGap": 0,
+                                    "textColor": "#000",
+                                    "textSize": 3.704,
+                                    "textFont": "inherit",
+                                    "textMatch": true,
+                                    "textContent": "",
+                                    "textFormat": ""
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "pLeft": 1.323,
+                                    "pTop": 1.323,
+                                    "pRight": 1.323,
+                                    "pBottom": 1.323,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "hpos": "center",
+                                    "vpos": "center",
+                                    "alpha": 1,
+                                    "type": "text",
+                                    "textGap": 0,
+                                    "textColor": "#000",
+                                    "textSize": 3.704,
+                                    "textFont": "inherit",
+                                    "textMatch": true,
+                                    "textContent": "",
+                                    "textFormat": ""
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "pLeft": 1.323,
+                                    "pTop": 1.323,
+                                    "pRight": 1.323,
+                                    "pBottom": 1.323,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "hpos": "center",
+                                    "vpos": "center",
+                                    "alpha": 1,
+                                    "type": "text",
+                                    "textGap": 0,
+                                    "textColor": "#000",
+                                    "textSize": 3.704,
+                                    "textFont": "inherit",
+                                    "textMatch": true,
+                                    "textContent": "",
+                                    "textFormat": ""
+                                }
+                            ]
+                        },
+                        {
+                            "total": true,
+                            "cols": [
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "pLeft": 1.323,
+                                    "pTop": 1.323,
+                                    "pRight": 1.323,
+                                    "pBottom": 1.323,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "hpos": "center",
+                                    "vpos": "center",
+                                    "alpha": 1,
+                                    "type": "text",
+                                    "textGap": 0,
+                                    "textColor": "#000",
+                                    "textSize": 3.704,
+                                    "textFont": "inherit",
+                                    "textMatch": true,
+                                    "textContent": "",
+                                    "textFormat": ""
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "pLeft": 1.323,
+                                    "pTop": 1.323,
+                                    "pRight": 1.323,
+                                    "pBottom": 1.323,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "hpos": "center",
+                                    "vpos": "center",
+                                    "alpha": 1,
+                                    "type": "text",
+                                    "textGap": 0,
+                                    "textColor": "#000",
+                                    "textSize": 3.704,
+                                    "textFont": "inherit",
+                                    "textMatch": true,
+                                    "textContent": "",
+                                    "textFormat": ""
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "pLeft": 1.323,
+                                    "pTop": 1.323,
+                                    "pRight": 1.323,
+                                    "pBottom": 1.323,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "hpos": "center",
+                                    "vpos": "center",
+                                    "alpha": 1,
+                                    "type": "text",
+                                    "textGap": 0,
+                                    "textColor": "#000",
+                                    "textSize": 3.704,
+                                    "textFont": "inherit",
+                                    "textMatch": true,
+                                    "textContent": "",
+                                    "textFormat": ""
+                                }
+                            ]
+                        },
+                        {
+                            "cols": [
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "pLeft": 1.323,
+                                    "pTop": 1.323,
+                                    "pRight": 1.323,
+                                    "pBottom": 1.323,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "hpos": "center",
+                                    "vpos": "center",
+                                    "alpha": 1,
+                                    "type": "text",
+                                    "textGap": 0,
+                                    "textColor": "#000",
+                                    "textSize": 3.704,
+                                    "textFont": "inherit",
+                                    "textMatch": true,
+                                    "textContent": "",
+                                    "textFormat": "",
+                                    "elements": []
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "pLeft": 1.323,
+                                    "pTop": 1.323,
+                                    "pRight": 1.323,
+                                    "pBottom": 1.323,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "hpos": "center",
+                                    "vpos": "center",
+                                    "alpha": 1,
+                                    "type": "text",
+                                    "textGap": 0,
+                                    "textColor": "#000",
+                                    "textSize": 3.704,
+                                    "textFont": "inherit",
+                                    "textMatch": true,
+                                    "textContent": "",
+                                    "textFormat": "",
+                                    "elements": []
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "pLeft": 1.323,
+                                    "pTop": 1.323,
+                                    "pRight": 1.323,
+                                    "pBottom": 1.323,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "hpos": "center",
+                                    "vpos": "center",
+                                    "alpha": 1,
+                                    "type": "text",
+                                    "textGap": 0,
+                                    "textColor": "#000",
+                                    "textSize": 3.704,
+                                    "textFont": "inherit",
+                                    "textMatch": true,
+                                    "textContent": "",
+                                    "textFormat": "",
+                                    "elements": []
+                                }
+                            ]
+                        }
+                    ],
+                    "bind": {},
+                    "x": 6.826,
+                    "y": 52.685,
+                    "width": 119.328,
+                    "height": 39.953,
+                    "alpha": 1,
+                    "bdeed": "collapse",
+                    "bwidth": 0.265,
+                    "btype": "solid",
+                    "bcolor": "#000",
+                    "spacing": 7.938,
+                    "hideHead": true,
+                    "hideTotal": true,
+                    "hideFoot": true,
+                    "eachPageLabel": true,
+                    "headFirst": true,
+                    "footLast": true,
+                    "dynamicCols": true,
+                    "avgColsWidth": "percent",
+                    "columnsPrint": false,
+                    "hspace": 5.292,
+                    "rowsMax": 0,
+                    "singleRowScale": true,
+                    "canDownload": true,
+                    "name": "數據表格-1",
+                    "animations": []
+                }
+            },
+            {
+                "id": "YWQ2YzVmYTg2_m57zr7jq361",
+                "type": "yv",
+                "unit": "mm",
+                "props": {
+                    "rows": [
+                        {
+                            "height": 53.334,
+                            "cols": [
+                                {
+                                    "scroll": true,
+                                    "elements": [
+                                        {
+                                            "id": "YWQ2YzVmYTg2_m57zr7jq378",
+                                            "type": "11s",
+                                            "unit": "mm",
+                                            "props": {
+                                                "rows": [
+                                                    {
+                                                        "width": 39.688,
+                                                        "cols": [
+                                                            {
+                                                                "scroll": true,
+                                                                "elements": [],
+                                                                "height": 44.26,
+                                                                "btype": [
+                                                                    "solid",
+                                                                    "solid",
+                                                                    "solid",
+                                                                    "solid"
+                                                                ],
+                                                                "bwidth": [
+                                                                    0.265,
+                                                                    0.265,
+                                                                    0.265,
+                                                                    0.265
+                                                                ],
+                                                                "bcolor": [
+                                                                    "#000",
+                                                                    "#000",
+                                                                    "#000",
+                                                                    "#000"
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "width": 39.688,
+                                                        "cols": [
+                                                            {
+                                                                "scroll": true,
+                                                                "elements": [],
+                                                                "height": 24.933,
+                                                                "btype": [
+                                                                    "solid",
+                                                                    "solid",
+                                                                    "solid",
+                                                                    "solid"
+                                                                ],
+                                                                "bwidth": [
+                                                                    0.265,
+                                                                    0.265,
+                                                                    0.265,
+                                                                    0.265
+                                                                ],
+                                                                "bcolor": [
+                                                                    "#000",
+                                                                    "#000",
+                                                                    "#000",
+                                                                    "#000"
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "x": 16.629,
+                                                "y": 3.312,
+                                                "width": 79.904,
+                                                "height": 44.26,
+                                                "alpha": 1,
+                                                "hgap": 0.529,
+                                                "vgap": 0.529,
+                                                "name": "V-Flex-1",
+                                                "animations": []
+                                            }
+                                        }
+                                    ],
+                                    "width": 106.294,
+                                    "btype": [
+                                        "solid",
+                                        "solid",
+                                        "solid",
+                                        "solid"
+                                    ],
+                                    "bwidth": [
+                                        0.265,
+                                        0.265,
+                                        0.265,
+                                        0.265
+                                    ],
+                                    "bcolor": [
+                                        "#000",
+                                        "#000",
+                                        "#000",
+                                        "#000"
+                                    ]
+                                },
+                                {
+                                    "scroll": true,
+                                    "elements": [],
+                                    "width": 79.375,
+                                    "btype": [
+                                        "solid",
+                                        "solid",
+                                        "solid",
+                                        "solid"
+                                    ],
+                                    "bwidth": [
+                                        0.265,
+                                        0.265,
+                                        0.265,
+                                        0.265
+                                    ],
+                                    "bcolor": [
+                                        "#000",
+                                        "#000",
+                                        "#000",
+                                        "#000"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "x": 14.357,
+                    "y": 102.984,
+                    "width": 186.199,
+                    "height": 53.334,
+                    "alpha": 1,
+                    "hgap": 0.529,
+                    "vgap": 0.529,
+                    "name": "H-Flex-1",
+                    "animations": []
+                }
+            },
+            {
+                "id": "YWQ2YzVmYTg2_m57zr7jq634",
+                "type": "hd",
+                "unit": "mm",
+                "props": {
+                    "bind": {},
+                    "rows": [
+                        {
+                            "cols": [
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                }
+                            ]
+                        },
+                        {
+                            "label": true,
+                            "cols": [
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                }
+                            ]
+                        },
+                        {
+                            "data": true,
+                            "cols": [
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                }
+                            ]
+                        },
+                        {
+                            "total": true,
+                            "cols": [
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                }
+                            ]
+                        },
+                        {
+                            "cols": [
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                },
+                                {
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                }
+                            ]
+                        }
+                    ],
+                    "x": 40.914,
+                    "y": 166.255,
+                    "width": 119.328,
+                    "height": 39.953,
+                    "alpha": 1,
+                    "bdeed": "collapse",
+                    "bwidth": 0.265,
+                    "btype": "solid",
+                    "bcolor": "#000",
+                    "spacing": 7.938,
+                    "hideHead": true,
+                    "hideTotal": true,
+                    "hideFoot": true,
+                    "headFirst": true,
+                    "footLast": true,
+                    "match": true,
+                    "dynamicCols": true,
+                    "avgColsWidth": "percent",
+                    "columnsPrint": false,
+                    "hspace": 5.292,
+                    "rowsMax": 0,
+                    "name": "自由表格-1",
+                    "animations": []
+                }
+            },
+            {
+                "id": "YWQ2YzVmYTg2_m57zr7jq614",
+                "type": "eg",
+                "unit": "mm",
+                "props": {
+                    "rows": [
+                        {
+                            "cols": [
+                                {
+                                    "textGap": 0,
+                                    "textColor": "#000",
+                                    "textSize": 3.704,
+                                    "textFont": "inherit",
+                                    "textMatch": true,
+                                    "textContent": "",
+                                    "textFormat": "",
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "pLeft": 1.323,
+                                    "pTop": 1.323,
+                                    "pRight": 1.323,
+                                    "pBottom": 1.323,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "hpos": "center",
+                                    "vpos": "center",
+                                    "alpha": 1,
+                                    "type": "text"
+                                },
+                                {
+                                    "textGap": 0,
+                                    "textColor": "#000",
+                                    "textSize": 3.704,
+                                    "textFont": "inherit",
+                                    "textMatch": true,
+                                    "textContent": "",
+                                    "textFormat": "",
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "pLeft": 1.323,
+                                    "pTop": 1.323,
+                                    "pRight": 1.323,
+                                    "pBottom": 1.323,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "hpos": "center",
+                                    "vpos": "center",
+                                    "alpha": 1,
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "cols": [
+                                {
+                                    "textGap": 0,
+                                    "textColor": "#000",
+                                    "textSize": 3.704,
+                                    "textFont": "inherit",
+                                    "textMatch": true,
+                                    "textContent": "",
+                                    "textFormat": "",
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "pLeft": 1.323,
+                                    "pTop": 1.323,
+                                    "pRight": 1.323,
+                                    "pBottom": 1.323,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "hpos": "center",
+                                    "vpos": "center",
+                                    "alpha": 1,
+                                    "type": "text"
+                                },
+                                {
+                                    "textGap": 0,
+                                    "textColor": "#000",
+                                    "textSize": 3.704,
+                                    "textFont": "inherit",
+                                    "textMatch": true,
+                                    "textContent": "",
+                                    "textFormat": "",
+                                    "height": 7.938,
+                                    "width": 39.688,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "pLeft": 1.323,
+                                    "pTop": 1.323,
+                                    "pRight": 1.323,
+                                    "pBottom": 1.323,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "hpos": "center",
+                                    "vpos": "center",
+                                    "alpha": 1,
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bind": {},
+                    "x": 6.826,
+                    "y": 212.862,
+                    "width": 79.64,
+                    "height": 16.14,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "hspace": 5.292,
+                    "vspace": 5.292,
+                    "bdeed": "collapse",
+                    "bwidth": 0.265,
+                    "btype": "solid",
+                    "bcolor": "#000",
+                    "name": "單元格-1",
+                    "animations": []
+                }
+            },
+            {
+                "id": "YWQ2YzVmYTg2_m57zr7jq642",
+                "type": "1aj",
+                "unit": "mm",
+                "props": {
+                    "rows": [
+                        {
+                            "height": 40.967,
+                            "cols": [
+                                {
+                                    "width": 158.75,
+                                    "text": "Tab 1",
+                                    "elements": []
+                                },
+                                {
+                                    "width": 158.75,
+                                    "text": "Tab 2",
+                                    "elements": []
+                                }
+                            ]
+                        }
+                    ],
+                    "x": 6.827,
+                    "y": 240.608,
+                    "width": 158.75,
+                    "height": 40.967,
+                    "alpha": 1,
+                    "activeTab": 0,
+                    "name": "Tabs-1",
+                    "animations": []
+                }
+            },
+            {
+                "id": "YWQ2YzVmYTg2_m57zr7jq610",
+                "type": "t1",
+                "unit": "mm",
+                "props": {
+                    "rows": [
+                        {
+                            "height": 10.583,
+                            "cols": [
+                                {
+                                    "width": 209.815,
+                                    "elements": [],
+                                    "btype": [
+                                        "dashed",
+                                        "dashed",
+                                        "dashed",
+                                        "dashed"
+                                    ],
+                                    "bwidth": [
+                                        0.265,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "bcolor": [
+                                        "#ccc",
+                                        "#ccc",
+                                        "#ccc",
+                                        "#ccc"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "width": 209.815,
+                    "height": 10.583,
+                    "alpha": 1,
+                    "name": "頁腳-1",
+                    "animations": []
+                }
+            }
+        ]
+    },
+    "success": true
+}

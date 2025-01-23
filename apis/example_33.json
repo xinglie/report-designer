@@ -18,8 +18,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "0ZGJj_80",
-                "type": "pt",
+                "id": "YWQ2YzVmYTg2_80",
+                "type": "bj",
                 "props": {
                     "rows": [
                         {
@@ -53,8 +53,8 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_325",
-                                            "type": "ru",
+                                            "id": "YWQ2YzVmYTg2_325",
+                                            "type": "eg",
                                             "props": {
                                                 "rows": [
                                                     {
@@ -542,7 +542,7 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_222",
+                                            "id": "YWQ2YzVmYTg2_222",
                                             "type": "text",
                                             "props": {
                                                 "x": 32,

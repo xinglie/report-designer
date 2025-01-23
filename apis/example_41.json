@@ -31,7 +31,7 @@
         },
         "elements": [
             {
-                "id": "0ZGJj_87",
+                "id": "YWQ2YzVmYTg2_87",
                 "type": "text",
                 "unit": "px",
                 "props": {
@@ -66,8 +66,8 @@
                 }
             },
             {
-                "id": "0ZGJj_197",
-                "type": "1oa",
+                "id": "YWQ2YzVmYTg2_197",
+                "type": "1p4",
                 "unit": "px",
                 "props": {
                     "x": 583,
@@ -94,8 +94,8 @@
                 }
             },
             {
-                "id": "0ZGJj_217",
-                "type": "1oa",
+                "id": "YWQ2YzVmYTg2_217",
+                "type": "1p4",
                 "unit": "px",
                 "props": {
                     "x": 587,
@@ -122,7 +122,7 @@
                 }
             },
             {
-                "id": "0ZGJj_252",
+                "id": "YWQ2YzVmYTg2_252",
                 "type": "barcode",
                 "unit": "px",
                 "props": {
@@ -153,7 +153,7 @@
                 }
             },
             {
-                "id": "0ZGJj_268",
+                "id": "YWQ2YzVmYTg2_268",
                 "type": "image",
                 "unit": "px",
                 "props": {
@@ -176,7 +176,7 @@
                 }
             },
             {
-                "id": "0ZGJj_334",
+                "id": "YWQ2YzVmYTg2_334",
                 "type": "qrcode",
                 "unit": "px",
                 "props": {
@@ -200,8 +200,8 @@
                 }
             },
             {
-                "id": "0ZGJj_lhuc7psk147",
-                "type": "pt",
+                "id": "YWQ2YzVmYTg2_lhuc7psk147",
+                "type": "bj",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -621,7 +621,7 @@
                 }
             },
             {
-                "id": "0ZGJj_lhuc7psk194",
+                "id": "YWQ2YzVmYTg2_lhuc7psk194",
                 "type": "bwip",
                 "unit": "px",
                 "props": {

@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <div style="display: flex;">
+    <div style="display: flex;" data-focusable>
         some other text
         <button style="margin-left: 100px;" id="destroy-rd">销毁设计器</button>
         <button style="margin-left: 10px;" disabled id="setup-rd">安装设计器</button>
@@ -24,7 +24,7 @@
             left
         </div>
         <div id="app" class="app"
-            style="min-width:1100px;max-width:1100px;height:600px;border:solid 1px #ccc;position: relative;overflow: clip;">
+            style="width:1300px;height:600px;border:solid 1px #ccc;position: relative;overflow: clip;">
             <div style="display: flex;align-items: center;justify-content: center; height: 100%;">
                 这里可以放一个加载动画...
             </div>
@@ -33,11 +33,11 @@
             right
         </div>
     </div>
-    <div>
+    <div data-focusable>
         <input placeholder="外部输入框测试" />
         bottom text
     </div>
-    <script src="dist/designer.js?v=202412151014"></script>
+    <script src="dist/designer.js?v=202501230830"></script>
     <script>
         //--－start--- 以下是环境检测提示，方便有问题时自查，正式使用时建议删除
         if(!CSS.supports('overflow:clip')||
@@ -52,7 +52,7 @@
         let id = searchParams.get('id');
         let setup = () => {
             designer.setup({
-                version:'202412151014',
+                version:'202501230830',
                 rootId: 'app',
                 mini: true,//迷你模式需要配置该参数减少界面展示
                 viewerUrl: './viewer.html?from=mini',
@@ -66,6 +66,12 @@
         let destroyBtn = document.getElementById('destroy-rd');
         let virtual = document.getElementById('virtual');
         let pt=document.getElementById('print');
+        document.addEventListener('rd.dialog',e=>{
+            let focusables=document.querySelectorAll('[data-focusable]');
+            for(let f of focusables){
+                f.inert=e.open;
+            }
+        });
         setupBtn.addEventListener('click', () => {
             setup();
             setupBtn.disabled = true;

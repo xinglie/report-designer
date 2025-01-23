@@ -29,8 +29,8 @@
         },
         "elements": [
             {
-                "id": "0ZGJj_lmowjlsk120",
-                "type": "zy",
+                "id": "YWQ2YzVmYTg2_lmowjlsk120",
+                "type": "q4",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -47,8 +47,8 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_lmowjlsk140",
-                                            "type": "161",
+                                            "id": "YWQ2YzVmYTg2_lmowjlsk140",
+                                            "type": "yv",
                                             "unit": "mm",
                                             "props": {
                                                 "rows": [
@@ -59,8 +59,8 @@
                                                                 "width": 79.38,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "0ZGJj_lmowjlsk191",
-                                                                        "type": "161",
+                                                                        "id": "YWQ2YzVmYTg2_lmowjlsk191",
+                                                                        "type": "yv",
                                                                         "unit": "mm",
                                                                         "props": {
                                                                             "rows": [
@@ -71,7 +71,7 @@
                                                                                             "width": 68.78,
                                                                                             "elements": [
                                                                                                 {
-                                                                                                    "id": "0ZGJj_lmowjlsk214",
+                                                                                                    "id": "YWQ2YzVmYTg2_lmowjlsk214",
                                                                                                     "type": "line",
                                                                                                     "unit": "mm",
                                                                                                     "props": {
@@ -167,8 +167,8 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_lmowjlsk234",
-                                            "type": "182",
+                                            "id": "YWQ2YzVmYTg2_lmowjlsk234",
+                                            "type": "11s",
                                             "unit": "mm",
                                             "props": {
                                                 "rows": [
@@ -179,8 +179,8 @@
                                                                 "height": 79.38,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "0ZGJj_lmowjlsk255",
-                                                                        "type": "182",
+                                                                        "id": "YWQ2YzVmYTg2_lmowjlsk255",
+                                                                        "type": "11s",
                                                                         "unit": "mm",
                                                                         "props": {
                                                                             "rows": [
@@ -191,7 +191,7 @@
                                                                                             "height": 68.78,
                                                                                             "elements": [
                                                                                                 {
-                                                                                                    "id": "0ZGJj_lmowjlsk301",
+                                                                                                    "id": "YWQ2YzVmYTg2_lmowjlsk301",
                                                                                                     "type": "rect",
                                                                                                     "unit": "mm",
                                                                                                     "props": {
@@ -308,8 +308,8 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_lmowjlsk314",
-                                            "type": "zy",
+                                            "id": "YWQ2YzVmYTg2_lmowjlsk314",
+                                            "type": "q4",
                                             "unit": "mm",
                                             "props": {
                                                 "rows": [
@@ -337,7 +337,7 @@
                                                                 "colspan": 1,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "0ZGJj_lmowjlsk332",
+                                                                        "id": "YWQ2YzVmYTg2_lmowjlsk332",
                                                                         "type": "line",
                                                                         "unit": "mm",
                                                                         "props": {
@@ -382,7 +382,7 @@
                                                                 "bBottom": true,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "0ZGJj_lmowjlsk337",
+                                                                        "id": "YWQ2YzVmYTg2_lmowjlsk337",
                                                                         "type": "circle",
                                                                         "unit": "mm",
                                                                         "props": {
@@ -472,7 +472,7 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_lmowjlsk358",
+                                            "id": "YWQ2YzVmYTg2_lmowjlsk358",
                                             "type": "rect",
                                             "unit": "mm",
                                             "props": {
@@ -507,7 +507,7 @@
                                             }
                                         },
                                         {
-                                            "id": "0ZGJj_lmowjlsk370",
+                                            "id": "YWQ2YzVmYTg2_lmowjlsk370",
                                             "type": "text",
                                             "unit": "mm",
                                             "props": {
@@ -550,7 +550,7 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "0ZGJj_lmowjlsk391",
+                                            "id": "YWQ2YzVmYTg2_lmowjlsk391",
                                             "type": "circle",
                                             "unit": "mm",
                                             "props": {
@@ -569,8 +569,8 @@
                                             }
                                         },
                                         {
-                                            "id": "0ZGJj_lmowjlsk394",
-                                            "type": "161",
+                                            "id": "YWQ2YzVmYTg2_lmowjlsk394",
+                                            "type": "yv",
                                             "unit": "mm",
                                             "props": {
                                                 "rows": [
@@ -581,7 +581,7 @@
                                                                 "width": 79.38,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "0ZGJj_lmowjlsk398",
+                                                                        "id": "YWQ2YzVmYTg2_lmowjlsk398",
                                                                         "type": "text",
                                                                         "unit": "mm",
                                                                         "props": {

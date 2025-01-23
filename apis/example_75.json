@@ -5,8 +5,8 @@
         "ys": [],
         "groups": [
             [
-                "0ZGJj_m4doj6w1210",
-                "0ZGJj_m4doporr388"
+                "YWQ2YzVmYTg2_m4doj6w1210",
+                "YWQ2YzVmYTg2_m4doporr388"
             ]
         ],
         "page": {
@@ -36,7 +36,7 @@
         },
         "elements": [
             {
-                "id": "0ZGJj_m4dmffox1284",
+                "id": "YWQ2YzVmYTg2_m4dmffox1284",
                 "type": "text",
                 "unit": "mm",
                 "props": {
@@ -69,8 +69,8 @@
                 }
             },
             {
-                "id": "0ZGJj_m4dmffox1309",
-                "type": "ru",
+                "id": "YWQ2YzVmYTg2_m4dmffox1309",
+                "type": "eg",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -879,8 +879,8 @@
                 }
             },
             {
-                "id": "0ZGJj_m4doj6w1210",
-                "type": "pt",
+                "id": "YWQ2YzVmYTg2_m4doj6w1210",
+                "type": "bj",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -1199,8 +1199,8 @@
                 }
             },
             {
-                "id": "0ZGJj_m4doporr388",
-                "type": "ru",
+                "id": "YWQ2YzVmYTg2_m4doporr388",
+                "type": "eg",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -1476,8 +1476,8 @@
                 }
             },
             {
-                "id": "0ZGJj_m4fknebm252",
-                "type": "1i7",
+                "id": "YWQ2YzVmYTg2_m4fknebm252",
+                "type": "1gd",
                 "unit": "mm",
                 "props": {
                     "x": 11.115,
@@ -1489,7 +1489,7 @@
                         "tag": "apis/nurse.json",
                         "fields": [
                             {
-                                "key": "1k8",
+                                "key": "1ja",
                                 "name": "富文本"
                             }
                         ]

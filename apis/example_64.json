@@ -30,8 +30,8 @@
         },
         "elements": [
             {
-                "id": "0ZGJj_loh07ahn126",
-                "type": "pt",
+                "id": "YWQ2YzVmYTg2_loh07ahn126",
+                "type": "bj",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -330,7 +330,7 @@
                 }
             },
             {
-                "id": "0ZGJj_loh07ahn172",
+                "id": "YWQ2YzVmYTg2_loh07ahn172",
                 "type": "rect",
                 "unit": "mm",
                 "props": {
@@ -365,7 +365,7 @@
                 }
             },
             {
-                "id": "0ZGJj_loh07ahn209",
+                "id": "YWQ2YzVmYTg2_loh07ahn209",
                 "type": "line",
                 "unit": "mm",
                 "props": {

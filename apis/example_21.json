@@ -32,8 +32,8 @@
         },
         "elements": [
             {
-                "id": "0ZGJj_140",
-                "type": "2kq",
+                "id": "YWQ2YzVmYTg2_140",
+                "type": "35m",
                 "unit": "q",
                 "props": {
                     "readonly": false,
@@ -50,7 +50,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "2kq": "2kq",
+                    "35m": "35m",
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
                     "imageWidth": 135.468,
                     "imageHeight": 135.468,
@@ -62,8 +62,8 @@
                 }
             },
             {
-                "id": "0ZGJj_146",
-                "type": "2kq",
+                "id": "YWQ2YzVmYTg2_146",
+                "type": "35m",
                 "unit": "q",
                 "props": {
                     "readonly": false,
@@ -80,7 +80,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "2kq": "2kq",
+                    "35m": "35m",
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
                     "imageWidth": 135.468,
                     "imageHeight": 135.468,
