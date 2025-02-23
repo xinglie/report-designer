@@ -1,6 +1,9 @@
 {
     "data": {
         "unit": "mm",
+        "xs": [],
+        "ys": [],
+        "groups": [],
         "page": {
             "viewer": "stack",
             "width": 209.815,
@@ -12,14 +15,13 @@
             "radius": "0 0 0 0/0 0 0 0",
             "xOffset": 0,
             "yOffset": 0,
-            "space": 0,
             "copies": 1,
             "blank": "drop",
             "labelCol": 1,
             "labelGap": 2.646,
-            "font": "tahoma",
             "gridWidth": 5.292,
             "gridHeight": 5.292,
+            "font": "tahoma",
             "background": "#fff",
             "backgroundRepeat": "no-repeat",
             "backgroundWidth": 0,
@@ -29,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "YWQ2YzVmYTg2_lv6g4oka410",
-                "type": "bj",
+                "id": "NTZh_lv6g4oka410",
+                "type": "5l",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -442,7 +444,7 @@
                                     "rowspan": 1,
                                     "colspan": 1,
                                     "elements": [],
-                                    "bindKey": "1m7",
+                                    "bindKey": "1sm",
                                     "bindName": "数量"
                                 },
                                 {
@@ -803,7 +805,7 @@
                         "name": "车辆检修单"
                     },
                     "x": 10.328,
-                    "y": 39.093,
+                    "y": 42.003,
                     "width": 189.164,
                     "height": 56.56,
                     "alpha": 1,
@@ -815,25 +817,27 @@
                     "hideHead": true,
                     "hideTotal": true,
                     "hideFoot": true,
-                    "eachPageLabel": true,
+                    "pageLabel": true,
                     "headFirst": true,
                     "footLast": true,
                     "dynamicCols": true,
                     "avgColsWidth": "percent",
+                    "columnsPrint": false,
                     "hspace": 5.292,
                     "rowsMax": 0,
                     "singleRowScale": true,
+                    "canDownload": true,
                     "name": "數據表格-1",
                     "animations": []
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lv6pi07t553",
-                "type": "text",
+                "id": "NTZh_lv6pi07t553",
+                "type": "4vl",
                 "unit": "mm",
                 "props": {
                     "x": 61.017,
-                    "y": 11.997,
+                    "y": 14.907,
                     "width": 87.784,
                     "height": 6.615,
                     "alpha": 1,
@@ -860,12 +864,12 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lv6pi07t636",
-                "type": "text",
+                "id": "NTZh_lv6pi07t636",
+                "type": "4vl",
                 "unit": "mm",
                 "props": {
                     "x": 121.626,
-                    "y": 116.714,
+                    "y": 119.624,
                     "width": 77.864,
                     "height": 6.615,
                     "alpha": 1,
@@ -892,40 +896,12 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lv6pi07t643",
-                "type": "1p4",
-                "unit": "mm",
-                "props": {
-                    "x": 169.422,
-                    "y": 0,
-                    "width": 38.806,
-                    "height": 5.764,
-                    "alpha": 1,
-                    "rotate": 0,
-                    "print": "each",
-                    "text": "${current}/${total}",
-                    "match": true,
-                    "size": 3.704,
-                    "font": "tahoma",
-                    "line": 1.5,
-                    "gap": 0,
-                    "color": "#000",
-                    "hpos": "flex-end",
-                    "vpos": "center",
-                    "bwidth": 0,
-                    "bcolor": "#000",
-                    "btype": "solid",
-                    "name": "頁碼器-1",
-                    "animations": []
-                }
-            },
-            {
-                "id": "YWQ2YzVmYTg2_lvacugcx315",
-                "type": "text",
+                "id": "NTZh_lvacugcx315",
+                "type": "4vl",
                 "unit": "mm",
                 "props": {
                     "x": 17.207,
-                    "y": 22.547,
+                    "y": 25.457,
                     "width": 171.695,
                     "height": 10.54,
                     "alpha": 1,
@@ -948,6 +924,76 @@
                     "winWidth": 132.292,
                     "winHeight": 132.292,
                     "name": "文本-3",
+                    "animations": []
+                }
+            },
+            {
+                "id": "NTZh_m7g969np216",
+                "type": "17d",
+                "unit": "mm",
+                "props": {
+                    "rows": [
+                        {
+                            "height": 10.583,
+                            "cols": [
+                                {
+                                    "width": 209.815,
+                                    "elements": [
+                                        {
+                                            "id": "NTZh_m7g969np336",
+                                            "type": "1uz",
+                                            "unit": "mm",
+                                            "props": {
+                                                "x": 168.44,
+                                                "y": 1.058,
+                                                "width": 38.806,
+                                                "height": 5.764,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "text": "${current}/${total}",
+                                                "match": true,
+                                                "size": 3.704,
+                                                "font": "tahoma",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#000",
+                                                "hpos": "flex-end",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "name": "頁碼器-1",
+                                                "animations": []
+                                            }
+                                        }
+                                    ],
+                                    "btype": [
+                                        "dashed",
+                                        "dashed",
+                                        "dashed",
+                                        "dashed"
+                                    ],
+                                    "bwidth": [
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "bcolor": [
+                                        "#ccc",
+                                        "#ccc",
+                                        "#ccc",
+                                        "#ccc"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "width": 209.815,
+                    "height": 10.583,
+                    "alpha": 1,
+                    "name": "頁頭-1",
                     "animations": []
                 }
             }

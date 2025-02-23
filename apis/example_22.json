@@ -20,8 +20,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "YWQ2YzVmYTg2_143",
-                "type": "hd",
+                "id": "NTZh_143",
+                "type": "f1",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -38,8 +38,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "YWQ2YzVmYTg2_152",
-                                            "type": "text",
+                                            "id": "NTZh_152",
+                                            "type": "4vl",
                                             "unit": "px",
                                             "props": {
                                                 "x": 0,
@@ -93,8 +93,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "YWQ2YzVmYTg2_328",
-                                            "type": "text",
+                                            "id": "NTZh_328",
+                                            "type": "4vl",
                                             "unit": "px",
                                             "props": {
                                                 "x": 13,
@@ -139,8 +139,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "YWQ2YzVmYTg2_355",
-                                            "type": "text",
+                                            "id": "NTZh_355",
+                                            "type": "4vl",
                                             "unit": "px",
                                             "props": {
                                                 "pinX": false,
@@ -191,8 +191,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "YWQ2YzVmYTg2_381",
-                                            "type": "text",
+                                            "id": "NTZh_381",
+                                            "type": "4vl",
                                             "unit": "px",
                                             "props": {
                                                 "pinX": false,
@@ -247,8 +247,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "YWQ2YzVmYTg2_407",
-                                            "type": "text",
+                                            "id": "NTZh_407",
+                                            "type": "4vl",
                                             "unit": "px",
                                             "props": {
                                                 "pinX": false,
@@ -299,8 +299,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "YWQ2YzVmYTg2_433",
-                                            "type": "text",
+                                            "id": "NTZh_433",
+                                            "type": "4vl",
                                             "unit": "px",
                                             "props": {
                                                 "pinX": false,
@@ -356,8 +356,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "YWQ2YzVmYTg2_255",
-                                            "type": "text",
+                                            "id": "NTZh_255",
+                                            "type": "4vl",
                                             "unit": "px",
                                             "props": {
                                                 "x": 13,
@@ -407,8 +407,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "YWQ2YzVmYTg2_273",
-                                            "type": "text",
+                                            "id": "NTZh_273",
+                                            "type": "4vl",
                                             "unit": "px",
                                             "props": {
                                                 "x": 21,
@@ -462,8 +462,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "YWQ2YzVmYTg2_276",
-                                            "type": "text",
+                                            "id": "NTZh_276",
+                                            "type": "4vl",
                                             "unit": "px",
                                             "props": {
                                                 "x": 26,
@@ -521,8 +521,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "YWQ2YzVmYTg2_279",
-                                            "type": "text",
+                                            "id": "NTZh_279",
+                                            "type": "4vl",
                                             "unit": "px",
                                             "props": {
                                                 "x": 31,
@@ -576,8 +576,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "YWQ2YzVmYTg2_282",
-                                            "type": "text",
+                                            "id": "NTZh_282",
+                                            "type": "4vl",
                                             "unit": "px",
                                             "props": {
                                                 "x": 39,
@@ -695,8 +695,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "YWQ2YzVmYTg2_297",
-                                            "type": "text",
+                                            "id": "NTZh_297",
+                                            "type": "4vl",
                                             "unit": "px",
                                             "props": {
                                                 "x": 39,
@@ -738,8 +738,8 @@
                                             }
                                         },
                                         {
-                                            "id": "YWQ2YzVmYTg2_315",
-                                            "type": "text",
+                                            "id": "NTZh_315",
+                                            "type": "4vl",
                                             "unit": "px",
                                             "props": {
                                                 "x": 257,

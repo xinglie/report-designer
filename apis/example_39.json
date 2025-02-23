@@ -5,12 +5,12 @@
         "ys": [],
         "groups": [
             [
-                "YWQ2YzVmYTg2_lh4ey1ha147",
-                "YWQ2YzVmYTg2_10",
-                "YWQ2YzVmYTg2_11",
-                "YWQ2YzVmYTg2_12",
-                "YWQ2YzVmYTg2_13",
-                "YWQ2YzVmYTg2_14"
+                "NTZh_lh4ey1ha147",
+                "NTZh_10",
+                "NTZh_11",
+                "NTZh_12",
+                "NTZh_13",
+                "NTZh_14"
             ]
         ],
         "page": {
@@ -40,8 +40,8 @@
         },
         "elements": [
             {
-                "id": "YWQ2YzVmYTg2_lh4ey1ha147",
-                "type": "svg/polyline2",
+                "id": "NTZh_lh4ey1ha147",
+                "type": "svg/6uf",
                 "unit": "px",
                 "props": {
                     "x": 493,
@@ -72,8 +72,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_7",
-                "type": "text",
+                "id": "NTZh_7",
+                "type": "4vl",
                 "unit": "px",
                 "props": {
                     "x": 238,
@@ -104,8 +104,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_8",
-                "type": "text",
+                "id": "NTZh_8",
+                "type": "4vl",
                 "unit": "px",
                 "props": {
                     "x": 36,
@@ -136,8 +136,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_10",
-                "type": "text",
+                "id": "NTZh_10",
+                "type": "4vl",
                 "unit": "px",
                 "props": {
                     "x": 468,
@@ -168,8 +168,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_11",
-                "type": "text",
+                "id": "NTZh_11",
+                "type": "4vl",
                 "unit": "px",
                 "props": {
                     "x": 726,
@@ -200,8 +200,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_12",
-                "type": "text",
+                "id": "NTZh_12",
+                "type": "4vl",
                 "unit": "px",
                 "props": {
                     "x": 660,
@@ -232,8 +232,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_13",
-                "type": "text",
+                "id": "NTZh_13",
+                "type": "4vl",
                 "unit": "px",
                 "props": {
                     "x": 682,
@@ -264,8 +264,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_14",
-                "type": "text",
+                "id": "NTZh_14",
+                "type": "4vl",
                 "unit": "px",
                 "props": {
                     "x": 656,
@@ -296,8 +296,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_16",
-                "type": "text",
+                "id": "NTZh_16",
+                "type": "4vl",
                 "unit": "px",
                 "props": {
                     "x": 39,
@@ -329,8 +329,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_17",
-                "type": "2zs",
+                "id": "NTZh_17",
+                "type": "38k",
                 "unit": "px",
                 "props": {
                     "x": 76,
@@ -350,8 +350,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_18",
-                "type": "2zs",
+                "id": "NTZh_18",
+                "type": "38k",
                 "unit": "px",
                 "props": {
                     "x": 76,
@@ -371,8 +371,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_75",
-                "type": "svg/brace",
+                "id": "NTZh_75",
+                "type": "svg/8f3",
                 "unit": "px",
                 "props": {
                     "x": 61,

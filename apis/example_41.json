@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "YWQ2YzVmYTg2_87",
-                "type": "text",
+                "id": "NTZh_87",
+                "type": "4vl",
                 "unit": "px",
                 "props": {
                     "x": 358,
@@ -66,8 +66,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_197",
-                "type": "1p4",
+                "id": "NTZh_197",
+                "type": "1uz",
                 "unit": "px",
                 "props": {
                     "x": 583,
@@ -94,8 +94,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_217",
-                "type": "1p4",
+                "id": "NTZh_217",
+                "type": "1uz",
                 "unit": "px",
                 "props": {
                     "x": 587,
@@ -122,8 +122,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_252",
-                "type": "barcode",
+                "id": "NTZh_252",
+                "type": "4qv",
                 "unit": "px",
                 "props": {
                     "x": 52,
@@ -153,8 +153,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_268",
-                "type": "image",
+                "id": "NTZh_268",
+                "type": "4xy",
                 "unit": "px",
                 "props": {
                     "x": 88,
@@ -176,8 +176,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_334",
-                "type": "qrcode",
+                "id": "NTZh_334",
+                "type": "4t8",
                 "unit": "px",
                 "props": {
                     "x": 85,
@@ -200,8 +200,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lhuc7psk147",
-                "type": "bj",
+                "id": "NTZh_lhuc7psk147",
+                "type": "5l",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -621,8 +621,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lhuc7psk194",
-                "type": "bwip",
+                "id": "NTZh_lhuc7psk194",
+                "type": "4oi",
                 "unit": "px",
                 "props": {
                     "x": 439,

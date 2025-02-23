@@ -30,8 +30,8 @@
         },
         "elements": [
             {
-                "id": "YWQ2YzVmYTg2_88",
-                "type": "flow/process",
+                "id": "NTZh_88",
+                "type": "flow/8cq",
                 "unit": "cm",
                 "props": {
                     "textX": 0,
@@ -56,8 +56,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_97",
-                "type": "flow/decision",
+                "id": "NTZh_97",
+                "type": "flow/7i1",
                 "unit": "cm",
                 "props": {
                     "textX": 1.323,
@@ -82,8 +82,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_100",
-                "type": "flow/terminator",
+                "id": "NTZh_100",
+                "type": "flow/8ad",
                 "unit": "cm",
                 "props": {
                     "textX": 0.5292,
@@ -108,8 +108,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_103",
-                "type": "flow/data",
+                "id": "NTZh_103",
+                "type": "flow/83a",
                 "unit": "cm",
                 "props": {
                     "textX": 1.0584,
@@ -134,8 +134,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_106",
-                "type": "flow/document",
+                "id": "NTZh_106",
+                "type": "flow/97f",
                 "unit": "cm",
                 "props": {
                     "textX": 0,
@@ -160,8 +160,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_109",
-                "type": "flow/2wv",
+                "id": "NTZh_109",
+                "type": "flow/85n",
                 "unit": "cm",
                 "props": {
                     "textX": 0.5292,
@@ -186,8 +186,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_112",
-                "type": "flow/manual",
+                "id": "NTZh_112",
+                "type": "flow/7rh",
                 "unit": "cm",
                 "props": {
                     "textX": 0,
@@ -212,7 +212,7 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_115",
+                "id": "NTZh_115",
                 "type": "flow/ref",
                 "unit": "cm",
                 "props": {
@@ -238,8 +238,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_118",
-                "type": "flow/istore",
+                "id": "NTZh_118",
+                "type": "flow/7mr",
                 "unit": "cm",
                 "props": {
                     "textX": 0.3969,
@@ -264,8 +264,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_121",
-                "type": "flow/card",
+                "id": "NTZh_121",
+                "type": "flow/99s",
                 "unit": "cm",
                 "props": {
                     "textX": 0.6615,
@@ -290,8 +290,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_124",
-                "type": "flow/2ty",
+                "id": "NTZh_124",
+                "type": "flow/7db",
                 "unit": "cm",
                 "props": {
                     "textX": 0.3969,
@@ -316,8 +316,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_127",
-                "type": "flow/parallel",
+                "id": "NTZh_127",
+                "type": "flow/7w7",
                 "unit": "cm",
                 "props": {
                     "textX": 0,
@@ -342,8 +342,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_130",
-                "type": "flow/prepare",
+                "id": "NTZh_130",
+                "type": "flow/7yk",
                 "unit": "cm",
                 "props": {
                     "textX": 0.9923,
@@ -368,8 +368,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_133",
-                "type": "flow/database",
+                "id": "NTZh_133",
+                "type": "flow/7ay",
                 "unit": "cm",
                 "props": {
                     "textX": 0.6615,
@@ -394,8 +394,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_136",
-                "type": "flow/estore",
+                "id": "NTZh_136",
+                "type": "flow/7ke",
                 "unit": "cm",
                 "props": {
                     "textX": 0.6615,
@@ -420,8 +420,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_139",
-                "type": "flow/qdata",
+                "id": "NTZh_139",
+                "type": "flow/9c5",
                 "unit": "cm",
                 "props": {
                     "textX": 0.4961,
@@ -446,8 +446,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_142",
-                "type": "flow/tape",
+                "id": "NTZh_142",
+                "type": "flow/9ei",
                 "unit": "cm",
                 "props": {
                     "textX": 0,
@@ -472,8 +472,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_145",
-                "type": "flow/pageref",
+                "id": "NTZh_145",
+                "type": "flow/7tu",
                 "unit": "cm",
                 "props": {
                     "textX": 0,
@@ -498,8 +498,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_148",
-                "type": "flow/display",
+                "id": "NTZh_148",
+                "type": "flow/80x",
                 "unit": "cm",
                 "props": {
                     "textX": 0.6615,
@@ -524,8 +524,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_151",
-                "type": "flow/looplimit",
+                "id": "NTZh_151",
+                "type": "flow/7p4",
                 "unit": "cm",
                 "props": {
                     "textX": 0,
@@ -550,8 +550,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_154",
-                "type": "flow/annotation",
+                "id": "NTZh_154",
+                "type": "flow/73v",
                 "unit": "cm",
                 "props": {
                     "textX": 0,
@@ -576,8 +576,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lg2xt8lq163",
-                "type": "flow/dbtable",
+                "id": "NTZh_lg2xt8lq163",
+                "type": "flow/7fo",
                 "unit": "cm",
                 "props": {
                     "linewidth": 0.053,

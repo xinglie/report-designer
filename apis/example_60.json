@@ -29,8 +29,8 @@
         },
         "elements": [
             {
-                "id": "YWQ2YzVmYTg2_lkcd75xz284",
-                "type": "bj",
+                "id": "NTZh_lkcd75xz284",
+                "type": "5l",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -448,8 +448,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lkcd75xz323",
-                "type": "vy",
+                "id": "NTZh_lkcd75xz323",
+                "type": "17d",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -460,8 +460,8 @@
                                     "width": 209.81,
                                     "elements": [
                                         {
-                                            "id": "YWQ2YzVmYTg2_lkcd75xz345",
-                                            "type": "qrcode",
+                                            "id": "NTZh_lkcd75xz345",
+                                            "type": "4t8",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 185.01,
@@ -490,8 +490,8 @@
                                             }
                                         },
                                         {
-                                            "id": "YWQ2YzVmYTg2_lkcd75xz365",
-                                            "type": "text",
+                                            "id": "NTZh_lkcd75xz365",
+                                            "type": "4vl",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 56.71,
@@ -523,8 +523,8 @@
                                             }
                                         },
                                         {
-                                            "id": "YWQ2YzVmYTg2_lkcd75xz414",
-                                            "type": "text",
+                                            "id": "NTZh_lkcd75xz414",
+                                            "type": "4vl",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 78.45,
@@ -555,8 +555,8 @@
                                             }
                                         },
                                         {
-                                            "id": "YWQ2YzVmYTg2_lkcd75xz421",
-                                            "type": "text",
+                                            "id": "NTZh_lkcd75xz421",
+                                            "type": "4vl",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 2.65,
@@ -587,8 +587,8 @@
                                             }
                                         },
                                         {
-                                            "id": "YWQ2YzVmYTg2_lkcd75xz509",
-                                            "type": "text",
+                                            "id": "NTZh_lkcd75xz509",
+                                            "type": "4vl",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 22.41,
@@ -659,8 +659,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lkcd75xz602",
-                "type": "eg",
+                "id": "NTZh_lkcd75xz602",
+                "type": "7y",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -949,8 +949,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lkcd75xz709",
-                "type": "text",
+                "id": "NTZh_lkcd75xz709",
+                "type": "4vl",
                 "unit": "mm",
                 "props": {
                     "x": 13.58,
@@ -981,8 +981,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lkcd75xz756",
-                "type": "bj",
+                "id": "NTZh_lkcd75xz756",
+                "type": "5l",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -1647,8 +1647,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lkcd75xz757",
-                "type": "text",
+                "id": "NTZh_lkcd75xz757",
+                "type": "4vl",
                 "unit": "mm",
                 "props": {
                     "x": 13.58,
@@ -1679,8 +1679,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lkcmz287426",
-                "type": "t1",
+                "id": "NTZh_lkcmz287426",
+                "type": "12n",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -1691,8 +1691,8 @@
                                     "width": 209.81,
                                     "elements": [
                                         {
-                                            "id": "YWQ2YzVmYTg2_lkcmz287491",
-                                            "type": "1p4",
+                                            "id": "NTZh_lkcmz287491",
+                                            "type": "1uz",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 4.9,

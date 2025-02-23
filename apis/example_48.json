@@ -30,8 +30,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "YWQ2YzVmYTg2_l7twxz8s167",
-                "type": "image",
+                "id": "NTZh_l7twxz8s167",
+                "type": "4xy",
                 "unit": "mm",
                 "props": {
                     "x": 31.54,
@@ -50,8 +50,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_l7twxz8s180",
-                "type": "qrcode",
+                "id": "NTZh_l7twxz8s180",
+                "type": "4t8",
                 "unit": "mm",
                 "props": {
                     "x": 104.88,

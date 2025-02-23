@@ -30,8 +30,8 @@
         },
         "elements": [
             {
-                "id": "YWQ2YzVmYTg2_loh07ahn126",
-                "type": "bj",
+                "id": "NTZh_loh07ahn126",
+                "type": "5l",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -330,8 +330,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_loh07ahn172",
-                "type": "rect",
+                "id": "NTZh_loh07ahn172",
+                "type": "8oj",
                 "unit": "mm",
                 "props": {
                     "x": 27.717,
@@ -365,8 +365,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_loh07ahn209",
-                "type": "line",
+                "id": "NTZh_loh07ahn209",
+                "type": "50b",
                 "unit": "mm",
                 "props": {
                     "x": 43.427,

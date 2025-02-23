@@ -18,8 +18,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "YWQ2YzVmYTg2_133",
-                "type": "vy",
+                "id": "NTZh_133",
+                "type": "17d",
                 "props": {
                     "rows": [
                         {
@@ -29,8 +29,8 @@
                                     "width": 791,
                                     "elements": [
                                         {
-                                            "id": "YWQ2YzVmYTg2_142",
-                                            "type": "1p4",
+                                            "id": "NTZh_142",
+                                            "type": "1uz",
                                             "props": {
                                                 "ext": {},
                                                 "x": 580,
@@ -87,8 +87,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_360",
-                "type": "t1",
+                "id": "NTZh_360",
+                "type": "12n",
                 "props": {
                     "rows": [
                         {
@@ -98,8 +98,8 @@
                                     "width": 791,
                                     "elements": [
                                         {
-                                            "id": "YWQ2YzVmYTg2_387",
-                                            "type": "line",
+                                            "id": "NTZh_387",
+                                            "type": "50b",
                                             "props": {
                                                 "x": 44,
                                                 "y": 10,
@@ -113,8 +113,8 @@
                                             }
                                         },
                                         {
-                                            "id": "YWQ2YzVmYTg2_533",
-                                            "type": "line",
+                                            "id": "NTZh_533",
+                                            "type": "50b",
                                             "props": {
                                                 "x": 451,
                                                 "y": 10,
@@ -128,8 +128,8 @@
                                             }
                                         },
                                         {
-                                            "id": "YWQ2YzVmYTg2_571",
-                                            "type": "text",
+                                            "id": "NTZh_571",
+                                            "type": "4vl",
                                             "props": {
                                                 "x": 273,
                                                 "y": -17,
@@ -191,8 +191,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_607",
-                "type": "text",
+                "id": "NTZh_607",
+                "type": "4vl",
                 "props": {
                     "x": 283,
                     "y": 58,
@@ -222,8 +222,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_653",
-                "type": "image",
+                "id": "NTZh_653",
+                "type": "4xy",
                 "props": {
                     "x": 266,
                     "y": 115,
@@ -243,8 +243,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_691",
-                "type": "text",
+                "id": "NTZh_691",
+                "type": "4vl",
                 "props": {
                     "x": 267,
                     "y": 938,
@@ -274,8 +274,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_710",
-                "type": "bj",
+                "id": "NTZh_710",
+                "type": "5l",
                 "props": {
                     "rows": [
                         {

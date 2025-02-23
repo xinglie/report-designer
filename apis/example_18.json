@@ -33,8 +33,8 @@
         },
         "elements": [
             {
-                "id": "YWQ2YzVmYTg2_101",
-                "type": "batch-barcode",
+                "id": "NTZh_101",
+                "type": "4hf",
                 "unit": "in",
                 "props": {
                     "readonly": false,

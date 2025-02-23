@@ -42,14 +42,14 @@
         },
         "elements": [
             {
-                "id": "YWQ2YzVmYTg2_153",
-                "type": "flow/2r1",
+                "id": "NTZh_153",
+                "type": "flow/78l",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
-                    "linkFromId": "YWQ2YzVmYTg2_141",
+                    "linkFromId": "NTZh_141",
                     "linkFromKey": "p4",
-                    "linkToId": "YWQ2YzVmYTg2_90",
+                    "linkToId": "NTZh_90",
                     "linkToKey": "p6",
                     "x": 155.66,
                     "y": 275.62,
@@ -90,14 +90,14 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_150",
-                "type": "flow/2r1",
+                "id": "NTZh_150",
+                "type": "flow/78l",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
-                    "linkFromId": "YWQ2YzVmYTg2_144",
+                    "linkFromId": "NTZh_144",
                     "linkFromKey": "p6",
-                    "linkToId": "YWQ2YzVmYTg2_141",
+                    "linkToId": "NTZh_141",
                     "linkToKey": "p7",
                     "x": 351.09,
                     "y": 341.27,
@@ -142,14 +142,14 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_147",
-                "type": "flow/2r1",
+                "id": "NTZh_147",
+                "type": "flow/78l",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
-                    "linkFromId": "YWQ2YzVmYTg2_106",
+                    "linkFromId": "NTZh_106",
                     "linkFromKey": "p6",
-                    "linkToId": "YWQ2YzVmYTg2_144",
+                    "linkToId": "NTZh_144",
                     "linkToKey": "p7",
                     "x": 351.09,
                     "y": 275.62,
@@ -194,14 +194,14 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_134",
-                "type": "flow/2r1",
+                "id": "NTZh_134",
+                "type": "flow/78l",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
-                    "linkFromId": "YWQ2YzVmYTg2_124",
+                    "linkFromId": "NTZh_124",
                     "linkFromKey": "p6",
-                    "linkToId": "YWQ2YzVmYTg2_106",
+                    "linkToId": "NTZh_106",
                     "linkToKey": "p7",
                     "x": 351.08,
                     "y": 172.2,
@@ -246,14 +246,14 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_131",
-                "type": "flow/2r1",
+                "id": "NTZh_131",
+                "type": "flow/78l",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
-                    "linkFromId": "YWQ2YzVmYTg2_112",
+                    "linkFromId": "NTZh_112",
                     "linkFromKey": "p6",
-                    "linkToId": "YWQ2YzVmYTg2_124",
+                    "linkToId": "NTZh_124",
                     "linkToKey": "p7",
                     "x": 351.08,
                     "y": 96.32,
@@ -298,14 +298,14 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_109",
-                "type": "flow/2r1",
+                "id": "NTZh_109",
+                "type": "flow/78l",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
-                    "linkFromId": "YWQ2YzVmYTg2_90",
+                    "linkFromId": "NTZh_90",
                     "linkFromKey": "p5",
-                    "linkToId": "YWQ2YzVmYTg2_106",
+                    "linkToId": "NTZh_106",
                     "linkToKey": "p4",
                     "x": 225.44,
                     "y": 238.11,
@@ -341,8 +341,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_90",
-                "type": "flow/process",
+                "id": "NTZh_90",
+                "type": "flow/8cq",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
@@ -370,8 +370,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_106",
-                "type": "flow/process",
+                "id": "NTZh_106",
+                "type": "flow/8cq",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
@@ -401,8 +401,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_112",
-                "type": "flow/process",
+                "id": "NTZh_112",
+                "type": "flow/8cq",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
@@ -432,8 +432,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_124",
-                "type": "flow/process",
+                "id": "NTZh_124",
+                "type": "flow/8cq",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
@@ -463,8 +463,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_141",
-                "type": "flow/process",
+                "id": "NTZh_141",
+                "type": "flow/8cq",
                 "unit": "pt",
                 "props": {
                     "readonly": false,
@@ -494,8 +494,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_144",
-                "type": "flow/process",
+                "id": "NTZh_144",
+                "type": "flow/8cq",
                 "unit": "pt",
                 "props": {
                     "readonly": false,

@@ -33,8 +33,8 @@
         },
         "elements": [
             {
-                "id": "YWQ2YzVmYTg2_114",
-                "type": "batch-qrcode",
+                "id": "NTZh_114",
+                "type": "4js",
                 "unit": "pt",
                 "props": {
                     "readonly": false,

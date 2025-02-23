@@ -20,24 +20,24 @@
         },
         "groups": [
             [
-                "YWQ2YzVmYTg2_167",
-                "YWQ2YzVmYTg2_168",
-                "YWQ2YzVmYTg2_169",
-                "YWQ2YzVmYTg2_172"
+                "NTZh_167",
+                "NTZh_168",
+                "NTZh_169",
+                "NTZh_172"
             ],
             [
-                "YWQ2YzVmYTg2_170",
-                "YWQ2YzVmYTg2_171"
+                "NTZh_170",
+                "NTZh_171"
             ],
             [
-                "YWQ2YzVmYTg2_173",
-                "YWQ2YzVmYTg2_174"
+                "NTZh_173",
+                "NTZh_174"
             ]
         ],
         "elements": [
             {
-                "id": "YWQ2YzVmYTg2_167",
-                "type": "text",
+                "id": "NTZh_167",
+                "type": "4vl",
                 "unit": "in",
                 "props": {
                     "x": 0.177,
@@ -74,8 +74,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_168",
-                "type": "text",
+                "id": "NTZh_168",
+                "type": "4vl",
                 "unit": "in",
                 "props": {
                     "pinX": false,
@@ -114,8 +114,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_169",
-                "type": "text",
+                "id": "NTZh_169",
+                "type": "4vl",
                 "unit": "in",
                 "props": {
                     "pinX": false,
@@ -154,9 +154,9 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_170",
-                "type": "image",
-                "unit": "in",
+                "id": "NTZh_170",
+                "type": "4xy",
+"unit": "in",
                 "props": {
                     "x": 3.083,
                     "y": 3.156,
@@ -178,9 +178,9 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_171",
-                "type": "image",
-                "unit": "in",
+                "id": "NTZh_171",
+                "type": "4xy",
+"unit": "in",
                 "props": {
                     "x": 5.823,
                     "y": 7.052,
@@ -202,8 +202,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_172",
-                "type": "text",
+                "id": "NTZh_172",
+                "type": "4vl",
                 "unit": "in",
                 "props": {
                     "x": 2.656,
@@ -240,8 +240,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_173",
-                "type": "text",
+                "id": "NTZh_173",
+                "type": "4vl",
                 "unit": "in",
                 "props": {
                     "x": 0.896,
@@ -278,9 +278,9 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_174",
-                "type": "image",
-                "unit": "in",
+                "id": "NTZh_174",
+                "type": "4xy",
+"unit": "in",
                 "props": {
                     "x": 0.781,
                     "y": 2.521,

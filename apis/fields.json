@@ -264,7 +264,7 @@
                 {
                     "name": "片断1",
                     "key": "p1",
-                    "use": "1gd",
+                    "use": "1nw",
                     "props": {
                         "width": 500
                     }
@@ -272,7 +272,7 @@
                 {
                     "name": "片断2",
                     "key": "p2",
-                    "use": "1gd",
+                    "use": "1nw",
                     "props": {
                         "width": 500
                     }
@@ -310,12 +310,12 @@
                 {
                     "name": "下拉、单选、多选",
                     "key": "item",
-                    "use": "form-checkbox"
+                    "use": "4cp"
                 },
                 {
                     "name": "中文名称",
                     "key": "item1",
-                    "use": "form-dropdown"
+                    "use": "4f2"
                 },
                 {
                     "name": "子分组测试",
@@ -330,7 +330,7 @@
                         {
                             "name": "输入框绑定",
                             "key": "input",
-                            "use": "form-input"
+                            "use": "47z"
                         }
                     ]
                 },
@@ -342,7 +342,7 @@
                         {
                             "name": "轮播图测试",
                             "key": "images",
-                            "use": "3bg"
+                            "use": "3i0"
                         }
                     ]
                 }
@@ -402,7 +402,7 @@
                 },
                 {
                     "name": "数量",
-                    "key": "1m7"
+                    "key": "1sm"
                 },
                 {
                     "name": "折扣率",
@@ -486,7 +486,7 @@
                 },
                 {
                     "name": "富文本",
-                    "key": "1ja"
+                    "key": "1q9"
                 },
                 {
                     "name": "审核数据",

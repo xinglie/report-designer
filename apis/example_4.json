@@ -21,8 +21,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "YWQ2YzVmYTg2_353",
-                "type": "hd",
+                "id": "NTZh_353",
+                "type": "f1",
                 "unit": "pc",
                 "props": {
                     "rows": [
@@ -39,8 +39,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "YWQ2YzVmYTg2_591",
-                                            "type": "text",
+                                            "id": "NTZh_591",
+                                            "type": "4vl",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 10.578,
@@ -94,8 +94,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "YWQ2YzVmYTg2_481",
-                                            "type": "text",
+                                            "id": "NTZh_481",
+                                            "type": "4vl",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.313,
@@ -144,8 +144,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "YWQ2YzVmYTg2_535",
-                                            "type": "text",
+                                            "id": "NTZh_535",
+                                            "type": "4vl",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
@@ -196,8 +196,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "YWQ2YzVmYTg2_563",
-                                            "type": "text",
+                                            "id": "NTZh_563",
+                                            "type": "4vl",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
@@ -253,8 +253,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "YWQ2YzVmYTg2_364",
-                                            "type": "text",
+                                            "id": "NTZh_364",
+                                            "type": "4vl",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.656,
@@ -308,8 +308,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "YWQ2YzVmYTg2_382",
-                                            "type": "text",
+                                            "id": "NTZh_382",
+                                            "type": "4vl",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.688,
@@ -363,8 +363,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "YWQ2YzVmYTg2_385",
-                                            "type": "text",
+                                            "id": "NTZh_385",
+                                            "type": "4vl",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.969,
@@ -460,8 +460,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "YWQ2YzVmYTg2_654",
-                                            "type": "text",
+                                            "id": "NTZh_654",
+                                            "type": "4vl",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,

@@ -30,8 +30,8 @@
         },
         "elements": [
             {
-                "id": "YWQ2YzVmYTg2_lg4t6ji8365",
-                "type": "chart/2l7",
+                "id": "NTZh_lg4t6ji8365",
+                "type": "chart/31h",
                 "unit": "px",
                 "props": {
                     "x": -32,
@@ -57,8 +57,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lg4t6ji8421",
-                "type": "chart/echart",
+                "id": "NTZh_lg4t6ji8421",
+                "type": "chart/2s1",
                 "unit": "px",
                 "props": {
                     "x": 310,
@@ -84,8 +84,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lfuvg8pv131",
-                "type": "image",
+                "id": "NTZh_lfuvg8pv131",
+                "type": "4xy",
                 "unit": "px",
                 "props": {
                     "x": 31,
@@ -106,8 +106,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lfuvg8pv197",
-                "type": "svg/23p",
+                "id": "NTZh_lfuvg8pv197",
+                "type": "svg/2bi",
                 "unit": "px",
                 "props": {
                     "x": 139,
@@ -146,8 +146,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lfuvg8pv248",
-                "type": "3ha",
+                "id": "NTZh_lfuvg8pv248",
+                "type": "3mq",
                 "unit": "px",
                 "props": {
                     "x": 716,
@@ -178,8 +178,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lfuvg8pv316",
-                "type": "text",
+                "id": "NTZh_lfuvg8pv316",
+                "type": "4vl",
                 "unit": "px",
                 "props": {
                     "x": 589,
@@ -210,8 +210,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lfuvg8pv378",
-                "type": "svg/26m",
+                "id": "NTZh_lfuvg8pv378",
+                "type": "svg/2dv",
                 "unit": "px",
                 "props": {
                     "x": 697,
@@ -246,8 +246,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lfuvg8pv426",
-                "type": "image",
+                "id": "NTZh_lfuvg8pv426",
+                "type": "4xy",
                 "unit": "px",
                 "props": {
                     "x": 467,
@@ -267,8 +267,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lfuvg8pv154",
-                "type": "svg/23p",
+                "id": "NTZh_lfuvg8pv154",
+                "type": "svg/2bi",
                 "unit": "px",
                 "props": {
                     "x": 197,
@@ -307,8 +307,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lfuxbd1153",
-                "type": "38j",
+                "id": "NTZh_lfuxbd1153",
+                "type": "3fn",
                 "unit": "px",
                 "props": {
                     "x": 826,
@@ -345,8 +345,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lg4t6ji8269",
-                "type": "svg/fan",
+                "id": "NTZh_lg4t6ji8269",
+                "type": "svg/40w",
                 "unit": "px",
                 "props": {
                     "x": 139,
@@ -373,8 +373,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lg4xb6l6187",
-                "type": "text",
+                "id": "NTZh_lg4xb6l6187",
+                "type": "4vl",
                 "unit": "px",
                 "props": {
                     "x": 723,
@@ -415,8 +415,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lg4xb6l6225",
-                "type": "text",
+                "id": "NTZh_lg4xb6l6225",
+                "type": "4vl",
                 "unit": "px",
                 "props": {
                     "x": 723,
@@ -457,8 +457,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lg4xb6l6264",
-                "type": "text",
+                "id": "NTZh_lg4xb6l6264",
+                "type": "4vl",
                 "unit": "px",
                 "props": {
                     "x": 723,

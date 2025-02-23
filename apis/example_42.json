@@ -29,8 +29,8 @@
         },
         "elements": [
             {
-                "id": "YWQ2YzVmYTg2_82",
-                "type": "svg/line",
+                "id": "NTZh_82",
+                "type": "svg/5c4",
                 "unit": "px",
                 "props": {
                     "x": 79,
@@ -50,8 +50,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_98",
-                "type": "svg/2fd",
+                "id": "NTZh_98",
+                "type": "svg/2ky",
                 "unit": "px",
                 "props": {
                     "x": 310,
@@ -73,8 +73,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_105",
-                "type": "svg/2cg",
+                "id": "NTZh_105",
+                "type": "svg/2il",
                 "unit": "px",
                 "props": {
                     "x": 583,
@@ -98,7 +98,7 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_111",
+                "id": "NTZh_111",
                 "type": "svg/arc",
                 "unit": "px",
                 "props": {
@@ -124,8 +124,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_139",
-                "type": "svg/rect",
+                "id": "NTZh_139",
+                "type": "svg/8oj",
                 "unit": "px",
                 "props": {
                     "x": 21,
@@ -150,8 +150,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_145",
-                "type": "svg/rect2",
+                "id": "NTZh_145",
+                "type": "svg/8hg",
                 "unit": "px",
                 "props": {
                     "x": 236,
@@ -171,8 +171,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_154",
-                "type": "svg/circle",
+                "id": "NTZh_154",
+                "type": "svg/8m6",
                 "unit": "px",
                 "props": {
                     "x": 458,
@@ -191,8 +191,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_158",
-                "type": "svg/ellipse",
+                "id": "NTZh_158",
+                "type": "svg/6z5",
                 "unit": "px",
                 "props": {
                     "x": 620,
@@ -213,8 +213,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_164",
-                "type": "svg/brace",
+                "id": "NTZh_164",
+                "type": "svg/8f3",
                 "unit": "px",
                 "props": {
                     "x": 33,
@@ -231,8 +231,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_168",
-                "type": "svg/rstar",
+                "id": "NTZh_168",
+                "type": "svg/5j7",
                 "unit": "px",
                 "props": {
                     "x": 90,
@@ -252,8 +252,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_177",
-                "type": "svg/rarrow",
+                "id": "NTZh_177",
+                "type": "svg/5lk",
                 "unit": "px",
                 "props": {
                     "x": 275,
@@ -273,8 +273,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_184",
-                "type": "svg/rbubble",
+                "id": "NTZh_184",
+                "type": "svg/5nx",
                 "unit": "px",
                 "props": {
                     "x": 566,
@@ -298,8 +298,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_195",
-                "type": "svg/rcross",
+                "id": "NTZh_195",
+                "type": "svg/5qa",
                 "unit": "px",
                 "props": {
                     "x": 2,
@@ -319,8 +319,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_202",
-                "type": "svg/rdarrow",
+                "id": "NTZh_202",
+                "type": "svg/64g",
                 "unit": "px",
                 "props": {
                     "x": 145,
@@ -340,8 +340,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_206",
-                "type": "svg/2ia",
+                "id": "NTZh_206",
+                "type": "svg/2nb",
                 "unit": "px",
                 "props": {
                     "x": 436,
@@ -359,8 +359,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_211",
-                "type": "svg/rcube",
+                "id": "NTZh_211",
+                "type": "svg/66t",
                 "unit": "px",
                 "props": {
                     "x": 614,
@@ -379,8 +379,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_216",
-                "type": "svg/rmoon",
+                "id": "NTZh_216",
+                "type": "svg/6bj",
                 "unit": "px",
                 "props": {
                     "x": 22,
@@ -399,8 +399,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_221",
-                "type": "svg/rpie",
+                "id": "NTZh_221",
+                "type": "svg/6dw",
                 "unit": "px",
                 "props": {
                     "x": 167,
@@ -426,8 +426,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_226",
-                "type": "svg/rcard",
+                "id": "NTZh_226",
+                "type": "svg/6g9",
                 "unit": "px",
                 "props": {
                     "x": 380,
@@ -447,8 +447,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_230",
-                "type": "svg/rcorner",
+                "id": "NTZh_230",
+                "type": "svg/6im",
                 "unit": "px",
                 "props": {
                     "x": 649,
@@ -470,8 +470,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lmohwf96233",
-                "type": "svg/rplaque",
+                "id": "NTZh_lmohwf96233",
+                "type": "svg/6kz",
                 "unit": "px",
                 "props": {
                     "x": 250,
@@ -490,8 +490,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lmohwf96236",
-                "type": "svg/fan",
+                "id": "NTZh_lmohwf96236",
+                "type": "svg/40w",
                 "unit": "px",
                 "props": {
                     "x": 458,
@@ -507,8 +507,8 @@
                 }
             },
             {
-                "id": "YWQ2YzVmYTg2_lmohwf96240",
-                "type": "svg/battery",
+                "id": "NTZh_lmohwf96240",
+                "type": "svg/6nc",
                 "unit": "px",
                 "props": {
                     "x": 545,
