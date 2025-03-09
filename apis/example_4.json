@@ -21,8 +21,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "NTZh_353",
-                "type": "f1",
+                "id": "ZTRh_353",
+                "type": "i7y2",
                 "unit": "pc",
                 "props": {
                     "rows": [
@@ -39,8 +39,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "NTZh_591",
-                                            "type": "4vl",
+                                            "id": "ZTRh_591",
+                                            "type": "j1t2",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 10.578,
@@ -94,8 +94,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "NTZh_481",
-                                            "type": "4vl",
+                                            "id": "ZTRh_481",
+                                            "type": "j1t2",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.313,
@@ -144,8 +144,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "NTZh_535",
-                                            "type": "4vl",
+                                            "id": "ZTRh_535",
+                                            "type": "j1t2",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
@@ -196,8 +196,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "NTZh_563",
-                                            "type": "4vl",
+                                            "id": "ZTRh_563",
+                                            "type": "j1t2",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
@@ -253,8 +253,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "NTZh_364",
-                                            "type": "4vl",
+                                            "id": "ZTRh_364",
+                                            "type": "j1t2",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.656,
@@ -308,8 +308,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "NTZh_382",
-                                            "type": "4vl",
+                                            "id": "ZTRh_382",
+                                            "type": "j1t2",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.688,
@@ -363,8 +363,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "NTZh_385",
-                                            "type": "4vl",
+                                            "id": "ZTRh_385",
+                                            "type": "j1t2",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.969,
@@ -460,8 +460,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "NTZh_654",
-                                            "type": "4vl",
+                                            "id": "ZTRh_654",
+                                            "type": "j1t2",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,

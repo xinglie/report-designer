@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "NTZh_lv6g4oka410",
-                "type": "5l",
+                "id": "ZTRh_lv6g4oka410",
+                "type": "i792",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -444,7 +444,7 @@
                                     "rowspan": 1,
                                     "colspan": 1,
                                     "elements": [],
-                                    "bindKey": "1sm",
+                                    "bindKey": "ie72",
                                     "bindName": "数量"
                                 },
                                 {
@@ -832,8 +832,8 @@
                 }
             },
             {
-                "id": "NTZh_lv6pi07t553",
-                "type": "4vl",
+                "id": "ZTRh_lv6pi07t553",
+                "type": "j1t2",
                 "unit": "mm",
                 "props": {
                     "x": 61.017,
@@ -864,8 +864,8 @@
                 }
             },
             {
-                "id": "NTZh_lv6pi07t636",
-                "type": "4vl",
+                "id": "ZTRh_lv6pi07t636",
+                "type": "j1t2",
                 "unit": "mm",
                 "props": {
                     "x": 121.626,
@@ -896,8 +896,8 @@
                 }
             },
             {
-                "id": "NTZh_lvacugcx315",
-                "type": "4vl",
+                "id": "ZTRh_lvacugcx315",
+                "type": "j1t2",
                 "unit": "mm",
                 "props": {
                     "x": 17.207,
@@ -928,8 +928,8 @@
                 }
             },
             {
-                "id": "NTZh_m7g969np216",
-                "type": "17d",
+                "id": "ZTRh_m7g969np216",
+                "type": "i9ok",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -940,8 +940,8 @@
                                     "width": 209.815,
                                     "elements": [
                                         {
-                                            "id": "NTZh_m7g969np336",
-                                            "type": "1uz",
+                                            "id": "ZTRh_m7g969np336",
+                                            "type": "iew2",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 168.44,

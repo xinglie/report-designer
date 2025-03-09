@@ -37,8 +37,8 @@
         },
         "elements": [
             {
-                "id": "NTZh_142",
-                "type": "svg/71i",
+                "id": "ZTRh_142",
+                "type": "svg/jfp2",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -53,7 +53,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "3da": "infinite",
+                            "ipb2": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -65,8 +65,8 @@
                 }
             },
             {
-                "id": "NTZh_106",
-                "type": "50b",
+                "id": "ZTRh_106",
+                "type": "j2i2",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -83,7 +83,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "3da": "infinite",
+                            "ipb2": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -95,8 +95,8 @@
                 }
             },
             {
-                "id": "NTZh_107",
-                "type": "8oj",
+                "id": "ZTRh_107",
+                "type": "js72",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -130,7 +130,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "3da": "infinite",
+                            "ipb2": "infinite",
                             "fn": "linear",
                             "delay": 2,
                             "duration": 1,
@@ -142,8 +142,8 @@
                 }
             },
             {
-                "id": "NTZh_108",
-                "type": "8m6",
+                "id": "ZTRh_108",
+                "type": "jri2",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -162,7 +162,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "3da": "infinite",
+                            "ipb2": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -171,7 +171,7 @@
                             "use": "shakeY"
                         },
                         {
-                            "3da": "infinite",
+                            "ipb2": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1.52,
@@ -183,8 +183,8 @@
                 }
             },
             {
-                "id": "NTZh_109",
-                "type": "50b",
+                "id": "ZTRh_109",
+                "type": "j2i2",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -203,7 +203,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "3da": "infinite",
+                            "ipb2": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -215,8 +215,8 @@
                 }
             },
             {
-                "id": "NTZh_110",
-                "type": "8oj",
+                "id": "ZTRh_110",
+                "type": "js72",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -252,7 +252,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "3da": "infinite",
+                            "ipb2": "infinite",
                             "fn": "linear",
                             "delay": 2,
                             "duration": 1,
@@ -264,8 +264,8 @@
                 }
             },
             {
-                "id": "NTZh_111",
-                "type": "8m6",
+                "id": "ZTRh_111",
+                "type": "jri2",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -286,7 +286,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "3da": "infinite",
+                            "ipb2": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -295,7 +295,7 @@
                             "use": "shakeY"
                         },
                         {
-                            "3da": "infinite",
+                            "ipb2": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1.52,
@@ -307,8 +307,8 @@
                 }
             },
             {
-                "id": "NTZh_144",
-                "type": "8oj",
+                "id": "ZTRh_144",
+                "type": "js72",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -342,7 +342,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "3da": 3,
+                            "ipb2": 3,
                             "fn": "cubic-bezier(0.73,-0.02,0.25,0.99)",
                             "delay": 1.5,
                             "duration": 0.8,

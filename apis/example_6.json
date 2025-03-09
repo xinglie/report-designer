@@ -21,8 +21,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "NTZh_49",
-                "type": "1uz",
+                "id": "ZTRh_49",
+                "type": "iew2",
                 "unit": "pc",
                 "props": {
                     "ext": {
@@ -52,8 +52,8 @@
                 }
             },
             {
-                "id": "NTZh_50",
-                "type": "1uz",
+                "id": "ZTRh_50",
+                "type": "iew2",
                 "unit": "pc",
                 "props": {
                     "ext": {
@@ -83,8 +83,8 @@
                 }
             },
             {
-                "id": "NTZh_99",
-                "type": "5l",
+                "id": "ZTRh_99",
+                "type": "i792",
                 "unit": "pc",
                 "props": {
                     "rows": [

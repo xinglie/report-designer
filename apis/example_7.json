@@ -20,24 +20,24 @@
         },
         "groups": [
             [
-                "NTZh_167",
-                "NTZh_168",
-                "NTZh_169",
-                "NTZh_172"
+                "ZTRh_167",
+                "ZTRh_168",
+                "ZTRh_169",
+                "ZTRh_172"
             ],
             [
-                "NTZh_170",
-                "NTZh_171"
+                "ZTRh_170",
+                "ZTRh_171"
             ],
             [
-                "NTZh_173",
-                "NTZh_174"
+                "ZTRh_173",
+                "ZTRh_174"
             ]
         ],
         "elements": [
             {
-                "id": "NTZh_167",
-                "type": "4vl",
+                "id": "ZTRh_167",
+                "type": "j1t2",
                 "unit": "in",
                 "props": {
                     "x": 0.177,
@@ -74,8 +74,8 @@
                 }
             },
             {
-                "id": "NTZh_168",
-                "type": "4vl",
+                "id": "ZTRh_168",
+                "type": "j1t2",
                 "unit": "in",
                 "props": {
                     "pinX": false,
@@ -114,8 +114,8 @@
                 }
             },
             {
-                "id": "NTZh_169",
-                "type": "4vl",
+                "id": "ZTRh_169",
+                "type": "j1t2",
                 "unit": "in",
                 "props": {
                     "pinX": false,
@@ -154,8 +154,8 @@
                 }
             },
             {
-                "id": "NTZh_170",
-                "type": "4xy",
+                "id": "ZTRh_170",
+                "type": "j25k",
 "unit": "in",
                 "props": {
                     "x": 3.083,
@@ -178,8 +178,8 @@
                 }
             },
             {
-                "id": "NTZh_171",
-                "type": "4xy",
+                "id": "ZTRh_171",
+                "type": "j25k",
 "unit": "in",
                 "props": {
                     "x": 5.823,
@@ -202,8 +202,8 @@
                 }
             },
             {
-                "id": "NTZh_172",
-                "type": "4vl",
+                "id": "ZTRh_172",
+                "type": "j1t2",
                 "unit": "in",
                 "props": {
                     "x": 2.656,
@@ -240,8 +240,8 @@
                 }
             },
             {
-                "id": "NTZh_173",
-                "type": "4vl",
+                "id": "ZTRh_173",
+                "type": "j1t2",
                 "unit": "in",
                 "props": {
                     "x": 0.896,
@@ -278,8 +278,8 @@
                 }
             },
             {
-                "id": "NTZh_174",
-                "type": "4xy",
+                "id": "ZTRh_174",
+                "type": "j25k",
 "unit": "in",
                 "props": {
                     "x": 0.781,

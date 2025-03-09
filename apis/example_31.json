@@ -32,8 +32,8 @@
         },
         "elements": [
             {
-                "id": "NTZh_53",
-                "type": "4xy",
+                "id": "ZTRh_53",
+                "type": "j25k",
                 "unit": "px",
                 "props": {
                     "readonly": true,
@@ -60,8 +60,8 @@
                 }
             },
             {
-                "id": "NTZh_54",
-                "type": "3da",
+                "id": "ZTRh_54",
+                "type": "ipb2",
                 "unit": "px",
                 "props": {
                     "readonly": true,
@@ -77,7 +77,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "3da": "3da",
+                    "ipb2": "ipb2",
                     "imageWidth": 102,
                     "imageHeight": 102,
                     "backgroundX": 0,
@@ -87,8 +87,8 @@
                 }
             },
             {
-                "id": "NTZh_55",
-                "type": "4qv",
+                "id": "ZTRh_55",
+                "type": "j142",
                 "unit": "px",
                 "props": {
                     "readonly": true,
@@ -121,8 +121,8 @@
                 }
             },
             {
-                "id": "NTZh_56",
-                "type": "10a",
+                "id": "ZTRh_56",
+                "type": "i8zk",
                 "unit": "px",
                 "props": {
                     "readonly": true,
@@ -140,8 +140,8 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "NTZh_57",
-                                            "type": "4vl",
+                                            "id": "ZTRh_57",
+                                            "type": "j1t2",
                                             "unit": "px",
                                             "props": {
                                                 "full": false,
@@ -196,8 +196,8 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "NTZh_58",
-                                            "type": "50b",
+                                            "id": "ZTRh_58",
+                                            "type": "j2i2",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": true,
@@ -260,8 +260,8 @@
                 }
             },
             {
-                "id": "NTZh_105",
-                "type": "19q",
+                "id": "ZTRh_105",
+                "type": "ia12",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -272,8 +272,8 @@
                                     "width": 300,
                                     "elements": [
                                         {
-                                            "id": "NTZh_110",
-                                            "type": "8m6",
+                                            "id": "ZTRh_110",
+                                            "type": "jri2",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": true,

@@ -33,8 +33,8 @@
         },
         "elements": [
             {
-                "id": "NTZh_88",
-                "type": "svg/5c4",
+                "id": "ZTRh_88",
+                "type": "svg/j48k",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -56,8 +56,8 @@
                 }
             },
             {
-                "id": "NTZh_90",
-                "type": "4xy",
+                "id": "ZTRh_90",
+                "type": "j25k",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -86,8 +86,8 @@
                 }
             },
             {
-                "id": "NTZh_128",
-                "type": "4xy",
+                "id": "ZTRh_128",
+                "type": "j25k",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -116,8 +116,8 @@
                 }
             },
             {
-                "id": "NTZh_145",
-                "type": "8oj",
+                "id": "ZTRh_145",
+                "type": "js72",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -153,8 +153,8 @@
                 }
             },
             {
-                "id": "NTZh_157",
-                "type": "3da",
+                "id": "ZTRh_157",
+                "type": "ipb2",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -171,7 +171,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "3da": "3da",
+                    "ipb2": "ipb2",
                     "imageWidth": 0,
                     "imageHeight": 0,
                     "backgroundX": 0,
@@ -182,8 +182,8 @@
                 }
             },
             {
-                "id": "NTZh_161",
-                "type": "50b",
+                "id": "ZTRh_161",
+                "type": "j2i2",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -202,8 +202,8 @@
                 }
             },
             {
-                "id": "NTZh_173",
-                "type": "svg/5c4",
+                "id": "ZTRh_173",
+                "type": "svg/j48k",
                 "unit": "mm",
                 "props": {
                     "readonly": false,

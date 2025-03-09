@@ -18,8 +18,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "NTZh_133",
-                "type": "17d",
+                "id": "ZTRh_133",
+                "type": "i9ok",
                 "props": {
                     "rows": [
                         {
@@ -29,8 +29,8 @@
                                     "width": 791,
                                     "elements": [
                                         {
-                                            "id": "NTZh_142",
-                                            "type": "1uz",
+                                            "id": "ZTRh_142",
+                                            "type": "iew2",
                                             "props": {
                                                 "ext": {},
                                                 "x": 580,
@@ -87,8 +87,8 @@
                 }
             },
             {
-                "id": "NTZh_360",
-                "type": "12n",
+                "id": "ZTRh_360",
+                "type": "i9c2",
                 "props": {
                     "rows": [
                         {
@@ -98,8 +98,8 @@
                                     "width": 791,
                                     "elements": [
                                         {
-                                            "id": "NTZh_387",
-                                            "type": "50b",
+                                            "id": "ZTRh_387",
+                                            "type": "j2i2",
                                             "props": {
                                                 "x": 44,
                                                 "y": 10,
@@ -113,8 +113,8 @@
                                             }
                                         },
                                         {
-                                            "id": "NTZh_533",
-                                            "type": "50b",
+                                            "id": "ZTRh_533",
+                                            "type": "j2i2",
                                             "props": {
                                                 "x": 451,
                                                 "y": 10,
@@ -128,8 +128,8 @@
                                             }
                                         },
                                         {
-                                            "id": "NTZh_571",
-                                            "type": "4vl",
+                                            "id": "ZTRh_571",
+                                            "type": "j1t2",
                                             "props": {
                                                 "x": 273,
                                                 "y": -17,
@@ -191,8 +191,8 @@
                 }
             },
             {
-                "id": "NTZh_607",
-                "type": "4vl",
+                "id": "ZTRh_607",
+                "type": "j1t2",
                 "props": {
                     "x": 283,
                     "y": 58,
@@ -222,8 +222,8 @@
                 }
             },
             {
-                "id": "NTZh_653",
-                "type": "4xy",
+                "id": "ZTRh_653",
+                "type": "j25k",
                 "props": {
                     "x": 266,
                     "y": 115,
@@ -243,8 +243,8 @@
                 }
             },
             {
-                "id": "NTZh_691",
-                "type": "4vl",
+                "id": "ZTRh_691",
+                "type": "j1t2",
                 "props": {
                     "x": 267,
                     "y": 938,
@@ -274,8 +274,8 @@
                 }
             },
             {
-                "id": "NTZh_710",
-                "type": "5l",
+                "id": "ZTRh_710",
+                "type": "i792",
                 "props": {
                     "rows": [
                         {

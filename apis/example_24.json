@@ -20,8 +20,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "NTZh_131",
-                "type": "m4",
+                "id": "ZTRh_131",
+                "type": "i8ak",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -32,8 +32,8 @@
                                     "width": 328,
                                     "elements": [
                                         {
-                                            "id": "NTZh_195",
-                                            "type": "4vl",
+                                            "id": "ZTRh_195",
+                                            "type": "j1t2",
                                             "unit": "px",
                                             "props": {
                                                 "x": 30,
@@ -75,8 +75,8 @@
                                             }
                                         },
                                         {
-                                            "id": "NTZh_424",
-                                            "type": "4xy",
+                                            "id": "ZTRh_424",
+                                            "type": "j25k",
                                             "unit": "px",
                                             "props": {
                                                 "x": 239,
@@ -104,8 +104,8 @@
                                             }
                                         },
                                         {
-                                            "id": "NTZh_139",
-                                            "type": "4vl",
+                                            "id": "ZTRh_139",
+                                            "type": "j1t2",
                                             "unit": "px",
                                             "props": {
                                                 "x": 29,

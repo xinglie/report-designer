@@ -18,8 +18,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "NTZh_80",
-                "type": "5l",
+                "id": "ZTRh_80",
+                "type": "i792",
                 "props": {
                     "rows": [
                         {
@@ -53,8 +53,8 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "NTZh_325",
-                                            "type": "7y",
+                                            "id": "ZTRh_325",
+                                            "type": "i7lk",
                                             "props": {
                                                 "rows": [
                                                     {
@@ -542,8 +542,8 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "NTZh_222",
-                                            "type": "4vl",
+                                            "id": "ZTRh_222",
+                                            "type": "j1t2",
                                             "props": {
                                                 "x": 32,
                                                 "y": 22,

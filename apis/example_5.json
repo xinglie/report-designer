@@ -21,8 +21,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "NTZh_141",
-                "type": "1uz",
+                "id": "ZTRh_141",
+                "type": "iew2",
                 "unit": "pc",
                 "props": {
                     "ext": {
@@ -52,8 +52,8 @@
                 }
             },
             {
-                "id": "NTZh_142",
-                "type": "1uz",
+                "id": "ZTRh_142",
+                "type": "iew2",
                 "unit": "pc",
                 "props": {
                     "ext": {
@@ -83,8 +83,8 @@
                 }
             },
             {
-                "id": "NTZh_190",
-                "type": "f1",
+                "id": "ZTRh_190",
+                "type": "i7y2",
                 "unit": "pc",
                 "props": {
                     "rows": [
@@ -150,8 +150,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "NTZh_208",
-                                            "type": "4vl",
+                                            "id": "ZTRh_208",
+                                            "type": "j1t2",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 1.781,
@@ -205,8 +205,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "NTZh_236",
-                                            "type": "4vl",
+                                            "id": "ZTRh_236",
+                                            "type": "j1t2",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 1.281,
@@ -260,8 +260,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "NTZh_233",
-                                            "type": "4vl",
+                                            "id": "ZTRh_233",
+                                            "type": "j1t2",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 3.969,
@@ -315,8 +315,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "NTZh_228",
-                                            "type": "4vl",
+                                            "id": "ZTRh_228",
+                                            "type": "j1t2",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 3.094,
