@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "ZTRh_86",
-                "type": "izq2",
+                "id": "Mj_86",
+                "type": "bg9d",
                 "unit": "px",
                 "props": {
                     "x": 50,
@@ -69,8 +69,8 @@
                 }
             },
             {
-                "id": "ZTRh_93",
-                "type": "j02k",
+                "id": "Mj_93",
+                "type": "bi5v",
                 "unit": "px",
                 "props": {
                     "x": 50,
@@ -100,8 +100,8 @@
                 }
             },
             {
-                "id": "ZTRh_116",
-                "type": "j0f2",
+                "id": "Mj_116",
+                "type": "bk2d",
                 "unit": "px",
                 "props": {
                     "x": 50,
@@ -138,8 +138,8 @@
                 }
             },
             {
-                "id": "ZTRh_132",
-                "type": "i9c2",
+                "id": "Mj_132",
+                "type": "886v",
                 "unit": "px",
                 "props": {
                     "pinX": true,

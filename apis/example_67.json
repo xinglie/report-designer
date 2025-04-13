@@ -30,8 +30,8 @@
         },
         "elements": [
             {
-                "id": "ZTRh_ltqurchb278",
-                "type": "i8ak",
+                "id": "Mj_ltqurchb278",
+                "type": "82hd",
                 "unit": "mm",
                 "props": {
                     "bind": {
@@ -46,8 +46,8 @@
                                     "width": 85.616,
                                     "elements": [
                                         {
-                                            "id": "ZTRh_ltqurchb334",
-                                            "type": "j1t2",
+                                            "id": "Mj_ltqurchb334",
+                                            "type": "c6wd",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 6.861,
@@ -88,8 +88,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZTRh_ltqurchb335",
-                                            "type": "j1t2",
+                                            "id": "Mj_ltqurchb335",
+                                            "type": "c6wd",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 6.861,
@@ -130,8 +130,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZTRh_ltqurchb336",
-                                            "type": "j1t2",
+                                            "id": "Mj_ltqurchb336",
+                                            "type": "c6wd",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 7.192,
@@ -172,8 +172,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZTRh_ltqurchb372",
-                                            "type": "j25k",
+                                            "id": "Mj_ltqurchb372",
+                                            "type": "c8sv",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 47.958,

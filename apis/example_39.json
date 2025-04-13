@@ -5,12 +5,12 @@
         "ys": [],
         "groups": [
             [
-                "ZTRh_lh4ey1ha147",
-                "ZTRh_10",
-                "ZTRh_11",
-                "ZTRh_12",
-                "ZTRh_13",
-                "ZTRh_14"
+                "Mj_lh4ey1ha147",
+                "Mj_10",
+                "Mj_11",
+                "Mj_12",
+                "Mj_13",
+                "Mj_14"
             ]
         ],
         "page": {
@@ -40,8 +40,8 @@
         },
         "elements": [
             {
-                "id": "ZTRh_lh4ey1ha147",
-                "type": "svg/jdm2",
+                "id": "Mj_lh4ey1ha147",
+                "type": "svg/g1sv",
                 "unit": "px",
                 "props": {
                     "x": 493,
@@ -72,8 +72,8 @@
                 }
             },
             {
-                "id": "ZTRh_7",
-                "type": "j1t2",
+                "id": "Mj_7",
+                "type": "c6wd",
                 "unit": "px",
                 "props": {
                     "x": 238,
@@ -104,8 +104,8 @@
                 }
             },
             {
-                "id": "ZTRh_8",
-                "type": "j1t2",
+                "id": "Mj_8",
+                "type": "c6wd",
                 "unit": "px",
                 "props": {
                     "x": 36,
@@ -136,8 +136,8 @@
                 }
             },
             {
-                "id": "ZTRh_10",
-                "type": "j1t2",
+                "id": "Mj_10",
+                "type": "c6wd",
                 "unit": "px",
                 "props": {
                     "x": 468,
@@ -168,8 +168,8 @@
                 }
             },
             {
-                "id": "ZTRh_11",
-                "type": "j1t2",
+                "id": "Mj_11",
+                "type": "c6wd",
                 "unit": "px",
                 "props": {
                     "x": 726,
@@ -200,8 +200,8 @@
                 }
             },
             {
-                "id": "ZTRh_12",
-                "type": "j1t2",
+                "id": "Mj_12",
+                "type": "c6wd",
                 "unit": "px",
                 "props": {
                     "x": 660,
@@ -232,8 +232,8 @@
                 }
             },
             {
-                "id": "ZTRh_13",
-                "type": "j1t2",
+                "id": "Mj_13",
+                "type": "c6wd",
                 "unit": "px",
                 "props": {
                     "x": 682,
@@ -264,8 +264,8 @@
                 }
             },
             {
-                "id": "ZTRh_14",
-                "type": "j1t2",
+                "id": "Mj_14",
+                "type": "c6wd",
                 "unit": "px",
                 "props": {
                     "x": 656,
@@ -296,8 +296,8 @@
                 }
             },
             {
-                "id": "ZTRh_16",
-                "type": "j1t2",
+                "id": "Mj_16",
+                "type": "c6wd",
                 "unit": "px",
                 "props": {
                     "x": 39,
@@ -329,8 +329,8 @@
                 }
             },
             {
-                "id": "ZTRh_17",
-                "type": "io9k",
+                "id": "Mj_17",
+                "type": "9rdd",
                 "unit": "px",
                 "props": {
                     "x": 76,
@@ -350,8 +350,8 @@
                 }
             },
             {
-                "id": "ZTRh_18",
-                "type": "io9k",
+                "id": "Mj_18",
+                "type": "9rdd",
                 "unit": "px",
                 "props": {
                     "x": 76,
@@ -371,8 +371,8 @@
                 }
             },
             {
-                "id": "ZTRh_75",
-                "type": "svg/jq42",
+                "id": "Mj_75",
+                "type": "svg/i5wv",
                 "unit": "px",
                 "props": {
                     "x": 61,

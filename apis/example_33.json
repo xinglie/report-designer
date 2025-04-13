@@ -18,8 +18,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "ZTRh_80",
-                "type": "i792",
+                "id": "Mj_80",
+                "type": "7wrv",
                 "props": {
                     "rows": [
                         {
@@ -53,8 +53,8 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "ZTRh_325",
-                                            "type": "i7lk",
+                                            "id": "Mj_325",
+                                            "type": "7yod",
                                             "props": {
                                                 "rows": [
                                                     {
@@ -468,7 +468,7 @@
                                     "hpos": "flex-start",
                                     "vpos": "flex-start",
                                     "alpha": 1,
-                                    "type": "sumpage",
+                                    "type": "x1",
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 14,
@@ -542,8 +542,8 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "ZTRh_222",
-                                            "type": "j1t2",
+                                            "id": "Mj_222",
+                                            "type": "c6wd",
                                             "props": {
                                                 "x": 32,
                                                 "y": 22,

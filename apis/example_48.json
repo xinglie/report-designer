@@ -30,8 +30,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "ZTRh_l7twxz8s167",
-                "type": "j25k",
+                "id": "Mj_l7twxz8s167",
+                "type": "c8sv",
                 "unit": "mm",
                 "props": {
                     "x": 31.54,
@@ -50,8 +50,8 @@
                 }
             },
             {
-                "id": "ZTRh_l7twxz8s180",
-                "type": "j1gk",
+                "id": "Mj_l7twxz8s180",
+                "type": "c4zv",
                 "unit": "mm",
                 "props": {
                     "x": 104.88,

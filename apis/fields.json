@@ -14,7 +14,7 @@
                 {
                     "name": "头像",
                     "key": "avatar",
-                    "use": "j25k",
+                    "use": "c8sv",
                     "props": {
                         "width": 150,
                         "height": 150
@@ -264,7 +264,7 @@
                 {
                     "name": "片断1",
                     "key": "p1",
-                    "use": "id5k",
+                    "use": "8nev",
                     "props": {
                         "width": 500
                     }
@@ -272,7 +272,7 @@
                 {
                     "name": "片断2",
                     "key": "p2",
-                    "use": "id5k",
+                    "use": "8nev",
                     "props": {
                         "width": 500
                     }
@@ -310,12 +310,12 @@
                 {
                     "name": "下拉、单选、多选",
                     "key": "item",
-                    "use": "iyc2"
+                    "use": "b6qv"
                 },
                 {
                     "name": "中文名称",
                     "key": "item1",
-                    "use": "iz12"
+                    "use": "b8nd"
                 },
                 {
                     "name": "子分组测试",
@@ -325,12 +325,12 @@
                         {
                             "name": "标签",
                             "key": "tags",
-                            "use": "j822"
+                            "use": "eb0d"
                         },
                         {
                             "name": "输入框绑定",
                             "key": "input",
-                            "use": "iwy2"
+                            "use": "b2xv"
                         }
                     ]
                 },
@@ -342,7 +342,7 @@
                         {
                             "name": "轮播图测试",
                             "key": "images",
-                            "use": "iqp2"
+                            "use": "9yzd"
                         }
                     ]
                 }
@@ -402,7 +402,7 @@
                 },
                 {
                     "name": "数量",
-                    "key": "ie72"
+                    "key": "8r7v"
                 },
                 {
                     "name": "折扣率",
@@ -486,7 +486,7 @@
                 },
                 {
                     "name": "富文本",
-                    "key": "idi2"
+                    "key": "8pbd"
                 },
                 {
                     "name": "审核数据",

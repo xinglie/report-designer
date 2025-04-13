@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "ZTRh_ljfntfap169",
-                "type": "i792",
+                "id": "Mj_ljfntfap169",
+                "type": "7wrv",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -549,7 +549,7 @@
                                     "hpos": "center",
                                     "vpos": "center",
                                     "alpha": 1,
-                                    "type": "sumpage",
+                                    "type": "x1",
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.7,
@@ -573,7 +573,7 @@
                                     "hpos": "center",
                                     "vpos": "center",
                                     "alpha": 1,
-                                    "type": "avgacc",
+                                    "type": "x2",
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 3.7,
@@ -615,7 +615,7 @@
                                     "hpos": "center",
                                     "vpos": "center",
                                     "alpha": 1,
-                                    "type": "avgacc",
+                                    "type": "x2",
                                     "bLeft": true,
                                     "bTop": true,
                                     "bRight": true,
@@ -641,7 +641,7 @@
                                     "hpos": "center",
                                     "vpos": "center",
                                     "alpha": 1,
-                                    "type": "avgpage",
+                                    "type": "x3",
                                     "bLeft": true,
                                     "bTop": true,
                                     "bRight": true,

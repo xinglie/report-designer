@@ -32,8 +32,8 @@
         },
         "elements": [
             {
-                "id": "ZTRh_56",
-                "type": "i792",
+                "id": "Mj_56",
+                "type": "7wrv",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -67,8 +67,8 @@
                                     "textContent": "",
                                     "elements": [
                                         {
-                                            "id": "ZTRh_57",
-                                            "type": "i7lk",
+                                            "id": "Mj_57",
+                                            "type": "7yod",
                                             "unit": "px",
                                             "props": {
                                                 "full": false,
@@ -649,7 +649,7 @@
                                     "hpos": "flex-start",
                                     "vpos": "flex-start",
                                     "alpha": 1,
-                                    "type": "sumpage",
+                                    "type": "x1",
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 14,
@@ -677,7 +677,7 @@
                                     "hpos": "flex-start",
                                     "vpos": "flex-start",
                                     "alpha": 1,
-                                    "type": "sumpage",
+                                    "type": "x1",
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 14,
@@ -757,8 +757,8 @@
                                     "textContent": "",
                                     "elements": [
                                         {
-                                            "id": "ZTRh_58",
-                                            "type": "i7lk",
+                                            "id": "Mj_58",
+                                            "type": "7yod",
                                             "unit": "px",
                                             "props": {
                                                 "full": false,
@@ -1002,8 +1002,8 @@
                 }
             },
             {
-                "id": "ZTRh_59",
-                "type": "iew2",
+                "id": "Mj_59",
+                "type": "8t4d",
                 "unit": "px",
                 "props": {
                     "x": 491,
@@ -1035,8 +1035,8 @@
                 }
             },
             {
-                "id": "ZTRh_60",
-                "type": "iew2",
+                "id": "Mj_60",
+                "type": "8t4d",
                 "unit": "px",
                 "props": {
                     "x": 11,

@@ -18,8 +18,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "ZTRh_133",
-                "type": "i9ok",
+                "id": "Mj_133",
+                "type": "8a3d",
                 "props": {
                     "rows": [
                         {
@@ -29,8 +29,8 @@
                                     "width": 791,
                                     "elements": [
                                         {
-                                            "id": "ZTRh_142",
-                                            "type": "iew2",
+                                            "id": "Mj_142",
+                                            "type": "8t4d",
                                             "props": {
                                                 "ext": {},
                                                 "x": 580,
@@ -87,8 +87,8 @@
                 }
             },
             {
-                "id": "ZTRh_360",
-                "type": "i9c2",
+                "id": "Mj_360",
+                "type": "886v",
                 "props": {
                     "rows": [
                         {
@@ -98,8 +98,8 @@
                                     "width": 791,
                                     "elements": [
                                         {
-                                            "id": "ZTRh_387",
-                                            "type": "j2i2",
+                                            "id": "Mj_387",
+                                            "type": "ck7v",
                                             "props": {
                                                 "x": 44,
                                                 "y": 10,
@@ -113,8 +113,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZTRh_533",
-                                            "type": "j2i2",
+                                            "id": "Mj_533",
+                                            "type": "ck7v",
                                             "props": {
                                                 "x": 451,
                                                 "y": 10,
@@ -128,8 +128,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZTRh_571",
-                                            "type": "j1t2",
+                                            "id": "Mj_571",
+                                            "type": "c6wd",
                                             "props": {
                                                 "x": 273,
                                                 "y": -17,
@@ -191,8 +191,8 @@
                 }
             },
             {
-                "id": "ZTRh_607",
-                "type": "j1t2",
+                "id": "Mj_607",
+                "type": "c6wd",
                 "props": {
                     "x": 283,
                     "y": 58,
@@ -222,8 +222,8 @@
                 }
             },
             {
-                "id": "ZTRh_653",
-                "type": "j25k",
+                "id": "Mj_653",
+                "type": "c8sv",
                 "props": {
                     "x": 266,
                     "y": 115,
@@ -243,8 +243,8 @@
                 }
             },
             {
-                "id": "ZTRh_691",
-                "type": "j1t2",
+                "id": "Mj_691",
+                "type": "c6wd",
                 "props": {
                     "x": 267,
                     "y": 938,
@@ -274,8 +274,8 @@
                 }
             },
             {
-                "id": "ZTRh_710",
-                "type": "i792",
+                "id": "Mj_710",
+                "type": "7wrv",
                 "props": {
                     "rows": [
                         {

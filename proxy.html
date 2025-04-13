@@ -4,7 +4,7 @@
 <head>
     <title>通用设计器隐藏渲染</title>
     <meta charset="utf-8" />
-    <meta rd="u73x5r1m.ic"/>
+    <meta rd="b0phx7rpv0.8"/>
     <style>
         html,
         body {
@@ -15,7 +15,7 @@
 <div id="app"></div>
 
 <body>
-    <script src="dist/viewer.js?v=202503091503"></script>
+    <script src="dist/viewer.js?v=202504131139"></script>
     <script type="module">
         let { searchParams } = new URL(location.href);
         let id = searchParams.get('pId');//从地址栏获取pId并返回回去，供父页面识别
@@ -27,9 +27,9 @@
                 stage = JSON.parse(e.data);
             } catch {
                 stage = e.data;
-                hasException=true;
+                hasException = true;
             }
-            if (hasException) {
+            if (hasException || !stage) {
                 Promise.reject(JSON.stringify(stage));
             }
             let { page } = stage;
@@ -39,7 +39,7 @@
             } else {
                 let latent = action != 'print';
                 let vf = await viewer.install({
-                    version:'202503091503',
+                    version:'202504131139',
                     use: page.viewer,
                     latent,
                 });

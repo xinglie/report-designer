@@ -21,8 +21,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "ZTRh_353",
-                "type": "i7y2",
+                "id": "Mj_353",
+                "type": "80kv",
                 "unit": "pc",
                 "props": {
                     "rows": [
@@ -39,8 +39,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZTRh_591",
-                                            "type": "j1t2",
+                                            "id": "Mj_591",
+                                            "type": "c6wd",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 10.578,
@@ -94,8 +94,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZTRh_481",
-                                            "type": "j1t2",
+                                            "id": "Mj_481",
+                                            "type": "c6wd",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.313,
@@ -144,8 +144,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZTRh_535",
-                                            "type": "j1t2",
+                                            "id": "Mj_535",
+                                            "type": "c6wd",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
@@ -196,8 +196,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZTRh_563",
-                                            "type": "j1t2",
+                                            "id": "Mj_563",
+                                            "type": "c6wd",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
@@ -253,8 +253,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZTRh_364",
-                                            "type": "j1t2",
+                                            "id": "Mj_364",
+                                            "type": "c6wd",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.656,
@@ -308,8 +308,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZTRh_382",
-                                            "type": "j1t2",
+                                            "id": "Mj_382",
+                                            "type": "c6wd",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.688,
@@ -363,8 +363,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZTRh_385",
-                                            "type": "j1t2",
+                                            "id": "Mj_385",
+                                            "type": "c6wd",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.969,
@@ -460,8 +460,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZTRh_654",
-                                            "type": "j1t2",
+                                            "id": "Mj_654",
+                                            "type": "c6wd",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,

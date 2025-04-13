@@ -21,8 +21,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "ZTRh_141",
-                "type": "iew2",
+                "id": "Mj_141",
+                "type": "8t4d",
                 "unit": "pc",
                 "props": {
                     "ext": {
@@ -52,8 +52,8 @@
                 }
             },
             {
-                "id": "ZTRh_142",
-                "type": "iew2",
+                "id": "Mj_142",
+                "type": "8t4d",
                 "unit": "pc",
                 "props": {
                     "ext": {
@@ -83,8 +83,8 @@
                 }
             },
             {
-                "id": "ZTRh_190",
-                "type": "i7y2",
+                "id": "Mj_190",
+                "type": "80kv",
                 "unit": "pc",
                 "props": {
                     "rows": [
@@ -150,8 +150,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZTRh_208",
-                                            "type": "j1t2",
+                                            "id": "Mj_208",
+                                            "type": "c6wd",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 1.781,
@@ -205,8 +205,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZTRh_236",
-                                            "type": "j1t2",
+                                            "id": "Mj_236",
+                                            "type": "c6wd",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 1.281,
@@ -260,8 +260,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZTRh_233",
-                                            "type": "j1t2",
+                                            "id": "Mj_233",
+                                            "type": "c6wd",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 3.969,
@@ -315,8 +315,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZTRh_228",
-                                            "type": "j1t2",
+                                            "id": "Mj_228",
+                                            "type": "c6wd",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 3.094,

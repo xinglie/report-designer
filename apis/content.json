@@ -20,8 +20,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "ZTRh_335",
-                "type": "i792",
+                "id": "Mj_335",
+                "type": "7wrv",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -56,8 +56,8 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "ZTRh_336",
-                                            "type": "i7lk",
+                                            "id": "Mj_336",
+                                            "type": "7yod",
                                             "unit": "px",
                                             "props": {
                                                 "rows": [
@@ -209,8 +209,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZTRh_386",
-                                            "type": "j1t2",
+                                            "id": "Mj_386",
+                                            "type": "c6wd",
                                             "unit": "px",
                                             "props": {
                                                 "pinX": false,
@@ -514,7 +514,7 @@
                                     "hpos": "flex-start",
                                     "vpos": "flex-start",
                                     "alpha": 1,
-                                    "type": "sumpage",
+                                    "type": "x1",
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 14,
@@ -588,8 +588,8 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "ZTRh_337",
-                                            "type": "j1t2",
+                                            "id": "Mj_337",
+                                            "type": "c6wd",
                                             "unit": "px",
                                             "props": {
                                                 "x": 32,

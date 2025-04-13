@@ -20,24 +20,24 @@
         },
         "groups": [
             [
-                "ZTRh_167",
-                "ZTRh_168",
-                "ZTRh_169",
-                "ZTRh_172"
+                "Mj_167",
+                "Mj_168",
+                "Mj_169",
+                "Mj_172"
             ],
             [
-                "ZTRh_170",
-                "ZTRh_171"
+                "Mj_170",
+                "Mj_171"
             ],
             [
-                "ZTRh_173",
-                "ZTRh_174"
+                "Mj_173",
+                "Mj_174"
             ]
         ],
         "elements": [
             {
-                "id": "ZTRh_167",
-                "type": "j1t2",
+                "id": "Mj_167",
+                "type": "c6wd",
                 "unit": "in",
                 "props": {
                     "x": 0.177,
@@ -74,8 +74,8 @@
                 }
             },
             {
-                "id": "ZTRh_168",
-                "type": "j1t2",
+                "id": "Mj_168",
+                "type": "c6wd",
                 "unit": "in",
                 "props": {
                     "pinX": false,
@@ -114,8 +114,8 @@
                 }
             },
             {
-                "id": "ZTRh_169",
-                "type": "j1t2",
+                "id": "Mj_169",
+                "type": "c6wd",
                 "unit": "in",
                 "props": {
                     "pinX": false,
@@ -154,9 +154,9 @@
                 }
             },
             {
-                "id": "ZTRh_170",
-                "type": "j25k",
-"unit": "in",
+                "id": "Mj_170",
+                "type": "c8sv",
+                "unit": "in",
                 "props": {
                     "x": 3.083,
                     "y": 3.156,
@@ -178,9 +178,9 @@
                 }
             },
             {
-                "id": "ZTRh_171",
-                "type": "j25k",
-"unit": "in",
+                "id": "Mj_171",
+                "type": "c8sv",
+                "unit": "in",
                 "props": {
                     "x": 5.823,
                     "y": 7.052,
@@ -202,8 +202,8 @@
                 }
             },
             {
-                "id": "ZTRh_172",
-                "type": "j1t2",
+                "id": "Mj_172",
+                "type": "c6wd",
                 "unit": "in",
                 "props": {
                     "x": 2.656,
@@ -240,8 +240,8 @@
                 }
             },
             {
-                "id": "ZTRh_173",
-                "type": "j1t2",
+                "id": "Mj_173",
+                "type": "c6wd",
                 "unit": "in",
                 "props": {
                     "x": 0.896,
@@ -278,9 +278,9 @@
                 }
             },
             {
-                "id": "ZTRh_174",
-                "type": "j25k",
-"unit": "in",
+                "id": "Mj_174",
+                "type": "c8sv",
+                "unit": "in",
                 "props": {
                     "x": 0.781,
                     "y": 2.521,

@@ -32,8 +32,8 @@
         },
         "elements": [
             {
-                "id": "ZTRh_140",
-                "type": "ipb2",
+                "id": "Mj_140",
+                "type": "9v6d",
                 "unit": "q",
                 "props": {
                     "readonly": false,
@@ -50,7 +50,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "ipb2": "ipb2",
+                    "9v6d": "9v6d",
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
                     "imageWidth": 135.468,
                     "imageHeight": 135.468,
@@ -62,8 +62,8 @@
                 }
             },
             {
-                "id": "ZTRh_146",
-                "type": "ipb2",
+                "id": "Mj_146",
+                "type": "9v6d",
                 "unit": "q",
                 "props": {
                     "readonly": false,
@@ -80,7 +80,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "ipb2": "ipb2",
+                    "9v6d": "9v6d",
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
                     "imageWidth": 135.468,
                     "imageHeight": 135.468,
