@@ -21,8 +21,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "Mj_353",
-                "type": "80kv",
+                "id": "5MWZ_353",
+                "type": "d097",
                 "unit": "pc",
                 "props": {
                     "rows": [
@@ -39,8 +39,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "Mj_591",
-                                            "type": "c6wd",
+                                            "id": "5MWZ_591",
+                                            "type": "gol6",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 10.578,
@@ -94,8 +94,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "Mj_481",
-                                            "type": "c6wd",
+                                            "id": "5MWZ_481",
+                                            "type": "gol6",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.313,
@@ -144,8 +144,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "Mj_535",
-                                            "type": "c6wd",
+                                            "id": "5MWZ_535",
+                                            "type": "gol6",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
@@ -196,8 +196,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "Mj_563",
-                                            "type": "c6wd",
+                                            "id": "5MWZ_563",
+                                            "type": "gol6",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
@@ -253,8 +253,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "Mj_364",
-                                            "type": "c6wd",
+                                            "id": "5MWZ_364",
+                                            "type": "gol6",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.656,
@@ -308,8 +308,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "Mj_382",
-                                            "type": "c6wd",
+                                            "id": "5MWZ_382",
+                                            "type": "gol6",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.688,
@@ -363,8 +363,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "Mj_385",
-                                            "type": "c6wd",
+                                            "id": "5MWZ_385",
+                                            "type": "gol6",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.969,
@@ -460,8 +460,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "Mj_654",
-                                            "type": "c6wd",
+                                            "id": "5MWZ_654",
+                                            "type": "gol6",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,

@@ -20,24 +20,24 @@
         },
         "groups": [
             [
-                "Mj_167",
-                "Mj_168",
-                "Mj_169",
-                "Mj_172"
+                "5MWZ_167",
+                "5MWZ_168",
+                "5MWZ_169",
+                "5MWZ_172"
             ],
             [
-                "Mj_170",
-                "Mj_171"
+                "5MWZ_170",
+                "5MWZ_171"
             ],
             [
-                "Mj_173",
-                "Mj_174"
+                "5MWZ_173",
+                "5MWZ_174"
             ]
         ],
         "elements": [
             {
-                "id": "Mj_167",
-                "type": "c6wd",
+                "id": "5MWZ_167",
+                "type": "gol6",
                 "unit": "in",
                 "props": {
                     "x": 0.177,
@@ -74,8 +74,8 @@
                 }
             },
             {
-                "id": "Mj_168",
-                "type": "c6wd",
+                "id": "5MWZ_168",
+                "type": "gol6",
                 "unit": "in",
                 "props": {
                     "pinX": false,
@@ -114,8 +114,8 @@
                 }
             },
             {
-                "id": "Mj_169",
-                "type": "c6wd",
+                "id": "5MWZ_169",
+                "type": "gol6",
                 "unit": "in",
                 "props": {
                     "pinX": false,
@@ -154,8 +154,8 @@
                 }
             },
             {
-                "id": "Mj_170",
-                "type": "c8sv",
+                "id": "5MWZ_170",
+                "type": "gq2p",
                 "unit": "in",
                 "props": {
                     "x": 3.083,
@@ -178,8 +178,8 @@
                 }
             },
             {
-                "id": "Mj_171",
-                "type": "c8sv",
+                "id": "5MWZ_171",
+                "type": "gq2p",
                 "unit": "in",
                 "props": {
                     "x": 5.823,
@@ -202,8 +202,8 @@
                 }
             },
             {
-                "id": "Mj_172",
-                "type": "c6wd",
+                "id": "5MWZ_172",
+                "type": "gol6",
                 "unit": "in",
                 "props": {
                     "x": 2.656,
@@ -240,8 +240,8 @@
                 }
             },
             {
-                "id": "Mj_173",
-                "type": "c6wd",
+                "id": "5MWZ_173",
+                "type": "gol6",
                 "unit": "in",
                 "props": {
                     "x": 0.896,
@@ -278,8 +278,8 @@
                 }
             },
             {
-                "id": "Mj_174",
-                "type": "c8sv",
+                "id": "5MWZ_174",
+                "type": "gq2p",
                 "unit": "in",
                 "props": {
                     "x": 0.781,

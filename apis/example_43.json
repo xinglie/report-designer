@@ -18,8 +18,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "Mj_133",
-                "type": "8a3d",
+                "id": "5MWZ_133",
+                "type": "d7ou",
                 "props": {
                     "rows": [
                         {
@@ -29,8 +29,8 @@
                                     "width": 791,
                                     "elements": [
                                         {
-                                            "id": "Mj_142",
-                                            "type": "8t4d",
+                                            "id": "5MWZ_142",
+                                            "type": "dpj6",
                                             "props": {
                                                 "ext": {},
                                                 "x": 580,
@@ -87,8 +87,8 @@
                 }
             },
             {
-                "id": "Mj_360",
-                "type": "886v",
+                "id": "5MWZ_360",
+                "type": "d67b",
                 "props": {
                     "rows": [
                         {
@@ -98,8 +98,8 @@
                                     "width": 791,
                                     "elements": [
                                         {
-                                            "id": "Mj_387",
-                                            "type": "ck7v",
+                                            "id": "5MWZ_387",
+                                            "type": "grk8",
                                             "props": {
                                                 "x": 44,
                                                 "y": 10,
@@ -113,8 +113,8 @@
                                             }
                                         },
                                         {
-                                            "id": "Mj_533",
-                                            "type": "ck7v",
+                                            "id": "5MWZ_533",
+                                            "type": "grk8",
                                             "props": {
                                                 "x": 451,
                                                 "y": 10,
@@ -128,8 +128,8 @@
                                             }
                                         },
                                         {
-                                            "id": "Mj_571",
-                                            "type": "c6wd",
+                                            "id": "5MWZ_571",
+                                            "type": "gol6",
                                             "props": {
                                                 "x": 273,
                                                 "y": -17,
@@ -191,8 +191,8 @@
                 }
             },
             {
-                "id": "Mj_607",
-                "type": "c6wd",
+                "id": "5MWZ_607",
+                "type": "gol6",
                 "props": {
                     "x": 283,
                     "y": 58,
@@ -222,8 +222,8 @@
                 }
             },
             {
-                "id": "Mj_653",
-                "type": "c8sv",
+                "id": "5MWZ_653",
+                "type": "gq2p",
                 "props": {
                     "x": 266,
                     "y": 115,
@@ -243,8 +243,8 @@
                 }
             },
             {
-                "id": "Mj_691",
-                "type": "c6wd",
+                "id": "5MWZ_691",
+                "type": "gol6",
                 "props": {
                     "x": 267,
                     "y": 938,
@@ -274,8 +274,8 @@
                 }
             },
             {
-                "id": "Mj_710",
-                "type": "7wrv",
+                "id": "5MWZ_710",
+                "type": "cub3",
                 "props": {
                     "rows": [
                         {

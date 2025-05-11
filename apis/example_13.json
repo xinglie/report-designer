@@ -33,8 +33,8 @@
         },
         "elements": [
             {
-                "id": "Mj_129",
-                "type": "c6wd",
+                "id": "5MWZ_129",
+                "type": "gol6",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -78,8 +78,8 @@
                 }
             },
             {
-                "id": "Mj_144",
-                "type": "c8sv",
+                "id": "5MWZ_144",
+                "type": "gq2p",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -108,8 +108,8 @@
                 }
             },
             {
-                "id": "Mj_150",
-                "type": "9v6d",
+                "id": "5MWZ_150",
+                "type": "f2ll",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -126,7 +126,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "9v6d": "9v6d",
+                    "f2ll": "f2ll",
                     "imageWidth": 0,
                     "imageHeight": 0,
                     "backgroundX": 0,
@@ -137,8 +137,8 @@
                 }
             },
             {
-                "id": "Mj_153",
-                "type": "c4zv",
+                "id": "5MWZ_153",
+                "type": "gn3n",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -165,8 +165,8 @@
                 }
             },
             {
-                "id": "Mj_157",
-                "type": "c33d",
+                "id": "5MWZ_157",
+                "type": "glm4",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -200,8 +200,8 @@
                 }
             },
             {
-                "id": "Mj_172",
-                "type": "bg9d",
+                "id": "5MWZ_172",
+                "type": "gfo0",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -235,8 +235,8 @@
                 }
             },
             {
-                "id": "Mj_178",
-                "type": "bi5v",
+                "id": "5MWZ_178",
+                "type": "gh5j",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -263,8 +263,8 @@
                 }
             },
             {
-                "id": "Mj_181",
-                "type": "bk2d",
+                "id": "5MWZ_181",
+                "type": "gin2",
                 "unit": "mm",
                 "props": {
                     "readonly": false,

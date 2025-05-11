@@ -32,8 +32,8 @@
         },
         "elements": [
             {
-                "id": "Mj_53",
-                "type": "c8sv",
+                "id": "5MWZ_53",
+                "type": "gq2p",
                 "unit": "px",
                 "props": {
                     "readonly": true,
@@ -60,8 +60,8 @@
                 }
             },
             {
-                "id": "Mj_54",
-                "type": "9v6d",
+                "id": "5MWZ_54",
+                "type": "f2ll",
                 "unit": "px",
                 "props": {
                     "readonly": true,
@@ -77,7 +77,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "9v6d": "9v6d",
+                    "f2ll": "f2ll",
                     "imageWidth": 102,
                     "imageHeight": 102,
                     "backgroundX": 0,
@@ -87,8 +87,8 @@
                 }
             },
             {
-                "id": "Mj_55",
-                "type": "c33d",
+                "id": "5MWZ_55",
+                "type": "glm4",
                 "unit": "px",
                 "props": {
                     "readonly": true,
@@ -121,8 +121,8 @@
                 }
             },
             {
-                "id": "Mj_56",
-                "type": "86ad",
+                "id": "5MWZ_56",
+                "type": "d4ps",
                 "unit": "px",
                 "props": {
                     "readonly": true,
@@ -140,8 +140,8 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "Mj_57",
-                                            "type": "c6wd",
+                                            "id": "5MWZ_57",
+                                            "type": "gol6",
                                             "unit": "px",
                                             "props": {
                                                 "full": false,
@@ -196,8 +196,8 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "Mj_58",
-                                            "type": "ck7v",
+                                            "id": "5MWZ_58",
+                                            "type": "grk8",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": true,
@@ -260,8 +260,8 @@
                 }
             },
             {
-                "id": "Mj_105",
-                "type": "8bzv",
+                "id": "5MWZ_105",
+                "type": "d96d",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -272,8 +272,8 @@
                                     "width": 300,
                                     "elements": [
                                         {
-                                            "id": "Mj_110",
-                                            "type": "ij8d",
+                                            "id": "5MWZ_110",
+                                            "type": "k3zz",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": true,

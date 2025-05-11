@@ -30,8 +30,8 @@
         },
         "elements": [
             {
-                "id": "Mj_logut5ub949",
-                "type": "il4v",
+                "id": "5MWZ_logut5ub949",
+                "type": "k5hi",
                 "unit": "mm",
                 "props": {
                     "x": 18.17,
@@ -65,8 +65,8 @@
                 }
             },
             {
-                "id": "Mj_logut5ub1022",
-                "type": "82hd",
+                "id": "5MWZ_logut5ub1022",
+                "type": "d1qq",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -77,8 +77,8 @@
                                     "width": 60.815,
                                     "elements": [
                                         {
-                                            "id": "Mj_logut5ub1025",
-                                            "type": "c6wd",
+                                            "id": "5MWZ_logut5ub1025",
+                                            "type": "gol6",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 3.685,

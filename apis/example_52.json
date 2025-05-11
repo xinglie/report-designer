@@ -24,8 +24,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "Mj_lfxf57u2119",
-                "type": "8a3d",
+                "id": "5MWZ_lfxf57u2119",
+                "type": "d7ou",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -36,8 +36,8 @@
                                     "width": 209.79,
                                     "elements": [
                                         {
-                                            "id": "Mj_lfxf57u2141",
-                                            "type": "84dv",
+                                            "id": "5MWZ_lfxf57u2141",
+                                            "type": "d389",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 2.15,
@@ -99,8 +99,8 @@
                 }
             },
             {
-                "id": "Mj_lfxf57u2125",
-                "type": "886v",
+                "id": "5MWZ_lfxf57u2125",
+                "type": "d67b",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -141,8 +141,8 @@
                 }
             },
             {
-                "id": "Mj_lfxf57u2175",
-                "type": "il4v",
+                "id": "5MWZ_lfxf57u2175",
+                "type": "k5hi",
                 "unit": "mm",
                 "props": {
                     "x": 13.68,
@@ -158,8 +158,8 @@
                 }
             },
             {
-                "id": "Mj_lfxf57u2191",
-                "type": "ij8d",
+                "id": "5MWZ_lfxf57u2191",
+                "type": "k3zz",
                 "unit": "mm",
                 "props": {
                     "x": 81.29,
@@ -177,8 +177,8 @@
                 }
             },
             {
-                "id": "Mj_lfxf57u2216",
-                "type": "ij8d",
+                "id": "5MWZ_lfxf57u2216",
+                "type": "k3zz",
                 "unit": "mm",
                 "props": {
                     "x": 41.6,
@@ -196,8 +196,8 @@
                 }
             },
             {
-                "id": "Mj_lfxf57u2221",
-                "type": "il4v",
+                "id": "5MWZ_lfxf57u2221",
+                "type": "k5hi",
                 "unit": "mm",
                 "props": {
                     "x": 101.12,

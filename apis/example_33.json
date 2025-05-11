@@ -18,8 +18,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "Mj_80",
-                "type": "7wrv",
+                "id": "5MWZ_80",
+                "type": "cub3",
                 "props": {
                     "rows": [
                         {
@@ -53,8 +53,8 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "Mj_325",
-                                            "type": "7yod",
+                                            "id": "5MWZ_325",
+                                            "type": "cxa5",
                                             "props": {
                                                 "rows": [
                                                     {
@@ -542,8 +542,8 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "Mj_222",
-                                            "type": "c6wd",
+                                            "id": "5MWZ_222",
+                                            "type": "gol6",
                                             "props": {
                                                 "x": 32,
                                                 "y": 22,

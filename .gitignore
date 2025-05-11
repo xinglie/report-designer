@@ -4,9 +4,8 @@
 .DS_Store
 node_modules
 todo.md
-
-# Sublime Project files
-*.sublime-*
+dist-*
+providers
 src
 build
 types

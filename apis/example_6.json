@@ -21,8 +21,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "Mj_49",
-                "type": "8t4d",
+                "id": "5MWZ_49",
+                "type": "dpj6",
                 "unit": "pc",
                 "props": {
                     "ext": {
@@ -52,8 +52,8 @@
                 }
             },
             {
-                "id": "Mj_50",
-                "type": "8t4d",
+                "id": "5MWZ_50",
+                "type": "dpj6",
                 "unit": "pc",
                 "props": {
                     "ext": {
@@ -83,8 +83,8 @@
                 }
             },
             {
-                "id": "Mj_99",
-                "type": "7wrv",
+                "id": "5MWZ_99",
+                "type": "cub3",
                 "unit": "pc",
                 "props": {
                     "rows": [

@@ -31,13 +31,13 @@
         },
         "elements": [
             {
-                "id": "Mj_lfukgpmn233",
-                "type": "flow/gd7v",
+                "id": "5MWZ_lfukgpmn233",
+                "type": "flow/j4bb",
                 "unit": "mm",
                 "props": {
-                    "linkFromId": "Mj_lfukgpmn217",
+                    "linkFromId": "5MWZ_lfukgpmn217",
                     "linkFromKey": "p11",
-                    "linkToId": "Mj_lfukgpmn138",
+                    "linkToId": "5MWZ_lfukgpmn138",
                     "linkToKey": "p7",
                     "x": 63.89,
                     "y": 42.445,
@@ -79,13 +79,13 @@
                 }
             },
             {
-                "id": "Mj_lfuncj18366",
-                "type": "flow/gd7v",
+                "id": "5MWZ_lfuncj18366",
+                "type": "flow/j4bb",
                 "unit": "mm",
                 "props": {
-                    "linkFromId": "Mj_lfukgpmn287",
+                    "linkFromId": "5MWZ_lfukgpmn287",
                     "linkFromKey": "p15",
-                    "linkToId": "Mj_lfukgpmn138",
+                    "linkToId": "5MWZ_lfukgpmn138",
                     "linkToKey": "p14",
                     "x": 127.54,
                     "y": 17.045,
@@ -127,13 +127,13 @@
                 }
             },
             {
-                "id": "Mj_lfuncj18361",
-                "type": "flow/gd7v",
+                "id": "5MWZ_lfuncj18361",
+                "type": "flow/j4bb",
                 "unit": "mm",
                 "props": {
-                    "linkFromId": "Mj_lfukgpmn287",
+                    "linkFromId": "5MWZ_lfukgpmn287",
                     "linkFromKey": "p12",
-                    "linkToId": "Mj_lfukgpmn106",
+                    "linkToId": "5MWZ_lfukgpmn106",
                     "linkToKey": "p11",
                     "x": 63.89,
                     "y": 33.985,
@@ -175,13 +175,13 @@
                 }
             },
             {
-                "id": "Mj_lfukgpmn228",
-                "type": "flow/gd7v",
+                "id": "5MWZ_lfukgpmn228",
+                "type": "flow/j4bb",
                 "unit": "mm",
                 "props": {
-                    "linkFromId": "Mj_lfukgpmn217",
+                    "linkFromId": "5MWZ_lfukgpmn217",
                     "linkFromKey": "p8",
-                    "linkToId": "Mj_lfukgpmn106",
+                    "linkToId": "5MWZ_lfukgpmn106",
                     "linkToKey": "p10",
                     "x": 7.011,
                     "y": 33.985,
@@ -231,13 +231,13 @@
                 }
             },
             {
-                "id": "Mj_lfukgpmn165",
-                "type": "flow/gd7v",
+                "id": "5MWZ_lfukgpmn165",
+                "type": "flow/j4bb",
                 "unit": "mm",
                 "props": {
-                    "linkFromId": "Mj_lfukgpmn106",
+                    "linkFromId": "5MWZ_lfukgpmn106",
                     "linkFromKey": "p11",
-                    "linkToId": "Mj_lfukgpmn138",
+                    "linkToId": "5MWZ_lfukgpmn138",
                     "linkToKey": "p12",
                     "x": 63.89,
                     "y": 23.395,
@@ -279,8 +279,8 @@
                 }
             },
             {
-                "id": "Mj_lfukgpmn106",
-                "type": "flow/gw8v",
+                "id": "5MWZ_lfukgpmn106",
+                "type": "flow/j8rw",
                 "unit": "mm",
                 "props": {
                     "linewidth": 0.53,
@@ -318,8 +318,8 @@
                 }
             },
             {
-                "id": "Mj_lfukgpmn138",
-                "type": "flow/gw8v",
+                "id": "5MWZ_lfukgpmn138",
+                "type": "flow/j8rw",
                 "unit": "mm",
                 "props": {
                     "linewidth": 0.53,
@@ -365,8 +365,8 @@
                 }
             },
             {
-                "id": "Mj_lfukgpmn217",
-                "type": "flow/gw8v",
+                "id": "5MWZ_lfukgpmn217",
+                "type": "flow/j8rw",
                 "unit": "mm",
                 "props": {
                     "linewidth": 0.53,
@@ -404,8 +404,8 @@
                 }
             },
             {
-                "id": "Mj_lfukgpmn287",
-                "type": "flow/gw8v",
+                "id": "5MWZ_lfukgpmn287",
+                "type": "flow/j8rw",
                 "unit": "mm",
                 "props": {
                     "linewidth": 0.53,

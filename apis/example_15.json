@@ -20,8 +20,8 @@
         "groups": [],
         "elements": [
             {
-                "id": "Mj_754",
-                "type": "bk2d",
+                "id": "5MWZ_754",
+                "type": "gin2",
                 "unit": "px",
                 "props": {
                     "x": 95,
@@ -64,8 +64,8 @@
                 }
             },
             {
-                "id": "Mj_824",
-                "type": "bk2d",
+                "id": "5MWZ_824",
+                "type": "gin2",
                 "unit": "px",
                 "props": {
                     "pinX": false,
@@ -110,8 +110,8 @@
                 }
             },
             {
-                "id": "Mj_833",
-                "type": "bk2d",
+                "id": "5MWZ_833",
+                "type": "gin2",
                 "unit": "px",
                 "props": {
                     "pinX": false,
@@ -156,8 +156,8 @@
                 }
             },
             {
-                "id": "Mj_836",
-                "type": "bk2d",
+                "id": "5MWZ_836",
+                "type": "gin2",
                 "unit": "px",
                 "props": {
                     "pinX": false,
