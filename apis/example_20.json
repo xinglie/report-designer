@@ -1,9 +1,9 @@
 {
     "data": {
         "unit": "pc",
-        "xs": [],
-        "ys": [],
-        "groups": [],
+        "x": [],
+        "y": [],
+        "g": [],
         "page": {
             "readonly": false,
             "viewer": "default",
@@ -33,8 +33,8 @@
         },
         "elements": [
             {
-                "id": "5MWZ_89",
-                "type": "cub3",
+                "id": "ZW_89",
+                "type": "2u7a",
                 "unit": "pc",
                 "props": {
                     "readonly": false,

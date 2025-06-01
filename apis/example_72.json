@@ -1,9 +1,9 @@
 {
     "data": {
         "unit": "mm",
-        "xs": [],
-        "ys": [],
-        "groups": [],
+        "x": [],
+        "y": [],
+        "g": [],
         "page": {
             "viewer": "stack",
             "width": 209.815,
@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "5MWZ_lv6g4oka410",
-                "type": "cub3",
+                "id": "ZW_lv6g4oka410",
+                "type": "2u7a",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -444,7 +444,7 @@
                                     "rowspan": 1,
                                     "colspan": 1,
                                     "elements": [],
-                                    "bindKey": "do1n",
+                                    "bindKey": "3tpy",
                                     "bindName": "数量"
                                 },
                                 {
@@ -832,8 +832,8 @@
                 }
             },
             {
-                "id": "5MWZ_lv6pi07t553",
-                "type": "gol6",
+                "id": "ZW_lv6pi07t553",
+                "type": "6q21",
                 "unit": "mm",
                 "props": {
                     "x": 61.017,
@@ -864,8 +864,8 @@
                 }
             },
             {
-                "id": "5MWZ_lv6pi07t636",
-                "type": "gol6",
+                "id": "ZW_lv6pi07t636",
+                "type": "6q21",
                 "unit": "mm",
                 "props": {
                     "x": 121.626,
@@ -896,8 +896,8 @@
                 }
             },
             {
-                "id": "5MWZ_lvacugcx315",
-                "type": "gol6",
+                "id": "ZW_lvacugcx315",
+                "type": "6q21",
                 "unit": "mm",
                 "props": {
                     "x": 17.207,
@@ -928,8 +928,8 @@
                 }
             },
             {
-                "id": "5MWZ_m7g969np216",
-                "type": "d7ou",
+                "id": "ZW_m7g969np216",
+                "type": "39qp",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -940,8 +940,8 @@
                                     "width": 209.815,
                                     "elements": [
                                         {
-                                            "id": "5MWZ_m7g969np336",
-                                            "type": "dpj6",
+                                            "id": "ZW_m7g969np336",
+                                            "type": "3vxv",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 168.44,

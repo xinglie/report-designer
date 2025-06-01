@@ -32,8 +32,8 @@
         },
         "elements": [
             {
-                "id": "5MWZ_140",
-                "type": "f2ll",
+                "id": "ZW_140",
+                "type": "54c7",
                 "unit": "q",
                 "props": {
                     "readonly": false,
@@ -50,7 +50,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "f2ll": "f2ll",
+                    "54c7": "54c7",
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
                     "imageWidth": 135.468,
                     "imageHeight": 135.468,
@@ -62,8 +62,8 @@
                 }
             },
             {
-                "id": "5MWZ_146",
-                "type": "f2ll",
+                "id": "ZW_146",
+                "type": "54c7",
                 "unit": "q",
                 "props": {
                     "readonly": false,
@@ -80,7 +80,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "f2ll": "f2ll",
+                    "54c7": "54c7",
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
                     "imageWidth": 135.468,
                     "imageHeight": 135.468,

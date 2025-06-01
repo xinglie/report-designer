@@ -1,9 +1,9 @@
 {
     "data": {
         "unit": "mm",
-        "xs": [],
-        "ys": [],
-        "groups": [],
+        "x": [],
+        "y": [],
+        "g": [],
         "page": {
             "viewer": "stack",
             "width": 209.815,
@@ -30,8 +30,8 @@
         },
         "elements": [
             {
-                "id": "5MWZ_lt6y4vct327",
-                "type": "d097",
+                "id": "ZW_lt6y4vct327",
+                "type": "2yn4",
                 "unit": "mm",
                 "props": {
                     "bind": {
@@ -79,8 +79,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "5MWZ_lt6y4vct562",
-                                            "type": "gol6",
+                                            "id": "ZW_lt6y4vct562",
+                                            "type": "6q21",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 0,
@@ -123,8 +123,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "5MWZ_lt6y4vct632",
-                                            "type": "gol6",
+                                            "id": "ZW_lt6y4vct632",
+                                            "type": "6q21",
                                             "unit": "mm",
                                             "props": {
                                                 "x": -2.401,
@@ -172,8 +172,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "5MWZ_lt6y4vct349",
-                                            "type": "gol6",
+                                            "id": "ZW_lt6y4vct349",
+                                            "type": "6q21",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 4.622,
@@ -214,8 +214,8 @@
                                             }
                                         },
                                         {
-                                            "id": "5MWZ_lt6y4vct369",
-                                            "type": "gol6",
+                                            "id": "ZW_lt6y4vct369",
+                                            "type": "6q21",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 4.622,
@@ -256,8 +256,8 @@
                                             }
                                         },
                                         {
-                                            "id": "5MWZ_lt6y4vct823",
-                                            "type": "gol6",
+                                            "id": "ZW_lt6y4vct823",
+                                            "type": "6q21",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 4.953,
@@ -310,8 +310,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "5MWZ_lt6y4vct747",
-                                            "type": "gq2p",
+                                            "id": "ZW_lt6y4vct747",
+                                            "type": "6s9y",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 8.922,

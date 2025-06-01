@@ -1,9 +1,9 @@
 {
     "data": {
         "unit": "mm",
-        "xs": [],
-        "ys": [],
-        "groups": [],
+        "x": [],
+        "y": [],
+        "g": [],
         "page": {
             "viewer": "stack",
             "width": 209.815,
@@ -30,8 +30,8 @@
         },
         "elements": [
             {
-                "id": "5MWZ_logut5ub949",
-                "type": "k5hi",
+                "id": "ZW_logut5ub949",
+                "type": "ad14",
                 "unit": "mm",
                 "props": {
                     "x": 18.17,
@@ -65,8 +65,8 @@
                 }
             },
             {
-                "id": "5MWZ_logut5ub1022",
-                "type": "d1qq",
+                "id": "ZW_logut5ub1022",
+                "type": "30v1",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -77,8 +77,8 @@
                                     "width": 60.815,
                                     "elements": [
                                         {
-                                            "id": "5MWZ_logut5ub1025",
-                                            "type": "gol6",
+                                            "id": "ZW_logut5ub1025",
+                                            "type": "6q21",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 3.685,

@@ -1,9 +1,9 @@
 {
     "data": {
         "unit": "px",
-        "xs": [],
-        "ys": [],
-        "groups": [],
+        "x": [],
+        "y": [],
+        "g": [],
         "page": {
             "viewer": "default",
             "width": 791,
@@ -32,8 +32,8 @@
         },
         "elements": [
             {
-                "id": "5MWZ_53",
-                "type": "gq2p",
+                "id": "ZW_53",
+                "type": "6s9y",
                 "unit": "px",
                 "props": {
                     "readonly": true,
@@ -60,8 +60,8 @@
                 }
             },
             {
-                "id": "5MWZ_54",
-                "type": "f2ll",
+                "id": "ZW_54",
+                "type": "54c7",
                 "unit": "px",
                 "props": {
                     "readonly": true,
@@ -77,7 +77,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "f2ll": "f2ll",
+                    "54c7": "54c7",
                     "imageWidth": 102,
                     "imageHeight": 102,
                     "backgroundX": 0,
@@ -87,8 +87,8 @@
                 }
             },
             {
-                "id": "5MWZ_55",
-                "type": "glm4",
+                "id": "ZW_55",
+                "type": "6lm7",
                 "unit": "px",
                 "props": {
                     "readonly": true,
@@ -121,8 +121,8 @@
                 }
             },
             {
-                "id": "5MWZ_56",
-                "type": "d4ps",
+                "id": "ZW_56",
+                "type": "35av",
                 "unit": "px",
                 "props": {
                     "readonly": true,
@@ -140,8 +140,8 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "5MWZ_57",
-                                            "type": "gol6",
+                                            "id": "ZW_57",
+                                            "type": "6q21",
                                             "unit": "px",
                                             "props": {
                                                 "full": false,
@@ -196,8 +196,8 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "5MWZ_58",
-                                            "type": "grk8",
+                                            "id": "ZW_58",
+                                            "type": "6uhv",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": true,
@@ -260,8 +260,8 @@
                 }
             },
             {
-                "id": "5MWZ_105",
-                "type": "d96d",
+                "id": "ZW_105",
+                "type": "3bym",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -272,8 +272,8 @@
                                     "width": 300,
                                     "elements": [
                                         {
-                                            "id": "5MWZ_110",
-                                            "type": "k3zz",
+                                            "id": "ZW_110",
+                                            "type": "aat7",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": true,

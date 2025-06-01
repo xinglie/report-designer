@@ -18,13 +18,13 @@
             "backgroundYOffset": 0,
             "font":"qtxtt"
         },
-        "xs": [],
-        "ys": [],
-        "groups": [],
+        "x": [],
+        "y": [],
+        "g": [],
         "elements": [
             {
-                "id": "5MWZ_lfarjvj1211",
-                "type": "cub3",
+                "id": "ZW_lfarjvj1211",
+                "type": "2u7a",
                 "unit": "px",
                 "props": {
                     "rows": [

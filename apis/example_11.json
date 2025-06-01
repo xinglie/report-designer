@@ -1,9 +1,9 @@
 {
     "data": {
         "unit": "pt",
-        "xs": [],
-        "ys": [],
-        "groups": [],
+        "x": [],
+        "y": [],
+        "g": [],
         "page": {
             "readonly": false,
             "viewer": "default",
@@ -33,8 +33,8 @@
         },
         "elements": [
             {
-                "id": "5MWZ_95",
-                "type": "dmk4",
+                "id": "ZW_95",
+                "type": "3ri1",
                 "unit": "pt",
                 "props": {
                     "readonly": false,

@@ -17,21 +17,21 @@
             "backgroundXOffset": 0,
             "backgroundYOffset": 0
         },
-        "xs": [
+        "x": [
             {
                 "v": 157.14
             }
         ],
-        "ys": [
+        "y": [
             {
                 "v": 29.37
             }
         ],
-        "groups": [],
+        "g": [],
         "elements": [
             {
-                "id": "5MWZ_l7twxz8s167",
-                "type": "gq2p",
+                "id": "ZW_l7twxz8s167",
+                "type": "6s9y",
                 "unit": "mm",
                 "props": {
                     "x": 31.54,
@@ -50,8 +50,8 @@
                 }
             },
             {
-                "id": "5MWZ_l7twxz8s180",
-                "type": "gn3n",
+                "id": "ZW_l7twxz8s180",
+                "type": "6nu4",
                 "unit": "mm",
                 "props": {
                     "x": 104.88,

@@ -1,9 +1,9 @@
 {
     "data": {
         "unit": "mm",
-        "xs": [],
-        "ys": [],
-        "groups": [],
+        "x": [],
+        "y": [],
+        "g": [],
         "page": {
             "readonly": false,
             "viewer": "default",
@@ -34,8 +34,8 @@
         },
         "elements": [
             {
-                "id": "5MWZ_lveqxpcn239",
-                "type": "cub3",
+                "id": "ZW_lveqxpcn239",
+                "type": "2u7a",
                 "unit": "mm",
                 "props": {
                     "readonly": false,

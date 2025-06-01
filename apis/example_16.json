@@ -17,11 +17,11 @@
             "backgroundXOffset": 0,
             "backgroundYOffset": 0
         },
-        "groups": [],
+        "g": [],
         "elements": [
             {
-                "id": "5MWZ_101",
-                "type": "gin2",
+                "id": "ZW_101",
+                "type": "6h6d",
                 "unit": "cm",
                 "props": {
                     "x": 3.281,

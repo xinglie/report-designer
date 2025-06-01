@@ -1,9 +1,9 @@
 {
     "data": {
         "unit": "mm",
-        "xs": [],
-        "ys": [],
-        "groups": [],
+        "x": [],
+        "y": [],
+        "g": [],
         "page": {
             "viewer": "default",
             "width": 150,
@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "5MWZ_75",
-                "type": "gol6",
+                "id": "ZW_75",
+                "type": "6q21",
                 "unit": "mm",
                 "props": {
                     "x": 0,
@@ -66,8 +66,8 @@
                 }
             },
             {
-                "id": "5MWZ_76",
-                "type": "gol6",
+                "id": "ZW_76",
+                "type": "6q21",
                 "unit": "mm",
                 "props": {
                     "x": 0,
@@ -100,8 +100,8 @@
                 }
             },
             {
-                "id": "5MWZ_77",
-                "type": "glm4",
+                "id": "ZW_77",
+                "type": "6lm7",
                 "unit": "mm",
                 "props": {
                     "x": 63.76,
@@ -131,8 +131,8 @@
                 }
             },
             {
-                "id": "5MWZ_95",
-                "type": "grk8",
+                "id": "ZW_95",
+                "type": "6uhv",
                 "unit": "mm",
                 "props": {
                     "x": 0,
@@ -149,8 +149,8 @@
                 }
             },
             {
-                "id": "5MWZ_100",
-                "type": "grk8",
+                "id": "ZW_100",
+                "type": "6uhv",
                 "unit": "mm",
                 "props": {
                     "x": 0,
@@ -167,8 +167,8 @@
                 }
             },
             {
-                "id": "5MWZ_103",
-                "type": "gol6",
+                "id": "ZW_103",
+                "type": "6q21",
                 "unit": "mm",
                 "props": {
                     "x": 3.15,
@@ -201,8 +201,8 @@
                 }
             },
             {
-                "id": "5MWZ_118",
-                "type": "gol6",
+                "id": "ZW_118",
+                "type": "6q21",
                 "unit": "mm",
                 "props": {
                     "x": 3.15,
@@ -235,8 +235,8 @@
                 }
             },
             {
-                "id": "5MWZ_121",
-                "type": "gol6",
+                "id": "ZW_121",
+                "type": "6q21",
                 "unit": "mm",
                 "props": {
                     "x": 3.15,
@@ -269,8 +269,8 @@
                 }
             },
             {
-                "id": "5MWZ_125",
-                "type": "gol6",
+                "id": "ZW_125",
+                "type": "6q21",
                 "unit": "mm",
                 "props": {
                     "x": 96.76,
@@ -303,8 +303,8 @@
                 }
             },
             {
-                "id": "5MWZ_131",
-                "type": "gol6",
+                "id": "ZW_131",
+                "type": "6q21",
                 "unit": "mm",
                 "props": {
                     "x": 96.76,
@@ -337,8 +337,8 @@
                 }
             },
             {
-                "id": "5MWZ_138",
-                "type": "gol6",
+                "id": "ZW_138",
+                "type": "6q21",
                 "unit": "mm",
                 "props": {
                     "x": 3.15,
@@ -372,8 +372,8 @@
                 }
             },
             {
-                "id": "5MWZ_143",
-                "type": "gol6",
+                "id": "ZW_143",
+                "type": "6q21",
                 "unit": "mm",
                 "props": {
                     "x": 91.72,
@@ -407,8 +407,8 @@
                 }
             },
             {
-                "id": "5MWZ_146",
-                "type": "gol6",
+                "id": "ZW_146",
+                "type": "6q21",
                 "unit": "mm",
                 "props": {
                     "x": 3.15,
@@ -442,8 +442,8 @@
                 }
             },
             {
-                "id": "5MWZ_152",
-                "type": "gol6",
+                "id": "ZW_152",
+                "type": "6q21",
                 "unit": "mm",
                 "props": {
                     "x": 91.72,
@@ -477,8 +477,8 @@
                 }
             },
             {
-                "id": "5MWZ_158",
-                "type": "gol6",
+                "id": "ZW_158",
+                "type": "6q21",
                 "unit": "mm",
                 "props": {
                     "x": 3.15,
@@ -512,8 +512,8 @@
                 }
             },
             {
-                "id": "5MWZ_161",
-                "type": "gol6",
+                "id": "ZW_161",
+                "type": "6q21",
                 "unit": "mm",
                 "props": {
                     "x": 3.15,
@@ -546,8 +546,8 @@
                 }
             },
             {
-                "id": "5MWZ_184",
-                "type": "gol6",
+                "id": "ZW_184",
+                "type": "6q21",
                 "unit": "mm",
                 "props": {
                     "x": 49.56,
@@ -580,8 +580,8 @@
                 }
             },
             {
-                "id": "5MWZ_190",
-                "type": "grk8",
+                "id": "ZW_190",
+                "type": "6uhv",
                 "unit": "mm",
                 "props": {
                     "x": 0,
@@ -598,8 +598,8 @@
                 }
             },
             {
-                "id": "5MWZ_201",
-                "type": "glm4",
+                "id": "ZW_201",
+                "type": "6lm7",
                 "unit": "mm",
                 "props": {
                     "x": 31.93,
@@ -629,8 +629,8 @@
                 }
             },
             {
-                "id": "5MWZ_214",
-                "type": "gol6",
+                "id": "ZW_214",
+                "type": "6q21",
                 "unit": "mm",
                 "props": {
                     "x": 3.15,
@@ -663,8 +663,8 @@
                 }
             },
             {
-                "id": "5MWZ_220",
-                "type": "grk8",
+                "id": "ZW_220",
+                "type": "6uhv",
                 "unit": "mm",
                 "props": {
                     "x": 0,
@@ -681,8 +681,8 @@
                 }
             },
             {
-                "id": "5MWZ_223",
-                "type": "gq2p",
+                "id": "ZW_223",
+                "type": "6s9y",
                 "unit": "mm",
                 "props": {
                     "x": 8.59,
@@ -704,8 +704,8 @@
                 }
             },
             {
-                "id": "5MWZ_236",
-                "type": "gol6",
+                "id": "ZW_236",
+                "type": "6q21",
                 "unit": "mm",
                 "props": {
                     "x": 42.75,

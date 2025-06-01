@@ -18,11 +18,11 @@
             "backgroundXOffset": 0,
             "backgroundYOffset": 0
         },
-        "groups": [],
+        "g": [],
         "elements": [
             {
-                "id": "5MWZ_49",
-                "type": "dpj6",
+                "id": "ZW_49",
+                "type": "3vxv",
                 "unit": "pc",
                 "props": {
                     "ext": {
@@ -52,8 +52,8 @@
                 }
             },
             {
-                "id": "5MWZ_50",
-                "type": "dpj6",
+                "id": "ZW_50",
+                "type": "3vxv",
                 "unit": "pc",
                 "props": {
                     "ext": {
@@ -83,8 +83,8 @@
                 }
             },
             {
-                "id": "5MWZ_99",
-                "type": "cub3",
+                "id": "ZW_99",
+                "type": "2u7a",
                 "unit": "pc",
                 "props": {
                     "rows": [

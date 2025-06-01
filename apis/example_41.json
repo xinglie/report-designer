@@ -1,9 +1,9 @@
 {
     "data": {
         "unit": "px",
-        "xs": [],
-        "ys": [],
-        "groups": [],
+        "x": [],
+        "y": [],
+        "g": [],
         "page": {
             "viewer": "default",
             "width": 791,
@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "5MWZ_87",
-                "type": "gol6",
+                "id": "ZW_87",
+                "type": "6q21",
                 "unit": "px",
                 "props": {
                     "x": 358,
@@ -66,8 +66,8 @@
                 }
             },
             {
-                "id": "5MWZ_197",
-                "type": "dpj6",
+                "id": "ZW_197",
+                "type": "3vxv",
                 "unit": "px",
                 "props": {
                     "x": 583,
@@ -94,8 +94,8 @@
                 }
             },
             {
-                "id": "5MWZ_217",
-                "type": "dpj6",
+                "id": "ZW_217",
+                "type": "3vxv",
                 "unit": "px",
                 "props": {
                     "x": 587,
@@ -122,8 +122,8 @@
                 }
             },
             {
-                "id": "5MWZ_252",
-                "type": "glm4",
+                "id": "ZW_252",
+                "type": "6lm7",
                 "unit": "px",
                 "props": {
                     "x": 52,
@@ -153,8 +153,8 @@
                 }
             },
             {
-                "id": "5MWZ_268",
-                "type": "gq2p",
+                "id": "ZW_268",
+                "type": "6s9y",
                 "unit": "px",
                 "props": {
                     "x": 88,
@@ -176,8 +176,8 @@
                 }
             },
             {
-                "id": "5MWZ_334",
-                "type": "gn3n",
+                "id": "ZW_334",
+                "type": "6nu4",
                 "unit": "px",
                 "props": {
                     "x": 85,
@@ -200,8 +200,8 @@
                 }
             },
             {
-                "id": "5MWZ_lhuc7psk147",
-                "type": "cub3",
+                "id": "ZW_lhuc7psk147",
+                "type": "2u7a",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -621,8 +621,8 @@
                 }
             },
             {
-                "id": "5MWZ_lhuc7psk194",
-                "type": "gk4l",
+                "id": "ZW_lhuc7psk194",
+                "type": "6jea",
                 "unit": "px",
                 "props": {
                     "x": 439,

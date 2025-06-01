@@ -1,9 +1,9 @@
 {
     "data": {
         "unit": "mm",
-        "xs": [],
-        "ys": [],
-        "groups": [],
+        "x": [],
+        "y": [],
+        "g": [],
         "page": {
             "viewer": "default",
             "width": 209.815,
@@ -31,7 +31,7 @@
         },
         "elements": [
             {
-                "id": "5MWZ_lwsupb2v414",
+                "id": "ZW_lwsupb2v414",
                 "type": "pdf",
                 "unit": "mm",
                 "props": {

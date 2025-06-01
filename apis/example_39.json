@@ -1,16 +1,16 @@
 {
     "data": {
         "unit": "px",
-        "xs": [],
-        "ys": [],
-        "groups": [
+        "x": [],
+        "y": [],
+        "g": [
             [
-                "5MWZ_lh4ey1ha147",
-                "5MWZ_10",
-                "5MWZ_11",
-                "5MWZ_12",
-                "5MWZ_13",
-                "5MWZ_14"
+                "ZW_lh4ey1ha147",
+                "ZW_10",
+                "ZW_11",
+                "ZW_12",
+                "ZW_13",
+                "ZW_14"
             ]
         ],
         "page": {
@@ -40,8 +40,8 @@
         },
         "elements": [
             {
-                "id": "5MWZ_lh4ey1ha147",
-                "type": "svg/isf3",
+                "id": "ZW_lh4ey1ha147",
+                "type": "svg/8rba",
                 "unit": "px",
                 "props": {
                     "x": 493,
@@ -72,8 +72,8 @@
                 }
             },
             {
-                "id": "5MWZ_7",
-                "type": "gol6",
+                "id": "ZW_7",
+                "type": "6q21",
                 "unit": "px",
                 "props": {
                     "x": 238,
@@ -104,8 +104,8 @@
                 }
             },
             {
-                "id": "5MWZ_8",
-                "type": "gol6",
+                "id": "ZW_8",
+                "type": "6q21",
                 "unit": "px",
                 "props": {
                     "x": 36,
@@ -136,8 +136,8 @@
                 }
             },
             {
-                "id": "5MWZ_10",
-                "type": "gol6",
+                "id": "ZW_10",
+                "type": "6q21",
                 "unit": "px",
                 "props": {
                     "x": 468,
@@ -168,8 +168,8 @@
                 }
             },
             {
-                "id": "5MWZ_11",
-                "type": "gol6",
+                "id": "ZW_11",
+                "type": "6q21",
                 "unit": "px",
                 "props": {
                     "x": 726,
@@ -200,8 +200,8 @@
                 }
             },
             {
-                "id": "5MWZ_12",
-                "type": "gol6",
+                "id": "ZW_12",
+                "type": "6q21",
                 "unit": "px",
                 "props": {
                     "x": 660,
@@ -232,8 +232,8 @@
                 }
             },
             {
-                "id": "5MWZ_13",
-                "type": "gol6",
+                "id": "ZW_13",
+                "type": "6q21",
                 "unit": "px",
                 "props": {
                     "x": 682,
@@ -264,8 +264,8 @@
                 }
             },
             {
-                "id": "5MWZ_14",
-                "type": "gol6",
+                "id": "ZW_14",
+                "type": "6q21",
                 "unit": "px",
                 "props": {
                     "x": 656,
@@ -296,8 +296,8 @@
                 }
             },
             {
-                "id": "5MWZ_16",
-                "type": "gol6",
+                "id": "ZW_16",
+                "type": "6q21",
                 "unit": "px",
                 "props": {
                     "x": 39,
@@ -329,8 +329,8 @@
                 }
             },
             {
-                "id": "5MWZ_17",
-                "type": "ey50",
+                "id": "ZW_17",
+                "type": "4zwd",
                 "unit": "px",
                 "props": {
                     "x": 76,
@@ -350,8 +350,8 @@
                 }
             },
             {
-                "id": "5MWZ_18",
-                "type": "ey50",
+                "id": "ZW_18",
+                "type": "4zwd",
                 "unit": "px",
                 "props": {
                     "x": 76,
@@ -371,8 +371,8 @@
                 }
             },
             {
-                "id": "5MWZ_75",
-                "type": "svg/jy1v",
+                "id": "ZW_75",
+                "type": "svg/a45g",
                 "unit": "px",
                 "props": {
                     "x": 61,

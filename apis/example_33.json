@@ -15,11 +15,11 @@
             "backgroundXOffset": 0,
             "backgroundYOffset": 0
         },
-        "groups": [],
+        "g": [],
         "elements": [
             {
-                "id": "5MWZ_80",
-                "type": "cub3",
+                "id": "ZW_80",
+                "type": "2u7a",
                 "props": {
                     "rows": [
                         {
@@ -53,8 +53,8 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "5MWZ_325",
-                                            "type": "cxa5",
+                                            "id": "ZW_325",
+                                            "type": "2wf7",
                                             "props": {
                                                 "rows": [
                                                     {
@@ -542,8 +542,8 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "5MWZ_222",
-                                            "type": "gol6",
+                                            "id": "ZW_222",
+                                            "type": "6q21",
                                             "props": {
                                                 "x": 32,
                                                 "y": 22,

@@ -1,9 +1,9 @@
 {
     "data": {
         "unit": "px",
-        "xs": [],
-        "ys": [],
-        "groups": [],
+        "x": [],
+        "y": [],
+        "g": [],
         "page": {
             "readonly": false,
             "viewer": "default",
@@ -33,8 +33,8 @@
         },
         "elements": [
             {
-                "id": "5MWZ_303",
-                "type": "d1qq",
+                "id": "ZW_303",
+                "type": "30v1",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -51,8 +51,8 @@
                                     "width": 300,
                                     "elements": [
                                         {
-                                            "id": "5MWZ_307",
-                                            "type": "gn3n",
+                                            "id": "ZW_307",
+                                            "type": "6nu4",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": false,
@@ -85,8 +85,8 @@
                                             }
                                         },
                                         {
-                                            "id": "5MWZ_342",
-                                            "type": "gn3n",
+                                            "id": "ZW_342",
+                                            "type": "6nu4",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": false,
@@ -121,8 +121,8 @@
                                             }
                                         },
                                         {
-                                            "id": "5MWZ_348",
-                                            "type": "glm4",
+                                            "id": "ZW_348",
+                                            "type": "6lm7",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": false,
@@ -162,8 +162,8 @@
                                             }
                                         },
                                         {
-                                            "id": "5MWZ_368",
-                                            "type": "gol6",
+                                            "id": "ZW_368",
+                                            "type": "6q21",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": false,

@@ -1,9 +1,9 @@
 {
     "data": {
         "unit": "mm",
-        "xs": [],
-        "ys": [],
-        "groups": [],
+        "x": [],
+        "y": [],
+        "g": [],
         "page": {
             "viewer": "default",
             "width": 209.26,
@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "5MWZ_ljfntfap169",
-                "type": "cub3",
+                "id": "ZW_ljfntfap169",
+                "type": "2u7a",
                 "unit": "mm",
                 "props": {
                     "rows": [

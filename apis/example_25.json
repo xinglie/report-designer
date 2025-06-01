@@ -1,9 +1,9 @@
 {
     "data": {
         "unit": "px",
-        "xs": [],
-        "ys": [],
-        "groups": [],
+        "x": [],
+        "y": [],
+        "g": [],
         "page": {
             "viewer": "default",
             "width": 791,
@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "5MWZ_86",
-                "type": "gfo0",
+                "id": "ZW_86",
+                "type": "6cqj",
                 "unit": "px",
                 "props": {
                     "x": 50,
@@ -69,8 +69,8 @@
                 }
             },
             {
-                "id": "5MWZ_93",
-                "type": "gh5j",
+                "id": "ZW_93",
+                "type": "6eyg",
                 "unit": "px",
                 "props": {
                     "x": 50,
@@ -100,8 +100,8 @@
                 }
             },
             {
-                "id": "5MWZ_116",
-                "type": "gin2",
+                "id": "ZW_116",
+                "type": "6h6d",
                 "unit": "px",
                 "props": {
                     "x": 50,
@@ -138,8 +138,8 @@
                 }
             },
             {
-                "id": "5MWZ_132",
-                "type": "d67b",
+                "id": "ZW_132",
+                "type": "37is",
                 "unit": "px",
                 "props": {
                     "pinX": true,

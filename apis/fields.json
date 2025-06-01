@@ -14,7 +14,7 @@
                 {
                     "name": "头像",
                     "key": "avatar",
-                    "use": "gq2p",
+                    "use": "6s9y",
                     "props": {
                         "width": 150,
                         "height": 150
@@ -46,7 +46,7 @@
                 {
                     "name": "无数据分组",
                     "expand": true,
-                    "id": 3,
+                    "id": "3_nodata",
                     "tag": "apis/person.json",
                     "fields": [
                         {
@@ -264,7 +264,7 @@
                 {
                     "name": "片断1",
                     "key": "p1",
-                    "use": "dl2l",
+                    "use": "3pa4",
                     "props": {
                         "width": 500
                     }
@@ -272,7 +272,7 @@
                 {
                     "name": "片断2",
                     "key": "p2",
-                    "use": "dl2l",
+                    "use": "3pa4",
                     "props": {
                         "width": 500
                     }
@@ -310,39 +310,39 @@
                 {
                     "name": "下拉、单选、多选",
                     "key": "item",
-                    "use": "gb7f"
+                    "use": "68ap"
                 },
                 {
                     "name": "中文名称",
                     "key": "item1",
-                    "use": "ge6h"
+                    "use": "6aim"
                 },
                 {
                     "name": "子分组测试",
                     "tag": "apis/form.json",
-                    "id": 6,
+                    "id": "6_form",
                     "fields": [
                         {
                             "name": "标签",
                             "key": "tags",
-                            "use": "hu7y"
+                            "use": "7w8g"
                         },
                         {
                             "name": "输入框绑定",
                             "key": "input",
-                            "use": "g88d"
+                            "use": "63uv"
                         }
                     ]
                 },
                 {
                     "name": "轮播",
-                    "id": 7,
+                    "id": "6_caroousel",
                     "tag": "apis/carousel.json",
                     "fields": [
                         {
                             "name": "轮播图测试",
                             "key": "images",
-                            "use": "f5kn"
+                            "use": "58s1"
                         }
                     ]
                 }
@@ -402,7 +402,7 @@
                 },
                 {
                     "name": "数量",
-                    "key": "do1n"
+                    "key": "3tpy"
                 },
                 {
                     "name": "折扣率",
@@ -426,7 +426,7 @@
                 },
                 {
                     "name": "表头数据(对象)",
-                    "id": 9,
+                    "id": "9_head",
                     "tag": "apis/complex.json",
                     "expand": true,
                     "fields": [
@@ -442,7 +442,7 @@
                 },
                 {
                     "name": "列表数据(数组)",
-                    "id": 9,
+                    "id": "9_list",
                     "tag": "apis/complex.json",
                     "expand": true,
                     "fields": [
@@ -464,13 +464,13 @@
         },
         {
             "name": "护士层级申请",
-            "expand": true,
+            "expand": false,
             "id": "nurse",
             "tag": "apis/nurse.json",
             "fields": [
                 {
                     "name": "基础数据",
-                    "id": "nurse",
+                    "id": "nurse_base",
                     "tag": "apis/nurse.json",
                     "expand": true,
                     "fields": [
@@ -486,11 +486,11 @@
                 },
                 {
                     "name": "富文本",
-                    "key": "dmk4"
+                    "key": "3ri1"
                 },
                 {
                     "name": "审核数据",
-                    "id": "nurse",
+                    "id": "nurse_approve",
                     "tag": "apis/nurse.json",
                     "expand": true,
                     "fields": [
@@ -514,7 +514,7 @@
                 },
                 {
                     "name": "申请数据",
-                    "id": "nurse",
+                    "id": "nurse_apply",
                     "tag": "apis/nurse.json",
                     "expand": true,
                     "fields": [
@@ -525,6 +525,86 @@
                         {
                             "name": "申请历史",
                             "key": "apply/history"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "小票数据",
+            "expand": true,
+            "id": "receipt",
+            "tag": "apis/receipt.json",
+            "fields": [
+                {
+                    "name": "基础数据",
+                    "id": "receipt_base",
+                    "tag": "apis/receipt.json",
+                    "expand": true,
+                    "fields": [
+                        {
+                            "name": "店铺名称",
+                            "key": "base/name"
+                        },
+                        {
+                            "name": "创建时间",
+                            "key": "base/332y"
+                        },
+                        {
+                            "name": "收银员",
+                            "key": "base/cashier"
+                        },
+                        {
+                            "name": "累计积分",
+                            "key": "base/coin"
+                        }
+                    ]
+                },
+                {
+                    "name": "物品明细列表",
+                    "id": "receipt_items",
+                    "tag": "apis/receipt.json",
+                    "expand": true,
+                    "fields": [
+                        {
+                            "name": "名称",
+                            "key": "items/name"
+                        },
+                        {
+                            "name": "数量",
+                            "key": "items/count"
+                        },
+                        {
+                            "name": "价格",
+                            "key": "items/price"
+                        }
+                    ]
+                },
+                {
+                    "name": "汇总数据",
+                    "id": "receipt_summary",
+                    "tag": "apis/receipt.json",
+                    "expand": true,
+                    "fields": [
+                        {
+                            "name": "总价",
+                            "key": "summary/total"
+                        },
+                        {
+                            "name": "优惠",
+                            "key": "summary/discount"
+                        },
+                        {
+                            "name": "实付",
+                            "key": "summary/actual"
+                        },
+                        {
+                            "name": "地址",
+                            "key": "summary/address"
+                        },
+                        {
+                            "name": "电话",
+                            "key": "summary/tel"
                         }
                     ]
                 }

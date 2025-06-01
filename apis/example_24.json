@@ -17,11 +17,11 @@
             "backgroundXOffset": 0,
             "backgroundYOffset": 0
         },
-        "groups": [],
+        "g": [],
         "elements": [
             {
-                "id": "5MWZ_131",
-                "type": "d1qq",
+                "id": "ZW_131",
+                "type": "30v1",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -32,8 +32,8 @@
                                     "width": 328,
                                     "elements": [
                                         {
-                                            "id": "5MWZ_195",
-                                            "type": "gol6",
+                                            "id": "ZW_195",
+                                            "type": "6q21",
                                             "unit": "px",
                                             "props": {
                                                 "x": 30,
@@ -75,8 +75,8 @@
                                             }
                                         },
                                         {
-                                            "id": "5MWZ_424",
-                                            "type": "gq2p",
+                                            "id": "ZW_424",
+                                            "type": "6s9y",
                                             "unit": "px",
                                             "props": {
                                                 "x": 239,
@@ -104,8 +104,8 @@
                                             }
                                         },
                                         {
-                                            "id": "5MWZ_139",
-                                            "type": "gol6",
+                                            "id": "ZW_139",
+                                            "type": "6q21",
                                             "unit": "px",
                                             "props": {
                                                 "x": 29,

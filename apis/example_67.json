@@ -1,9 +1,9 @@
 {
     "data": {
         "unit": "mm",
-        "xs": [],
-        "ys": [],
-        "groups": [],
+        "x": [],
+        "y": [],
+        "g": [],
         "page": {
             "viewer": "stack",
             "width": 209.815,
@@ -30,8 +30,8 @@
         },
         "elements": [
             {
-                "id": "5MWZ_ltqurchb278",
-                "type": "d1qq",
+                "id": "ZW_ltqurchb278",
+                "type": "30v1",
                 "unit": "mm",
                 "props": {
                     "bind": {
@@ -46,8 +46,8 @@
                                     "width": 85.616,
                                     "elements": [
                                         {
-                                            "id": "5MWZ_ltqurchb334",
-                                            "type": "gol6",
+                                            "id": "ZW_ltqurchb334",
+                                            "type": "6q21",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 6.861,
@@ -88,8 +88,8 @@
                                             }
                                         },
                                         {
-                                            "id": "5MWZ_ltqurchb335",
-                                            "type": "gol6",
+                                            "id": "ZW_ltqurchb335",
+                                            "type": "6q21",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 6.861,
@@ -130,8 +130,8 @@
                                             }
                                         },
                                         {
-                                            "id": "5MWZ_ltqurchb336",
-                                            "type": "gol6",
+                                            "id": "ZW_ltqurchb336",
+                                            "type": "6q21",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 7.192,
@@ -172,8 +172,8 @@
                                             }
                                         },
                                         {
-                                            "id": "5MWZ_ltqurchb372",
-                                            "type": "gq2p",
+                                            "id": "ZW_ltqurchb372",
+                                            "type": "6s9y",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 47.958,

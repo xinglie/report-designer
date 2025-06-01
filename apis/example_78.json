@@ -1,0 +1,789 @@
+{
+    "data": {
+        "unit": "mm",
+        "x": [],
+        "y": [],
+        "g": [],
+        "page": {
+            "viewer": "receipt",
+            "width": 58,
+            "height": 136.907,
+            "pages": 1,
+            "scale": "auto",
+            "update": true,
+            "updateInterval": 1,
+            "radius": "0 0 0 0/0 0 0 0",
+            "xOffset": 0,
+            "yOffset": 0,
+            "copies": 1,
+            "blank": "drop",
+            "labelCol": 1,
+            "labelGap": 2.646,
+            "gridWidth": 5.292,
+            "gridHeight": 5.292,
+            "font": "tahoma",
+            "background": "#fff",
+            "backgroundRepeat": "no-repeat",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundX": 0,
+            "backgroundY": 0
+        },
+        "elements": [
+            {
+                "id": "ZW_mayy98h6192",
+                "type": "75lg",
+                "unit": "mm",
+                "props": {
+                    "rows": [
+                        {
+                            "height": 30.437,
+                            "cols": [
+                                {
+                                    "width": 58,
+                                    "elements": [
+                                        {
+                                            "id": "ZW_mayy98h6197",
+                                            "type": "6q21",
+                                            "unit": "mm",
+                                            "props": {
+                                                "full": false,
+                                                "x": 2.646,
+                                                "y": 1.279,
+                                                "width": 52.917,
+                                                "height": 6.615,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "bind": {
+                                                    "id": "receipt_base",
+                                                    "tag": "apis/receipt.json",
+                                                    "fields": [
+                                                        {
+                                                            "key": "base/name",
+                                                            "name": "店铺名称"
+                                                        }
+                                                    ]
+                                                },
+                                                "prefix": "名称：",
+                                                "match": true,
+                                                "size": 3.704,
+                                                "font": "inherit",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#000",
+                                                "styleBold": true,
+                                                "hpos": "flex-start",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 132.292,
+                                                "winHeight": 132.292,
+                                                "name": "文本-1",
+                                                "animations": []
+                                            }
+                                        },
+                                        {
+                                            "id": "ZW_mayy98h6234",
+                                            "type": "6q21",
+                                            "unit": "mm",
+                                            "props": {
+                                                "full": false,
+                                                "x": 2.646,
+                                                "y": 8.174,
+                                                "width": 52.917,
+                                                "height": 6.615,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "bind": {
+                                                    "id": "receipt_base",
+                                                    "tag": "apis/receipt.json",
+                                                    "fields": [
+                                                        {
+                                                            "key": "base/332y",
+                                                            "name": "创建时间"
+                                                        }
+                                                    ]
+                                                },
+                                                "prefix": "时间：",
+                                                "match": true,
+                                                "size": 3.704,
+                                                "font": "inherit",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#000",
+                                                "styleBold": true,
+                                                "hpos": "flex-start",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 132.292,
+                                                "winHeight": 132.292,
+                                                "name": "文本-2",
+                                                "animations": []
+                                            }
+                                        },
+                                        {
+                                            "id": "ZW_mayy98h6241",
+                                            "type": "6q21",
+                                            "unit": "mm",
+                                            "props": {
+                                                "full": false,
+                                                "x": 2.646,
+                                                "y": 15.071,
+                                                "width": 52.917,
+                                                "height": 6.615,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "bind": {
+                                                    "id": "receipt_base",
+                                                    "tag": "apis/receipt.json",
+                                                    "fields": [
+                                                        {
+                                                            "key": "base/cashier",
+                                                            "name": "收银员"
+                                                        }
+                                                    ]
+                                                },
+                                                "prefix": "收银：",
+                                                "match": true,
+                                                "size": 3.704,
+                                                "font": "inherit",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#000",
+                                                "styleBold": true,
+                                                "hpos": "flex-start",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 132.292,
+                                                "winHeight": 132.292,
+                                                "name": "文本-3",
+                                                "animations": []
+                                            }
+                                        },
+                                        {
+                                            "id": "ZW_mayy98h6253",
+                                            "type": "6q21",
+                                            "unit": "mm",
+                                            "props": {
+                                                "full": false,
+                                                "x": 2.542,
+                                                "y": 21.968,
+                                                "width": 52.917,
+                                                "height": 6.615,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "bind": {
+                                                    "id": "receipt_base",
+                                                    "tag": "apis/receipt.json",
+                                                    "fields": [
+                                                        {
+                                                            "key": "base/coin",
+                                                            "name": "累计积分"
+                                                        }
+                                                    ]
+                                                },
+                                                "prefix": "积分：",
+                                                "match": true,
+                                                "size": 3.704,
+                                                "font": "inherit",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#000",
+                                                "styleBold": true,
+                                                "hpos": "flex-start",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 132.292,
+                                                "winHeight": 132.292,
+                                                "name": "文本-4",
+                                                "animations": []
+                                            }
+                                        },
+                                        {
+                                            "id": "ZW_mayyf0dd392",
+                                            "type": "6uhv",
+                                            "unit": "mm",
+                                            "props": {
+                                                "full": false,
+                                                "x": 2.645,
+                                                "y": 28.894,
+                                                "width": 52.917,
+                                                "height": 0.265,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "btype": "solid",
+                                                "color": "#000",
+                                                "name": "直线-1",
+                                                "animations": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "height": 7.896,
+                            "cols": [
+                                {
+                                    "width": 58,
+                                    "elements": [
+                                        {
+                                            "id": "ZW_maz069u7415",
+                                            "type": "6q21",
+                                            "unit": "mm",
+                                            "props": {
+                                                "full": false,
+                                                "x": 2.644,
+                                                "y": 0.64,
+                                                "width": 10,
+                                                "height": 6.615,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "text": "名称",
+                                                "bind": {},
+                                                "match": true,
+                                                "size": 3.704,
+                                                "font": "inherit",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#000",
+                                                "hpos": "flex-start",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 132.292,
+                                                "winHeight": 132.292,
+                                                "name": "文本-14",
+                                                "animations": []
+                                            }
+                                        },
+                                        {
+                                            "id": "ZW_maz069u7444",
+                                            "type": "6q21",
+                                            "unit": "mm",
+                                            "props": {
+                                                "full": false,
+                                                "x": 25.425,
+                                                "y": 0.641,
+                                                "width": 10,
+                                                "height": 6.615,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "text": "数量",
+                                                "bind": {},
+                                                "match": true,
+                                                "size": 3.704,
+                                                "font": "inherit",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#000",
+                                                "hpos": "flex-start",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 132.292,
+                                                "winHeight": 132.292,
+                                                "name": "文本-15",
+                                                "animations": []
+                                            }
+                                        },
+                                        {
+                                            "id": "ZW_maz069u7450",
+                                            "type": "6q21",
+                                            "unit": "mm",
+                                            "props": {
+                                                "full": false,
+                                                "x": 43.444,
+                                                "y": 0.642,
+                                                "width": 10,
+                                                "height": 6.615,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "text": "单价",
+                                                "bind": {},
+                                                "match": true,
+                                                "size": 3.704,
+                                                "font": "inherit",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#000",
+                                                "hpos": "flex-start",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 132.292,
+                                                "winHeight": 132.292,
+                                                "name": "文本-16",
+                                                "animations": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "height": 6.764,
+                            "cols": [
+                                {
+                                    "width": 58,
+                                    "elements": [
+                                        {
+                                            "id": "ZW_maz5896l614",
+                                            "type": "2wf7",
+                                            "unit": "mm",
+                                            "props": {
+                                                "full": false,
+                                                "rows": [
+                                                    {
+                                                        "cols": [
+                                                            {
+                                                                "textGap": 0,
+                                                                "textColor": "#000",
+                                                                "textSize": 3.704,
+                                                                "textFont": "inherit",
+                                                                "textMatch": true,
+                                                                "textContent": "",
+                                                                "textFormat": "",
+                                                                "height": 6.348,
+                                                                "width": 22.875,
+                                                                "rowspan": 1,
+                                                                "colspan": 1,
+                                                                "pLeft": 0,
+                                                                "pTop": 0,
+                                                                "pRight": 2.12,
+                                                                "pBottom": 0,
+                                                                "bLeft": false,
+                                                                "bTop": false,
+                                                                "bRight": false,
+                                                                "bBottom": false,
+                                                                "hpos": "flex-start",
+                                                                "vpos": "center",
+                                                                "alpha": 1,
+                                                                "type": "text",
+                                                                "bindKey": "items/name",
+                                                                "bindName": "名称"
+                                                            },
+                                                            {
+                                                                "pBottom": 0,
+                                                                "pTop": 0,
+                                                                "pLeft": 1.06,
+                                                                "pRight": 0,
+                                                                "hpos": "flex-start",
+                                                                "vpos": "center",
+                                                                "alpha": 1,
+                                                                "type": "text",
+                                                                "bLeft": false,
+                                                                "bTop": false,
+                                                                "bRight": false,
+                                                                "bBottom": false,
+                                                                "textGap": 0,
+                                                                "textColor": "#000",
+                                                                "textSize": 3.704,
+                                                                "textFont": "inherit",
+                                                                "textMatch": true,
+                                                                "textContent": "",
+                                                                "textFormat": "",
+                                                                "height": 6.348,
+                                                                "width": 16.4,
+                                                                "rowspan": 1,
+                                                                "colspan": 1,
+                                                                "bindName": "数量",
+                                                                "bindKey": "items/count"
+                                                            },
+                                                            {
+                                                                "textGap": 0,
+                                                                "textColor": "#000",
+                                                                "textSize": 3.704,
+                                                                "textFont": "inherit",
+                                                                "textMatch": true,
+                                                                "textContent": "",
+                                                                "textFormat": "b:{\"id\":\"no\",\"body\":[null,\".##\"],\"postfix\":\"元\"}",
+                                                                "height": 6.348,
+                                                                "width": 15.075,
+                                                                "rowspan": 1,
+                                                                "colspan": 1,
+                                                                "pLeft": 1.06,
+                                                                "pTop": 0,
+                                                                "pRight": 0,
+                                                                "pBottom": 0,
+                                                                "bLeft": false,
+                                                                "bTop": false,
+                                                                "bRight": false,
+                                                                "bBottom": false,
+                                                                "hpos": "flex-start",
+                                                                "vpos": "center",
+                                                                "alpha": 1,
+                                                                "type": "text",
+                                                                "bindName": "价格",
+                                                                "bindKey": "items/price"
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "bind": {
+                                                    "id": "receipt_items",
+                                                    "tag": "apis/receipt.json"
+                                                },
+                                                "x": 2.65,
+                                                "y": 0,
+                                                "width": 54.35,
+                                                "height": 6.348,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "hspace": 0,
+                                                "vspace": 0,
+                                                "bdeed": "collapse",
+                                                "bwidth": 0,
+                                                "btype": "solid",
+                                                "bcolor": "#000",
+                                                "name": "单元格-1",
+                                                "animations": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            ],
+                            "bind": {
+                                "id": "receipt_items",
+                                "tag": "apis/receipt.json"
+                            }
+                        },
+                        {
+                            "height": 62.177,
+                            "cols": [
+                                {
+                                    "width": 58,
+                                    "elements": [
+                                        {
+                                            "id": "ZW_mayzygym370",
+                                            "type": "6q21",
+                                            "unit": "mm",
+                                            "props": {
+                                                "full": false,
+                                                "x": 2.645,
+                                                "y": 2.068,
+                                                "width": 52.917,
+                                                "height": 6.615,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "bind": {
+                                                    "id": "receipt_summary",
+                                                    "tag": "apis/receipt.json",
+                                                    "fields": [
+                                                        {
+                                                            "key": "summary/total",
+                                                            "name": "总价"
+                                                        }
+                                                    ]
+                                                },
+                                                "prefix": "总价：",
+                                                "postfix": "元",
+                                                "match": true,
+                                                "size": 3.704,
+                                                "font": "inherit",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#000",
+                                                "hpos": "flex-start",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 132.292,
+                                                "winHeight": 132.292,
+                                                "name": "文本-8",
+                                                "animations": []
+                                            }
+                                        },
+                                        {
+                                            "id": "ZW_mayzygym399",
+                                            "type": "6q21",
+                                            "unit": "mm",
+                                            "props": {
+                                                "full": false,
+                                                "x": 2.646,
+                                                "y": 9.222,
+                                                "width": 52.917,
+                                                "height": 6.615,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "bind": {
+                                                    "id": "receipt_summary",
+                                                    "tag": "apis/receipt.json",
+                                                    "fields": [
+                                                        {
+                                                            "key": "summary/discount",
+                                                            "name": "优惠"
+                                                        }
+                                                    ]
+                                                },
+                                                "prefix": "优惠：",
+                                                "postfix": "元",
+                                                "match": true,
+                                                "size": 3.704,
+                                                "font": "inherit",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#000",
+                                                "hpos": "flex-start",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 132.292,
+                                                "winHeight": 132.292,
+                                                "name": "文本-9",
+                                                "animations": []
+                                            }
+                                        },
+                                        {
+                                            "id": "ZW_mayzygym406",
+                                            "type": "6q21",
+                                            "unit": "mm",
+                                            "props": {
+                                                "full": false,
+                                                "x": 2.646,
+                                                "y": 16.378,
+                                                "width": 52.917,
+                                                "height": 6.615,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "bind": {
+                                                    "id": "receipt_summary",
+                                                    "tag": "apis/receipt.json",
+                                                    "fields": [
+                                                        {
+                                                            "key": "summary/actual",
+                                                            "name": "实付"
+                                                        }
+                                                    ]
+                                                },
+                                                "prefix": "实付：",
+                                                "postfix": "元",
+                                                "match": true,
+                                                "size": 3.704,
+                                                "font": "inherit",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#000",
+                                                "hpos": "flex-start",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 132.292,
+                                                "winHeight": 132.292,
+                                                "name": "文本-10",
+                                                "animations": []
+                                            }
+                                        },
+                                        {
+                                            "id": "ZW_mayzygym413",
+                                            "type": "6q21",
+                                            "unit": "mm",
+                                            "props": {
+                                                "full": false,
+                                                "x": 2.646,
+                                                "y": 23.534,
+                                                "width": 52.917,
+                                                "height": 2.375,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "text": "===================",
+                                                "bind": {},
+                                                "match": true,
+                                                "size": 3.704,
+                                                "font": "inherit",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#8a8a8aff",
+                                                "hpos": "flex-start",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 132.292,
+                                                "winHeight": 132.292,
+                                                "name": "文本-11",
+                                                "animations": []
+                                            }
+                                        },
+                                        {
+                                            "id": "ZW_mayzygym443",
+                                            "type": "6q21",
+                                            "unit": "mm",
+                                            "props": {
+                                                "full": false,
+                                                "x": 2.646,
+                                                "y": 26.447,
+                                                "width": 52.917,
+                                                "height": 6.615,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "bind": {
+                                                    "id": "receipt_summary",
+                                                    "tag": "apis/receipt.json",
+                                                    "fields": [
+                                                        {
+                                                            "key": "summary/address",
+                                                            "name": "地址"
+                                                        }
+                                                    ]
+                                                },
+                                                "prefix": "店铺地址：",
+                                                "match": true,
+                                                "size": 3.704,
+                                                "font": "inherit",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#8a8a8aff",
+                                                "hpos": "flex-start",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 132.292,
+                                                "winHeight": 132.292,
+                                                "name": "文本-12",
+                                                "animations": []
+                                            }
+                                        },
+                                        {
+                                            "id": "ZW_mayzygym452",
+                                            "type": "6q21",
+                                            "unit": "mm",
+                                            "props": {
+                                                "full": false,
+                                                "x": 2.543,
+                                                "y": 33.602,
+                                                "width": 52.917,
+                                                "height": 6.615,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "bind": {
+                                                    "id": "receipt_summary",
+                                                    "tag": "apis/receipt.json",
+                                                    "fields": [
+                                                        {
+                                                            "key": "summary/tel",
+                                                            "name": "电话"
+                                                        }
+                                                    ]
+                                                },
+                                                "prefix": "联系电话：",
+                                                "match": true,
+                                                "size": 3.704,
+                                                "font": "inherit",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#8a8a8aff",
+                                                "hpos": "flex-start",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 132.292,
+                                                "winHeight": 132.292,
+                                                "name": "文本-13",
+                                                "animations": []
+                                            }
+                                        },
+                                        {
+                                            "id": "ZW_mayzygym548",
+                                            "type": "6nu4",
+                                            "unit": "mm",
+                                            "props": {
+                                                "full": false,
+                                                "x": 34.978,
+                                                "y": 40.218,
+                                                "width": 20.585,
+                                                "height": 20.585,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "bind": {
+                                                    "id": "receipt_summary",
+                                                    "tag": "apis/receipt.json",
+                                                    "fields": [
+                                                        {
+                                                            "key": "summary/tel",
+                                                            "name": "电话"
+                                                        }
+                                                    ]
+                                                },
+                                                "format": "qrcode",
+                                                "colorDark": "#000",
+                                                "colorLight": "#fff",
+                                                "correctLevel": "H",
+                                                "name": "二维码-1",
+                                                "animations": []
+                                            }
+                                        },
+                                        {
+                                            "id": "ZW_maz069u7518",
+                                            "type": "6uhv",
+                                            "unit": "mm",
+                                            "props": {
+                                                "full": false,
+                                                "x": 2.645,
+                                                "y": 1.261,
+                                                "width": 52.917,
+                                                "height": 0.265,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "btype": "dotted",
+                                                "color": "#000",
+                                                "name": "直线-2",
+                                                "animations": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "name": "小票-1"
+                }
+            }
+        ]
+    },
+    "success": true
+}
