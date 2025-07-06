@@ -32,8 +32,8 @@
         },
         "elements": [
             {
-                "id": "ZW_113",
-                "type": "2u7a",
+                "id": "TVi_113",
+                "type": "bu4z",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -688,7 +688,7 @@
                     "headFirst": true,
                     "footLast": true,
                     "dynamicCols": true,
-                    "avgColsWidth": "percent",
+                    "avgColsWidth": 3,
                     "hspace": 20,
                     "rowsMax": 0,
                     "singleRowScale": true,

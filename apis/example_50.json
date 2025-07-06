@@ -1,10 +1,9 @@
 {
     "data": {
+        "v": "202506261420",
         "unit": "mm",
-        "x": [],
-        "y": [],
-        "g": [],
         "page": {
+            "readonly": false,
             "viewer": "default",
             "width": 209.79,
             "height": 296.83,
@@ -31,35 +30,41 @@
         },
         "elements": [
             {
-                "id": "ZW_lfukgpmn233",
-                "type": "flow/92ev",
+                "v": "202506261420",
+                "id": "TVi_lfukgpmn233",
+                "type": "flow/g49n",
                 "unit": "mm",
                 "props": {
-                    "linkFromId": "ZW_lfukgpmn217",
+                    "readonly": false,
+                    "linkFromId": "TVi_lfukgpmn217",
                     "linkFromKey": "p11",
-                    "linkToId": "ZW_lfukgpmn138",
+                    "linkToId": "TVi_lfukgpmn138",
                     "linkToKey": "p7",
                     "x": 63.89,
                     "y": 42.445,
-                    "textX": 93.609,
-                    "textY": 51.83,
+                    "textX": 157.499,
+                    "textY": 94.275,
                     "width": 131.419,
                     "height": 51.83,
-                    "startX": 0,
-                    "startY": 51.83,
-                    "endX": 127.45,
-                    "endY": 0,
+                    "startX": 63.89,
+                    "startY": 94.275,
+                    "endX": 191.34,
+                    "endY": 42.445,
                     "points": [
                         {
-                            "x": 131.419,
-                            "y": 51.83
+                            "x": 195.309,
+                            "y": 94.275
                         },
                         {
-                            "x": 131.419,
-                            "y": 0
+                            "x": 195.309,
+                            "y": 42.445
                         }
                     ],
                     "lineType": "polyline",
+                    "ctrl1X": 13.229,
+                    "ctrl1Y": 13.229,
+                    "ctrl2X": 66.146,
+                    "ctrl2Y": 13.229,
                     "startArrow": 1,
                     "endArrow": 2,
                     "alpha": 1,
@@ -79,35 +84,41 @@
                 }
             },
             {
-                "id": "ZW_lfuncj18366",
-                "type": "flow/92ev",
+                "v": "202506261420",
+                "id": "TVi_lfuncj18366",
+                "type": "flow/g49n",
                 "unit": "mm",
                 "props": {
-                    "linkFromId": "ZW_lfukgpmn287",
+                    "readonly": false,
+                    "linkFromId": "TVi_lfukgpmn287",
                     "linkFromKey": "p15",
-                    "linkToId": "ZW_lfukgpmn138",
+                    "linkToId": "TVi_lfukgpmn138",
                     "linkToKey": "p14",
                     "x": 127.54,
                     "y": 17.045,
-                    "textX": 5.445,
-                    "textY": 50.155,
+                    "textX": 132.985,
+                    "textY": 67.2,
                     "width": 10.89,
                     "height": 100.31,
-                    "startX": 0,
-                    "startY": 100.31,
-                    "endX": 10.89,
-                    "endY": 0,
+                    "startX": 127.54,
+                    "startY": 117.355,
+                    "endX": 138.43,
+                    "endY": 17.045,
                     "points": [
                         {
-                            "x": 5.445,
-                            "y": 100.31
+                            "x": 132.985,
+                            "y": 117.355
                         },
                         {
-                            "x": 5.445,
-                            "y": 0
+                            "x": 132.985,
+                            "y": 17.045
                         }
                     ],
                     "lineType": "polyline",
+                    "ctrl1X": 13.229,
+                    "ctrl1Y": 13.229,
+                    "ctrl2X": 66.146,
+                    "ctrl2Y": 13.229,
                     "startArrow": 1,
                     "endArrow": 2,
                     "alpha": 1,
@@ -127,35 +138,41 @@
                 }
             },
             {
-                "id": "ZW_lfuncj18361",
-                "type": "flow/92ev",
+                "v": "202506261420",
+                "id": "TVi_lfuncj18361",
+                "type": "flow/g49n",
                 "unit": "mm",
                 "props": {
-                    "linkFromId": "ZW_lfukgpmn287",
+                    "readonly": false,
+                    "linkFromId": "TVi_lfukgpmn287",
                     "linkFromKey": "p12",
-                    "linkToId": "ZW_lfukgpmn106",
+                    "linkToId": "TVi_lfukgpmn106",
                     "linkToKey": "p11",
                     "x": 63.89,
                     "y": 33.985,
-                    "textX": 5.37,
-                    "textY": 44.86,
+                    "textX": 69.26,
+                    "textY": 78.845,
                     "width": 10.74,
                     "height": 89.72,
-                    "startX": 10.74,
-                    "startY": 89.72,
-                    "endX": 0,
-                    "endY": 0,
+                    "startX": 74.63,
+                    "startY": 123.705,
+                    "endX": 63.89,
+                    "endY": 33.985,
                     "points": [
                         {
-                            "x": 5.37,
-                            "y": 89.72
+                            "x": 69.26,
+                            "y": 123.705
                         },
                         {
-                            "x": 5.37,
-                            "y": 0
+                            "x": 69.26,
+                            "y": 33.985
                         }
                     ],
                     "lineType": "polyline",
+                    "ctrl1X": 13.229,
+                    "ctrl1Y": 13.229,
+                    "ctrl2X": 66.146,
+                    "ctrl2Y": 13.229,
                     "startArrow": 1,
                     "endArrow": 2,
                     "alpha": 1,
@@ -175,43 +192,49 @@
                 }
             },
             {
-                "id": "ZW_lfukgpmn228",
-                "type": "flow/92ev",
+                "v": "202506261420",
+                "id": "TVi_lfukgpmn228",
+                "type": "flow/g49n",
                 "unit": "mm",
                 "props": {
-                    "linkFromId": "ZW_lfukgpmn217",
+                    "readonly": false,
+                    "linkFromId": "TVi_lfukgpmn217",
                     "linkFromKey": "p8",
-                    "linkToId": "ZW_lfukgpmn106",
+                    "linkToId": "TVi_lfukgpmn106",
                     "linkToKey": "p10",
                     "x": 7.011,
                     "y": 33.985,
-                    "textX": 0,
-                    "textY": 33.32,
+                    "textX": 7.011,
+                    "textY": 67.305,
                     "width": 3.969,
                     "height": 66.64,
-                    "startX": 3.969,
-                    "startY": 66.64,
-                    "endX": 3.969,
-                    "endY": 0,
+                    "startX": 10.98,
+                    "startY": 100.625,
+                    "endX": 10.98,
+                    "endY": 33.985,
                     "points": [
                         {
-                            "x": 0,
-                            "y": 66.64
+                            "x": 7.011,
+                            "y": 100.625
                         },
                         {
-                            "x": 0,
-                            "y": 35.7
+                            "x": 7.011,
+                            "y": 69.685
                         },
                         {
-                            "x": 0,
-                            "y": 35.7
+                            "x": 7.011,
+                            "y": 69.685
                         },
                         {
-                            "x": 0,
-                            "y": 0
+                            "x": 7.011,
+                            "y": 33.985
                         }
                     ],
                     "lineType": "polyline",
+                    "ctrl1X": 13.229,
+                    "ctrl1Y": 13.229,
+                    "ctrl2X": 66.146,
+                    "ctrl2Y": 13.229,
                     "startArrow": 1,
                     "endArrow": 2,
                     "alpha": 1,
@@ -231,35 +254,41 @@
                 }
             },
             {
-                "id": "ZW_lfukgpmn165",
-                "type": "flow/92ev",
+                "v": "202506261420",
+                "id": "TVi_lfukgpmn165",
+                "type": "flow/g49n",
                 "unit": "mm",
                 "props": {
-                    "linkFromId": "ZW_lfukgpmn106",
+                    "readonly": false,
+                    "linkFromId": "TVi_lfukgpmn106",
                     "linkFromKey": "p11",
-                    "linkToId": "ZW_lfukgpmn138",
+                    "linkToId": "TVi_lfukgpmn138",
                     "linkToKey": "p12",
                     "x": 63.89,
                     "y": 23.395,
-                    "textX": 37.27,
-                    "textY": 5.295,
+                    "textX": 101.16,
+                    "textY": 28.69,
                     "width": 74.54,
                     "height": 10.59,
-                    "startX": 0,
-                    "startY": 10.59,
-                    "endX": 74.54,
-                    "endY": 0,
+                    "startX": 63.89,
+                    "startY": 33.985,
+                    "endX": 138.43,
+                    "endY": 23.395,
                     "points": [
                         {
-                            "x": 37.27,
-                            "y": 10.59
+                            "x": 101.16,
+                            "y": 33.985
                         },
                         {
-                            "x": 37.27,
-                            "y": 0
+                            "x": 101.16,
+                            "y": 23.395
                         }
                     ],
                     "lineType": "polyline",
+                    "ctrl1X": 13.229,
+                    "ctrl1Y": 13.229,
+                    "ctrl2X": 66.146,
+                    "ctrl2Y": 13.229,
                     "startArrow": 1,
                     "endArrow": 2,
                     "alpha": 1,
@@ -279,10 +308,12 @@
                 }
             },
             {
-                "id": "ZW_lfukgpmn106",
-                "type": "flow/992m",
+                "v": "202506261420",
+                "id": "TVi_lfukgpmn106",
+                "type": "flow/g6jn",
                 "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "linewidth": 0.53,
                     "titleHeight": 7.94,
                     "titleFS": 4.23,
@@ -318,10 +349,12 @@
                 }
             },
             {
-                "id": "ZW_lfukgpmn138",
-                "type": "flow/992m",
+                "v": "202506261420",
+                "id": "TVi_lfukgpmn138",
+                "type": "flow/g6jn",
                 "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "linewidth": 0.53,
                     "titleHeight": 7.94,
                     "titleFS": 4.23,
@@ -365,10 +398,12 @@
                 }
             },
             {
-                "id": "ZW_lfukgpmn217",
-                "type": "flow/992m",
+                "v": "202506261420",
+                "id": "TVi_lfukgpmn217",
+                "type": "flow/g6jn",
                 "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "linewidth": 0.53,
                     "titleHeight": 7.94,
                     "titleFS": 4.23,
@@ -404,10 +439,12 @@
                 }
             },
             {
-                "id": "ZW_lfukgpmn287",
-                "type": "flow/992m",
+                "v": "202506261420",
+                "id": "TVi_lfukgpmn287",
+                "type": "flow/g6jn",
                 "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "linewidth": 0.53,
                     "titleHeight": 7.94,
                     "titleFS": 4.23,

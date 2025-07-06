@@ -34,8 +34,8 @@
         },
         "elements": [
             {
-                "id": "ZW_60",
-                "type": "3tpy",
+                "id": "TVi_60",
+                "type": "cd4b",
                 "unit": "cm",
                 "props": {
                     "readonly": false,
@@ -48,7 +48,7 @@
                     "text": "{#}_{#}",
                     "type": "text",
                     "rule": {
-                        "type": "3tpy",
+                        "type": "cd4b",
                         "fx": "AP",
                         "step": 1,
                         "start": 1
@@ -80,8 +80,8 @@
                 }
             },
             {
-                "id": "ZW_61",
-                "type": "3tpy",
+                "id": "TVi_61",
+                "type": "cd4b",
                 "unit": "cm",
                 "props": {
                     "readonly": false,
@@ -96,7 +96,7 @@
                     "text": "LABEL-{#}",
                     "type": "text",
                     "rule": {
-                        "type": "3tpy",
+                        "type": "cd4b",
                         "fx": "AP",
                         "step": 1,
                         "start": 1
@@ -128,8 +128,8 @@
                 }
             },
             {
-                "id": "ZW_62",
-                "type": "6q21",
+                "id": "TVi_62",
+                "type": "e9gb",
                 "unit": "cm",
                 "props": {
                     "readonly": false,

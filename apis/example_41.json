@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "ZW_87",
-                "type": "6q21",
+                "id": "TVi_87",
+                "type": "e9gb",
                 "unit": "px",
                 "props": {
                     "x": 358,
@@ -66,8 +66,8 @@
                 }
             },
             {
-                "id": "ZW_197",
-                "type": "3vxv",
+                "id": "TVi_197",
+                "type": "cg5n",
                 "unit": "px",
                 "props": {
                     "x": 583,
@@ -94,8 +94,8 @@
                 }
             },
             {
-                "id": "ZW_217",
-                "type": "3vxv",
+                "id": "TVi_217",
+                "type": "cg5n",
                 "unit": "px",
                 "props": {
                     "x": 587,
@@ -122,8 +122,8 @@
                 }
             },
             {
-                "id": "ZW_252",
-                "type": "6lm7",
+                "id": "TVi_252",
+                "type": "e7xn",
                 "unit": "px",
                 "props": {
                     "x": 52,
@@ -153,8 +153,8 @@
                 }
             },
             {
-                "id": "ZW_268",
-                "type": "6s9y",
+                "id": "TVi_268",
+                "type": "ea7n",
                 "unit": "px",
                 "props": {
                     "x": 88,
@@ -176,8 +176,8 @@
                 }
             },
             {
-                "id": "ZW_334",
-                "type": "6nu4",
+                "id": "TVi_334",
+                "type": "e8oz",
                 "unit": "px",
                 "props": {
                     "x": 85,
@@ -200,8 +200,8 @@
                 }
             },
             {
-                "id": "ZW_lhuc7psk147",
-                "type": "2u7a",
+                "id": "TVi_lhuc7psk147",
+                "type": "bu4z",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -611,7 +611,7 @@
                     "headFirst": true,
                     "footLast": true,
                     "dynamicCols": true,
-                    "avgColsWidth": "percent",
+                    "avgColsWidth": 3,
                     "columnsPrint": false,
                     "hspace": 20,
                     "rowsMax": 0,
@@ -621,8 +621,8 @@
                 }
             },
             {
-                "id": "ZW_lhuc7psk194",
-                "type": "6jea",
+                "id": "TVi_lhuc7psk194",
+                "type": "e76b",
                 "unit": "px",
                 "props": {
                     "x": 439,
@@ -634,7 +634,7 @@
                     "bwipFormat": "ean5",
                     "font": "OCR-B",
                     "fontext": "OCR-A",
-                    "bwipValue": "90200",
+                    "bwipContent": "90200",
                     "bind": {},
                     "bwipParams": "includetext guardwhitespace",
                     "name": "BWIP-1",

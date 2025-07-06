@@ -30,8 +30,8 @@
         },
         "elements": [
             {
-                "id": "ZW_lt6y4vct327",
-                "type": "2yn4",
+                "id": "TVi_lt6y4vct327",
+                "type": "c07n",
                 "unit": "mm",
                 "props": {
                     "bind": {
@@ -79,8 +79,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZW_lt6y4vct562",
-                                            "type": "6q21",
+                                            "id": "TVi_lt6y4vct562",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 0,
@@ -123,8 +123,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZW_lt6y4vct632",
-                                            "type": "6q21",
+                                            "id": "TVi_lt6y4vct632",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "x": -2.401,
@@ -172,8 +172,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZW_lt6y4vct349",
-                                            "type": "6q21",
+                                            "id": "TVi_lt6y4vct349",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 4.622,
@@ -214,8 +214,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_lt6y4vct369",
-                                            "type": "6q21",
+                                            "id": "TVi_lt6y4vct369",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 4.622,
@@ -256,8 +256,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_lt6y4vct823",
-                                            "type": "6q21",
+                                            "id": "TVi_lt6y4vct823",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 4.953,
@@ -310,8 +310,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZW_lt6y4vct747",
-                                            "type": "6s9y",
+                                            "id": "TVi_lt6y4vct747",
+                                            "type": "ea7n",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 8.922,
@@ -414,7 +414,7 @@
                     "footLast": true,
                     "match": true,
                     "dynamicCols": true,
-                    "avgColsWidth": "percent",
+                    "avgColsWidth": 3,
                     "columnsPrint": true,
                     "hspace": 5.292,
                     "rowsMax": 0,

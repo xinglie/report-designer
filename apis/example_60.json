@@ -29,8 +29,8 @@
         },
         "elements": [
             {
-                "id": "ZW_lkcd75xz284",
-                "type": "2u7a",
+                "id": "TVi_lkcd75xz284",
+                "type": "bu4z",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -428,7 +428,7 @@
                     "width": 182.66,
                     "height": 39.96,
                     "alpha": 1,
-                    "bwidth": 0.26,
+                    "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
                     "bdeed": "collapse",
@@ -440,7 +440,7 @@
                     "headFirst": true,
                     "footLast": true,
                     "dynamicCols": true,
-                    "avgColsWidth": "percent",
+                    "avgColsWidth": 3,
                     "hspace": 5.29,
                     "singleRowScale": true,
                     "name": "数据表格-1",
@@ -448,8 +448,8 @@
                 }
             },
             {
-                "id": "ZW_lkcd75xz323",
-                "type": "39qp",
+                "id": "TVi_lkcd75xz323",
+                "type": "c40b",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -460,8 +460,8 @@
                                     "width": 209.81,
                                     "elements": [
                                         {
-                                            "id": "ZW_lkcd75xz345",
-                                            "type": "6nu4",
+                                            "id": "TVi_lkcd75xz345",
+                                            "type": "e8oz",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 185.01,
@@ -490,8 +490,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_lkcd75xz365",
-                                            "type": "6q21",
+                                            "id": "TVi_lkcd75xz365",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 56.71,
@@ -523,8 +523,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_lkcd75xz414",
-                                            "type": "6q21",
+                                            "id": "TVi_lkcd75xz414",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 78.45,
@@ -555,8 +555,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_lkcd75xz421",
-                                            "type": "6q21",
+                                            "id": "TVi_lkcd75xz421",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 2.65,
@@ -587,8 +587,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_lkcd75xz509",
-                                            "type": "6q21",
+                                            "id": "TVi_lkcd75xz509",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 22.41,
@@ -638,7 +638,7 @@
                                     "bwidth": [
                                         0,
                                         0,
-                                        0.26,
+                                        0.265,
                                         0
                                     ],
                                     "bcolor": [
@@ -659,8 +659,8 @@
                 }
             },
             {
-                "id": "ZW_lkcd75xz602",
-                "type": "2wf7",
+                "id": "TVi_lkcd75xz602",
+                "type": "bx6b",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -940,7 +940,7 @@
                     "height": 24.08,
                     "alpha": 1,
                     "rotate": 0,
-                    "bwidth": 0.26,
+                    "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
                     "bdeed": "collapse",
@@ -949,8 +949,8 @@
                 }
             },
             {
-                "id": "ZW_lkcd75xz709",
-                "type": "6q21",
+                "id": "TVi_lkcd75xz709",
+                "type": "e9gb",
                 "unit": "mm",
                 "props": {
                     "x": 13.58,
@@ -981,8 +981,8 @@
                 }
             },
             {
-                "id": "ZW_lkcd75xz756",
-                "type": "2u7a",
+                "id": "TVi_lkcd75xz756",
+                "type": "bu4z",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -1627,7 +1627,7 @@
                     "width": 182.61,
                     "height": 34.36,
                     "alpha": 1,
-                    "bwidth": 0.26,
+                    "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
                     "bdeed": "collapse",
@@ -1639,7 +1639,7 @@
                     "headFirst": true,
                     "footLast": true,
                     "dynamicCols": true,
-                    "avgColsWidth": "percent",
+                    "avgColsWidth": 3,
                     "hspace": 5.29,
                     "singleRowScale": true,
                     "name": "数据表格-2",
@@ -1647,8 +1647,8 @@
                 }
             },
             {
-                "id": "ZW_lkcd75xz757",
-                "type": "6q21",
+                "id": "TVi_lkcd75xz757",
+                "type": "e9gb",
                 "unit": "mm",
                 "props": {
                     "x": 13.58,
@@ -1679,8 +1679,8 @@
                 }
             },
             {
-                "id": "ZW_lkcmz287426",
-                "type": "37is",
+                "id": "TVi_lkcmz287426",
+                "type": "c38z",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -1691,8 +1691,8 @@
                                     "width": 209.81,
                                     "elements": [
                                         {
-                                            "id": "ZW_lkcmz287491",
-                                            "type": "3vxv",
+                                            "id": "TVi_lkcmz287491",
+                                            "type": "cg5n",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 4.9,
@@ -1727,7 +1727,7 @@
                                         "dashed"
                                     ],
                                     "bwidth": [
-                                        0.26,
+                                        0.265,
                                         0,
                                         0,
                                         0

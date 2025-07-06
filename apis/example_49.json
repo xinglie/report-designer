@@ -23,8 +23,8 @@
         "g": [],
         "elements": [
             {
-                "id": "ZW_lfarjvj1211",
-                "type": "2u7a",
+                "id": "TVi_lfarjvj1211",
+                "type": "bu4z",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -50,7 +50,7 @@
                                     "textGap": 0,
                                     "textColor": "#000000",
                                     "textSize": 16,
-                                    "textFont": "tahoma",
+                                    "textFont": "inherit",
                                     "textStyleBold": true,
                                     "textMatch": true,
                                     "textContent": "这是头部位置",

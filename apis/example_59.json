@@ -28,8 +28,8 @@
         },
         "elements": [
             {
-                "id": "ZW_lkakea1l97",
-                "type": "2u7a",
+                "id": "TVi_lkakea1l97",
+                "type": "bu4z",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -432,7 +432,7 @@
                     "width": 96.44,
                     "height": 39.96,
                     "alpha": 1,
-                    "bwidth": 0.26,
+                    "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
                     "bdeed": "collapse",
@@ -445,7 +445,7 @@
                     "footLast": true,
                     "padRows": true,
                     "dynamicCols": true,
-                    "avgColsWidth": "percent",
+                    "avgColsWidth": 3,
                     "columnsPrint": true,
                     "hspace": 5.29,
                     "name": "数据表格-1",

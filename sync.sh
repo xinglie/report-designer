@@ -7,7 +7,7 @@ git co iot dist/i18n/**
 git co iot index.html
 git co iot viewer.html
 git co iot mini.html
-git co iot standalone.html
+git co iot mixture.html
 git co iot split.html
 git co iot virtual.html
 git co iot proxy.html

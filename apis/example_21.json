@@ -32,8 +32,8 @@
         },
         "elements": [
             {
-                "id": "ZW_140",
-                "type": "54c7",
+                "id": "TVi_140",
+                "type": "d9rn",
                 "unit": "q",
                 "props": {
                     "readonly": false,
@@ -50,7 +50,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "54c7": "54c7",
+                    "d9rn": "d9rn",
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
                     "imageWidth": 135.468,
                     "imageHeight": 135.468,
@@ -62,8 +62,8 @@
                 }
             },
             {
-                "id": "ZW_146",
-                "type": "54c7",
+                "id": "TVi_146",
+                "type": "d9rn",
                 "unit": "q",
                 "props": {
                     "readonly": false,
@@ -80,7 +80,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "54c7": "54c7",
+                    "d9rn": "d9rn",
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
                     "imageWidth": 135.468,
                     "imageHeight": 135.468,

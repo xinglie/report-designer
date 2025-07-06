@@ -20,8 +20,8 @@
         "g": [],
         "elements": [
             {
-                "id": "ZW_754",
-                "type": "6h6d",
+                "id": "TVi_754",
+                "type": "e6ez",
                 "unit": "px",
                 "props": {
                     "x": 95,
@@ -64,8 +64,8 @@
                 }
             },
             {
-                "id": "ZW_824",
-                "type": "6h6d",
+                "id": "TVi_824",
+                "type": "e6ez",
                 "unit": "px",
                 "props": {
                     "pinX": false,
@@ -110,8 +110,8 @@
                 }
             },
             {
-                "id": "ZW_833",
-                "type": "6h6d",
+                "id": "TVi_833",
+                "type": "e6ez",
                 "unit": "px",
                 "props": {
                     "pinX": false,
@@ -156,8 +156,8 @@
                 }
             },
             {
-                "id": "ZW_836",
-                "type": "6h6d",
+                "id": "TVi_836",
+                "type": "e6ez",
                 "unit": "px",
                 "props": {
                     "pinX": false,

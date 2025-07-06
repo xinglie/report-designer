@@ -26,8 +26,8 @@
         "g": [],
         "elements": [
             {
-                "id": "ZW_101",
-                "type": "2wf7",
+                "id": "TVi_101",
+                "type": "bx6b",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -168,7 +168,7 @@
                     "height": 16.14,
                     "alpha": 1,
                     "rotate": 0,
-                    "bwidth": 0.26,
+                    "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
                     "bdeed": "collapse",

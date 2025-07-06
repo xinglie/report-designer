@@ -32,8 +32,8 @@
         },
         "elements": [
             {
-                "id": "ZW_lu9lnd0q338",
-                "type": "2u7a",
+                "id": "TVi_lu9lnd0q338",
+                "type": "bu4z",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -913,7 +913,7 @@
                     "headFirst": true,
                     "footLast": true,
                     "dynamicCols": true,
-                    "avgColsWidth": "percent",
+                    "avgColsWidth": 3,
                     "hspace": 5.292,
                     "rowsMax": 0,
                     "singleRowScale": true,

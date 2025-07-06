@@ -20,8 +20,8 @@
         "g": [],
         "elements": [
             {
-                "id": "ZW_203",
-                "type": "3pa4",
+                "id": "TVi_203",
+                "type": "c9bn",
                 "unit": "mm",
                 "props": {
                     "x": 14.55,
@@ -42,8 +42,8 @@
                 }
             },
             {
-                "id": "ZW_204",
-                "type": "39qp",
+                "id": "TVi_204",
+                "type": "c40b",
                 "unit": "mm",
                 "props": {
                     "pinX": true,
@@ -56,8 +56,8 @@
                                     "width": 209.26,
                                     "elements": [
                                         {
-                                            "id": "ZW_217",
-                                            "type": "3vxv",
+                                            "id": "TVi_217",
+                                            "type": "cg5n",
                                             "unit": "mm",
                                             "props": {
                                                 "ext": {},
@@ -94,7 +94,7 @@
                                     "bwidth": [
                                         0,
                                         0,
-                                        0.26,
+                                        0.265,
                                         0
                                     ],
                                     "bcolor": [
@@ -117,8 +117,8 @@
                 }
             },
             {
-                "id": "ZW_205",
-                "type": "37is",
+                "id": "TVi_205",
+                "type": "c38z",
                 "unit": "mm",
                 "props": {
                     "pinX": true,
@@ -138,7 +138,7 @@
                                         "dashed"
                                     ],
                                     "bwidth": [
-                                        0.26,
+                                        0.265,
                                         0,
                                         0,
                                         0

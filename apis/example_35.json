@@ -32,8 +32,8 @@
         },
         "elements": [
             {
-                "id": "ZW_56",
-                "type": "2u7a",
+                "id": "TVi_56",
+                "type": "bu4z",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -67,8 +67,8 @@
                                     "textContent": "",
                                     "elements": [
                                         {
-                                            "id": "ZW_57",
-                                            "type": "2wf7",
+                                            "id": "TVi_57",
+                                            "type": "bx6b",
                                             "unit": "px",
                                             "props": {
                                                 "full": false,
@@ -757,8 +757,8 @@
                                     "textContent": "",
                                     "elements": [
                                         {
-                                            "id": "ZW_58",
-                                            "type": "2wf7",
+                                            "id": "TVi_58",
+                                            "type": "bx6b",
                                             "unit": "px",
                                             "props": {
                                                 "full": false,
@@ -992,7 +992,7 @@
                     "headFirst": true,
                     "footLast": true,
                     "dynamicCols": true,
-                    "avgColsWidth": "percent",
+                    "avgColsWidth": 3,
                     "columnsPrint": false,
                     "hspace": 20,
                     "rowsMax": 0,
@@ -1002,8 +1002,8 @@
                 }
             },
             {
-                "id": "ZW_59",
-                "type": "3vxv",
+                "id": "TVi_59",
+                "type": "cg5n",
                 "unit": "px",
                 "props": {
                     "x": 491,
@@ -1035,8 +1035,8 @@
                 }
             },
             {
-                "id": "ZW_60",
-                "type": "3vxv",
+                "id": "TVi_60",
+                "type": "cg5n",
                 "unit": "px",
                 "props": {
                     "x": 11,

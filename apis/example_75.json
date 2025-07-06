@@ -5,8 +5,8 @@
         "y": [],
         "g": [
             [
-                "ZW_m4doj6w1210",
-                "ZW_m4doporr388"
+                "TVi_m4doj6w1210",
+                "TVi_m4doporr388"
             ]
         ],
         "page": {
@@ -36,8 +36,8 @@
         },
         "elements": [
             {
-                "id": "ZW_m4dmffox1284",
-                "type": "6q21",
+                "id": "TVi_m4dmffox1284",
+                "type": "e9gb",
                 "unit": "mm",
                 "props": {
                     "x": 68.864,
@@ -69,8 +69,8 @@
                 }
             },
             {
-                "id": "ZW_m4dmffox1309",
-                "type": "2wf7",
+                "id": "TVi_m4dmffox1309",
+                "type": "bx6b",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -879,8 +879,8 @@
                 }
             },
             {
-                "id": "ZW_m4doj6w1210",
-                "type": "2u7a",
+                "id": "TVi_m4doj6w1210",
+                "type": "bu4z",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -1189,7 +1189,7 @@
                     "headFirst": true,
                     "footLast": true,
                     "dynamicCols": true,
-                    "avgColsWidth": "percent",
+                    "avgColsWidth": 3,
                     "columnsPrint": false,
                     "hspace": 5.292,
                     "rowsMax": 0,
@@ -1199,8 +1199,8 @@
                 }
             },
             {
-                "id": "ZW_m4doporr388",
-                "type": "2wf7",
+                "id": "TVi_m4doporr388",
+                "type": "bx6b",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -1476,8 +1476,8 @@
                 }
             },
             {
-                "id": "ZW_m4fknebm252",
-                "type": "3pa4",
+                "id": "TVi_m4fknebm252",
+                "type": "c9bn",
                 "unit": "mm",
                 "props": {
                     "x": 11.115,
@@ -1489,7 +1489,7 @@
                         "tag": "apis/nurse.json",
                         "fields": [
                             {
-                                "key": "3ri1",
+                                "key": "ca2z",
                                 "name": "富文本"
                             }
                         ]

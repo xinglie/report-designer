@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "ZW_lhpo5vzn324",
-                "type": "39qp",
+                "id": "TVi_lhpo5vzn324",
+                "type": "c40b",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -43,8 +43,8 @@
                                     "width": 209.79,
                                     "elements": [
                                         {
-                                            "id": "ZW_ljo0c5hr142",
-                                            "type": "3vxv",
+                                            "id": "TVi_ljo0c5hr142",
+                                            "type": "cg5n",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -82,7 +82,7 @@
                                     "bwidth": [
                                         0,
                                         0,
-                                        0.26,
+                                        0.265,
                                         0
                                     ],
                                     "bcolor": [
@@ -103,8 +103,8 @@
                 }
             },
             {
-                "id": "ZW_lhpo5vzn163",
-                "type": "6q21",
+                "id": "TVi_lhpo5vzn163",
+                "type": "e9gb",
                 "unit": "mm",
                 "props": {
                     "x": 19.04,
@@ -145,8 +145,8 @@
                 }
             },
             {
-                "id": "ZW_lhpo5vzn212",
-                "type": "6q21",
+                "id": "TVi_lhpo5vzn212",
+                "type": "e9gb",
                 "unit": "mm",
                 "props": {
                     "x": 13.58,
@@ -186,8 +186,8 @@
                 }
             },
             {
-                "id": "ZW_lhpo5vzn260",
-                "type": "37is",
+                "id": "TVi_lhpo5vzn260",
+                "type": "c38z",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -198,15 +198,15 @@
                                     "width": 209.79,
                                     "elements": [
                                         {
-                                            "id": "ZW_ljo0gf4n155",
-                                            "type": "6uhv",
+                                            "id": "TVi_ljo0gf4n155",
+                                            "type": "ed8z",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
                                                 "x": 19.4,
                                                 "y": 15.46,
                                                 "width": 52.92,
-                                                "height": 0.26,
+                                                "height": 0.265,
                                                 "alpha": 1,
                                                 "rotate": 0,
                                                 "print": "each",
@@ -217,8 +217,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_ljo0gf4n159",
-                                            "type": "ad14",
+                                            "id": "TVi_ljo0gf4n159",
+                                            "type": "h2fn",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -242,10 +242,10 @@
                                                     "solid"
                                                 ],
                                                 "bwidth": [
-                                                    0.26,
-                                                    0.26,
-                                                    0.26,
-                                                    0.26
+                                                    0.265,
+                                                    0.265,
+                                                    0.265,
+                                                    0.265
                                                 ],
                                                 "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
                                                 "name": "矩形-2",
@@ -253,8 +253,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_ljo0gf4n170",
-                                            "type": "aat7",
+                                            "id": "TVi_ljo0gf4n170",
+                                            "type": "h1ob",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -265,7 +265,7 @@
                                                 "alpha": 1,
                                                 "rotate": 0,
                                                 "print": "each",
-                                                "bwidth": 0.26,
+                                                "bwidth": 0.265,
                                                 "btype": "solid",
                                                 "bcolor": "#000",
                                                 "name": "圆形-1",
@@ -281,7 +281,7 @@
                                         "dashed"
                                     ],
                                     "bwidth": [
-                                        0.26,
+                                        0.265,
                                         0,
                                         0,
                                         0
@@ -304,8 +304,8 @@
                 }
             },
             {
-                "id": "ZW_lhpo5vzn460",
-                "type": "2yn4",
+                "id": "TVi_lhpo5vzn460",
+                "type": "c07n",
                 "unit": "mm",
                 "props": {
                     "bind": {
@@ -353,8 +353,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZW_lhuca9mt219",
-                                            "type": "6q21",
+                                            "id": "TVi_lhuca9mt219",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -398,8 +398,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZW_lhuca9mt281",
-                                            "type": "6q21",
+                                            "id": "TVi_lhuca9mt281",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -448,8 +448,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZW_lhpo5vzn464",
-                                            "type": "6q21",
+                                            "id": "TVi_lhpo5vzn464",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -502,8 +502,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZW_lhuca9mt305",
-                                            "type": "6q21",
+                                            "id": "TVi_lhuca9mt305",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -607,7 +607,7 @@
                     "height": 39.96,
                     "alpha": 1,
                     "bdeed": "collapse",
-                    "bwidth": 0.26,
+                    "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
                     "spacing": 7.94,
@@ -618,7 +618,7 @@
                     "footLast": true,
                     "match": true,
                     "dynamicCols": true,
-                    "avgColsWidth": "percent",
+                    "avgColsWidth": 3,
                     "columnsPrint": false,
                     "hspace": 5.29,
                     "rowsMax": 0,
@@ -627,8 +627,8 @@
                 }
             },
             {
-                "id": "ZW_lhpo5vzn547",
-                "type": "2wf7",
+                "id": "TVi_lhpo5vzn547",
+                "type": "bx6b",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -749,7 +749,7 @@
                     "hspace": 5.292,
                     "vspace": 5.292,
                     "bdeed": "collapse",
-                    "bwidth": 0.26,
+                    "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
                     "name": "单元格-1",
@@ -757,8 +757,8 @@
                 }
             },
             {
-                "id": "ZW_lhpo5vzn595",
-                "type": "2u7a",
+                "id": "TVi_lhpo5vzn595",
+                "type": "bu4z",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -991,18 +991,18 @@
                     "height": 39.96,
                     "alpha": 1,
                     "bdeed": "collapse",
-                    "bwidth": 0.26,
+                    "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
                     "spacing": 7.94,
                     "hideHead": true,
                     "hideTotal": true,
                     "hideFoot": true,
-                    "eachPageLabel": true,
+                    "pageLabel": true,
                     "headFirst": true,
                     "footLast": true,
                     "dynamicCols": true,
-                    "avgColsWidth": "percent",
+                    "avgColsWidth": 3,
                     "columnsPrint": false,
                     "hspace": 5.29,
                     "rowsMax": 0,
@@ -1012,8 +1012,8 @@
                 }
             },
             {
-                "id": "ZW_lhpo5vzn651",
-                "type": "6jea",
+                "id": "TVi_lhpo5vzn651",
+                "type": "e76b",
                 "unit": "mm",
                 "props": {
                     "x": 134.14,
@@ -1025,7 +1025,7 @@
                     "bwipFormat": "ean5",
                     "font": "OCR-B",
                     "fontext": "OCR-A",
-                    "bwipValue": "90200",
+                    "bwipContent": "90200",
                     "bind": {},
                     "bwipParams": "includetext guardwhitespace",
                     "name": "BWIP-1",
@@ -1033,8 +1033,8 @@
                 }
             },
             {
-                "id": "ZW_lhuca9mt137",
-                "type": "ad14",
+                "id": "TVi_lhuca9mt137",
+                "type": "h2fn",
                 "unit": "mm",
                 "props": {
                     "x": 42.25,
@@ -1057,10 +1057,10 @@
                         "solid"
                     ],
                     "bwidth": [
-                        0.26,
-                        0.26,
-                        0.26,
-                        0.26
+                        0.265,
+                        0.265,
+                        0.265,
+                        0.265
                     ],
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
                     "name": "矩形-1",
@@ -1068,8 +1068,8 @@
                 }
             },
             {
-                "id": "ZW_ljo0c5hr219",
-                "type": "2u7a",
+                "id": "TVi_ljo0c5hr219",
+                "type": "bu4z",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -1302,18 +1302,18 @@
                     "height": 39.96,
                     "alpha": 1,
                     "bdeed": "collapse",
-                    "bwidth": 0.26,
+                    "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
                     "spacing": 7.94,
                     "hideHead": true,
                     "hideTotal": true,
                     "hideFoot": true,
-                    "eachPageLabel": true,
+                    "pageLabel": true,
                     "headFirst": true,
                     "footLast": true,
                     "dynamicCols": true,
-                    "avgColsWidth": "percent",
+                    "avgColsWidth": 3,
                     "columnsPrint": false,
                     "hspace": 5.29,
                     "rowsMax": 0,
@@ -1323,8 +1323,8 @@
                 }
             },
             {
-                "id": "ZW_ljo0c5hr222",
-                "type": "6q21",
+                "id": "TVi_ljo0c5hr222",
+                "type": "e9gb",
                 "unit": "mm",
                 "props": {
                     "x": 116.54,
@@ -1364,8 +1364,8 @@
                 }
             },
             {
-                "id": "ZW_ljo0c5hr239",
-                "type": "2u7a",
+                "id": "TVi_ljo0c5hr239",
+                "type": "bu4z",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -1764,19 +1764,19 @@
                     "height": 39.96,
                     "alpha": 1,
                     "bdeed": "collapse",
-                    "bwidth": 0.26,
+                    "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
                     "spacing": 7.94,
                     "hideHead": true,
                     "hideTotal": true,
                     "hideFoot": true,
-                    "eachPageLabel": true,
+                    "pageLabel": true,
                     "headFirst": true,
                     "footLast": true,
                     "padRows": true,
                     "dynamicCols": true,
-                    "avgColsWidth": "percent",
+                    "avgColsWidth": 3,
                     "columnsPrint": false,
                     "hspace": 5.29,
                     "rowsMax": 0,

@@ -33,8 +33,8 @@
         },
         "elements": [
             {
-                "id": "ZW_88",
-                "type": "svg/77td",
+                "id": "TVi_88",
+                "type": "svg/ez9n",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -47,7 +47,7 @@
                     "ctrl1Y": 64.29,
                     "ctrl2X": 51.72,
                     "ctrl2Y": 90.74,
-                    "linewidth": 0.26,
+                    "linewidth": 0.265,
                     "color": "#000000",
                     "dash": 0,
                     "name": "线段",
@@ -56,8 +56,8 @@
                 }
             },
             {
-                "id": "ZW_90",
-                "type": "6s9y",
+                "id": "TVi_90",
+                "type": "ea7n",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -86,8 +86,8 @@
                 }
             },
             {
-                "id": "ZW_128",
-                "type": "6s9y",
+                "id": "TVi_128",
+                "type": "ea7n",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -116,8 +116,8 @@
                 }
             },
             {
-                "id": "ZW_145",
-                "type": "ad14",
+                "id": "TVi_145",
+                "type": "h2fn",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -153,8 +153,8 @@
                 }
             },
             {
-                "id": "ZW_157",
-                "type": "54c7",
+                "id": "TVi_157",
+                "type": "d9rn",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -171,7 +171,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "54c7": "54c7",
+                    "d9rn": "d9rn",
                     "imageWidth": 0,
                     "imageHeight": 0,
                     "backgroundX": 0,
@@ -182,15 +182,15 @@
                 }
             },
             {
-                "id": "ZW_161",
-                "type": "6uhv",
+                "id": "TVi_161",
+                "type": "ed8z",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
                     "x": 139.15,
                     "y": 26.98,
                     "width": 52.91,
-                    "height": 0.26,
+                    "height": 0.265,
                     "alpha": 1,
                     "rotate": 0,
                     "print": "each",
@@ -202,8 +202,8 @@
                 }
             },
             {
-                "id": "ZW_173",
-                "type": "svg/77td",
+                "id": "TVi_173",
+                "type": "svg/ez9n",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -216,7 +216,7 @@
                     "ctrl1Y": 103.17,
                     "ctrl2X": 89.68,
                     "ctrl2Y": 103.17,
-                    "linewidth": 0.26,
+                    "linewidth": 0.265,
                     "color": "#000000",
                     "dash": 0,
                     "name": "线段",

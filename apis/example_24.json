@@ -20,8 +20,8 @@
         "g": [],
         "elements": [
             {
-                "id": "ZW_131",
-                "type": "30v1",
+                "id": "TVi_131",
+                "type": "c0yz",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -32,8 +32,8 @@
                                     "width": 328,
                                     "elements": [
                                         {
-                                            "id": "ZW_195",
-                                            "type": "6q21",
+                                            "id": "TVi_195",
+                                            "type": "e9gb",
                                             "unit": "px",
                                             "props": {
                                                 "x": 30,
@@ -75,8 +75,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_424",
-                                            "type": "6s9y",
+                                            "id": "TVi_424",
+                                            "type": "ea7n",
                                             "unit": "px",
                                             "props": {
                                                 "x": 239,
@@ -104,8 +104,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_139",
-                                            "type": "6q21",
+                                            "id": "TVi_139",
+                                            "type": "e9gb",
                                             "unit": "px",
                                             "props": {
                                                 "x": 29,

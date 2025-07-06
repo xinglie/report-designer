@@ -21,8 +21,8 @@
         "g": [],
         "elements": [
             {
-                "id": "ZW_353",
-                "type": "2yn4",
+                "id": "TVi_353",
+                "type": "c07n",
                 "unit": "pc",
                 "props": {
                     "rows": [
@@ -39,8 +39,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZW_591",
-                                            "type": "6q21",
+                                            "id": "TVi_591",
+                                            "type": "e9gb",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 10.578,
@@ -94,8 +94,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZW_481",
-                                            "type": "6q21",
+                                            "id": "TVi_481",
+                                            "type": "e9gb",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.313,
@@ -144,8 +144,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZW_535",
-                                            "type": "6q21",
+                                            "id": "TVi_535",
+                                            "type": "e9gb",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
@@ -196,8 +196,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZW_563",
-                                            "type": "6q21",
+                                            "id": "TVi_563",
+                                            "type": "e9gb",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
@@ -253,8 +253,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZW_364",
-                                            "type": "6q21",
+                                            "id": "TVi_364",
+                                            "type": "e9gb",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.656,
@@ -308,8 +308,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZW_382",
-                                            "type": "6q21",
+                                            "id": "TVi_382",
+                                            "type": "e9gb",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.688,
@@ -363,8 +363,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZW_385",
-                                            "type": "6q21",
+                                            "id": "TVi_385",
+                                            "type": "e9gb",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.969,
@@ -460,8 +460,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "ZW_654",
-                                            "type": "6q21",
+                                            "id": "TVi_654",
+                                            "type": "e9gb",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,

@@ -33,8 +33,8 @@
         },
         "elements": [
             {
-                "id": "ZW_89",
-                "type": "2u7a",
+                "id": "TVi_89",
+                "type": "bu4z",
                 "unit": "pc",
                 "props": {
                     "readonly": false,
@@ -523,7 +523,7 @@
                     "height": 9.46,
                     "alpha": 1,
                     "bdeed": "collapse",
-                    "bwidth": 0.06,
+                    "bwidth": 0.063,
                     "btype": "solid",
                     "bcolor": "#000000",
                     "spacing": 1.88,
@@ -535,7 +535,7 @@
                     "headFirst": true,
                     "footLast": true,
                     "dynamicCols": true,
-                    "avgColsWidth": "percent",
+                    "avgColsWidth": 3,
                     "columnsPrint": false,
                     "hspace": 1.25,
                     "rowsMax": 0,

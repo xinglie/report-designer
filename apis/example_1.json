@@ -23,8 +23,8 @@
         "g": [],
         "elements": [
             {
-                "id": "ZW_279",
-                "type": "2u7a",
+                "id": "TVi_279",
+                "type": "bu4z",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -451,7 +451,7 @@
                     "width": 95.03,
                     "height": 63.76,
                     "alpha": 1,
-                    "bwidth": 0.26,
+                    "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
                     "bdeed": "collapse",

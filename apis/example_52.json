@@ -24,8 +24,8 @@
         "g": [],
         "elements": [
             {
-                "id": "ZW_lfxf57u2119",
-                "type": "39qp",
+                "id": "TVi_lfxf57u2119",
+                "type": "c40b",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -36,8 +36,8 @@
                                     "width": 209.79,
                                     "elements": [
                                         {
-                                            "id": "ZW_lfxf57u2141",
-                                            "type": "332y",
+                                            "id": "TVi_lfxf57u2141",
+                                            "type": "c1qb",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 2.15,
@@ -78,7 +78,7 @@
                                     "bwidth": [
                                         0,
                                         0,
-                                        0.26,
+                                        0.265,
                                         0
                                     ],
                                     "bcolor": [
@@ -99,8 +99,8 @@
                 }
             },
             {
-                "id": "ZW_lfxf57u2125",
-                "type": "37is",
+                "id": "TVi_lfxf57u2125",
+                "type": "c38z",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -118,7 +118,7 @@
                                         "dashed"
                                     ],
                                     "bwidth": [
-                                        0.26,
+                                        0.265,
                                         0,
                                         0,
                                         0
@@ -141,8 +141,8 @@
                 }
             },
             {
-                "id": "ZW_lfxf57u2175",
-                "type": "ad14",
+                "id": "TVi_lfxf57u2175",
+                "type": "h2fn",
                 "unit": "mm",
                 "props": {
                     "x": 13.68,
@@ -158,8 +158,8 @@
                 }
             },
             {
-                "id": "ZW_lfxf57u2191",
-                "type": "aat7",
+                "id": "TVi_lfxf57u2191",
+                "type": "h1ob",
                 "unit": "mm",
                 "props": {
                     "x": 81.29,
@@ -169,7 +169,7 @@
                     "alpha": 1,
                     "rotate": 0,
                     "print": "each",
-                    "bwidth": 0.26,
+                    "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
                     "name": "圆形1",
@@ -177,8 +177,8 @@
                 }
             },
             {
-                "id": "ZW_lfxf57u2216",
-                "type": "aat7",
+                "id": "TVi_lfxf57u2216",
+                "type": "h1ob",
                 "unit": "mm",
                 "props": {
                     "x": 41.6,
@@ -188,7 +188,7 @@
                     "alpha": 1,
                     "rotate": 0,
                     "print": "each",
-                    "bwidth": 0.26,
+                    "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
                     "name": "圆形2",
@@ -196,8 +196,8 @@
                 }
             },
             {
-                "id": "ZW_lfxf57u2221",
-                "type": "ad14",
+                "id": "TVi_lfxf57u2221",
+                "type": "h2fn",
                 "unit": "mm",
                 "props": {
                     "x": 101.12,

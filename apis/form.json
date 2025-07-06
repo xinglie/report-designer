@@ -1,6 +1,32 @@
 {
     "data": [
         {
+            "di4b": [
+                {
+                    "name": "name1",
+                    "value": 20
+                },
+                {
+                    "name": "name2",
+                    "value": 40
+                },
+                {
+                    "name": "张三",
+                    "value": 10
+                },
+                {
+                    "name": "李四",
+                    "value": 15
+                },
+                {
+                    "name": "Han mei mei",
+                    "value": 11
+                },
+                {
+                    "name": "Li Lei",
+                    "value": 20
+                }
+            ],
             "input": {
                 "placeholder": "测试",
                 "value": "初始值",

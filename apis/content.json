@@ -9,6 +9,7 @@
             "xOffset": 0,
             "yOffset": 0,
             "title": "",
+            "viewer": "default",
             "background": "#ffffff",
             "backgroundImage": "",
             "backgroundRepeat": "full",
@@ -20,15 +21,15 @@
         "g": [],
         "elements": [
             {
-                "id": "ZW_335",
-                "type": "2u7a",
+                "id": "TVi_335",
+                "type": "bu4z",
                 "unit": "px",
                 "props": {
                     "rows": [
                         {
                             "cols": [
                                 {
-                                    "height": 159,
+                                    "height": 259,
                                     "width": 644,
                                     "rowspan": 1,
                                     "colspan": 3,
@@ -56,8 +57,8 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "ZW_336",
-                                            "type": "2wf7",
+                                            "id": "TVi_336",
+                                            "type": "bx6b",
                                             "unit": "px",
                                             "props": {
                                                 "rows": [
@@ -182,6 +183,7 @@
                                                                 "textStyleUnderline": false,
                                                                 "textStyleItalic": false,
                                                                 "textStyleStrike": false,
+                                                                "textMatch": true,
                                                                 "textContent": "",
                                                                 "textFormat": "",
                                                                 "bindKey": "addr",
@@ -195,7 +197,7 @@
                                                     "id": "3"
                                                 },
                                                 "x": 20,
-                                                "y": 80,
+                                                "y": 150,
                                                 "width": 603,
                                                 "height": 61,
                                                 "rotate": 0,
@@ -209,8 +211,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_386",
-                                            "type": "6q21",
+                                            "id": "TVi_386",
+                                            "type": "e9gb",
                                             "unit": "px",
                                             "props": {
                                                 "pinX": false,
@@ -220,14 +222,15 @@
                                                 "width": 560,
                                                 "height": 43,
                                                 "rotate": 0,
-                                                "text": "通过地址栏的id和配置项getContentUrl，可以在打印页面通过id获取内容后打印。打印页面和设计器是相互独立且可以互相配合的。",
+                                                "text": "通过地址栏的id和配置项getContentUrl，可以在打印页面通过id获取内容后打印。打印页面和设计器是相互独立且可以互相配合的。您可以修改地址栏参数如 ?use=default&id=55 获取对应55示例的打印内容。<b><i>请注意use参数，当您单独使用预览器时，您需要传递该参数，并确保该参数与模板中的一致</i></b>",
                                                 "bind": {
                                                     "tag": "",
                                                     "id": "",
                                                     "fields": []
                                                 },
                                                 "format": "",
-                                                "match": false,
+                                                "match": true,
+                                                "richText": true,
                                                 "size": 14,
                                                 "font": "tahoma",
                                                 "alpha": 1,
@@ -588,8 +591,8 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "ZW_337",
-                                            "type": "6q21",
+                                            "id": "TVi_337",
+                                            "type": "e9gb",
                                             "unit": "px",
                                             "props": {
                                                 "x": 32,

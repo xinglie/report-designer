@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "ZW_mayy98h6192",
-                "type": "75lg",
+                "id": "TVi_mayy98h6192",
+                "type": "eq5n",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -43,8 +43,8 @@
                                     "width": 58.208,
                                     "elements": [
                                         {
-                                            "id": "ZW_mayy98h6197",
-                                            "type": "6q21",
+                                            "id": "TVi_mayy98h6197",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -86,8 +86,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_mayy98h6234",
-                                            "type": "6q21",
+                                            "id": "TVi_mayy98h6234",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -103,7 +103,7 @@
                                                     "tag": "apis/receipt.json",
                                                     "fields": [
                                                         {
-                                                            "key": "base/332y",
+                                                            "key": "base/c1qb",
                                                             "name": "创建时间"
                                                         }
                                                     ]
@@ -129,8 +129,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_mayy98h6241",
-                                            "type": "6q21",
+                                            "id": "TVi_mayy98h6241",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -172,8 +172,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_mayy98h6253",
-                                            "type": "6q21",
+                                            "id": "TVi_mayy98h6253",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -215,8 +215,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_mayyf0dd392",
-                                            "type": "6uhv",
+                                            "id": "TVi_mayyf0dd392",
+                                            "type": "ed8z",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -244,8 +244,8 @@
                                     "width": 58.208,
                                     "elements": [
                                         {
-                                            "id": "ZW_mb0q85st519",
-                                            "type": "6uhv",
+                                            "id": "TVi_mb0q85st519",
+                                            "type": "ed8z",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 2.645,
@@ -262,8 +262,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_mayy98h6335",
-                                            "type": "6q21",
+                                            "id": "TVi_mayy98h6335",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -304,8 +304,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_mayy98h6364",
-                                            "type": "6q21",
+                                            "id": "TVi_mayy98h6364",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -346,8 +346,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_mayyf0dd230",
-                                            "type": "6q21",
+                                            "id": "TVi_mayyf0dd230",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -403,8 +403,8 @@
                                     "width": 58.208,
                                     "elements": [
                                         {
-                                            "id": "ZW_maz069u7518",
-                                            "type": "6uhv",
+                                            "id": "TVi_maz069u7518",
+                                            "type": "ed8z",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -422,8 +422,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_mayzygym370",
-                                            "type": "6q21",
+                                            "id": "TVi_mayzygym370",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -465,8 +465,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_mayzygym399",
-                                            "type": "6q21",
+                                            "id": "TVi_mayzygym399",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -508,8 +508,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_mayzygym406",
-                                            "type": "6q21",
+                                            "id": "TVi_mayzygym406",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -551,8 +551,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_mayzygym413",
-                                            "type": "6q21",
+                                            "id": "TVi_mayzygym413",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -584,8 +584,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_mayzygym443",
-                                            "type": "6q21",
+                                            "id": "TVi_mayzygym443",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -626,8 +626,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_mayzygym452",
-                                            "type": "6q21",
+                                            "id": "TVi_mayzygym452",
+                                            "type": "e9gb",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -668,8 +668,8 @@
                                             }
                                         },
                                         {
-                                            "id": "ZW_mayzygym548",
-                                            "type": "6nu4",
+                                            "id": "TVi_mayzygym548",
+                                            "type": "e8oz",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,

@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "ZW_ljfntfap169",
-                "type": "2u7a",
+                "id": "TVi_ljfntfap169",
+                "type": "bu4z",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -821,7 +821,7 @@
                     "height": 47.9,
                     "alpha": 1,
                     "bdeed": "collapse",
-                    "bwidth": 0.26,
+                    "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
                     "spacing": 7.94,
@@ -833,7 +833,7 @@
                     "footLast": true,
                     "padRows": true,
                     "dynamicCols": true,
-                    "avgColsWidth": "percent",
+                    "avgColsWidth": 3,
                     "columnsPrint": false,
                     "hspace": 5.29,
                     "rowsMax": 0,
