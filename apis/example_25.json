@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "TVi_86",
-                "type": "e4wb",
+                "id": "N2V_86",
+                "type": "krq6",
                 "unit": "px",
                 "props": {
                     "x": 50,
@@ -69,8 +69,8 @@
                 }
             },
             {
-                "id": "TVi_93",
-                "type": "e5nn",
+                "id": "N2V_93",
+                "type": "ks7c",
                 "unit": "px",
                 "props": {
                     "x": 50,
@@ -100,8 +100,8 @@
                 }
             },
             {
-                "id": "TVi_116",
-                "type": "e6ez",
+                "id": "N2V_116",
+                "type": "ksx3",
                 "unit": "px",
                 "props": {
                     "x": 50,
@@ -138,8 +138,8 @@
                 }
             },
             {
-                "id": "TVi_132",
-                "type": "c38z",
+                "id": "N2V_132",
+                "type": "k7xr",
                 "unit": "px",
                 "props": {
                     "pinX": true,

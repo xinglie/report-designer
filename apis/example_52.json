@@ -24,8 +24,8 @@
         "g": [],
         "elements": [
             {
-                "id": "TVi_lfxf57u2119",
-                "type": "c40b",
+                "id": "N2V_lfxf57u2119",
+                "type": "k86c",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -36,8 +36,8 @@
                                     "width": 209.79,
                                     "elements": [
                                         {
-                                            "id": "TVi_lfxf57u2141",
-                                            "type": "c1qb",
+                                            "id": "N2V_lfxf57u2141",
+                                            "type": "k7gl",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 2.15,
@@ -99,8 +99,8 @@
                 }
             },
             {
-                "id": "TVi_lfxf57u2125",
-                "type": "c38z",
+                "id": "N2V_lfxf57u2125",
+                "type": "k7xr",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -141,8 +141,8 @@
                 }
             },
             {
-                "id": "TVi_lfxf57u2175",
-                "type": "h2fn",
+                "id": "N2V_lfxf57u2175",
+                "type": "lc8c",
                 "unit": "mm",
                 "props": {
                     "x": 13.68,
@@ -158,8 +158,8 @@
                 }
             },
             {
-                "id": "TVi_lfxf57u2191",
-                "type": "h1ob",
+                "id": "N2V_lfxf57u2191",
+                "type": "lbr6",
                 "unit": "mm",
                 "props": {
                     "x": 81.29,
@@ -177,8 +177,8 @@
                 }
             },
             {
-                "id": "TVi_lfxf57u2216",
-                "type": "h1ob",
+                "id": "N2V_lfxf57u2216",
+                "type": "lbr6",
                 "unit": "mm",
                 "props": {
                     "x": 41.6,
@@ -196,8 +196,8 @@
                 }
             },
             {
-                "id": "TVi_lfxf57u2221",
-                "type": "h2fn",
+                "id": "N2V_lfxf57u2221",
+                "type": "lc8c",
                 "unit": "mm",
                 "props": {
                     "x": 101.12,

@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "TVi_lv6g4oka410",
-                "type": "bu4z",
+                "id": "N2V_lv6g4oka410",
+                "type": "k6i9",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -444,7 +444,7 @@
                                     "rowspan": 1,
                                     "colspan": 1,
                                     "elements": [],
-                                    "bindKey": "cd4b",
+                                    "bindKey": "kak6",
                                     "bindName": "数量"
                                 },
                                 {
@@ -832,8 +832,8 @@
                 }
             },
             {
-                "id": "TVi_lv6pi07t553",
-                "type": "e9gb",
+                "id": "N2V_lv6pi07t553",
+                "type": "kul6",
                 "unit": "mm",
                 "props": {
                     "x": 61.017,
@@ -864,8 +864,8 @@
                 }
             },
             {
-                "id": "TVi_lv6pi07t636",
-                "type": "e9gb",
+                "id": "N2V_lv6pi07t636",
+                "type": "kul6",
                 "unit": "mm",
                 "props": {
                     "x": 121.626,
@@ -896,8 +896,8 @@
                 }
             },
             {
-                "id": "TVi_lvacugcx315",
-                "type": "e9gb",
+                "id": "N2V_lvacugcx315",
+                "type": "kul6",
                 "unit": "mm",
                 "props": {
                     "x": 17.207,
@@ -928,8 +928,8 @@
                 }
             },
             {
-                "id": "TVi_m7g969np216",
-                "type": "c40b",
+                "id": "N2V_m7g969np216",
+                "type": "k86c",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -940,8 +940,8 @@
                                     "width": 209.815,
                                     "elements": [
                                         {
-                                            "id": "TVi_m7g969np336",
-                                            "type": "cg5n",
+                                            "id": "N2V_m7g969np336",
+                                            "type": "kb1c",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 168.44,

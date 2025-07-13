@@ -33,8 +33,8 @@
         },
         "elements": [
             {
-                "id": "TVi_49",
-                "type": "ed8z",
+                "id": "N2V_49",
+                "type": "kvs3",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -53,8 +53,8 @@
                 }
             },
             {
-                "id": "TVi_61",
-                "type": "h2fn",
+                "id": "N2V_61",
+                "type": "lc8c",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -90,8 +90,8 @@
                 }
             },
             {
-                "id": "TVi_72",
-                "type": "h1ob",
+                "id": "N2V_72",
+                "type": "lbr6",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -112,8 +112,8 @@
                 }
             },
             {
-                "id": "TVi_76",
-                "type": "f63n",
+                "id": "N2V_76",
+                "type": "l1qo",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -137,8 +137,8 @@
                 }
             },
             {
-                "id": "TVi_82",
-                "type": "h3yb",
+                "id": "N2V_82",
+                "type": "ld6o",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -156,8 +156,8 @@
                 }
             },
             {
-                "id": "TVi_92",
-                "type": "e9gb",
+                "id": "N2V_92",
+                "type": "kul6",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -201,8 +201,8 @@
                 }
             },
             {
-                "id": "TVi_105",
-                "type": "ea7n",
+                "id": "N2V_105",
+                "type": "kv2c",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -231,8 +231,8 @@
                 }
             },
             {
-                "id": "TVi_112",
-                "type": "d9rn",
+                "id": "N2V_112",
+                "type": "kkc3",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -249,7 +249,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "d9rn": "d9rn",
+                    "kkc3": "kkc3",
                     "imageWidth": 0,
                     "imageHeight": 0,
                     "backgroundX": 0,
@@ -260,8 +260,8 @@
                 }
             },
             {
-                "id": "TVi_116",
-                "type": "e8oz",
+                "id": "N2V_116",
+                "type": "ku40",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -288,8 +288,8 @@
                 }
             },
             {
-                "id": "TVi_121",
-                "type": "e7xn",
+                "id": "N2V_121",
+                "type": "kte9",
                 "unit": "mm",
                 "props": {
                     "readonly": false,

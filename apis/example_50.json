@@ -31,14 +31,14 @@
         "elements": [
             {
                 "v": "202506261420",
-                "id": "TVi_lfukgpmn233",
-                "type": "flow/g49n",
+                "id": "N2V_lfukgpmn233",
+                "type": "flow/l6ic",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
-                    "linkFromId": "TVi_lfukgpmn217",
+                    "linkFromId": "N2V_lfukgpmn217",
                     "linkFromKey": "p11",
-                    "linkToId": "TVi_lfukgpmn138",
+                    "linkToId": "N2V_lfukgpmn138",
                     "linkToKey": "p7",
                     "x": 63.89,
                     "y": 42.445,
@@ -85,14 +85,14 @@
             },
             {
                 "v": "202506261420",
-                "id": "TVi_lfuncj18366",
-                "type": "flow/g49n",
+                "id": "N2V_lfuncj18366",
+                "type": "flow/l6ic",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
-                    "linkFromId": "TVi_lfukgpmn287",
+                    "linkFromId": "N2V_lfukgpmn287",
                     "linkFromKey": "p15",
-                    "linkToId": "TVi_lfukgpmn138",
+                    "linkToId": "N2V_lfukgpmn138",
                     "linkToKey": "p14",
                     "x": 127.54,
                     "y": 17.045,
@@ -139,14 +139,14 @@
             },
             {
                 "v": "202506261420",
-                "id": "TVi_lfuncj18361",
-                "type": "flow/g49n",
+                "id": "N2V_lfuncj18361",
+                "type": "flow/l6ic",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
-                    "linkFromId": "TVi_lfukgpmn287",
+                    "linkFromId": "N2V_lfukgpmn287",
                     "linkFromKey": "p12",
-                    "linkToId": "TVi_lfukgpmn106",
+                    "linkToId": "N2V_lfukgpmn106",
                     "linkToKey": "p11",
                     "x": 63.89,
                     "y": 33.985,
@@ -193,14 +193,14 @@
             },
             {
                 "v": "202506261420",
-                "id": "TVi_lfukgpmn228",
-                "type": "flow/g49n",
+                "id": "N2V_lfukgpmn228",
+                "type": "flow/l6ic",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
-                    "linkFromId": "TVi_lfukgpmn217",
+                    "linkFromId": "N2V_lfukgpmn217",
                     "linkFromKey": "p8",
-                    "linkToId": "TVi_lfukgpmn106",
+                    "linkToId": "N2V_lfukgpmn106",
                     "linkToKey": "p10",
                     "x": 7.011,
                     "y": 33.985,
@@ -255,14 +255,14 @@
             },
             {
                 "v": "202506261420",
-                "id": "TVi_lfukgpmn165",
-                "type": "flow/g49n",
+                "id": "N2V_lfukgpmn165",
+                "type": "flow/l6ic",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
-                    "linkFromId": "TVi_lfukgpmn106",
+                    "linkFromId": "N2V_lfukgpmn106",
                     "linkFromKey": "p11",
-                    "linkToId": "TVi_lfukgpmn138",
+                    "linkToId": "N2V_lfukgpmn138",
                     "linkToKey": "p12",
                     "x": 63.89,
                     "y": 23.395,
@@ -309,8 +309,8 @@
             },
             {
                 "v": "202506261420",
-                "id": "TVi_lfukgpmn106",
-                "type": "flow/g6jn",
+                "id": "N2V_lfukgpmn106",
+                "type": "flow/l783",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -350,8 +350,8 @@
             },
             {
                 "v": "202506261420",
-                "id": "TVi_lfukgpmn138",
-                "type": "flow/g6jn",
+                "id": "N2V_lfukgpmn138",
+                "type": "flow/l783",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -399,8 +399,8 @@
             },
             {
                 "v": "202506261420",
-                "id": "TVi_lfukgpmn217",
-                "type": "flow/g6jn",
+                "id": "N2V_lfukgpmn217",
+                "type": "flow/l783",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -440,8 +440,8 @@
             },
             {
                 "v": "202506261420",
-                "id": "TVi_lfukgpmn287",
-                "type": "flow/g6jn",
+                "id": "N2V_lfukgpmn287",
+                "type": "flow/l783",
                 "unit": "mm",
                 "props": {
                     "readonly": false,

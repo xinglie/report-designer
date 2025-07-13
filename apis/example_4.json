@@ -21,8 +21,8 @@
         "g": [],
         "elements": [
             {
-                "id": "TVi_353",
-                "type": "c07n",
+                "id": "N2V_353",
+                "type": "k6zf",
                 "unit": "pc",
                 "props": {
                     "rows": [
@@ -39,8 +39,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "TVi_591",
-                                            "type": "e9gb",
+                                            "id": "N2V_591",
+                                            "type": "kul6",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 10.578,
@@ -94,8 +94,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "TVi_481",
-                                            "type": "e9gb",
+                                            "id": "N2V_481",
+                                            "type": "kul6",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.313,
@@ -144,8 +144,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "TVi_535",
-                                            "type": "e9gb",
+                                            "id": "N2V_535",
+                                            "type": "kul6",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
@@ -196,8 +196,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "TVi_563",
-                                            "type": "e9gb",
+                                            "id": "N2V_563",
+                                            "type": "kul6",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
@@ -253,8 +253,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "TVi_364",
-                                            "type": "e9gb",
+                                            "id": "N2V_364",
+                                            "type": "kul6",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.656,
@@ -308,8 +308,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "TVi_382",
-                                            "type": "e9gb",
+                                            "id": "N2V_382",
+                                            "type": "kul6",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.688,
@@ -363,8 +363,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "TVi_385",
-                                            "type": "e9gb",
+                                            "id": "N2V_385",
+                                            "type": "kul6",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.969,
@@ -460,8 +460,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "TVi_654",
-                                            "type": "e9gb",
+                                            "id": "N2V_654",
+                                            "type": "kul6",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,

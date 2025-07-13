@@ -1,159 +1,74 @@
 {
-    "data": [
-        {
-            "di4b": [
-                {
-                    "name": "name1",
-                    "value": 20
-                },
-                {
-                    "name": "name2",
-                    "value": 40
-                },
-                {
-                    "name": "张三",
-                    "value": 10
-                },
-                {
-                    "name": "李四",
-                    "value": 15
-                },
-                {
-                    "name": "Han mei mei",
-                    "value": 11
-                },
-                {
-                    "name": "Li Lei",
-                    "value": 20
-                }
-            ],
-            "input": {
-                "placeholder": "测试",
-                "value": "初始值",
-                "className": "扩展样式",
-                "markAs": "标识",
-                "inputName": "名称"
+    "data": {
+        "klj0": [
+            {
+                "name": "name1",
+                "value": 20
             },
-            "item": {
-                "text": "text1",
-                "value": "value1",
-                "checked": true,
-                "disabled": false
+            {
+                "name": "name2",
+                "value": 40
             },
-            "item1": {
-                "text": "中文1",
-                "value": "value1",
-                "checked": true,
-                "disabled": false
+            {
+                "name": "张三",
+                "value": 10
             },
-            "tags": {
-                "text": "标签",
-                "tag": "",
-                "color": "#22fbd9",
-                "background": "#a77c2b"
+            {
+                "name": "李四",
+                "value": 15
+            },
+            {
+                "name": "Han mei mei",
+                "value": 11
+            },
+            {
+                "name": "Li Lei",
+                "value": 20
             }
-        },
-        {
-            "item": {
-                "text": "text2",
-                "value": "value2",
-                "checked": true,
-                "disabled": true
+        ],
+        "l783": [
+            {
+                "text": "f1",
+                "color": "red"
             },
-            "item1": {
-                "text": "中文2",
-                "value": "value2",
-                "checked": true,
-                "disabled": true
+            {
+                "text": "f2",
+                "color": "#ccc"
             },
-            "tags": {
-                "text": "标签",
-                "tag": "",
-                "color": "#22fbd9",
-                "background": "#a77c2b"
+            {
+                "text": "f3",
+                "color": "#000"
+            },
+            {
+                "text": "f4",
+                "color": "#ccc"
+            },
+            {
+                "text": "f5",
+                "color": "#ccc"
+            },
+            {
+                "text": "f1",
+                "color": "red"
+            },
+            {
+                "text": "f2",
+                "color": "#ccc"
+            },
+            {
+                "text": "f3",
+                "color": "#000"
+            },
+            {
+                "text": "f4",
+                "color": "#ccc"
+            },
+            {
+                "text": "f5",
+                "color": "#ccc"
             }
-        },
-        {
-            "item": {
-                "text": "text3",
-                "value": "value3",
-                "checked": false,
-                "disabled": true
-            },
-            "item1": {
-                "text": "中文3",
-                "value": "value3",
-                "checked": false,
-                "disabled": true
-            },
-            "tags": {
-                "text": "标签",
-                "tag": "",
-                "color": "#22fbd9",
-                "background": "#a77c2b"
-            }
-        },
-        {
-            "item": {
-                "text": "text4",
-                "value": "value4",
-                "checked": false,
-                "disabled": false
-            },
-            "item1": {
-                "text": "中文4",
-                "value": "value4",
-                "checked": false,
-                "disabled": false
-            },
-            "tags": {
-                "text": "标签",
-                "tag": "",
-                "color": "#22fbd9",
-                "background": "#a77c2b"
-            }
-        },
-        {
-            "item": {
-                "text": "text5",
-                "value": "value5",
-                "checked": true,
-                "disabled": true
-            },
-            "item1": {
-                "text": "中文5",
-                "value": "value5",
-                "checked": true,
-                "disabled": true
-            },
-            "tags": {
-                "text": "标签",
-                "tag": "",
-                "color": "#22fbd9",
-                "background": "#a77c2b"
-            }
-        },
-        {
-            "item": {
-                "text": "text6",
-                "value": "value6",
-                "checked": false,
-                "disabled": true
-            },
-            "item1": {
-                "text": "中文6",
-                "value": "value6",
-                "checked": false,
-                "disabled": true
-            },
-            "tags": {
-                "text": "标签",
-                "tag": "",
-                "color": "#22fbd9",
-                "background": "#a77c2b"
-            }
-        }
-    ],
+        ]
+    },
     "success": true,
     "message": "ok"
 }

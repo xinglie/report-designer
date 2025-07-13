@@ -14,7 +14,7 @@
                 {
                     "name": "头像",
                     "key": "avatar",
-                    "use": "ea7n",
+                    "use": "kv2c",
                     "props": {
                         "width": 150,
                         "height": 150
@@ -264,7 +264,7 @@
                 {
                     "name": "片断1",
                     "key": "p1",
-                    "use": "c9bn",
+                    "use": "k9uf",
                     "props": {
                         "width": 500
                     }
@@ -272,7 +272,7 @@
                 {
                     "name": "片断2",
                     "key": "p2",
-                    "use": "c9bn",
+                    "use": "k9uf",
                     "props": {
                         "width": 500
                     }
@@ -308,36 +308,13 @@
             "id": 6,
             "fields": [
                 {
-                    "name": "下拉、单选、多选",
-                    "key": "item",
-                    "use": "form-checkbox"
-                },
-                {
-                    "name": "中文名称",
-                    "key": "item1",
-                    "use": "form-dropdown"
+                    "name": "关系图数据表",
+                    "key": "l783"
                 },
                 {
                     "name": "词云",
-                    "key": "di4b",
-                    "use": "chart/di4b"
-                },
-                {
-                    "name": "子分组测试",
-                    "tag": "apis/form.json",
-                    "id": "6_form",
-                    "fields": [
-                        {
-                            "name": "标签",
-                            "key": "tags",
-                            "use": "f7mb"
-                        },
-                        {
-                            "name": "输入框绑定",
-                            "key": "input",
-                            "use": "form-input"
-                        }
-                    ]
+                    "key": "klj0",
+                    "use": "chart/klj0"
                 },
                 {
                     "name": "轮播",
@@ -347,7 +324,7 @@
                         {
                             "name": "轮播图测试",
                             "key": "images",
-                            "use": "df2z"
+                            "use": "kl1u"
                         }
                     ]
                 }
@@ -407,7 +384,7 @@
                 },
                 {
                     "name": "数量",
-                    "key": "cd4b"
+                    "key": "kak6"
                 },
                 {
                     "name": "折扣率",
@@ -491,7 +468,7 @@
                 },
                 {
                     "name": "富文本",
-                    "key": "ca2z"
+                    "key": "ka30"
                 },
                 {
                     "name": "审核数据",
@@ -553,7 +530,7 @@
                         },
                         {
                             "name": "创建时间",
-                            "key": "base/c1qb"
+                            "key": "base/k7gl"
                         },
                         {
                             "name": "收银员",

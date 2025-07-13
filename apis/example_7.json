@@ -20,24 +20,24 @@
         },
         "g": [
             [
-                "TVi_167",
-                "TVi_168",
-                "TVi_169",
-                "TVi_172"
+                "N2V_167",
+                "N2V_168",
+                "N2V_169",
+                "N2V_172"
             ],
             [
-                "TVi_170",
-                "TVi_171"
+                "N2V_170",
+                "N2V_171"
             ],
             [
-                "TVi_173",
-                "TVi_174"
+                "N2V_173",
+                "N2V_174"
             ]
         ],
         "elements": [
             {
-                "id": "TVi_167",
-                "type": "e9gb",
+                "id": "N2V_167",
+                "type": "kul6",
                 "unit": "in",
                 "props": {
                     "x": 0.177,
@@ -74,8 +74,8 @@
                 }
             },
             {
-                "id": "TVi_168",
-                "type": "e9gb",
+                "id": "N2V_168",
+                "type": "kul6",
                 "unit": "in",
                 "props": {
                     "pinX": false,
@@ -114,8 +114,8 @@
                 }
             },
             {
-                "id": "TVi_169",
-                "type": "e9gb",
+                "id": "N2V_169",
+                "type": "kul6",
                 "unit": "in",
                 "props": {
                     "pinX": false,
@@ -154,8 +154,8 @@
                 }
             },
             {
-                "id": "TVi_170",
-                "type": "ea7n",
+                "id": "N2V_170",
+                "type": "kv2c",
                 "unit": "in",
                 "props": {
                     "x": 3.083,
@@ -178,8 +178,8 @@
                 }
             },
             {
-                "id": "TVi_171",
-                "type": "ea7n",
+                "id": "N2V_171",
+                "type": "kv2c",
                 "unit": "in",
                 "props": {
                     "x": 5.823,
@@ -202,8 +202,8 @@
                 }
             },
             {
-                "id": "TVi_172",
-                "type": "e9gb",
+                "id": "N2V_172",
+                "type": "kul6",
                 "unit": "in",
                 "props": {
                     "x": 2.656,
@@ -240,8 +240,8 @@
                 }
             },
             {
-                "id": "TVi_173",
-                "type": "e9gb",
+                "id": "N2V_173",
+                "type": "kul6",
                 "unit": "in",
                 "props": {
                     "x": 0.896,
@@ -278,8 +278,8 @@
                 }
             },
             {
-                "id": "TVi_174",
-                "type": "ea7n",
+                "id": "N2V_174",
+                "type": "kv2c",
                 "unit": "in",
                 "props": {
                     "x": 0.781,

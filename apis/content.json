@@ -21,8 +21,8 @@
         "g": [],
         "elements": [
             {
-                "id": "TVi_335",
-                "type": "bu4z",
+                "id": "N2V_335",
+                "type": "k6i9",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -57,8 +57,8 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "TVi_336",
-                                            "type": "bx6b",
+                                            "id": "N2V_336",
+                                            "type": "k6qu",
                                             "unit": "px",
                                             "props": {
                                                 "rows": [
@@ -211,8 +211,8 @@
                                             }
                                         },
                                         {
-                                            "id": "TVi_386",
-                                            "type": "e9gb",
+                                            "id": "N2V_386",
+                                            "type": "kul6",
                                             "unit": "px",
                                             "props": {
                                                 "pinX": false,
@@ -591,8 +591,8 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "TVi_337",
-                                            "type": "e9gb",
+                                            "id": "N2V_337",
+                                            "type": "kul6",
                                             "unit": "px",
                                             "props": {
                                                 "x": 32,

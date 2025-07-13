@@ -37,8 +37,8 @@
         },
         "elements": [
             {
-                "id": "TVi_142",
-                "type": "svg/g2qz",
+                "id": "N2V_142",
+                "type": "svg/l616",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -53,7 +53,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "d9rn": "infinite",
+                            "kkc3": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -65,8 +65,8 @@
                 }
             },
             {
-                "id": "TVi_106",
-                "type": "ed8z",
+                "id": "N2V_106",
+                "type": "kvs3",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -83,7 +83,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "d9rn": "infinite",
+                            "kkc3": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -95,8 +95,8 @@
                 }
             },
             {
-                "id": "TVi_107",
-                "type": "h2fn",
+                "id": "N2V_107",
+                "type": "lc8c",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -130,7 +130,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "d9rn": "infinite",
+                            "kkc3": "infinite",
                             "fn": "linear",
                             "delay": 2,
                             "duration": 1,
@@ -142,8 +142,8 @@
                 }
             },
             {
-                "id": "TVi_108",
-                "type": "h1ob",
+                "id": "N2V_108",
+                "type": "lbr6",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -162,7 +162,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "d9rn": "infinite",
+                            "kkc3": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -171,7 +171,7 @@
                             "use": "shakeY"
                         },
                         {
-                            "d9rn": "infinite",
+                            "kkc3": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1.52,
@@ -183,8 +183,8 @@
                 }
             },
             {
-                "id": "TVi_109",
-                "type": "ed8z",
+                "id": "N2V_109",
+                "type": "kvs3",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -203,7 +203,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "d9rn": "infinite",
+                            "kkc3": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -215,8 +215,8 @@
                 }
             },
             {
-                "id": "TVi_110",
-                "type": "h2fn",
+                "id": "N2V_110",
+                "type": "lc8c",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -252,7 +252,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "d9rn": "infinite",
+                            "kkc3": "infinite",
                             "fn": "linear",
                             "delay": 2,
                             "duration": 1,
@@ -264,8 +264,8 @@
                 }
             },
             {
-                "id": "TVi_111",
-                "type": "h1ob",
+                "id": "N2V_111",
+                "type": "lbr6",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -286,7 +286,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "d9rn": "infinite",
+                            "kkc3": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -295,7 +295,7 @@
                             "use": "shakeY"
                         },
                         {
-                            "d9rn": "infinite",
+                            "kkc3": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1.52,
@@ -307,8 +307,8 @@
                 }
             },
             {
-                "id": "TVi_144",
-                "type": "h2fn",
+                "id": "N2V_144",
+                "type": "lc8c",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -342,7 +342,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "d9rn": 3,
+                            "kkc3": 3,
                             "fn": "cubic-bezier(0.73,-0.02,0.25,0.99)",
                             "delay": 1.5,
                             "duration": 0.8,
