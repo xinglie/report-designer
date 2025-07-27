@@ -21,8 +21,8 @@
         "g": [],
         "elements": [
             {
-                "id": "N2V_141",
-                "type": "kb1c",
+                "id": "YT_141",
+                "type": "bp7q",
                 "unit": "pc",
                 "props": {
                     "ext": {
@@ -52,8 +52,8 @@
                 }
             },
             {
-                "id": "N2V_142",
-                "type": "kb1c",
+                "id": "YT_142",
+                "type": "bp7q",
                 "unit": "pc",
                 "props": {
                     "ext": {
@@ -83,8 +83,8 @@
                 }
             },
             {
-                "id": "N2V_190",
-                "type": "k6zf",
+                "id": "YT_190",
+                "type": "a4v9",
                 "unit": "pc",
                 "props": {
                     "rows": [
@@ -150,8 +150,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "N2V_208",
-                                            "type": "kul6",
+                                            "id": "YT_208",
+                                            "type": "fw81",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 1.781,
@@ -205,8 +205,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "N2V_236",
-                                            "type": "kul6",
+                                            "id": "YT_236",
+                                            "type": "fw81",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 1.281,
@@ -260,8 +260,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "N2V_233",
-                                            "type": "kul6",
+                                            "id": "YT_233",
+                                            "type": "fw81",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 3.969,
@@ -315,8 +315,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "N2V_228",
-                                            "type": "kul6",
+                                            "id": "YT_228",
+                                            "type": "fw81",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 3.094,

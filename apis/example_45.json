@@ -34,8 +34,8 @@
         },
         "elements": [
             {
-                "id": "N2V_60",
-                "type": "kak6",
+                "id": "YT_60",
+                "type": "bg76",
                 "unit": "cm",
                 "props": {
                     "readonly": false,
@@ -48,7 +48,7 @@
                     "text": "{#}_{#}",
                     "type": "text",
                     "rule": {
-                        "type": "kak6",
+                        "type": "bg76",
                         "fx": "AP",
                         "step": 1,
                         "start": 1
@@ -80,8 +80,8 @@
                 }
             },
             {
-                "id": "N2V_61",
-                "type": "kak6",
+                "id": "YT_61",
+                "type": "bg76",
                 "unit": "cm",
                 "props": {
                     "readonly": false,
@@ -96,7 +96,7 @@
                     "text": "LABEL-{#}",
                     "type": "text",
                     "rule": {
-                        "type": "kak6",
+                        "type": "bg76",
                         "fx": "AP",
                         "step": 1,
                         "start": 1
@@ -128,8 +128,8 @@
                 }
             },
             {
-                "id": "N2V_62",
-                "type": "kul6",
+                "id": "YT_62",
+                "type": "fw81",
                 "unit": "cm",
                 "props": {
                     "readonly": false,

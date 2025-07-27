@@ -21,8 +21,8 @@
         "g": [],
         "elements": [
             {
-                "id": "N2V_335",
-                "type": "k6i9",
+                "id": "YT_335",
+                "type": "a0cz",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -57,8 +57,8 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "N2V_336",
-                                            "type": "k6qu",
+                                            "id": "YT_336",
+                                            "type": "a2m4",
                                             "unit": "px",
                                             "props": {
                                                 "rows": [
@@ -211,8 +211,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_386",
-                                            "type": "kul6",
+                                            "id": "YT_386",
+                                            "type": "fw81",
                                             "unit": "px",
                                             "props": {
                                                 "pinX": false,
@@ -591,8 +591,8 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "N2V_337",
-                                            "type": "kul6",
+                                            "id": "YT_337",
+                                            "type": "fw81",
                                             "unit": "px",
                                             "props": {
                                                 "x": 32,

@@ -2,6 +2,10 @@
   "data": {
     "list": [
       {
+        "id": 79,
+        "title": "Mermaid图表测试"
+      },
+      {
         "title": "小票单元格测试",
         "id": 78
       },

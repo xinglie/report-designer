@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "N2V_75",
-                "type": "kul6",
+                "id": "YT_75",
+                "type": "fw81",
                 "unit": "mm",
                 "props": {
                     "x": 0,
@@ -66,8 +66,8 @@
                 }
             },
             {
-                "id": "N2V_76",
-                "type": "kul6",
+                "id": "YT_76",
+                "type": "fw81",
                 "unit": "mm",
                 "props": {
                     "x": 0,
@@ -100,8 +100,8 @@
                 }
             },
             {
-                "id": "N2V_77",
-                "type": "kte9",
+                "id": "YT_77",
+                "type": "fip7",
                 "unit": "mm",
                 "props": {
                     "x": 63.76,
@@ -131,8 +131,8 @@
                 }
             },
             {
-                "id": "N2V_95",
-                "type": "kvs3",
+                "id": "YT_95",
+                "type": "g0qb",
                 "unit": "mm",
                 "props": {
                     "x": 0,
@@ -149,8 +149,8 @@
                 }
             },
             {
-                "id": "N2V_100",
-                "type": "kvs3",
+                "id": "YT_100",
+                "type": "g0qb",
                 "unit": "mm",
                 "props": {
                     "x": 0,
@@ -167,8 +167,8 @@
                 }
             },
             {
-                "id": "N2V_103",
-                "type": "kul6",
+                "id": "YT_103",
+                "type": "fw81",
                 "unit": "mm",
                 "props": {
                     "x": 3.15,
@@ -201,8 +201,8 @@
                 }
             },
             {
-                "id": "N2V_118",
-                "type": "kul6",
+                "id": "YT_118",
+                "type": "fw81",
                 "unit": "mm",
                 "props": {
                     "x": 3.15,
@@ -235,8 +235,8 @@
                 }
             },
             {
-                "id": "N2V_121",
-                "type": "kul6",
+                "id": "YT_121",
+                "type": "fw81",
                 "unit": "mm",
                 "props": {
                     "x": 3.15,
@@ -269,8 +269,8 @@
                 }
             },
             {
-                "id": "N2V_125",
-                "type": "kul6",
+                "id": "YT_125",
+                "type": "fw81",
                 "unit": "mm",
                 "props": {
                     "x": 96.76,
@@ -303,8 +303,8 @@
                 }
             },
             {
-                "id": "N2V_131",
-                "type": "kul6",
+                "id": "YT_131",
+                "type": "fw81",
                 "unit": "mm",
                 "props": {
                     "x": 96.76,
@@ -337,8 +337,8 @@
                 }
             },
             {
-                "id": "N2V_138",
-                "type": "kul6",
+                "id": "YT_138",
+                "type": "fw81",
                 "unit": "mm",
                 "props": {
                     "x": 3.15,
@@ -372,8 +372,8 @@
                 }
             },
             {
-                "id": "N2V_143",
-                "type": "kul6",
+                "id": "YT_143",
+                "type": "fw81",
                 "unit": "mm",
                 "props": {
                     "x": 91.72,
@@ -407,8 +407,8 @@
                 }
             },
             {
-                "id": "N2V_146",
-                "type": "kul6",
+                "id": "YT_146",
+                "type": "fw81",
                 "unit": "mm",
                 "props": {
                     "x": 3.15,
@@ -442,8 +442,8 @@
                 }
             },
             {
-                "id": "N2V_152",
-                "type": "kul6",
+                "id": "YT_152",
+                "type": "fw81",
                 "unit": "mm",
                 "props": {
                     "x": 91.72,
@@ -477,8 +477,8 @@
                 }
             },
             {
-                "id": "N2V_158",
-                "type": "kul6",
+                "id": "YT_158",
+                "type": "fw81",
                 "unit": "mm",
                 "props": {
                     "x": 3.15,
@@ -512,8 +512,8 @@
                 }
             },
             {
-                "id": "N2V_161",
-                "type": "kul6",
+                "id": "YT_161",
+                "type": "fw81",
                 "unit": "mm",
                 "props": {
                     "x": 3.15,
@@ -546,8 +546,8 @@
                 }
             },
             {
-                "id": "N2V_184",
-                "type": "kul6",
+                "id": "YT_184",
+                "type": "fw81",
                 "unit": "mm",
                 "props": {
                     "x": 49.56,
@@ -580,8 +580,8 @@
                 }
             },
             {
-                "id": "N2V_190",
-                "type": "kvs3",
+                "id": "YT_190",
+                "type": "g0qb",
                 "unit": "mm",
                 "props": {
                     "x": 0,
@@ -598,8 +598,8 @@
                 }
             },
             {
-                "id": "N2V_201",
-                "type": "kte9",
+                "id": "YT_201",
+                "type": "fip7",
                 "unit": "mm",
                 "props": {
                     "x": 31.93,
@@ -629,8 +629,8 @@
                 }
             },
             {
-                "id": "N2V_214",
-                "type": "kul6",
+                "id": "YT_214",
+                "type": "fw81",
                 "unit": "mm",
                 "props": {
                     "x": 3.15,
@@ -663,8 +663,8 @@
                 }
             },
             {
-                "id": "N2V_220",
-                "type": "kvs3",
+                "id": "YT_220",
+                "type": "g0qb",
                 "unit": "mm",
                 "props": {
                     "x": 0,
@@ -681,8 +681,8 @@
                 }
             },
             {
-                "id": "N2V_223",
-                "type": "kv2c",
+                "id": "YT_223",
+                "type": "fyh6",
                 "unit": "mm",
                 "props": {
                     "x": 8.59,
@@ -704,8 +704,8 @@
                 }
             },
             {
-                "id": "N2V_236",
-                "type": "kul6",
+                "id": "YT_236",
+                "type": "fw81",
                 "unit": "mm",
                 "props": {
                     "x": 42.75,

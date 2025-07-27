@@ -29,8 +29,8 @@
         },
         "elements": [
             {
-                "id": "N2V_lmowjlsk120",
-                "type": "k7p6",
+                "id": "YT_lmowjlsk120",
+                "type": "ag4y",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -47,8 +47,8 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "N2V_lmowjlsk140",
-                                            "type": "k8ex",
+                                            "id": "YT_lmowjlsk140",
+                                            "type": "ap5i",
                                             "unit": "mm",
                                             "props": {
                                                 "rows": [
@@ -59,8 +59,8 @@
                                                                 "width": 79.38,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "N2V_lmowjlsk191",
-                                                                        "type": "k8ex",
+                                                                        "id": "YT_lmowjlsk191",
+                                                                        "type": "ap5i",
                                                                         "unit": "mm",
                                                                         "props": {
                                                                             "rows": [
@@ -71,8 +71,8 @@
                                                                                             "width": 68.78,
                                                                                             "elements": [
                                                                                                 {
-                                                                                                    "id": "N2V_lmowjlsk214",
-                                                                                                    "type": "kvs3",
+                                                                                                    "id": "YT_lmowjlsk214",
+                                                                                                    "type": "g0qb",
                                                                                                     "unit": "mm",
                                                                                                     "props": {
                                                                                                         "x": 7.67,
@@ -167,8 +167,8 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "N2V_lmowjlsk234",
-                                            "type": "k8ni",
+                                            "id": "YT_lmowjlsk234",
+                                            "type": "ay62",
                                             "unit": "mm",
                                             "props": {
                                                 "rows": [
@@ -179,8 +179,8 @@
                                                                 "height": 79.38,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "N2V_lmowjlsk255",
-                                                                        "type": "k8ni",
+                                                                        "id": "YT_lmowjlsk255",
+                                                                        "type": "ay62",
                                                                         "unit": "mm",
                                                                         "props": {
                                                                             "rows": [
@@ -191,8 +191,8 @@
                                                                                             "height": 68.78,
                                                                                             "elements": [
                                                                                                 {
-                                                                                                    "id": "N2V_lmowjlsk301",
-                                                                                                    "type": "lc8c",
+                                                                                                    "id": "YT_lmowjlsk301",
+                                                                                                    "type": "la1z",
                                                                                                     "unit": "mm",
                                                                                                     "props": {
                                                                                                         "x": 2.97,
@@ -308,8 +308,8 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "N2V_lmowjlsk314",
-                                            "type": "k7p6",
+                                            "id": "YT_lmowjlsk314",
+                                            "type": "ag4y",
                                             "unit": "mm",
                                             "props": {
                                                 "rows": [
@@ -337,8 +337,8 @@
                                                                 "colspan": 1,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "N2V_lmowjlsk332",
-                                                                        "type": "kvs3",
+                                                                        "id": "YT_lmowjlsk332",
+                                                                        "type": "g0qb",
                                                                         "unit": "mm",
                                                                         "props": {
                                                                             "x": 9.72,
@@ -382,8 +382,8 @@
                                                                 "bBottom": true,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "N2V_lmowjlsk337",
-                                                                        "type": "lbr6",
+                                                                        "id": "YT_lmowjlsk337",
+                                                                        "type": "l7su",
                                                                         "unit": "mm",
                                                                         "props": {
                                                                             "x": 9.71,
@@ -472,8 +472,8 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "N2V_lmowjlsk358",
-                                            "type": "lc8c",
+                                            "id": "YT_lmowjlsk358",
+                                            "type": "la1z",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 8.33,
@@ -507,8 +507,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_lmowjlsk370",
-                                            "type": "kul6",
+                                            "id": "YT_lmowjlsk370",
+                                            "type": "fw81",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 8.33,
@@ -550,8 +550,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "N2V_lmowjlsk391",
-                                            "type": "lbr6",
+                                            "id": "YT_lmowjlsk391",
+                                            "type": "l7su",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 8.33,
@@ -569,8 +569,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_lmowjlsk394",
-                                            "type": "k8ex",
+                                            "id": "YT_lmowjlsk394",
+                                            "type": "ap5i",
                                             "unit": "mm",
                                             "props": {
                                                 "rows": [
@@ -581,8 +581,8 @@
                                                                 "width": 79.38,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "N2V_lmowjlsk398",
-                                                                        "type": "kul6",
+                                                                        "id": "YT_lmowjlsk398",
+                                                                        "type": "fw81",
                                                                         "unit": "mm",
                                                                         "props": {
                                                                             "x": 12.96,

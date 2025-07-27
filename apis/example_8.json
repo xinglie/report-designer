@@ -20,8 +20,8 @@
         "g": [],
         "elements": [
             {
-                "id": "N2V_114",
-                "type": "k780",
+                "id": "YT_114",
+                "type": "a74e",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -32,8 +32,8 @@
                                     "width": 193.92,
                                     "elements": [
                                         {
-                                            "id": "N2V_115",
-                                            "type": "kul6",
+                                            "id": "YT_115",
+                                            "type": "fw81",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 120.11,
@@ -70,8 +70,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_116",
-                                            "type": "kul6",
+                                            "id": "YT_116",
+                                            "type": "fw81",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 46.7,
@@ -108,8 +108,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_117",
-                                            "type": "kul6",
+                                            "id": "YT_117",
+                                            "type": "fw81",
                                             "unit": "mm",
                                             "props": {
                                                 "pinX": false,
@@ -148,8 +148,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_118",
-                                            "type": "kvs3",
+                                            "id": "YT_118",
+                                            "type": "g0qb",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 5.32,
@@ -165,8 +165,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_119",
-                                            "type": "kul6",
+                                            "id": "YT_119",
+                                            "type": "fw81",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 13.52,
@@ -203,8 +203,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_120",
-                                            "type": "kvs3",
+                                            "id": "YT_120",
+                                            "type": "g0qb",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 38.11,
@@ -220,8 +220,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_121",
-                                            "type": "kul6",
+                                            "id": "YT_121",
+                                            "type": "fw81",
                                             "unit": "mm",
                                             "props": {
                                                 "pinX": false,
@@ -260,8 +260,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_122",
-                                            "type": "kvs3",
+                                            "id": "YT_122",
+                                            "type": "g0qb",
                                             "unit": "mm",
                                             "props": {
                                                 "pinX": false,
@@ -279,8 +279,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_123",
-                                            "type": "kul6",
+                                            "id": "YT_123",
+                                            "type": "fw81",
                                             "unit": "mm",
                                             "props": {
                                                 "pinX": false,
@@ -319,8 +319,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_124",
-                                            "type": "kvs3",
+                                            "id": "YT_124",
+                                            "type": "g0qb",
                                             "unit": "mm",
                                             "props": {
                                                 "pinX": false,
@@ -338,8 +338,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_125",
-                                            "type": "kul6",
+                                            "id": "YT_125",
+                                            "type": "fw81",
                                             "unit": "mm",
                                             "props": {
                                                 "pinX": false,
@@ -378,8 +378,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_126",
-                                            "type": "kvs3",
+                                            "id": "YT_126",
+                                            "type": "g0qb",
                                             "unit": "mm",
                                             "props": {
                                                 "pinX": false,
@@ -397,8 +397,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_127",
-                                            "type": "kul6",
+                                            "id": "YT_127",
+                                            "type": "fw81",
                                             "unit": "mm",
                                             "props": {
                                                 "pinX": false,
@@ -437,8 +437,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_128",
-                                            "type": "kvs3",
+                                            "id": "YT_128",
+                                            "type": "g0qb",
                                             "unit": "mm",
                                             "props": {
                                                 "pinX": false,
@@ -456,8 +456,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_129",
-                                            "type": "kul6",
+                                            "id": "YT_129",
+                                            "type": "fw81",
                                             "unit": "mm",
                                             "props": {
                                                 "pinX": false,
@@ -496,8 +496,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_130",
-                                            "type": "kvs3",
+                                            "id": "YT_130",
+                                            "type": "g0qb",
                                             "unit": "mm",
                                             "props": {
                                                 "pinX": false,
@@ -515,8 +515,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_131",
-                                            "type": "kul6",
+                                            "id": "YT_131",
+                                            "type": "fw81",
                                             "unit": "mm",
                                             "props": {
                                                 "pinX": false,
@@ -555,8 +555,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_132",
-                                            "type": "kvs3",
+                                            "id": "YT_132",
+                                            "type": "g0qb",
                                             "unit": "mm",
                                             "props": {
                                                 "pinX": false,
@@ -574,8 +574,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_133",
-                                            "type": "kvs3",
+                                            "id": "YT_133",
+                                            "type": "g0qb",
                                             "unit": "mm",
                                             "props": {
                                                 "pinX": false,
@@ -593,8 +593,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_134",
-                                            "type": "kul6",
+                                            "id": "YT_134",
+                                            "type": "fw81",
                                             "unit": "mm",
                                             "props": {
                                                 "pinX": false,
@@ -633,8 +633,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_135",
-                                            "type": "kvs3",
+                                            "id": "YT_135",
+                                            "type": "g0qb",
                                             "unit": "mm",
                                             "props": {
                                                 "pinX": false,
@@ -652,8 +652,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_136",
-                                            "type": "kul6",
+                                            "id": "YT_136",
+                                            "type": "fw81",
                                             "unit": "mm",
                                             "props": {
                                                 "pinX": false,
@@ -692,8 +692,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_137",
-                                            "type": "kvs3",
+                                            "id": "YT_137",
+                                            "type": "g0qb",
                                             "unit": "mm",
                                             "props": {
                                                 "pinX": false,
@@ -711,8 +711,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_138",
-                                            "type": "kul6",
+                                            "id": "YT_138",
+                                            "type": "fw81",
                                             "unit": "mm",
                                             "props": {
                                                 "pinX": false,
@@ -751,8 +751,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_139",
-                                            "type": "kvs3",
+                                            "id": "YT_139",
+                                            "type": "g0qb",
                                             "unit": "mm",
                                             "props": {
                                                 "pinX": false,
@@ -770,8 +770,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_140",
-                                            "type": "kul6",
+                                            "id": "YT_140",
+                                            "type": "fw81",
                                             "unit": "mm",
                                             "props": {
                                                 "pinX": false,
@@ -810,8 +810,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_141",
-                                            "type": "kvs3",
+                                            "id": "YT_141",
+                                            "type": "g0qb",
                                             "unit": "mm",
                                             "props": {
                                                 "pinX": false,
@@ -829,8 +829,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_142",
-                                            "type": "kul6",
+                                            "id": "YT_142",
+                                            "type": "fw81",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 5.32,
@@ -867,8 +867,8 @@
                                             }
                                         },
                                         {
-                                            "id": "N2V_250",
-                                            "type": "kul6",
+                                            "id": "YT_250",
+                                            "type": "fw81",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 135.59,

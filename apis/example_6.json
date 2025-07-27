@@ -21,8 +21,8 @@
         "g": [],
         "elements": [
             {
-                "id": "N2V_49",
-                "type": "kb1c",
+                "id": "YT_49",
+                "type": "bp7q",
                 "unit": "pc",
                 "props": {
                     "ext": {
@@ -52,8 +52,8 @@
                 }
             },
             {
-                "id": "N2V_50",
-                "type": "kb1c",
+                "id": "YT_50",
+                "type": "bp7q",
                 "unit": "pc",
                 "props": {
                     "ext": {
@@ -83,8 +83,8 @@
                 }
             },
             {
-                "id": "N2V_99",
-                "type": "k6i9",
+                "id": "YT_99",
+                "type": "a0cz",
                 "unit": "pc",
                 "props": {
                     "rows": [
