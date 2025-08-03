@@ -32,8 +32,8 @@
         },
         "elements": [
             {
-                "id": "YT_53",
-                "type": "fyh6",
+                "id": "UxMGM_53",
+                "type": "j1d1",
                 "unit": "px",
                 "props": {
                     "readonly": true,
@@ -60,8 +60,8 @@
                 }
             },
             {
-                "id": "YT_54",
-                "type": "d7b2",
+                "id": "UxMGM_54",
+                "type": "j0q4",
                 "unit": "px",
                 "props": {
                     "readonly": true,
@@ -77,7 +77,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "d7b2": "d7b2",
+                    "j0q4": "j0q4",
                     "imageWidth": 102,
                     "imageHeight": 102,
                     "backgroundX": 0,
@@ -87,8 +87,8 @@
                 }
             },
             {
-                "id": "YT_55",
-                "type": "fip7",
+                "id": "UxMGM_55",
+                "type": "j1aa",
                 "unit": "px",
                 "props": {
                     "readonly": true,
@@ -121,8 +121,8 @@
                 }
             },
             {
-                "id": "YT_56",
-                "type": "ag4y",
+                "id": "UxMGM_56",
+                "type": "izj1",
                 "unit": "px",
                 "props": {
                     "readonly": true,
@@ -140,8 +140,8 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "YT_57",
-                                            "type": "fw81",
+                                            "id": "UxMGM_57",
+                                            "type": "j1c4",
                                             "unit": "px",
                                             "props": {
                                                 "full": false,
@@ -196,8 +196,8 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "YT_58",
-                                            "type": "g0qb",
+                                            "id": "UxMGM_58",
+                                            "type": "j1dy",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": true,
@@ -260,8 +260,8 @@
                 }
             },
             {
-                "id": "YT_105",
-                "type": "ap5i",
+                "id": "UxMGM_105",
+                "type": "izu1",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -272,8 +272,8 @@
                                     "width": 300,
                                     "elements": [
                                         {
-                                            "id": "YT_110",
-                                            "type": "l7su",
+                                            "id": "UxMGM_110",
+                                            "type": "j2ta",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": true,

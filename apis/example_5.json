@@ -21,8 +21,8 @@
         "g": [],
         "elements": [
             {
-                "id": "YT_141",
-                "type": "bp7q",
+                "id": "UxMGM_141",
+                "type": "j07s",
                 "unit": "pc",
                 "props": {
                     "ext": {
@@ -52,8 +52,8 @@
                 }
             },
             {
-                "id": "YT_142",
-                "type": "bp7q",
+                "id": "UxMGM_142",
+                "type": "j07s",
                 "unit": "pc",
                 "props": {
                     "ext": {
@@ -83,8 +83,8 @@
                 }
             },
             {
-                "id": "YT_190",
-                "type": "a4v9",
+                "id": "UxMGM_190",
+                "type": "iz9v",
                 "unit": "pc",
                 "props": {
                     "rows": [
@@ -150,8 +150,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "YT_208",
-                                            "type": "fw81",
+                                            "id": "UxMGM_208",
+                                            "type": "j1c4",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 1.781,
@@ -205,8 +205,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "YT_236",
-                                            "type": "fw81",
+                                            "id": "UxMGM_236",
+                                            "type": "j1c4",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 1.281,
@@ -260,8 +260,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "YT_233",
-                                            "type": "fw81",
+                                            "id": "UxMGM_233",
+                                            "type": "j1c4",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 3.969,
@@ -315,8 +315,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "YT_228",
-                                            "type": "fw81",
+                                            "id": "UxMGM_228",
+                                            "type": "j1c4",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 3.094,

@@ -14,7 +14,7 @@
                 {
                     "name": "头像",
                     "key": "avatar",
-                    "use": "fyh6",
+                    "use": "j1d1",
                     "props": {
                         "width": 150,
                         "height": 150
@@ -264,7 +264,7 @@
                 {
                     "name": "片断1",
                     "key": "p1",
-                    "use": "b9fr",
+                    "use": "j051",
                     "props": {
                         "width": 500
                     }
@@ -272,7 +272,7 @@
                 {
                     "name": "片断2",
                     "key": "p2",
-                    "use": "b9fr",
+                    "use": "j051",
                     "props": {
                         "width": 500
                     }
@@ -309,12 +309,12 @@
             "fields": [
                 {
                     "name": "关系图数据表",
-                    "key": "k0z7"
+                    "key": "j2em"
                 },
                 {
                     "name": "词云",
-                    "key": "dn31",
-                    "use": "chart/dn31"
+                    "key": "j0sv",
+                    "use": "chart/j0sv"
                 },
                 {
                     "name": "轮播",
@@ -324,7 +324,7 @@
                         {
                             "name": "轮播图测试",
                             "key": "images",
-                            "use": "de2h"
+                            "use": "j0ry"
                         }
                     ]
                 }
@@ -384,7 +384,7 @@
                 },
                 {
                     "name": "数量",
-                    "key": "bg76"
+                    "key": "j06v"
                 },
                 {
                     "name": "折扣率",
@@ -468,7 +468,7 @@
                 },
                 {
                     "name": "富文本",
-                    "key": "bdy1"
+                    "key": "j05y"
                 },
                 {
                     "name": "审核数据",
@@ -530,7 +530,7 @@
                         },
                         {
                             "name": "创建时间",
-                            "key": "base/a9dj"
+                            "key": "base/izi4"
                         },
                         {
                             "name": "收银员",
@@ -593,7 +593,7 @@
                 {
                     "name": "基础数据批量添加",
                     "key": "base/name",
-                    "use": "fw81",
+                    "use": "j1c4",
                     "title": "超市名称",
                     "id": "receipt_base",
                     "props": {
@@ -604,8 +604,8 @@
                     "union": [
                         {
                             "name": "创建时间",
-                            "key": "base/a9dj",
-                            "use": "fw81",
+                            "key": "base/izi4",
+                            "use": "j1c4",
                             "offsetX": 0,
                             "offsetY": 40,
                             "id": "receipt_base",
@@ -618,7 +618,7 @@
                         {
                             "name": "收银员",
                             "key": "base/cashier",
-                            "use": "fw81",
+                            "use": "j1c4",
                             "id": "receipt_base",
                             "offsetX": 160,
                             "offsetY": 40,

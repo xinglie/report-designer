@@ -24,8 +24,8 @@
         "g": [],
         "elements": [
             {
-                "id": "YT_lfxf57u2119",
-                "type": "akn8",
+                "id": "UxMGM_lfxf57u2119",
+                "type": "izt4",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -36,8 +36,8 @@
                                     "width": 209.79,
                                     "elements": [
                                         {
-                                            "id": "YT_lfxf57u2141",
-                                            "type": "a9dj",
+                                            "id": "UxMGM_lfxf57u2141",
+                                            "type": "izi4",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 2.15,
@@ -99,8 +99,8 @@
                 }
             },
             {
-                "id": "YT_lfxf57u2125",
-                "type": "aie3",
+                "id": "UxMGM_lfxf57u2125",
+                "type": "izs7",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -141,8 +141,8 @@
                 }
             },
             {
-                "id": "YT_lfxf57u2175",
-                "type": "la1z",
+                "id": "UxMGM_lfxf57u2175",
+                "type": "j2u7",
                 "unit": "mm",
                 "props": {
                     "x": 13.68,
@@ -158,8 +158,8 @@
                 }
             },
             {
-                "id": "YT_lfxf57u2191",
-                "type": "l7su",
+                "id": "UxMGM_lfxf57u2191",
+                "type": "j2ta",
                 "unit": "mm",
                 "props": {
                     "x": 81.29,
@@ -177,8 +177,8 @@
                 }
             },
             {
-                "id": "YT_lfxf57u2216",
-                "type": "l7su",
+                "id": "UxMGM_lfxf57u2216",
+                "type": "j2ta",
                 "unit": "mm",
                 "props": {
                     "x": 41.6,
@@ -196,8 +196,8 @@
                 }
             },
             {
-                "id": "YT_lfxf57u2221",
-                "type": "la1z",
+                "id": "UxMGM_lfxf57u2221",
+                "type": "j2u7",
                 "unit": "mm",
                 "props": {
                     "x": 101.12,

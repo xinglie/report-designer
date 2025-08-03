@@ -33,8 +33,8 @@
         },
         "elements": [
             {
-                "id": "YT_88",
-                "type": "svg/gn9p",
+                "id": "UxMGM_88",
+                "type": "svg/j1la",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -56,8 +56,8 @@
                 }
             },
             {
-                "id": "YT_90",
-                "type": "fyh6",
+                "id": "UxMGM_90",
+                "type": "j1d1",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -86,8 +86,8 @@
                 }
             },
             {
-                "id": "YT_128",
-                "type": "fyh6",
+                "id": "UxMGM_128",
+                "type": "j1d1",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -116,8 +116,8 @@
                 }
             },
             {
-                "id": "YT_145",
-                "type": "la1z",
+                "id": "UxMGM_145",
+                "type": "j2u7",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -153,8 +153,8 @@
                 }
             },
             {
-                "id": "YT_157",
-                "type": "d7b2",
+                "id": "UxMGM_157",
+                "type": "j0q4",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -171,7 +171,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "d7b2": "d7b2",
+                    "j0q4": "j0q4",
                     "imageWidth": 0,
                     "imageHeight": 0,
                     "backgroundX": 0,
@@ -182,8 +182,8 @@
                 }
             },
             {
-                "id": "YT_161",
-                "type": "g0qb",
+                "id": "UxMGM_161",
+                "type": "j1dy",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -202,8 +202,8 @@
                 }
             },
             {
-                "id": "YT_173",
-                "type": "svg/gn9p",
+                "id": "UxMGM_173",
+                "type": "svg/j1la",
                 "unit": "mm",
                 "props": {
                     "readonly": false,

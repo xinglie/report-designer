@@ -33,8 +33,8 @@
         },
         "elements": [
             {
-                "id": "YT_129",
-                "type": "fw81",
+                "id": "UxMGM_129",
+                "type": "j1c4",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -78,8 +78,8 @@
                 }
             },
             {
-                "id": "YT_144",
-                "type": "fyh6",
+                "id": "UxMGM_144",
+                "type": "j1d1",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -108,8 +108,8 @@
                 }
             },
             {
-                "id": "YT_150",
-                "type": "d7b2",
+                "id": "UxMGM_150",
+                "type": "j0q4",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -126,7 +126,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "d7b2": "d7b2",
+                    "j0q4": "j0q4",
                     "imageWidth": 0,
                     "imageHeight": 0,
                     "backgroundX": 0,
@@ -137,8 +137,8 @@
                 }
             },
             {
-                "id": "YT_153",
-                "type": "fn7h",
+                "id": "UxMGM_153",
+                "type": "j1b7",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -165,8 +165,8 @@
                 }
             },
             {
-                "id": "YT_157",
-                "type": "fip7",
+                "id": "UxMGM_157",
+                "type": "j1aa",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -200,8 +200,8 @@
                 }
             },
             {
-                "id": "YT_172",
-                "type": "f56d",
+                "id": "UxMGM_172",
+                "type": "j15p",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -235,8 +235,8 @@
                 }
             },
             {
-                "id": "YT_178",
-                "type": "f7fi",
+                "id": "UxMGM_178",
+                "type": "j16m",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -263,8 +263,8 @@
                 }
             },
             {
-                "id": "YT_181",
-                "type": "f9on",
+                "id": "UxMGM_181",
+                "type": "j17j",
                 "unit": "mm",
                 "props": {
                     "readonly": false,

@@ -29,8 +29,8 @@
         },
         "elements": [
             {
-                "id": "YT_lv1yoyfn445",
-                "type": "b0f7",
+                "id": "UxMGM_lv1yoyfn445",
+                "type": "j01d",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -61,8 +61,8 @@
                                     ],
                                     "elements": [
                                         {
-                                            "id": "YT_lv1z6ded259",
-                                            "type": "chart/cw1d",
+                                            "id": "UxMGM_lv1z6ded259",
+                                            "type": "chart/j0mg",
                                             "unit": "mm",
                                             "props": {
                                                 "full": true,
@@ -83,8 +83,8 @@
                                 {
                                     "elements": [
                                         {
-                                            "id": "YT_lv1yoyfn570",
-                                            "type": "chart/cn0t",
+                                            "id": "UxMGM_lv1yoyfn570",
+                                            "type": "chart/j0is",
                                             "unit": "mm",
                                             "props": {
                                                 "full": true,
@@ -131,8 +131,8 @@
                                 {
                                     "elements": [
                                         {
-                                            "id": "YT_lv1z7dt4245",
-                                            "type": "chart/gu14",
+                                            "id": "UxMGM_lv1z7dt4245",
+                                            "type": "chart/j1m7",
                                             "unit": "mm",
                                             "props": {
                                                 "full": true,
@@ -207,8 +207,8 @@
                                 {
                                     "elements": [
                                         {
-                                            "id": "YT_lv1z9nbm215",
-                                            "type": "chart/d0jn",
+                                            "id": "UxMGM_lv1z9nbm215",
+                                            "type": "chart/j0nd",
                                             "unit": "mm",
                                             "props": {
                                                 "full": 1,

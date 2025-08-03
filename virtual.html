@@ -3,11 +3,11 @@
 
 <head>
     <meta charset="utf-8" />
-    <meta rd="yvtelkr739.r"/>
+    <meta rd="pohjclrg2t.j"/>
 </head>
 
 <body>
-    <script src="dist/viewer.js?v=202507271247"></script>
+    <script src="dist/viewer.js?v=202508031418"></script>
     <script>
         //--－start--- 以下是环境检测提示，方便有问题时自查，正式使用时建议删除
         if(!CSS.supports('overflow:clip')||
@@ -50,7 +50,7 @@
             //只是这样预览器内部要去获取相应的数据，渲染时间上就会稍长
             //即：要么外部提供好内部需要的所有数据，内部只做渲染，速度快。要么外部不提供数据，内部自动获取，则渲染用时会变长
             let vf = await viewer.install({
-                version:'202507271247',//安装预览器，如果在其它代码中使用，请确保不要反复安装
+                version:'202508031418',//安装预览器，如果在其它代码中使用，请确保不要反复安装
                 use: 'default',//预览器内置了 IoT(iot) 流式分页(stack) 标签(label) 静态分页(default)　大屏看板(board) 五种预览，这里使用 静态分页(default) 进行内容渲染。另外获取board及iot的HTML是无意义的，所以当use是这2种类型时，是拿不到任何返回数据的
                 getFontFaceUrl: './apis/fontface.json',//如果在设计的时候使用了自定义字体，则这里一定要配置相应的字体接口，如果设计时未使用自定义字体则不需要配置。注意，当有自定义字体时，通常获得的样式中要包含字体文件，会比较大，这取决于字体文件的大小
                 latent: true,//一定要指定隐藏渲染
