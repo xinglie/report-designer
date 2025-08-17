@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <meta rd="pohjclrg2t.j"/>
+        <meta rd="rv99ir6a.ht"/>
         <meta name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
         <link type="image/x-icon" href="//gw.alicdn.com/tfs/TB1gRomUlr0gK0jSZFnXXbRRXXa-200-200.png" rel="shortcut icon">
@@ -24,7 +24,7 @@
             }
             #header{
                 height: 40px;
-                background-color:/*d-cb<*/var(--rd-cw)/*>d-cb*/;
+                background-color:/*d-cb<*/var(--rd-bm)/*>d-cb*/;
                 color:#fff;
                 padding: 0 40px 0 20px;
                 margin:10px 0;
@@ -102,7 +102,7 @@
         <div id="foot">
 
         </div>
-        <script src="dist/designer.js?v=202508031418"></script>
+        <script src="dist/designer.js?v=202508171322"></script>
         <script>
             //--－start--- 以下是环境检测提示，方便有问题时自查，正式使用时建议删除
             if(!CSS.supports('overflow:clip')||
@@ -118,10 +118,9 @@
             //---end---
             let setup=()=>{
                 designer.setup({
-                    version:'202508031418',
+                    version:'202508171322',
                     rootId:'app',
-                    split:true,//一定要配置split为true，表示拆分模式
-                    splitContainer:document.body,
+                    embed:true,//嵌入模式
                     panels:{//把内置的浮动面板渲染到现有的节点里
                         //内置的所有面板清单
                         /*
@@ -166,7 +165,7 @@
                     getTemplateContentUrl:'./apis/example_${id}.json',
                     getResourceUrl:'./apis/resource.json',
                     saveContentUrl:'./apis/content.json',
-                    request(request,url){//请求发起前对参数等相关数据进行二次修改，便于适配现有接口。
+                    request({url}){//请求发起前对参数等相关数据进行二次修改，便于适配现有接口。
                         //console.log('request',request,url);
                         if (url.startsWith('//unpkg.') ||
                             url.startsWith('//at.') ||

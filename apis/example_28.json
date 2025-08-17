@@ -30,8 +30,8 @@
         "g": [],
         "elements": [
             {
-                "id": "UxMGM_279",
-                "type": "iz81",
+                "id": "mnizdvh_279",
+                "type": "a01ruo",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -387,14 +387,14 @@
                     "bwidth": 1,
                     "btype": "solid",
                     "bcolor": "#000",
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "spacing": 30,
                     "eachPageLabel": true,
                     "headFirst": true,
                     "footLast": true,
                     "dynamicCols": true,
                     "avgDynamicColsWidth": "percent",
-                    "columnsPrint": true,
+                    "columns": true,
                     "hspace": 20,
                     "name": "数据表格",
                     "animations": []

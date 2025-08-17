@@ -31,14 +31,14 @@
         "elements": [
             {
                 "v": "202506261420",
-                "id": "UxMGM_lfukgpmn233",
-                "type": "flow/j2bv",
+                "id": "mnizdvh_lfukgpmn233",
+                "type": "flow/ahu8cf",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
-                    "fromId": "UxMGM_lfukgpmn217",
+                    "fromId": "mnizdvh_lfukgpmn217",
                     "fromKey": "p11",
-                    "toId": "UxMGM_lfukgpmn138",
+                    "toId": "mnizdvh_lfukgpmn138",
                     "toKey": "p7",
                     "x": 63.89,
                     "y": 42.445,
@@ -85,14 +85,14 @@
             },
             {
                 "v": "202506261420",
-                "id": "UxMGM_lfuncj18366",
-                "type": "flow/j2bv",
+                "id": "mnizdvh_lfuncj18366",
+                "type": "flow/ahu8cf",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
-                    "fromId": "UxMGM_lfukgpmn287",
+                    "fromId": "mnizdvh_lfukgpmn287",
                     "fromKey": "p15",
-                    "toId": "UxMGM_lfukgpmn138",
+                    "toId": "mnizdvh_lfukgpmn138",
                     "toKey": "p14",
                     "x": 127.54,
                     "y": 17.045,
@@ -139,14 +139,14 @@
             },
             {
                 "v": "202506261420",
-                "id": "UxMGM_lfuncj18361",
-                "type": "flow/j2bv",
+                "id": "mnizdvh_lfuncj18361",
+                "type": "flow/ahu8cf",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
-                    "fromId": "UxMGM_lfukgpmn287",
+                    "fromId": "mnizdvh_lfukgpmn287",
                     "fromKey": "p12",
-                    "toId": "UxMGM_lfukgpmn106",
+                    "toId": "mnizdvh_lfukgpmn106",
                     "toKey": "p11",
                     "x": 63.89,
                     "y": 33.985,
@@ -193,14 +193,14 @@
             },
             {
                 "v": "202506261420",
-                "id": "UxMGM_lfukgpmn228",
-                "type": "flow/j2bv",
+                "id": "mnizdvh_lfukgpmn228",
+                "type": "flow/ahu8cf",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
-                    "fromId": "UxMGM_lfukgpmn217",
+                    "fromId": "mnizdvh_lfukgpmn217",
                     "fromKey": "p8",
-                    "toId": "UxMGM_lfukgpmn106",
+                    "toId": "mnizdvh_lfukgpmn106",
                     "toKey": "p10",
                     "x": 7.011,
                     "y": 33.985,
@@ -255,14 +255,14 @@
             },
             {
                 "v": "202506261420",
-                "id": "UxMGM_lfukgpmn165",
-                "type": "flow/j2bv",
+                "id": "mnizdvh_lfukgpmn165",
+                "type": "flow/ahu8cf",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
-                    "fromId": "UxMGM_lfukgpmn106",
+                    "fromId": "mnizdvh_lfukgpmn106",
                     "fromKey": "p11",
-                    "toId": "UxMGM_lfukgpmn138",
+                    "toId": "mnizdvh_lfukgpmn138",
                     "toKey": "p12",
                     "x": 63.89,
                     "y": 23.395,
@@ -309,8 +309,8 @@
             },
             {
                 "v": "202506261420",
-                "id": "UxMGM_lfukgpmn106",
-                "type": "flow/j2em",
+                "id": "mnizdvh_lfukgpmn106",
+                "type": "flow/air2q9",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -350,8 +350,8 @@
             },
             {
                 "v": "202506261420",
-                "id": "UxMGM_lfukgpmn138",
-                "type": "flow/j2em",
+                "id": "mnizdvh_lfukgpmn138",
+                "type": "flow/air2q9",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -399,8 +399,8 @@
             },
             {
                 "v": "202506261420",
-                "id": "UxMGM_lfukgpmn217",
-                "type": "flow/j2em",
+                "id": "mnizdvh_lfukgpmn217",
+                "type": "flow/air2q9",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -440,8 +440,8 @@
             },
             {
                 "v": "202506261420",
-                "id": "UxMGM_lfukgpmn287",
-                "type": "flow/j2em",
+                "id": "mnizdvh_lfukgpmn287",
+                "type": "flow/air2q9",
                 "unit": "mm",
                 "props": {
                     "readonly": false,

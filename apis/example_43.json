@@ -18,8 +18,8 @@
         "g": [],
         "elements": [
             {
-                "id": "UxMGM_133",
-                "type": "izt4",
+                "id": "mnizdvh_133",
+                "type": "a143at",
                 "props": {
                     "rows": [
                         {
@@ -29,8 +29,8 @@
                                     "width": 791,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_142",
-                                            "type": "j07s",
+                                            "id": "mnizdvh_142",
+                                            "type": "a2mtxv",
                                             "props": {
                                                 "ext": {},
                                                 "x": 580,
@@ -87,8 +87,8 @@
                 }
             },
             {
-                "id": "UxMGM_360",
-                "type": "izs7",
+                "id": "mnizdvh_360",
+                "type": "a0ym8i",
                 "props": {
                     "rows": [
                         {
@@ -98,8 +98,8 @@
                                     "width": 791,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_387",
-                                            "type": "j1dy",
+                                            "id": "mnizdvh_387",
+                                            "type": "a9mmvx",
                                             "props": {
                                                 "x": 44,
                                                 "y": 10,
@@ -113,8 +113,8 @@
                                             }
                                         },
                                         {
-                                            "id": "UxMGM_533",
-                                            "type": "j1dy",
+                                            "id": "mnizdvh_533",
+                                            "type": "a9mmvx",
                                             "props": {
                                                 "x": 451,
                                                 "y": 10,
@@ -128,8 +128,8 @@
                                             }
                                         },
                                         {
-                                            "id": "UxMGM_571",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_571",
+                                            "type": "a9borb",
                                             "props": {
                                                 "x": 273,
                                                 "y": -17,
@@ -191,8 +191,8 @@
                 }
             },
             {
-                "id": "UxMGM_607",
-                "type": "j1c4",
+                "id": "mnizdvh_607",
+                "type": "a9borb",
                 "props": {
                     "x": 283,
                     "y": 58,
@@ -222,8 +222,8 @@
                 }
             },
             {
-                "id": "UxMGM_653",
-                "type": "j1d1",
+                "id": "mnizdvh_653",
+                "type": "a9h5tm",
                 "props": {
                     "x": 266,
                     "y": 115,
@@ -243,8 +243,8 @@
                 }
             },
             {
-                "id": "UxMGM_691",
-                "type": "j1c4",
+                "id": "mnizdvh_691",
+                "type": "a9borb",
                 "props": {
                     "x": 267,
                     "y": 938,
@@ -274,8 +274,8 @@
                 }
             },
             {
-                "id": "UxMGM_710",
-                "type": "iz81",
+                "id": "mnizdvh_710",
+                "type": "a01ruo",
                 "props": {
                     "rows": [
                         {
@@ -893,7 +893,7 @@
                     "bwidth": 1,
                     "btype": "solid",
                     "bcolor": "#000000",
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "spacing": 12,
                     "hideTotal": true,
                     "hideFoot": true,

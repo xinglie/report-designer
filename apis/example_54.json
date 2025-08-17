@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "UxMGM_lhpo5vzn324",
-                "type": "izt4",
+                "id": "mnizdvh_lhpo5vzn324",
+                "type": "a143at",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -43,8 +43,8 @@
                                     "width": 209.79,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_ljo0c5hr142",
-                                            "type": "j07s",
+                                            "id": "mnizdvh_ljo0c5hr142",
+                                            "type": "a2mtxv",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -103,8 +103,8 @@
                 }
             },
             {
-                "id": "UxMGM_lhpo5vzn163",
-                "type": "j1c4",
+                "id": "mnizdvh_lhpo5vzn163",
+                "type": "a9borb",
                 "unit": "mm",
                 "props": {
                     "x": 19.04,
@@ -145,8 +145,8 @@
                 }
             },
             {
-                "id": "UxMGM_lhpo5vzn212",
-                "type": "j1c4",
+                "id": "mnizdvh_lhpo5vzn212",
+                "type": "a9borb",
                 "unit": "mm",
                 "props": {
                     "x": 13.58,
@@ -186,8 +186,8 @@
                 }
             },
             {
-                "id": "UxMGM_lhpo5vzn260",
-                "type": "izs7",
+                "id": "mnizdvh_lhpo5vzn260",
+                "type": "a0ym8i",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -198,8 +198,8 @@
                                     "width": 209.79,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_ljo0gf4n155",
-                                            "type": "j1dy",
+                                            "id": "mnizdvh_ljo0gf4n155",
+                                            "type": "a9mmvx",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -217,8 +217,8 @@
                                             }
                                         },
                                         {
-                                            "id": "UxMGM_ljo0gf4n159",
-                                            "type": "j2u7",
+                                            "id": "mnizdvh_ljo0gf4n159",
+                                            "type": "am8z7a",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -253,8 +253,8 @@
                                             }
                                         },
                                         {
-                                            "id": "UxMGM_ljo0gf4n170",
-                                            "type": "j2ta",
+                                            "id": "mnizdvh_ljo0gf4n170",
+                                            "type": "am3i4z",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -304,8 +304,8 @@
                 }
             },
             {
-                "id": "UxMGM_lhpo5vzn460",
-                "type": "iz9v",
+                "id": "mnizdvh_lhpo5vzn460",
+                "type": "a0cpza",
                 "unit": "mm",
                 "props": {
                     "bind": {
@@ -353,8 +353,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_lhuca9mt219",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_lhuca9mt219",
+                                            "type": "a9borb",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -398,8 +398,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_lhuca9mt281",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_lhuca9mt281",
+                                            "type": "a9borb",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -448,8 +448,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_lhpo5vzn464",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_lhpo5vzn464",
+                                            "type": "a9borb",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -502,8 +502,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_lhuca9mt305",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_lhuca9mt305",
+                                            "type": "a9borb",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -606,7 +606,7 @@
                     "width": 79.62,
                     "height": 39.96,
                     "alpha": 1,
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
@@ -619,7 +619,7 @@
                     "match": true,
                     "dynamicCols": true,
                     "avgColsWidth": 3,
-                    "columnsPrint": false,
+                    "columns": false,
                     "hspace": 5.29,
                     "rowsMax": 0,
                     "name": "自由表格-1",
@@ -627,8 +627,8 @@
                 }
             },
             {
-                "id": "UxMGM_lhpo5vzn547",
-                "type": "iz8y",
+                "id": "mnizdvh_lhpo5vzn547",
+                "type": "a078wz",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -748,7 +748,7 @@
                     "rotate": 0,
                     "hspace": 5.292,
                     "vspace": 5.292,
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
@@ -757,8 +757,8 @@
                 }
             },
             {
-                "id": "UxMGM_lhpo5vzn595",
-                "type": "iz81",
+                "id": "mnizdvh_lhpo5vzn595",
+                "type": "a01ruo",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -990,7 +990,7 @@
                     "width": 79.62,
                     "height": 39.96,
                     "alpha": 1,
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
@@ -1003,7 +1003,7 @@
                     "footLast": true,
                     "dynamicCols": true,
                     "avgColsWidth": 3,
-                    "columnsPrint": false,
+                    "columns": false,
                     "hspace": 5.29,
                     "rowsMax": 0,
                     "singleRowScale": true,
@@ -1012,8 +1012,8 @@
                 }
             },
             {
-                "id": "UxMGM_lhpo5vzn651",
-                "type": "j19d",
+                "id": "mnizdvh_lhpo5vzn651",
+                "type": "a8v9ke",
                 "unit": "mm",
                 "props": {
                     "x": 134.14,
@@ -1033,8 +1033,8 @@
                 }
             },
             {
-                "id": "UxMGM_lhuca9mt137",
-                "type": "j2u7",
+                "id": "mnizdvh_lhuca9mt137",
+                "type": "am8z7a",
                 "unit": "mm",
                 "props": {
                     "x": 42.25,
@@ -1068,8 +1068,8 @@
                 }
             },
             {
-                "id": "UxMGM_ljo0c5hr219",
-                "type": "iz81",
+                "id": "mnizdvh_ljo0c5hr219",
+                "type": "a01ruo",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -1301,7 +1301,7 @@
                     "width": 79.62,
                     "height": 39.96,
                     "alpha": 1,
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
@@ -1314,7 +1314,7 @@
                     "footLast": true,
                     "dynamicCols": true,
                     "avgColsWidth": 3,
-                    "columnsPrint": false,
+                    "columns": false,
                     "hspace": 5.29,
                     "rowsMax": 0,
                     "singleRowScale": true,
@@ -1323,8 +1323,8 @@
                 }
             },
             {
-                "id": "UxMGM_ljo0c5hr222",
-                "type": "j1c4",
+                "id": "mnizdvh_ljo0c5hr222",
+                "type": "a9borb",
                 "unit": "mm",
                 "props": {
                     "x": 116.54,
@@ -1364,8 +1364,8 @@
                 }
             },
             {
-                "id": "UxMGM_ljo0c5hr239",
-                "type": "iz81",
+                "id": "mnizdvh_ljo0c5hr239",
+                "type": "a01ruo",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -1763,7 +1763,7 @@
                     "width": 90.28,
                     "height": 39.96,
                     "alpha": 1,
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
@@ -1777,7 +1777,7 @@
                     "padRows": true,
                     "dynamicCols": true,
                     "avgColsWidth": 3,
-                    "columnsPrint": false,
+                    "columns": false,
                     "hspace": 5.29,
                     "rowsMax": 0,
                     "singleRowScale": true,

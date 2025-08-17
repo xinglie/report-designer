@@ -5,12 +5,12 @@
         "y": [],
         "g": [
             [
-                "UxMGM_lh4ey1ha147",
-                "UxMGM_10",
-                "UxMGM_11",
-                "UxMGM_12",
-                "UxMGM_13",
-                "UxMGM_14"
+                "mnizdvh_lh4ey1ha147",
+                "mnizdvh_10",
+                "mnizdvh_11",
+                "mnizdvh_12",
+                "mnizdvh_13",
+                "mnizdvh_14"
             ]
         ],
         "page": {
@@ -40,8 +40,8 @@
         },
         "elements": [
             {
-                "id": "UxMGM_lh4ey1ha147",
-                "type": "svg/j27a",
+                "id": "mnizdvh_lh4ey1ha147",
+                "type": "svg/ah2v0w",
                 "unit": "px",
                 "props": {
                     "x": 493,
@@ -72,8 +72,8 @@
                 }
             },
             {
-                "id": "UxMGM_7",
-                "type": "j1c4",
+                "id": "mnizdvh_7",
+                "type": "a9borb",
                 "unit": "px",
                 "props": {
                     "x": 238,
@@ -104,8 +104,8 @@
                 }
             },
             {
-                "id": "UxMGM_8",
-                "type": "j1c4",
+                "id": "mnizdvh_8",
+                "type": "a9borb",
                 "unit": "px",
                 "props": {
                     "x": 36,
@@ -136,8 +136,8 @@
                 }
             },
             {
-                "id": "UxMGM_10",
-                "type": "j1c4",
+                "id": "mnizdvh_10",
+                "type": "a9borb",
                 "unit": "px",
                 "props": {
                     "x": 468,
@@ -168,8 +168,8 @@
                 }
             },
             {
-                "id": "UxMGM_11",
-                "type": "j1c4",
+                "id": "mnizdvh_11",
+                "type": "a9borb",
                 "unit": "px",
                 "props": {
                     "x": 726,
@@ -200,8 +200,8 @@
                 }
             },
             {
-                "id": "UxMGM_12",
-                "type": "j1c4",
+                "id": "mnizdvh_12",
+                "type": "a9borb",
                 "unit": "px",
                 "props": {
                     "x": 660,
@@ -232,8 +232,8 @@
                 }
             },
             {
-                "id": "UxMGM_13",
-                "type": "j1c4",
+                "id": "mnizdvh_13",
+                "type": "a9borb",
                 "unit": "px",
                 "props": {
                     "x": 682,
@@ -264,8 +264,8 @@
                 }
             },
             {
-                "id": "UxMGM_14",
-                "type": "j1c4",
+                "id": "mnizdvh_14",
+                "type": "a9borb",
                 "unit": "px",
                 "props": {
                     "x": 656,
@@ -296,8 +296,8 @@
                 }
             },
             {
-                "id": "UxMGM_16",
-                "type": "j1c4",
+                "id": "mnizdvh_16",
+                "type": "a9borb",
                 "unit": "px",
                 "props": {
                     "x": 39,
@@ -329,8 +329,8 @@
                 }
             },
             {
-                "id": "UxMGM_17",
-                "type": "j0oa",
+                "id": "mnizdvh_17",
+                "type": "a5dd3d",
                 "unit": "px",
                 "props": {
                     "x": 76,
@@ -350,8 +350,8 @@
                 }
             },
             {
-                "id": "UxMGM_18",
-                "type": "j0oa",
+                "id": "mnizdvh_18",
+                "type": "a5dd3d",
                 "unit": "px",
                 "props": {
                     "x": 76,
@@ -371,8 +371,8 @@
                 }
             },
             {
-                "id": "UxMGM_75",
-                "type": "svg/j2rg",
+                "id": "mnizdvh_75",
+                "type": "svg/alsk0d",
                 "unit": "px",
                 "props": {
                     "x": 61,

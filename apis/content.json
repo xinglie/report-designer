@@ -21,8 +21,8 @@
         "g": [],
         "elements": [
             {
-                "id": "UxMGM_335",
-                "type": "iz81",
+                "id": "mnizdvh_335",
+                "type": "a01ruo",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -57,8 +57,8 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "UxMGM_336",
-                                            "type": "iz8y",
+                                            "id": "mnizdvh_336",
+                                            "type": "a078wz",
                                             "unit": "px",
                                             "props": {
                                                 "rows": [
@@ -205,14 +205,14 @@
                                                 "bwidth": 1,
                                                 "btype": "solid",
                                                 "bcolor": "#000000",
-                                                "bdeed": "collapse",
+                                                "bdeed": 2,
                                                 "name": "单元格",
                                                 "locked": false
                                             }
                                         },
                                         {
-                                            "id": "UxMGM_386",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_386",
+                                            "type": "a9borb",
                                             "unit": "px",
                                             "props": {
                                                 "pinX": false,
@@ -591,8 +591,8 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "UxMGM_337",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_337",
+                                            "type": "a9borb",
                                             "unit": "px",
                                             "props": {
                                                 "x": 32,
@@ -645,7 +645,7 @@
                     "bwidth": 1,
                     "btype": "solid",
                     "bcolor": "#000000",
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "spacing": 30,
                     "headFirst": true,
                     "footLast": true,

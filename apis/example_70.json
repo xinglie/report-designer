@@ -32,8 +32,8 @@
         },
         "elements": [
             {
-                "id": "UxMGM_luvcf0ji507",
-                "type": "iz81",
+                "id": "mnizdvh_luvcf0ji507",
+                "type": "a01ruo",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -292,7 +292,7 @@
                     "width": 87.15,
                     "height": 89.672,
                     "alpha": 1,
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#e6e6e67d",
@@ -305,7 +305,7 @@
                     "footLast": true,
                     "dynamicCols": true,
                     "avgColsWidth": 3,
-                    "columnsPrint": true,
+                    "columns": true,
                     "hspace": 5.292,
                     "rowsMax": 0,
                     "singleRowScale": true,

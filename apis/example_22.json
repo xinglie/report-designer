@@ -20,8 +20,8 @@
         "g": [],
         "elements": [
             {
-                "id": "UxMGM_143",
-                "type": "iz9v",
+                "id": "mnizdvh_143",
+                "type": "a0cpza",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -38,8 +38,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_152",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_152",
+                                            "type": "a9borb",
                                             "unit": "px",
                                             "props": {
                                                 "x": 0,
@@ -93,8 +93,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_328",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_328",
+                                            "type": "a9borb",
                                             "unit": "px",
                                             "props": {
                                                 "x": 13,
@@ -139,8 +139,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_355",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_355",
+                                            "type": "a9borb",
                                             "unit": "px",
                                             "props": {
                                                 "pinX": false,
@@ -191,8 +191,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_381",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_381",
+                                            "type": "a9borb",
                                             "unit": "px",
                                             "props": {
                                                 "pinX": false,
@@ -247,8 +247,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_407",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_407",
+                                            "type": "a9borb",
                                             "unit": "px",
                                             "props": {
                                                 "pinX": false,
@@ -299,8 +299,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_433",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_433",
+                                            "type": "a9borb",
                                             "unit": "px",
                                             "props": {
                                                 "pinX": false,
@@ -356,8 +356,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_255",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_255",
+                                            "type": "a9borb",
                                             "unit": "px",
                                             "props": {
                                                 "x": 13,
@@ -407,8 +407,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_273",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_273",
+                                            "type": "a9borb",
                                             "unit": "px",
                                             "props": {
                                                 "x": 21,
@@ -462,8 +462,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_276",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_276",
+                                            "type": "a9borb",
                                             "unit": "px",
                                             "props": {
                                                 "x": 26,
@@ -521,8 +521,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_279",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_279",
+                                            "type": "a9borb",
                                             "unit": "px",
                                             "props": {
                                                 "x": 31,
@@ -576,8 +576,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_282",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_282",
+                                            "type": "a9borb",
                                             "unit": "px",
                                             "props": {
                                                 "x": 39,
@@ -695,8 +695,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_297",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_297",
+                                            "type": "a9borb",
                                             "unit": "px",
                                             "props": {
                                                 "x": 39,
@@ -738,8 +738,8 @@
                                             }
                                         },
                                         {
-                                            "id": "UxMGM_315",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_315",
+                                            "type": "a9borb",
                                             "unit": "px",
                                             "props": {
                                                 "x": 257,
@@ -797,7 +797,7 @@
                     "bwidth": 1,
                     "btype": "solid",
                     "bcolor": "#000000",
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "spacing": 30,
                     "headFirst": true,
                     "footLast": true,

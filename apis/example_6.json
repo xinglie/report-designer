@@ -21,8 +21,8 @@
         "g": [],
         "elements": [
             {
-                "id": "UxMGM_49",
-                "type": "j07s",
+                "id": "mnizdvh_49",
+                "type": "a2mtxv",
                 "unit": "pc",
                 "props": {
                     "ext": {
@@ -52,8 +52,8 @@
                 }
             },
             {
-                "id": "UxMGM_50",
-                "type": "j07s",
+                "id": "mnizdvh_50",
+                "type": "a2mtxv",
                 "unit": "pc",
                 "props": {
                     "ext": {
@@ -83,8 +83,8 @@
                 }
             },
             {
-                "id": "UxMGM_99",
-                "type": "iz81",
+                "id": "mnizdvh_99",
+                "type": "a01ruo",
                 "unit": "pc",
                 "props": {
                     "rows": [
@@ -882,7 +882,7 @@
                     "bwidth": 0.063,
                     "btype": "solid",
                     "bcolor": "#000000",
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "spacing": 1.875,
                     "headFirst": true,
                     "footLast": true,

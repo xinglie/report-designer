@@ -29,8 +29,8 @@
         },
         "elements": [
             {
-                "id": "UxMGM_lmowjlsk120",
-                "type": "izj1",
+                "id": "mnizdvh_lmowjlsk120",
+                "type": "a0t567",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -47,8 +47,8 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_lmowjlsk140",
-                                            "type": "izu1",
+                                            "id": "mnizdvh_lmowjlsk140",
+                                            "type": "a19kd4",
                                             "unit": "mm",
                                             "props": {
                                                 "rows": [
@@ -59,8 +59,8 @@
                                                                 "width": 79.38,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "UxMGM_lmowjlsk191",
-                                                                        "type": "izu1",
+                                                                        "id": "mnizdvh_lmowjlsk191",
+                                                                        "type": "a19kd4",
                                                                         "unit": "mm",
                                                                         "props": {
                                                                             "rows": [
@@ -71,8 +71,8 @@
                                                                                             "width": 68.78,
                                                                                             "elements": [
                                                                                                 {
-                                                                                                    "id": "UxMGM_lmowjlsk214",
-                                                                                                    "type": "j1dy",
+                                                                                                    "id": "mnizdvh_lmowjlsk214",
+                                                                                                    "type": "a9mmvx",
                                                                                                     "unit": "mm",
                                                                                                     "props": {
                                                                                                         "x": 7.67,
@@ -167,8 +167,8 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_lmowjlsk234",
-                                            "type": "j00g",
+                                            "id": "mnizdvh_lmowjlsk234",
+                                            "type": "a1f1ff",
                                             "unit": "mm",
                                             "props": {
                                                 "rows": [
@@ -179,8 +179,8 @@
                                                                 "height": 79.38,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "UxMGM_lmowjlsk255",
-                                                                        "type": "j00g",
+                                                                        "id": "mnizdvh_lmowjlsk255",
+                                                                        "type": "a1f1ff",
                                                                         "unit": "mm",
                                                                         "props": {
                                                                             "rows": [
@@ -191,8 +191,8 @@
                                                                                             "height": 68.78,
                                                                                             "elements": [
                                                                                                 {
-                                                                                                    "id": "UxMGM_lmowjlsk301",
-                                                                                                    "type": "j2u7",
+                                                                                                    "id": "mnizdvh_lmowjlsk301",
+                                                                                                    "type": "am8z7a",
                                                                                                     "unit": "mm",
                                                                                                     "props": {
                                                                                                         "x": 2.97,
@@ -308,8 +308,8 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_lmowjlsk314",
-                                            "type": "izj1",
+                                            "id": "mnizdvh_lmowjlsk314",
+                                            "type": "a0t567",
                                             "unit": "mm",
                                             "props": {
                                                 "rows": [
@@ -337,8 +337,8 @@
                                                                 "colspan": 1,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "UxMGM_lmowjlsk332",
-                                                                        "type": "j1dy",
+                                                                        "id": "mnizdvh_lmowjlsk332",
+                                                                        "type": "a9mmvx",
                                                                         "unit": "mm",
                                                                         "props": {
                                                                             "x": 9.72,
@@ -382,8 +382,8 @@
                                                                 "bBottom": true,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "UxMGM_lmowjlsk337",
-                                                                        "type": "j2ta",
+                                                                        "id": "mnizdvh_lmowjlsk337",
+                                                                        "type": "am3i4z",
                                                                         "unit": "mm",
                                                                         "props": {
                                                                             "x": 9.71,
@@ -454,7 +454,7 @@
                                                 "bwidth": 0.265,
                                                 "btype": "solid",
                                                 "bcolor": "#000",
-                                                "bdeed": "collapse",
+                                                "bdeed": 2,
                                                 "name": "表格-2",
                                                 "animations": []
                                             }
@@ -472,8 +472,8 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_lmowjlsk358",
-                                            "type": "j2u7",
+                                            "id": "mnizdvh_lmowjlsk358",
+                                            "type": "am8z7a",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 8.33,
@@ -507,8 +507,8 @@
                                             }
                                         },
                                         {
-                                            "id": "UxMGM_lmowjlsk370",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_lmowjlsk370",
+                                            "type": "a9borb",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 8.33,
@@ -550,8 +550,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_lmowjlsk391",
-                                            "type": "j2ta",
+                                            "id": "mnizdvh_lmowjlsk391",
+                                            "type": "am3i4z",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 8.33,
@@ -569,8 +569,8 @@
                                             }
                                         },
                                         {
-                                            "id": "UxMGM_lmowjlsk394",
-                                            "type": "izu1",
+                                            "id": "mnizdvh_lmowjlsk394",
+                                            "type": "a19kd4",
                                             "unit": "mm",
                                             "props": {
                                                 "rows": [
@@ -581,8 +581,8 @@
                                                                 "width": 79.38,
                                                                 "elements": [
                                                                     {
-                                                                        "id": "UxMGM_lmowjlsk398",
-                                                                        "type": "j1c4",
+                                                                        "id": "mnizdvh_lmowjlsk398",
+                                                                        "type": "a9borb",
                                                                         "unit": "mm",
                                                                         "props": {
                                                                             "x": 12.96,
@@ -661,7 +661,7 @@
                     "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "name": "表格-1",
                     "animations": []
                 }

@@ -18,8 +18,8 @@
         "g": [],
         "elements": [
             {
-                "id": "UxMGM_80",
-                "type": "iz81",
+                "id": "mnizdvh_80",
+                "type": "a01ruo",
                 "props": {
                     "rows": [
                         {
@@ -53,8 +53,8 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "UxMGM_325",
-                                            "type": "iz8y",
+                                            "id": "mnizdvh_325",
+                                            "type": "a078wz",
                                             "props": {
                                                 "rows": [
                                                     {
@@ -198,7 +198,7 @@
                                                 "bwidth": 1,
                                                 "btype": "solid",
                                                 "bcolor": "#000000",
-                                                "bdeed": "collapse",
+                                                "bdeed": 2,
                                                 "name": "单元格"
                                             }
                                         }
@@ -542,8 +542,8 @@
                                     "textFormat": "",
                                     "elements": [
                                         {
-                                            "id": "UxMGM_222",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_222",
+                                            "type": "a9borb",
                                             "props": {
                                                 "x": 32,
                                                 "y": 22,
@@ -589,7 +589,7 @@
                     "bwidth": 1,
                     "btype": "solid",
                     "bcolor": "#000000",
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "spacing": 30,
                     "headFirst": true,
                     "footLast": true,

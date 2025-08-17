@@ -26,8 +26,8 @@
         "g": [],
         "elements": [
             {
-                "id": "UxMGM_101",
-                "type": "iz8y",
+                "id": "mnizdvh_101",
+                "type": "a078wz",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -171,7 +171,7 @@
                     "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "name": "单元格",
                     "locked": false
                 }

@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "UxMGM_87",
-                "type": "j1c4",
+                "id": "mnizdvh_87",
+                "type": "a9borb",
                 "unit": "px",
                 "props": {
                     "x": 358,
@@ -66,8 +66,8 @@
                 }
             },
             {
-                "id": "UxMGM_197",
-                "type": "j07s",
+                "id": "mnizdvh_197",
+                "type": "a2mtxv",
                 "unit": "px",
                 "props": {
                     "x": 583,
@@ -94,8 +94,8 @@
                 }
             },
             {
-                "id": "UxMGM_217",
-                "type": "j07s",
+                "id": "mnizdvh_217",
+                "type": "a2mtxv",
                 "unit": "px",
                 "props": {
                     "x": 587,
@@ -122,8 +122,8 @@
                 }
             },
             {
-                "id": "UxMGM_252",
-                "type": "j1aa",
+                "id": "mnizdvh_252",
+                "type": "a90qmp",
                 "unit": "px",
                 "props": {
                     "x": 52,
@@ -153,8 +153,8 @@
                 }
             },
             {
-                "id": "UxMGM_268",
-                "type": "j1d1",
+                "id": "mnizdvh_268",
+                "type": "a9h5tm",
                 "unit": "px",
                 "props": {
                     "x": 88,
@@ -176,8 +176,8 @@
                 }
             },
             {
-                "id": "UxMGM_334",
-                "type": "j1b7",
+                "id": "mnizdvh_334",
+                "type": "a967p0",
                 "unit": "px",
                 "props": {
                     "x": 85,
@@ -200,8 +200,8 @@
                 }
             },
             {
-                "id": "UxMGM_lhuc7psk147",
-                "type": "iz81",
+                "id": "mnizdvh_lhuc7psk147",
+                "type": "a01ruo",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -599,7 +599,7 @@
                     "width": 472,
                     "height": 131,
                     "alpha": 1,
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "bwidth": 1,
                     "btype": "solid",
                     "bcolor": "#000",
@@ -612,7 +612,7 @@
                     "footLast": true,
                     "dynamicCols": true,
                     "avgColsWidth": 3,
-                    "columnsPrint": false,
+                    "columns": false,
                     "hspace": 20,
                     "rowsMax": 0,
                     "singleRowScale": true,
@@ -621,8 +621,8 @@
                 }
             },
             {
-                "id": "UxMGM_lhuc7psk194",
-                "type": "j19d",
+                "id": "mnizdvh_lhuc7psk194",
+                "type": "a8v9ke",
                 "unit": "px",
                 "props": {
                     "x": 439,

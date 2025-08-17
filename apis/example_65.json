@@ -30,8 +30,8 @@
         },
         "elements": [
             {
-                "id": "UxMGM_lt6y4vct327",
-                "type": "iz9v",
+                "id": "mnizdvh_lt6y4vct327",
+                "type": "a0cpza",
                 "unit": "mm",
                 "props": {
                     "bind": {
@@ -79,8 +79,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_lt6y4vct562",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_lt6y4vct562",
+                                            "type": "a9borb",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 0,
@@ -123,8 +123,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_lt6y4vct632",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_lt6y4vct632",
+                                            "type": "a9borb",
                                             "unit": "mm",
                                             "props": {
                                                 "x": -2.401,
@@ -172,8 +172,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_lt6y4vct349",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_lt6y4vct349",
+                                            "type": "a9borb",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 4.622,
@@ -214,8 +214,8 @@
                                             }
                                         },
                                         {
-                                            "id": "UxMGM_lt6y4vct369",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_lt6y4vct369",
+                                            "type": "a9borb",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 4.622,
@@ -256,8 +256,8 @@
                                             }
                                         },
                                         {
-                                            "id": "UxMGM_lt6y4vct823",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_lt6y4vct823",
+                                            "type": "a9borb",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 4.953,
@@ -310,8 +310,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_lt6y4vct747",
-                                            "type": "j1d1",
+                                            "id": "mnizdvh_lt6y4vct747",
+                                            "type": "a9h5tm",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 8.922,
@@ -402,7 +402,7 @@
                     "width": 89.069,
                     "height": 132.058,
                     "alpha": 1,
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
@@ -415,7 +415,7 @@
                     "match": true,
                     "dynamicCols": true,
                     "avgColsWidth": 3,
-                    "columnsPrint": true,
+                    "columns": true,
                     "hspace": 5.292,
                     "rowsMax": 0,
                     "name": "自由表格-1",

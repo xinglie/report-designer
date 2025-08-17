@@ -20,24 +20,24 @@
         },
         "g": [
             [
-                "UxMGM_167",
-                "UxMGM_168",
-                "UxMGM_169",
-                "UxMGM_172"
+                "mnizdvh_167",
+                "mnizdvh_168",
+                "mnizdvh_169",
+                "mnizdvh_172"
             ],
             [
-                "UxMGM_170",
-                "UxMGM_171"
+                "mnizdvh_170",
+                "mnizdvh_171"
             ],
             [
-                "UxMGM_173",
-                "UxMGM_174"
+                "mnizdvh_173",
+                "mnizdvh_174"
             ]
         ],
         "elements": [
             {
-                "id": "UxMGM_167",
-                "type": "j1c4",
+                "id": "mnizdvh_167",
+                "type": "a9borb",
                 "unit": "in",
                 "props": {
                     "x": 0.177,
@@ -74,8 +74,8 @@
                 }
             },
             {
-                "id": "UxMGM_168",
-                "type": "j1c4",
+                "id": "mnizdvh_168",
+                "type": "a9borb",
                 "unit": "in",
                 "props": {
                     "pinX": false,
@@ -114,8 +114,8 @@
                 }
             },
             {
-                "id": "UxMGM_169",
-                "type": "j1c4",
+                "id": "mnizdvh_169",
+                "type": "a9borb",
                 "unit": "in",
                 "props": {
                     "pinX": false,
@@ -154,8 +154,8 @@
                 }
             },
             {
-                "id": "UxMGM_170",
-                "type": "j1d1",
+                "id": "mnizdvh_170",
+                "type": "a9h5tm",
                 "unit": "in",
                 "props": {
                     "x": 3.083,
@@ -178,8 +178,8 @@
                 }
             },
             {
-                "id": "UxMGM_171",
-                "type": "j1d1",
+                "id": "mnizdvh_171",
+                "type": "a9h5tm",
                 "unit": "in",
                 "props": {
                     "x": 5.823,
@@ -202,8 +202,8 @@
                 }
             },
             {
-                "id": "UxMGM_172",
-                "type": "j1c4",
+                "id": "mnizdvh_172",
+                "type": "a9borb",
                 "unit": "in",
                 "props": {
                     "x": 2.656,
@@ -240,8 +240,8 @@
                 }
             },
             {
-                "id": "UxMGM_173",
-                "type": "j1c4",
+                "id": "mnizdvh_173",
+                "type": "a9borb",
                 "unit": "in",
                 "props": {
                     "x": 0.896,
@@ -278,8 +278,8 @@
                 }
             },
             {
-                "id": "UxMGM_174",
-                "type": "j1d1",
+                "id": "mnizdvh_174",
+                "type": "a9h5tm",
                 "unit": "in",
                 "props": {
                     "x": 0.781,

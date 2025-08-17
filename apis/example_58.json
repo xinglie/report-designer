@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "UxMGM_ljfntfap169",
-                "type": "iz81",
+                "id": "mnizdvh_ljfntfap169",
+                "type": "a01ruo",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -820,7 +820,7 @@
                     "width": 179.96,
                     "height": 47.9,
                     "alpha": 1,
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
@@ -834,7 +834,7 @@
                     "padRows": true,
                     "dynamicCols": true,
                     "avgColsWidth": 3,
-                    "columnsPrint": false,
+                    "columns": false,
                     "hspace": 5.29,
                     "rowsMax": 0,
                     "singleRowScale": true,

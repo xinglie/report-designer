@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "UxMGM_m57zr7jq606",
-                "type": "izt4",
+                "id": "mnizdvh_m57zr7jq606",
+                "type": "a143at",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -72,8 +72,8 @@
                 }
             },
             {
-                "id": "UxMGM_m57zr7jq352",
-                "type": "izj1",
+                "id": "mnizdvh_m57zr7jq352",
+                "type": "a0t567",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -135,7 +135,7 @@
                     "width": 79.64,
                     "height": 16.14,
                     "alpha": 1,
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
@@ -144,8 +144,8 @@
                 }
             },
             {
-                "id": "UxMGM_m57zr7jq638",
-                "type": "izh7",
+                "id": "mnizdvh_m57zr7jq638",
+                "type": "a0i71l",
                 "unit": "mm",
                 "props": {
                     "bind": {},
@@ -190,8 +190,8 @@
                 }
             },
             {
-                "id": "UxMGM_m57zr7jq629",
-                "type": "iz81",
+                "id": "mnizdvh_m57zr7jq629",
+                "type": "a01ruo",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -606,7 +606,7 @@
                     "width": 119.328,
                     "height": 39.953,
                     "alpha": 1,
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
@@ -619,7 +619,7 @@
                     "footLast": true,
                     "dynamicCols": true,
                     "avgColsWidth": 3,
-                    "columnsPrint": false,
+                    "columns": false,
                     "hspace": 5.292,
                     "rowsMax": 0,
                     "singleRowScale": true,
@@ -629,8 +629,8 @@
                 }
             },
             {
-                "id": "UxMGM_m57zr7jq361",
-                "type": "izu1",
+                "id": "mnizdvh_m57zr7jq361",
+                "type": "a19kd4",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -641,8 +641,8 @@
                                     "scroll": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_m57zr7jq378",
-                                            "type": "j00g",
+                                            "id": "mnizdvh_m57zr7jq378",
+                                            "type": "a1f1ff",
                                             "unit": "mm",
                                             "props": {
                                                 "rows": [
@@ -773,8 +773,8 @@
                 }
             },
             {
-                "id": "UxMGM_m57zr7jq634",
-                "type": "iz9v",
+                "id": "mnizdvh_m57zr7jq634",
+                "type": "a0cpza",
                 "unit": "mm",
                 "props": {
                     "bind": {},
@@ -973,7 +973,7 @@
                     "width": 119.328,
                     "height": 39.953,
                     "alpha": 1,
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
@@ -986,7 +986,7 @@
                     "match": true,
                     "dynamicCols": true,
                     "avgColsWidth": 3,
-                    "columnsPrint": false,
+                    "columns": false,
                     "hspace": 5.292,
                     "rowsMax": 0,
                     "name": "自由表格-1",
@@ -994,8 +994,8 @@
                 }
             },
             {
-                "id": "UxMGM_m57zr7jq614",
-                "type": "iz8y",
+                "id": "mnizdvh_m57zr7jq614",
+                "type": "a078wz",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -1117,7 +1117,7 @@
                     "rotate": 0,
                     "hspace": 5.292,
                     "vspace": 5.292,
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
@@ -1126,8 +1126,8 @@
                 }
             },
             {
-                "id": "UxMGM_m57zr7jq642",
-                "type": "j037",
+                "id": "mnizdvh_m57zr7jq642",
+                "type": "a1vgmc",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -1158,8 +1158,8 @@
                 }
             },
             {
-                "id": "UxMGM_m57zr7jq610",
-                "type": "izs7",
+                "id": "mnizdvh_m57zr7jq610",
+                "type": "a0ym8i",
                 "unit": "mm",
                 "props": {
                     "rows": [

@@ -29,8 +29,8 @@
         },
         "elements": [
             {
-                "id": "UxMGM_lkcd75xz284",
-                "type": "iz81",
+                "id": "mnizdvh_lkcd75xz284",
+                "type": "a01ruo",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -431,7 +431,7 @@
                     "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "spacing": 7.94,
                     "hideHead": true,
                     "hideTotal": true,
@@ -448,8 +448,8 @@
                 }
             },
             {
-                "id": "UxMGM_lkcd75xz323",
-                "type": "izt4",
+                "id": "mnizdvh_lkcd75xz323",
+                "type": "a143at",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -460,8 +460,8 @@
                                     "width": 209.81,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_lkcd75xz345",
-                                            "type": "j1b7",
+                                            "id": "mnizdvh_lkcd75xz345",
+                                            "type": "a967p0",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 185.01,
@@ -490,8 +490,8 @@
                                             }
                                         },
                                         {
-                                            "id": "UxMGM_lkcd75xz365",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_lkcd75xz365",
+                                            "type": "a9borb",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 56.71,
@@ -523,8 +523,8 @@
                                             }
                                         },
                                         {
-                                            "id": "UxMGM_lkcd75xz414",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_lkcd75xz414",
+                                            "type": "a9borb",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 78.45,
@@ -555,8 +555,8 @@
                                             }
                                         },
                                         {
-                                            "id": "UxMGM_lkcd75xz421",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_lkcd75xz421",
+                                            "type": "a9borb",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 2.65,
@@ -587,8 +587,8 @@
                                             }
                                         },
                                         {
-                                            "id": "UxMGM_lkcd75xz509",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_lkcd75xz509",
+                                            "type": "a9borb",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 22.41,
@@ -659,8 +659,8 @@
                 }
             },
             {
-                "id": "UxMGM_lkcd75xz602",
-                "type": "iz8y",
+                "id": "mnizdvh_lkcd75xz602",
+                "type": "a078wz",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -943,14 +943,14 @@
                     "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "name": "单元格-1",
                     "animations": []
                 }
             },
             {
-                "id": "UxMGM_lkcd75xz709",
-                "type": "j1c4",
+                "id": "mnizdvh_lkcd75xz709",
+                "type": "a9borb",
                 "unit": "mm",
                 "props": {
                     "x": 13.58,
@@ -981,8 +981,8 @@
                 }
             },
             {
-                "id": "UxMGM_lkcd75xz756",
-                "type": "iz81",
+                "id": "mnizdvh_lkcd75xz756",
+                "type": "a01ruo",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -1630,7 +1630,7 @@
                     "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "spacing": 2.34,
                     "hideHead": true,
                     "hideTotal": true,
@@ -1647,8 +1647,8 @@
                 }
             },
             {
-                "id": "UxMGM_lkcd75xz757",
-                "type": "j1c4",
+                "id": "mnizdvh_lkcd75xz757",
+                "type": "a9borb",
                 "unit": "mm",
                 "props": {
                     "x": 13.58,
@@ -1679,8 +1679,8 @@
                 }
             },
             {
-                "id": "UxMGM_lkcmz287426",
-                "type": "izs7",
+                "id": "mnizdvh_lkcmz287426",
+                "type": "a0ym8i",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -1691,8 +1691,8 @@
                                     "width": 209.81,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_lkcmz287491",
-                                            "type": "j07s",
+                                            "id": "mnizdvh_lkcmz287491",
+                                            "type": "a2mtxv",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 4.9,

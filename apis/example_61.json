@@ -28,8 +28,8 @@
         },
         "elements": [
             {
-                "id": "UxMGM_ll06ng7h119",
-                "type": "iz81",
+                "id": "mnizdvh_ll06ng7h119",
+                "type": "a01ruo",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -336,7 +336,7 @@
                     "bwidth": 1,
                     "btype": "solid",
                     "bcolor": "#000",
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "spacing": 11,
                     "hideTotal": true,
                     "eachPageLabel": true,

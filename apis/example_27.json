@@ -32,8 +32,8 @@
         },
         "elements": [
             {
-                "id": "UxMGM_113",
-                "type": "iz81",
+                "id": "mnizdvh_113",
+                "type": "a01ruo",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -676,7 +676,7 @@
                     "width": 681,
                     "height": 276,
                     "alpha": 1,
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "bwidth": 1,
                     "btype": "solid",
                     "bcolor": "#000000",

@@ -5,8 +5,8 @@
         "y": [],
         "g": [
             [
-                "UxMGM_m4doj6w1210",
-                "UxMGM_m4doporr388"
+                "mnizdvh_m4doj6w1210",
+                "mnizdvh_m4doporr388"
             ]
         ],
         "page": {
@@ -36,8 +36,8 @@
         },
         "elements": [
             {
-                "id": "UxMGM_m4dmffox1284",
-                "type": "j1c4",
+                "id": "mnizdvh_m4dmffox1284",
+                "type": "a9borb",
                 "unit": "mm",
                 "props": {
                     "x": 68.864,
@@ -69,8 +69,8 @@
                 }
             },
             {
-                "id": "UxMGM_m4dmffox1309",
-                "type": "iz8y",
+                "id": "mnizdvh_m4dmffox1309",
+                "type": "a078wz",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -870,7 +870,7 @@
                     "rotate": 0,
                     "hspace": 5.292,
                     "vspace": 0,
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#dfe6ec",
@@ -879,8 +879,8 @@
                 }
             },
             {
-                "id": "UxMGM_m4doj6w1210",
-                "type": "iz81",
+                "id": "mnizdvh_m4doj6w1210",
+                "type": "a01ruo",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -1176,7 +1176,7 @@
                     "width": 187.647,
                     "height": 24.079,
                     "alpha": 1,
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#dfe6ec",
@@ -1190,7 +1190,7 @@
                     "footLast": true,
                     "dynamicCols": true,
                     "avgColsWidth": 3,
-                    "columnsPrint": false,
+                    "columns": false,
                     "hspace": 5.292,
                     "rowsMax": 0,
                     "singleRowScale": true,
@@ -1199,8 +1199,8 @@
                 }
             },
             {
-                "id": "UxMGM_m4doporr388",
-                "type": "iz8y",
+                "id": "mnizdvh_m4doporr388",
+                "type": "a078wz",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -1467,7 +1467,7 @@
                     "rotate": 0,
                     "hspace": 5.292,
                     "vspace": -0.265,
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#dfe6ec",
@@ -1476,8 +1476,8 @@
                 }
             },
             {
-                "id": "UxMGM_m4fknebm252",
-                "type": "j051",
+                "id": "mnizdvh_m4fknebm252",
+                "type": "a26eqy",
                 "unit": "mm",
                 "props": {
                     "x": 11.115,
@@ -1489,7 +1489,7 @@
                         "tag": "apis/nurse.json",
                         "fields": [
                             {
-                                "key": "j05y",
+                                "key": "a2bvt9",
                                 "name": "富文本"
                             }
                         ]

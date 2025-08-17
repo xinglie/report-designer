@@ -21,8 +21,8 @@
         "g": [],
         "elements": [
             {
-                "id": "UxMGM_353",
-                "type": "iz9v",
+                "id": "mnizdvh_353",
+                "type": "a0cpza",
                 "unit": "pc",
                 "props": {
                     "rows": [
@@ -39,8 +39,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_591",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_591",
+                                            "type": "a9borb",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 10.578,
@@ -94,8 +94,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_481",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_481",
+                                            "type": "a9borb",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.313,
@@ -144,8 +144,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_535",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_535",
+                                            "type": "a9borb",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
@@ -196,8 +196,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_563",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_563",
+                                            "type": "a9borb",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
@@ -253,8 +253,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_364",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_364",
+                                            "type": "a9borb",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.656,
@@ -308,8 +308,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_382",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_382",
+                                            "type": "a9borb",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.688,
@@ -363,8 +363,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_385",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_385",
+                                            "type": "a9borb",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.969,
@@ -460,8 +460,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "UxMGM_654",
-                                            "type": "j1c4",
+                                            "id": "mnizdvh_654",
+                                            "type": "a9borb",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
@@ -516,7 +516,7 @@
                     "bwidth": 0.063,
                     "btype": "solid",
                     "bcolor": "#000000",
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "spacing": 1.875,
                     "headFirst": true,
                     "footLast": true,

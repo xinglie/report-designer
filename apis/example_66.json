@@ -30,8 +30,8 @@
         },
         "elements": [
             {
-                "id": "UxMGM_ltcrh409162",
-                "type": "iz81",
+                "id": "mnizdvh_ltcrh409162",
+                "type": "a01ruo",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -463,7 +463,7 @@
                     "width": 130.874,
                     "height": 47.001,
                     "alpha": 1,
-                    "bdeed": "collapse",
+                    "bdeed": 2,
                     "bwidth": 0.265,
                     "btype": "solid",
                     "bcolor": "#000",
