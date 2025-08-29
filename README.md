@@ -22,6 +22,7 @@ https://xinglie.github.io/report-designer/split.html
 <img width="246" alt="contact wechat" src="./wechat.jpg"/>
 
 ### 通用设计器截屏
-![snapshot](https://xinglie.github.io/report-designer/snapshot.png)
+![snapshot](https://xinglie.github.io/report-designer/snapshot.jpg)
+![snapshot2](https://xinglie.github.io/report-designer/snapshot2.jpg)
 
 ![iot](https://xinglie.github.io/report-designer/iot.png)
