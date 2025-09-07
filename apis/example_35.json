@@ -16,7 +16,7 @@
             "xOffset": 0,
             "yOffset": 0,
             "copies": 1,
-            "blank": "drop",
+            "blank": 1,
             "labelCol": 1,
             "labelGap": 10,
             "font": "tahoma",
@@ -32,8 +32,8 @@
         },
         "elements": [
             {
-                "id": "mnizdvh_56",
-                "type": "a01ruo",
+                "id": "mwfjngzm_56",
+                "type": "d4pwg2",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -67,8 +67,8 @@
                                     "textContent": "",
                                     "elements": [
                                         {
-                                            "id": "mnizdvh_57",
-                                            "type": "a078wz",
+                                            "id": "mwfjngzm_57",
+                                            "type": "d4vfo4",
                                             "unit": "px",
                                             "props": {
                                                 "full": false,
@@ -757,8 +757,8 @@
                                     "textContent": "",
                                     "elements": [
                                         {
-                                            "id": "mnizdvh_58",
-                                            "type": "a078wz",
+                                            "id": "mwfjngzm_58",
+                                            "type": "d4vfo4",
                                             "unit": "px",
                                             "props": {
                                                 "full": false,
@@ -1002,8 +1002,8 @@
                 }
             },
             {
-                "id": "mnizdvh_59",
-                "type": "a2mtxv",
+                "id": "mwfjngzm_59",
+                "type": "d7hih2",
                 "unit": "px",
                 "props": {
                     "x": 491,
@@ -1035,8 +1035,8 @@
                 }
             },
             {
-                "id": "mnizdvh_60",
-                "type": "a2mtxv",
+                "id": "mwfjngzm_60",
+                "type": "d7hih2",
                 "unit": "px",
                 "props": {
                     "x": 11,

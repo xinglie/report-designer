@@ -17,7 +17,7 @@
             "xOffset": 0,
             "yOffset": 0,
             "copies": 1,
-            "blank": "drop",
+            "blank": 1,
             "labelCol": 1,
             "labelGap": 2.646,
             "gridWidth": 5.292,
@@ -33,8 +33,8 @@
         },
         "elements": [
             {
-                "id": "mnizdvh_129",
-                "type": "a9borb",
+                "id": "mwfjngzm_129",
+                "type": "dg8y88",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -78,8 +78,8 @@
                 }
             },
             {
-                "id": "mnizdvh_144",
-                "type": "a9h5tm",
+                "id": "mwfjngzm_144",
+                "type": "dgk0oc",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -108,8 +108,8 @@
                 }
             },
             {
-                "id": "mnizdvh_150",
-                "type": "a5ob7z",
+                "id": "mwfjngzm_150",
+                "type": "dak6y6",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -126,7 +126,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "a5ob7z": "a5ob7z",
+                    "dak6y6": "dak6y6",
                     "imageWidth": 0,
                     "imageHeight": 0,
                     "backgroundX": 0,
@@ -137,8 +137,8 @@
                 }
             },
             {
-                "id": "mnizdvh_153",
-                "type": "a967p0",
+                "id": "mwfjngzm_153",
+                "type": "dg3f06",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -165,8 +165,8 @@
                 }
             },
             {
-                "id": "mnizdvh_157",
-                "type": "a90qmp",
+                "id": "mwfjngzm_157",
+                "type": "dfxvs4",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -200,8 +200,8 @@
                 }
             },
             {
-                "id": "mnizdvh_172",
-                "type": "a89db6",
+                "id": "mwfjngzm_172",
+                "type": "df0ofs",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -235,8 +235,8 @@
                 }
             },
             {
-                "id": "mnizdvh_178",
-                "type": "a8eudh",
+                "id": "mwfjngzm_178",
+                "type": "df67nu",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -263,8 +263,8 @@
                 }
             },
             {
-                "id": "mnizdvh_181",
-                "type": "a8kbfs",
+                "id": "mwfjngzm_181",
+                "type": "dfha3y",
                 "unit": "mm",
                 "props": {
                     "readonly": false,

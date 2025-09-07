@@ -16,7 +16,7 @@
             "xOffset": 0,
             "yOffset": 0,
             "copies": 1,
-            "blank": "keep",
+            "blank": 2,
             "labelCol": 1,
             "labelGap": 10,
             "gridWidth": 20,
@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "mnizdvh_86",
-                "type": "a89db6",
+                "id": "mwfjngzm_86",
+                "type": "df0ofs",
                 "unit": "px",
                 "props": {
                     "x": 50,
@@ -69,8 +69,8 @@
                 }
             },
             {
-                "id": "mnizdvh_93",
-                "type": "a8eudh",
+                "id": "mwfjngzm_93",
+                "type": "df67nu",
                 "unit": "px",
                 "props": {
                     "x": 50,
@@ -100,8 +100,8 @@
                 }
             },
             {
-                "id": "mnizdvh_116",
-                "type": "a8kbfs",
+                "id": "mwfjngzm_116",
+                "type": "dfha3y",
                 "unit": "px",
                 "props": {
                     "x": 50,
@@ -138,8 +138,8 @@
                 }
             },
             {
-                "id": "mnizdvh_132",
-                "type": "a0ym8i",
+                "id": "mwfjngzm_132",
+                "type": "d5sn0g",
                 "unit": "px",
                 "props": {
                     "pinX": true,

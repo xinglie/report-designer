@@ -13,7 +13,7 @@
     </style>
 </head>
 <body>
-    <script src="dist/viewer.js?v=202508171322"></script>
+    <script src="dist/viewer.js?v=202509071036"></script>
     <script type="module">
         let { searchParams } = new URL(location.href);
         let id = searchParams.get('pId');//从地址栏获取pId并返回回去，供父页面识别
@@ -41,7 +41,7 @@
                 processed = true;
                 let latent = action != 'print';
                 let vf = await viewer.install({
-                    version:'202508171322',
+                    version:'202509071036',
                     use: page.viewer,
                     latent,
                     request({url}){//请求发起前对参数等相关数据进行二次修改，便于适配现有接口。如没特殊需求，不要配置该方法

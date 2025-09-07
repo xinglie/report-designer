@@ -16,7 +16,7 @@
             "xOffset": 0,
             "yOffset": 0,
             "copies": 1,
-            "blank": "drop",
+            "blank": 1,
             "labelCol": 1,
             "labelGap": 2.646,
             "gridWidth": 5.292,
@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "mnizdvh_mayy98h6192",
-                "type": "aae07g",
+                "id": "mwfjngzm_mayy98h6192",
+                "type": "di3cww",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -43,8 +43,8 @@
                                     "width": 58,
                                     "elements": [
                                         {
-                                            "id": "mnizdvh_mayy98h6197",
-                                            "type": "a9borb",
+                                            "id": "mwfjngzm_mayy98h6197",
+                                            "type": "dg8y88",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -86,8 +86,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mnizdvh_mayy98h6234",
-                                            "type": "a9borb",
+                                            "id": "mwfjngzm_mayy98h6234",
+                                            "type": "dg8y88",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -103,7 +103,7 @@
                                                     "tag": "apis/receipt.json",
                                                     "fields": [
                                                         {
-                                                            "key": "base/a0no3w",
+                                                            "key": "base/d5c1ca",
                                                             "name": "创建时间"
                                                         }
                                                     ]
@@ -129,8 +129,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mnizdvh_mayy98h6241",
-                                            "type": "a9borb",
+                                            "id": "mwfjngzm_mayy98h6241",
+                                            "type": "dg8y88",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -172,8 +172,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mnizdvh_mayy98h6253",
-                                            "type": "a9borb",
+                                            "id": "mwfjngzm_mayy98h6253",
+                                            "type": "dg8y88",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -215,8 +215,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mnizdvh_mayyf0dd392",
-                                            "type": "a9mmvx",
+                                            "id": "mwfjngzm_mayyf0dd392",
+                                            "type": "dgv34g",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -244,8 +244,8 @@
                                     "width": 58,
                                     "elements": [
                                         {
-                                            "id": "mnizdvh_maz069u7415",
-                                            "type": "a9borb",
+                                            "id": "mwfjngzm_maz069u7415",
+                                            "type": "dg8y88",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -277,8 +277,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mnizdvh_maz069u7444",
-                                            "type": "a9borb",
+                                            "id": "mwfjngzm_maz069u7444",
+                                            "type": "dg8y88",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -310,8 +310,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mnizdvh_maz069u7450",
-                                            "type": "a9borb",
+                                            "id": "mwfjngzm_maz069u7450",
+                                            "type": "dg8y88",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -353,8 +353,8 @@
                                     "width": 58,
                                     "elements": [
                                         {
-                                            "id": "mnizdvh_maz5896l614",
-                                            "type": "a078wz",
+                                            "id": "mwfjngzm_maz5896l614",
+                                            "type": "d4vfo4",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -480,8 +480,8 @@
                                     "width": 58,
                                     "elements": [
                                         {
-                                            "id": "mnizdvh_mayzygym370",
-                                            "type": "a9borb",
+                                            "id": "mwfjngzm_mayzygym370",
+                                            "type": "dg8y88",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -523,8 +523,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mnizdvh_mayzygym399",
-                                            "type": "a9borb",
+                                            "id": "mwfjngzm_mayzygym399",
+                                            "type": "dg8y88",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -566,8 +566,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mnizdvh_mayzygym406",
-                                            "type": "a9borb",
+                                            "id": "mwfjngzm_mayzygym406",
+                                            "type": "dg8y88",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -609,8 +609,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mnizdvh_mayzygym413",
-                                            "type": "a9borb",
+                                            "id": "mwfjngzm_mayzygym413",
+                                            "type": "dg8y88",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -642,8 +642,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mnizdvh_mayzygym443",
-                                            "type": "a9borb",
+                                            "id": "mwfjngzm_mayzygym443",
+                                            "type": "dg8y88",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -684,8 +684,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mnizdvh_mayzygym452",
-                                            "type": "a9borb",
+                                            "id": "mwfjngzm_mayzygym452",
+                                            "type": "dg8y88",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -726,8 +726,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mnizdvh_mayzygym548",
-                                            "type": "a967p0",
+                                            "id": "mwfjngzm_mayzygym548",
+                                            "type": "dg3f06",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -757,8 +757,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mnizdvh_maz069u7518",
-                                            "type": "a9mmvx",
+                                            "id": "mwfjngzm_maz069u7518",
+                                            "type": "dgv34g",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,

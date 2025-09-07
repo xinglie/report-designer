@@ -1,0 +1,110 @@
+{
+    "data": {
+        "v": "202509042038",
+        "unit": "pc",
+        "page": {
+            "readonly": false,
+            "viewer": "stack",
+            "width": 49.438,
+            "height": 70,
+            "pages": 1,
+            "scale": "auto",
+            "update": true,
+            "updateInterval": 5,
+            "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+            "xOffset": 0,
+            "yOffset": 0,
+            "copies": 1,
+            "blank": 1,
+            "labelCol": 1,
+            "labelGap": 0.625,
+            "gridWidth": 1.25,
+            "gridHeight": 1.25,
+            "font": "microsoft yahei",
+            "background": "#ffffff",
+            "backgroundImage": "",
+            "preformat": false,
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundX": 0,
+            "backgroundY": 0
+        },
+        "elements": [
+            {
+                "v": "202509042038",
+                "id": "mwfjngzm_mf69whdr183",
+                "type": "df67nu",
+                "unit": "pc",
+                "props": {
+                    "x": 3.747,
+                    "y": 2.019,
+                    "width": 9.375,
+                    "height": 9.375,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "bind": {
+                        "id": "bigdata",
+                        "tag": "apis/500.json",
+                        "fields": [
+                            {
+                                "key": "no",
+                                "name": "500条数据"
+                            }
+                        ]
+                    },
+                    "format": "qrcode",
+                    "colorDark": "#000",
+                    "colorLight": "#fff",
+                    "correctLevel": "H",
+                    "hspace": 1.875,
+                    "vspace": 1.875,
+                    "name": "批次二維碼-1",
+                    "animations": []
+                }
+            },
+            {
+                "v": "202509042038",
+                "id": "mwfjngzm_mf69whdr261",
+                "type": "df0ofs",
+                "unit": "pc",
+                "props": {
+                    "x": 3.747,
+                    "y": 13.457,
+                    "width": 14.102,
+                    "height": 6.25,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "bind": {
+                        "id": "bigdata",
+                        "tag": "apis/500.json",
+                        "fields": [
+                            {
+                                "key": "no",
+                                "name": "500条数据"
+                            }
+                        ]
+                    },
+                    "hspace": 0.625,
+                    "vspace": 1.25,
+                    "format": "code128",
+                    "brimful": true,
+                    "showText": true,
+                    "guard": true,
+                    "color": "#000",
+                    "linewidth": 0,
+                    "textGap": 0,
+                    "size": 10,
+                    "font": "OCR-B",
+                    "textColor": "#000",
+                    "textMargin": 0,
+                    "textPosition": "bottom",
+                    "textAlign": "center",
+                    "name": "批次條形碼-1",
+                    "animations": []
+                }
+            }
+        ]
+    },
+    "success": true
+}

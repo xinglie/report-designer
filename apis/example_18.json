@@ -17,7 +17,7 @@
             "xOffset": 0,
             "yOffset": 0,
             "copies": 1,
-            "blank": "drop",
+            "blank": 1,
             "labelCol": 1,
             "labelGap": 0.10417,
             "gridWidth": 0.20833,
@@ -33,8 +33,8 @@
         },
         "elements": [
             {
-                "id": "mnizdvh_101",
-                "type": "a89db6",
+                "id": "mwfjngzm_101",
+                "type": "df0ofs",
                 "unit": "in",
                 "props": {
                     "readonly": false,

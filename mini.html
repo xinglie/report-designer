@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <meta rd="rv99ir6a.ht"/>
+    <meta rd="tq1e9hrmcq.c"/>
     <meta name="viewport"
         content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,viewport-fit=cover" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
@@ -21,7 +21,7 @@
         <div style="margin-left: 10px;">界面全模块化，可任意拆解组装</div>
     </div>
     <div style="display:flex;">
-        <div style="width:150px">
+        <div style="width:150px" draggable="true;" id="left">
             left
         </div>
         <div id="app" class="app"
@@ -30,7 +30,7 @@
                 这里可以放一个加载动画...
             </div>
         </div>
-        <div>
+        <div id="right">
             right
         </div>
     </div>
@@ -38,7 +38,7 @@
         <input placeholder="外部输入框测试" />
         bottom text
     </div>
-    <script src="dist/designer.js?v=202508171322"></script>
+    <script src="dist/designer.js?v=202509071036"></script>
     <script>
         //--－start--- 以下是环境检测提示，方便有问题时自查，正式使用时建议删除
         if(!CSS.supports('overflow:clip')||
@@ -56,7 +56,7 @@
         let id = searchParams.get('id');
         let setup = () => {
             designer.setup({
-                version:'202508171322',
+                version:'202509071036',
                 rootId: 'app',
                 embed: true,//嵌入模式
                 viewerUrl: './viewer.html?from=mini',
@@ -81,6 +81,99 @@
         let destroyBtn = document.getElementById('destroy-rd');
         let virtual = document.getElementById('virtual');
         let pt=document.getElementById('print');
+        let rightNode=document.getElementById('right');
+        let leftNode=document.getElementById('left');
+        rightNode.onpointerdown=e=>{
+            //自定义多元素拖动，需要授权后使用
+            rd.invoke?.('setDragElement',e,{
+                "use":"e-text",
+                "props":{
+                    "width": 240,
+                    "height": 30,
+                    "size": 18
+                },
+                "union":[{
+                    "use":"e-image",
+                    "offsetX":0,
+                    "offsetY":40
+                },{
+                    "use":"e-bwip",
+                    "offsetX":260,
+                    "offsetY":0
+                },{
+                    "use":"wea",//<----不支持的元素将不会添加
+                    "offsetX":0,
+                    "offsetY":100
+                }]
+            });
+        };
+        leftNode.ondragstart=e=>{
+            //自定义多数据字段拖动，需要授权后使用
+            rd.invoke?.('setDragField',e.dataTransfer, 20,20,{
+                "name": "基础数据批量添加",
+                "key": "base/name",
+                "use": "e-text",
+                "title": "超市名称",
+                "id": "receipt_base",
+                "tag":"apis/receipt.json",
+                "props": {
+                    "width": 240,
+                    "height": 30,
+                    "size": 18
+                },
+                "union": [
+                    {
+                        "name": "创建时间",
+                        "key": "base/datetime",
+                        "use": "e-text",
+                        "offsetX": 0,
+                        "offsetY": 40,
+                        "id": "receipt_base",
+                        "tag": "apis/receipt.json",
+                        "props": {
+                            "width": 150,
+                            "height": 20
+                        }
+                    },
+                    {
+                        "name": "收银员",
+                        "key": "base/cashier",
+                        "use": "e-text",
+                        "id": "receipt_base",
+                        "offsetX": 160,
+                        "offsetY": 40,
+                        "props": {
+                            "width": 80,
+                            "height": 20
+                        }
+                    },
+                    {
+                        "name": "累计积分",
+                        "key": "base/coin",
+                        "id": "receipt_base",
+                        "offsetX": 0,
+                        "offsetY": 70,
+                        "props": {
+                            "hpos": "flex-start",
+                            "width": 240
+                        }
+                    }
+                ]
+            });
+        };
+
+        document.addEventListener('dragover',e=>{
+            if(!designerNode.contains(e.target)){
+                console.log('your drag over process~');
+                e.preventDefault();
+            }
+        });
+        document.addEventListener('drop',e=>{
+            if(!designerNode.contains(e.target)){
+                console.log('your drop process~');
+                e.preventDefault();
+            }
+        });
         document.addEventListener('rd.dialog',e=>{
             let focusables=document.querySelectorAll('[data-focusable]');
             for(let f of focusables){
@@ -106,11 +199,11 @@
             iframe.style.cssText = 'position:absolute;top:-500cm;left:-500cm';
             document.body.append(iframe);
             let win = iframe.contentWindow;
-            let listen = async ({ data }) => {
+            let listen = ({ data }) => {
                 //只有通信数据是自己的才处理
                 if (data.pId == pId) {
                     if (data.action == 'ready') {//就绪，则传递当前设计器里面的内容
-                        win.postMessage(await designer.get(), origin);
+                        win.postMessage(designer.invoke?.('get'), origin);
                     } else {//获取虚拟渲染的内容后，删除iframe并移除事件监听
                         window.removeEventListener('message', listen);
                         iframe.remove();
@@ -131,11 +224,11 @@
             pt.disabled = true;
             pt.innerText = '请稍等...'
             let win = iframe.contentWindow;
-            let listen = async ({ data }) => {
+            let listen = ({ data }) => {
                 //只有通信数据是自己的才处理
                 if (data.pId == pId) {
                     if (data.action == 'ready') {//就绪，则传递当前设计器里面的内容
-                        win.postMessage(await designer.get(), origin);
+                        win.postMessage(designer.invoke?.('get'), origin);
                     } else {//获取虚拟渲染的内容后，删除iframe并移除事件监听
                         window.removeEventListener('message', listen);
                         iframe.remove();

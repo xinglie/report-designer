@@ -14,7 +14,7 @@
             "yOffset": 0,
             "space": 0,
             "copies": 1,
-            "blank": "keep",
+            "blank": 2,
             "labelCol": 1,
             "labelGap": 10,
             "font": "tahoma",
@@ -30,8 +30,8 @@
         },
         "elements": [
             {
-                "id": "mnizdvh_lg4t6ji8365",
-                "type": "chart/a52eyr",
+                "id": "mwfjngzm_lg4t6ji8365",
+                "type": "chart/d9y21y",
                 "unit": "px",
                 "props": {
                     "x": -32,
@@ -57,8 +57,8 @@
                 }
             },
             {
-                "id": "mnizdvh_lg4t6ji8421",
-                "type": "chart/a4gipj",
+                "id": "mwfjngzm_lg4t6ji8421",
+                "type": "chart/d9bx5q",
                 "unit": "px",
                 "props": {
                     "x": 310,
@@ -84,8 +84,8 @@
                 }
             },
             {
-                "id": "mnizdvh_lfuvg8pv131",
-                "type": "a9h5tm",
+                "id": "mwfjngzm_lfuvg8pv131",
+                "type": "dgk0oc",
                 "unit": "px",
                 "props": {
                     "x": 31,
@@ -106,8 +106,8 @@
                 }
             },
             {
-                "id": "mnizdvh_lfuvg8pv197",
-                "type": "svg/a3e79e",
+                "id": "mwfjngzm_lfuvg8pv197",
+                "type": "svg/d896lc",
                 "unit": "px",
                 "props": {
                     "x": 139,
@@ -146,8 +146,8 @@
                 }
             },
             {
-                "id": "mnizdvh_lfuvg8pv248",
-                "type": "a6qmo4",
+                "id": "mwfjngzm_lfuvg8pv248",
+                "type": "dcpo2y",
                 "unit": "px",
                 "props": {
                     "x": 716,
@@ -180,8 +180,8 @@
                 }
             },
             {
-                "id": "mnizdvh_lfuvg8pv316",
-                "type": "a9borb",
+                "id": "mwfjngzm_lfuvg8pv316",
+                "type": "dg8y88",
                 "unit": "px",
                 "props": {
                     "x": 589,
@@ -212,8 +212,8 @@
                 }
             },
             {
-                "id": "mnizdvh_lfuvg8pv378",
-                "type": "svg/a3jobp",
+                "id": "mwfjngzm_lfuvg8pv378",
+                "type": "svg/d8epte",
                 "unit": "px",
                 "props": {
                     "x": 697,
@@ -248,8 +248,8 @@
                 }
             },
             {
-                "id": "mnizdvh_lfuvg8pv426",
-                "type": "a9h5tm",
+                "id": "mwfjngzm_lfuvg8pv426",
+                "type": "dgk0oc",
                 "unit": "px",
                 "props": {
                     "x": 467,
@@ -269,8 +269,8 @@
                 }
             },
             {
-                "id": "mnizdvh_lfuvg8pv154",
-                "type": "svg/a3e79e",
+                "id": "mwfjngzm_lfuvg8pv154",
+                "type": "svg/d896lc",
                 "unit": "px",
                 "props": {
                     "x": 197,
@@ -309,8 +309,8 @@
                 }
             },
             {
-                "id": "mnizdvh_lfuxbd1153",
-                "type": "a5tsaa",
+                "id": "mwfjngzm_lfuxbd1153",
+                "type": "dapq68",
                 "unit": "px",
                 "props": {
                     "x": 826,
@@ -347,8 +347,8 @@
                 }
             },
             {
-                "id": "mnizdvh_lg4t6ji8269",
-                "type": "svg/a7sy49",
+                "id": "mwfjngzm_lg4t6ji8269",
+                "type": "svg/de90bi",
                 "unit": "px",
                 "props": {
                     "x": 139,
@@ -376,8 +376,8 @@
                 }
             },
             {
-                "id": "mnizdvh_lg4xb6l6187",
-                "type": "a9borb",
+                "id": "mwfjngzm_lg4xb6l6187",
+                "type": "dg8y88",
                 "unit": "px",
                 "props": {
                     "x": 723,
@@ -418,8 +418,8 @@
                 }
             },
             {
-                "id": "mnizdvh_lg4xb6l6225",
-                "type": "a9borb",
+                "id": "mwfjngzm_lg4xb6l6225",
+                "type": "dg8y88",
                 "unit": "px",
                 "props": {
                     "x": 723,
@@ -460,8 +460,8 @@
                 }
             },
             {
-                "id": "mnizdvh_lg4xb6l6264",
-                "type": "a9borb",
+                "id": "mwfjngzm_lg4xb6l6264",
+                "type": "dg8y88",
                 "unit": "px",
                 "props": {
                     "x": 723,

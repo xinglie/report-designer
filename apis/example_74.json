@@ -16,7 +16,7 @@
             "xOffset": 0,
             "yOffset": 0,
             "copies": 1,
-            "blank": "drop",
+            "blank": 1,
             "labelCol": 1,
             "labelGap": 2.646,
             "font": "tahoma",
@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "mnizdvh_lwsupb2v414",
-                "type": "aajh9r",
+                "id": "mwfjngzm_lwsupb2v414",
+                "type": "di8w4y",
                 "unit": "mm",
                 "props": {
                     "x": 12.304,

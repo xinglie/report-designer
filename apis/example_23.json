@@ -17,7 +17,7 @@
             "xOffset": 0,
             "yOffset": 0,
             "copies": 1,
-            "blank": "drop",
+            "blank": 1,
             "labelCol": 1,
             "labelGap": 10,
             "gridWidth": 20,
@@ -33,8 +33,8 @@
         },
         "elements": [
             {
-                "id": "mnizdvh_303",
-                "type": "a0i71l",
+                "id": "mwfjngzm_303",
+                "type": "d56i48",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -51,8 +51,8 @@
                                     "width": 300,
                                     "elements": [
                                         {
-                                            "id": "mnizdvh_307",
-                                            "type": "a967p0",
+                                            "id": "mwfjngzm_307",
+                                            "type": "dg3f06",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": false,
@@ -85,8 +85,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mnizdvh_342",
-                                            "type": "a967p0",
+                                            "id": "mwfjngzm_342",
+                                            "type": "dg3f06",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": false,
@@ -121,8 +121,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mnizdvh_348",
-                                            "type": "a90qmp",
+                                            "id": "mwfjngzm_348",
+                                            "type": "dfxvs4",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": false,
@@ -162,8 +162,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mnizdvh_368",
-                                            "type": "a9borb",
+                                            "id": "mwfjngzm_368",
+                                            "type": "dg8y88",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": false,

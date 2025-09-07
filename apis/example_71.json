@@ -14,7 +14,7 @@
             "yOffset": 0,
             "space": 0,
             "copies": 1,
-            "blank": "drop",
+            "blank": 1,
             "labelCol": 1,
             "labelGap": 2.646,
             "font": "tahoma",
@@ -29,8 +29,8 @@
         },
         "elements": [
             {
-                "id": "mnizdvh_lv1yoyfn445",
-                "type": "a1kihq",
+                "id": "mwfjngzm_lv1yoyfn445",
+                "type": "d6erwo",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -61,8 +61,8 @@
                                     ],
                                     "elements": [
                                         {
-                                            "id": "mnizdvh_lv1z6ded259",
-                                            "type": "chart/a52eyr",
+                                            "id": "mwfjngzm_lv1z6ded259",
+                                            "type": "chart/d9y21y",
                                             "unit": "mm",
                                             "props": {
                                                 "full": true,
@@ -83,8 +83,8 @@
                                 {
                                     "elements": [
                                         {
-                                            "id": "mnizdvh_lv1yoyfn570",
-                                            "type": "chart/a4gipj",
+                                            "id": "mwfjngzm_lv1yoyfn570",
+                                            "type": "chart/d9bx5q",
                                             "unit": "mm",
                                             "props": {
                                                 "full": true,
@@ -131,8 +131,8 @@
                                 {
                                     "elements": [
                                         {
-                                            "id": "mnizdvh_lv1z7dt4245",
-                                            "type": "chart/abr9s7",
+                                            "id": "mwfjngzm_lv1z7dt4245",
+                                            "type": "chart/dipht4",
                                             "unit": "mm",
                                             "props": {
                                                 "full": true,
@@ -207,8 +207,8 @@
                                 {
                                     "elements": [
                                         {
-                                            "id": "mnizdvh_lv1z9nbm215",
-                                            "type": "chart/a57w12",
+                                            "id": "mwfjngzm_lv1z9nbm215",
+                                            "type": "chart/da3la0",
                                             "unit": "mm",
                                             "props": {
                                                 "full": 1,

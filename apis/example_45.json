@@ -17,7 +17,7 @@
             "xOffset": 0,
             "yOffset": 0,
             "copies": 1,
-            "blank": "drop",
+            "blank": 1,
             "labelCol": 2,
             "labelGap": 0.2646,
             "gridWidth": 0.5292,
@@ -34,8 +34,8 @@
         },
         "elements": [
             {
-                "id": "mnizdvh_60",
-                "type": "a2hcvk",
+                "id": "mwfjngzm_60",
+                "type": "d7bz90",
                 "unit": "cm",
                 "props": {
                     "readonly": false,
@@ -48,7 +48,7 @@
                     "text": "{#}_{#}",
                     "type": "text",
                     "rule": {
-                        "type": "a2hcvk",
+                        "type": "d7bz90",
                         "fx": "AP",
                         "step": 1,
                         "start": 1
@@ -80,8 +80,8 @@
                 }
             },
             {
-                "id": "mnizdvh_61",
-                "type": "a2hcvk",
+                "id": "mwfjngzm_61",
+                "type": "d7bz90",
                 "unit": "cm",
                 "props": {
                     "readonly": false,
@@ -96,7 +96,7 @@
                     "text": "LABEL-{#}",
                     "type": "text",
                     "rule": {
-                        "type": "a2hcvk",
+                        "type": "d7bz90",
                         "fx": "AP",
                         "step": 1,
                         "start": 1
@@ -128,8 +128,8 @@
                 }
             },
             {
-                "id": "mnizdvh_62",
-                "type": "a9borb",
+                "id": "mwfjngzm_62",
+                "type": "dg8y88",
                 "unit": "cm",
                 "props": {
                     "readonly": false,

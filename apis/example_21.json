@@ -14,7 +14,7 @@
             "xOffset": 0,
             "yOffset": 0,
             "copies": 1,
-            "blank": "drop",
+            "blank": 1,
             "labelCol": 1,
             "labelGap": 10.583,
             "font": "tahoma",
@@ -32,8 +32,8 @@
         },
         "elements": [
             {
-                "id": "mnizdvh_140",
-                "type": "a5ob7z",
+                "id": "mwfjngzm_140",
+                "type": "dak6y6",
                 "unit": "q",
                 "props": {
                     "readonly": false,
@@ -50,7 +50,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "a5ob7z": "a5ob7z",
+                    "dak6y6": "dak6y6",
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
                     "imageWidth": 135.468,
                     "imageHeight": 135.468,
@@ -62,8 +62,8 @@
                 }
             },
             {
-                "id": "mnizdvh_146",
-                "type": "a5ob7z",
+                "id": "mwfjngzm_146",
+                "type": "dak6y6",
                 "unit": "q",
                 "props": {
                     "readonly": false,
@@ -80,7 +80,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "a5ob7z": "a5ob7z",
+                    "dak6y6": "dak6y6",
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
                     "imageWidth": 135.468,
                     "imageHeight": 135.468,
