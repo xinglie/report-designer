@@ -1,0 +1,520 @@
+{
+    "data": [
+        {
+            "format": "ean5",
+            "text": "90200",
+            "params": "includetext guardwhitespace"
+        },
+        {
+            "format": "ean2",
+            "text": "05",
+            "params": "includetext guardwhitespace"
+        },
+        {
+            "format": "ean13",
+            "text": "9520123456788",
+            "params": "includetext guardwhitespace"
+        },
+        {
+            "format": "ean8",
+            "text": "95200002",
+            "params": "includetext guardwhitespace"
+        },
+        {
+            "format": "upca",
+            "text": "012345000058",
+            "params": "includetext"
+        },
+        {
+            "format": "upce",
+            "text": "01234558",
+            "params": "includetext"
+        },
+        {
+            "format": "isbn",
+            "text": "978-1-56581-231-4 90000",
+            "params": "includetext guardwhitespace"
+        },
+        {
+            "format": "ismn",
+            "text": "979-0-2605-3211-3",
+            "params": "includetext guardwhitespace"
+        },
+        {
+            "format": "issn",
+            "text": "0311-175X 00 17",
+            "params": "includetext guardwhitespace"
+        },
+        {
+            "format": "mands",
+            "text": "0642118",
+            "params": "includetext"
+        },
+        {
+            "format": "code128",
+            "text": "Count01234567!",
+            "params": "includetext"
+        },
+        {
+            "format": "gs1-128",
+            "text": "(01)09521234543213(3103)000123",
+            "params": "includetext"
+        },
+        {
+            "format": "ean14",
+            "text": "(01) 0 952 8765 43210 8",
+            "params": "includetext"
+        },
+        {
+            "format": "sscc18",
+            "text": "(00) 0 9528765 432101234 6",
+            "params": "includetext"
+        },
+        {
+            "format": "code39",
+            "text": "THIS IS CODE 39",
+            "params": "includetext includecheck includecheckintext"
+        },
+        {
+            "format": "code39ext",
+            "text": "Code39 Ext!",
+            "params": "includetext includecheck includecheckintext"
+        },
+        {
+            "format": "code32",
+            "text": "01234567",
+            "params": "includetext"
+        },
+        {
+            "format": "pzn",
+            "text": "123456",
+            "params": "includetext"
+        },
+        {
+            "format": "code93",
+            "text": "THIS IS CODE 93",
+            "params": "includetext includecheck"
+        },
+        {
+            "format": "code93ext",
+            "text": "Code93 Ext!",
+            "params": "includetext includecheck"
+        },
+        {
+            "format": "interleaved2of5",
+            "text": "2401234567",
+            "params": "height=12 includecheck includetext includecheckintext"
+        },
+        {
+            "format": "itf14",
+            "text": "0 952 1234 54321 3",
+            "params": "includetext"
+        },
+        {
+            "format": "identcode",
+            "text": "563102430313",
+            "params": "includetext"
+        },
+        {
+            "format": "leitcode",
+            "text": "21348075016401",
+            "params": "includetext"
+        },
+        {
+            "format": "databaromni",
+            "text": "(01)09521234543213"
+        },
+        {
+            "format": "databarstacked",
+            "text": "(01)09521234543213"
+        },
+        {
+            "format": "databarstackedomni",
+            "text": "(01)24012345678905"
+        },
+        {
+            "format": "databartruncated",
+            "text": "(01)09521234543213"
+        },
+        {
+            "format": "databarlimited",
+            "text": "(01)09521234543213"
+        },
+        {
+            "format": "databarexpanded",
+            "text": "(01)09521234543213(3103)000123"
+        },
+        {
+            "format": "databarexpandedstacked",
+            "text": "(01)09521234543213(3103)000123",
+            "params": "segments=4"
+        },
+        {
+            "format": "gs1northamericancoupon",
+            "text": "(8110)106141416543213500110000310123196000",
+            "params": "includetext segments=8"
+        },
+        {
+            "format": "pharmacode",
+            "text": "117480",
+            "params": "showborder"
+        },
+        {
+            "format": "pharmacode2",
+            "text": "117480",
+            "params": "includetext showborder"
+        },
+        {
+            "format": "code2of5",
+            "text": "01234567",
+            "params": "includetext includecheck includecheckintext"
+        },
+        {
+            "format": "industrial2of5",
+            "text": "01234567",
+            "params": "includetext includecheck includecheckintext"
+        },
+        {
+            "format": "iata2of5",
+            "text": "01234567",
+            "params": "includetext includecheck includecheckintext"
+        },
+        {
+            "format": "matrix2of5",
+            "text": "01234567",
+            "params": "includetext includecheck includecheckintext"
+        },
+        {
+            "format": "coop2of5",
+            "text": "01234567",
+            "params": "includetext includecheck includecheckintext"
+        },
+        {
+            "format": "datalogic2of5",
+            "text": "01234567",
+            "params": "includetext includecheck includecheckintext"
+        },
+        {
+            "format": "code11",
+            "text": "0123456789",
+            "params": "includetext includecheck includecheckintext"
+        },
+        {
+            "format": "bc412",
+            "text": "BC412SEMI",
+            "params": "semi includetext includecheckintext"
+        },
+        {
+            "format": "rationalizedCodabar",
+            "text": "A0123456789B",
+            "params": "includetext includecheck includecheckintext"
+        },
+        {
+            "format": "onecode",
+            "text": "0123456709498765432101234567891",
+            "params": "barcolor=FF0000"
+        },
+        {
+            "format": "postnet",
+            "text": "01234",
+            "params": "includetext includecheckintext"
+        },
+        {
+            "format": "planet",
+            "text": "01234567890",
+            "params": "includetext includecheckintext"
+        },
+        {
+            "format": "royalmail",
+            "text": "LE28HS9Z",
+            "params": "includetext barcolor=FF0000"
+        },
+        {
+            "format": "auspost",
+            "text": "5956439111ABA 9",
+            "params": "includetext custinfoenc=character"
+        },
+        {
+            "format": "kix",
+            "text": "1231FZ13XHS",
+            "params": "includetext"
+        },
+        {
+            "format": "japanpost",
+            "text": "6540123789-A-K-Z",
+            "params": "includetext includecheckintext"
+        },
+        {
+            "format": "msi",
+            "text": "0123456789",
+            "params": "includetext includecheck includecheckintext"
+        },
+        {
+            "format": "plessey",
+            "text": "01234ABCD",
+            "params": "includetext includecheckintext"
+        },
+        {
+            "format": "telepen",
+            "text": "ABCDEF",
+            "params": "includetext"
+        },
+        {
+            "format": "telepennumeric",
+            "text": "01234567",
+            "params": "includetext"
+        },
+        {
+            "format": "posicode",
+            "text": "ABC123",
+            "params": "version=b inkspread=-0.5 parsefnc includetext"
+        },
+        {
+            "format": "codablockf",
+            "text": "CODABLOCK F 34567890123456789010040digit",
+            "params": "columns=8"
+        },
+        {
+            "format": "code16k",
+            "text": "Abcd-1234567890-wxyZ"
+        },
+        {
+            "format": "code49",
+            "text": "MULTIPLE ROWS IN CODE 49"
+        },
+        {
+            "format": "channelcode",
+            "text": "3493",
+            "params": "height=12 includetext"
+        },
+        {
+            "format": "flattermarken",
+            "text": "11099",
+            "params": "inkspread=-0.25 showborder borderleft=0 borderright=0"
+        },
+        {
+            "format": "raw",
+            "text": "331132131313411122131311333213114131131221323",
+            "params": "height=12"
+        },
+        {
+            "format": "daft",
+            "text": "FATDAFTDAD"
+        },
+        {
+            "format": "symbol",
+            "text": "fima",
+            "params": "backgroundcolor=DD000011"
+        },
+        {
+            "format": "pdf417",
+            "text": "This is PDF417",
+            "params": "columns=2"
+        },
+        {
+            "format": "pdf417compact",
+            "text": "This is compact PDF417",
+            "params": "columns=2"
+        },
+        {
+            "format": "micropdf417",
+            "text": "MicroPDF417"
+        },
+        {
+            "format": "datamatrix",
+            "text": "This is Data Matrix!"
+        },
+        {
+            "format": "datamatrixrectangular",
+            "text": "1234"
+        },
+        {
+            "format": "datamatrixrectangularextension",
+            "text": "1234",
+            "params": "version=8x96"
+        },
+        {
+            "format": "mailmark",
+            "text": "JGB 012100123412345678AB19XY1A 0             www.xyz.com",
+            "params": "type=29"
+        },
+        {
+            "format": "qrcode",
+            "text": "http://goo.gl/0bis",
+            "params": "eclevel=M"
+        },
+        {
+            "format": "swissqrcode",
+            "text": "SPC^CR^LF0200^CR^LF1^CR^LFCH5800791123000889012^CR^LFS^CR^LFRobert Schneider AG^CR^LFRue du Lac^CR^LF1268^CR^LF2501^CR^LFBiel^CR^LFCH^CR^LF^CR^LF^CR^LF^CR^LF^CR^LF^CR^LF^CR^LF^CR^LF199.95^CR^LFCHF^CR^LFK^CR^LFPia-Maria Rutschmann-Schnyder^CR^LFGrosse Marktgasse 28^CR^LF9400 Rorschach^CR^LF^CR^LF^CR^LFCH^CR^LFSCOR^CR^LFRF18539007547034^CR^LF^CR^LFEPD",
+            "params": "parse"
+        },
+        {
+            "format": "microqrcode",
+            "text": "1234"
+        },
+        {
+            "format": "rectangularmicroqrcode",
+            "text": "1234",
+            "params": "version=R17x139"
+        },
+        {
+            "format": "maxicode",
+            "text": "[)>^03001^02996152382802^029840^029001^0291Z00004951^029UPSN^02906X610^029159^0291234567^0291/1^029^029Y^029634 ALPHA DR^029PITTSBURGH^029PA^029^004",
+            "params": "mode=2 parse"
+        },
+        {
+            "format": "azteccode",
+            "text": "This is Aztec Code",
+            "params": "format=full"
+        },
+        {
+            "format": "azteccodecompact",
+            "text": "1234"
+        },
+        {
+            "format": "aztecrune",
+            "text": "1"
+        },
+        {
+            "format": "codeone",
+            "text": "Code One"
+        },
+        {
+            "format": "hanxin",
+            "text": "This is Han Xin"
+        },
+        {
+            "format": "dotcode",
+            "text": "This is DotCode",
+            "params": "inkspread=0.16"
+        },
+        {
+            "format": "ultracode",
+            "text": "Awesome colours!",
+            "params": "eclevel=EC2"
+        },
+        {
+            "format": "gs1-cc",
+            "text": "(01)09521234543213(3103)000123",
+            "params": "ccversion=b cccolumns=4"
+        },
+        {
+            "format": "ean13composite",
+            "text": "9520123456788|(99)1234-abcd",
+            "params": "includetext"
+        },
+        {
+            "format": "ean8composite",
+            "text": "95200002|(21)A12345678",
+            "params": "includetext"
+        },
+        {
+            "format": "upcacomposite",
+            "text": "012345000058|(99)1234-abcd",
+            "params": "includetext"
+        },
+        {
+            "format": "upcecomposite",
+            "text": "01234558|(15)021231",
+            "params": "includetext"
+        },
+        {
+            "format": "databaromnicomposite",
+            "text": "(01)09521234543213|(11)990102"
+        },
+        {
+            "format": "databarstackedcomposite",
+            "text": "(01)09521234543213|(17)010200"
+        },
+        {
+            "format": "databarstackedomnicomposite",
+            "text": "(01)03612345678904|(11)990102"
+        },
+        {
+            "format": "databartruncatedcomposite",
+            "text": "(01)09521234543213|(11)990102"
+        },
+        {
+            "format": "databarlimitedcomposite",
+            "text": "(01)09521234543213|(21)abcdefghijklmnopqrst"
+        },
+        {
+            "format": "databarexpandedcomposite",
+            "text": "(01)09521234543213(3103)001234|(91)1A2B3C4D5E"
+        },
+        {
+            "format": "databarexpandedstackedcomposite",
+            "text": "(01)09521234543213(10)ABCDEF|(21)12345678",
+            "params": "segments=4"
+        },
+        {
+            "format": "gs1-128composite",
+            "text": "(00)095287654321012346|(02)09521234543213(37)24(10)1234567ABCDEFG",
+            "params": "ccversion=c"
+        },
+        {
+            "format": "gs1datamatrix",
+            "text": "(01)09521234543213(17)120508(10)ABCD1234(410)9501101020917"
+        },
+        {
+            "format": "gs1datamatrixrectangular",
+            "text": "(01)09521234543213(17)120508(10)ABCD1234(410)9501101020917"
+        },
+        {
+            "format": "gs1dldatamatrix",
+            "text": "https://id.gs1.org/01/09521234543213/22/ABC%2d123?99=XYZ%2f987"
+        },
+        {
+            "format": "gs1qrcode",
+            "text": "(01)09521234543213(8200)http://www.abc.net(10)ABCD1234(410)9501101020917"
+        },
+        {
+            "format": "gs1dlqrcode",
+            "text": "https://id.gs1.org/01/09521234543213/22/ABC%2d123?99=XYZ%2f987"
+        },
+        {
+            "format": "gs1dotcode",
+            "text": "(235)5vBZIF%!<B;?oa%(01)09521234543213(8008)19052001",
+            "params": "rows=16"
+        },
+        {
+            "format": "hibccode39",
+            "text": "A999BJC5D6E71",
+            "params": "includetext"
+        },
+        {
+            "format": "hibccode128",
+            "text": "A999BJC5D6E71",
+            "params": "includetext"
+        },
+        {
+            "format": "hibcdatamatrix",
+            "text": "A999BJC5D6E71"
+        },
+        {
+            "format": "hibcdatamatrixrectangular",
+            "text": "A999BJC5D6E71"
+        },
+        {
+            "format": "hibcpdf417",
+            "text": "A999BJC5D6E71"
+        },
+        {
+            "format": "hibcmicropdf417",
+            "text": "A999BJC5D6E71"
+        },
+        {
+            "format": "hibcqrcode",
+            "text": "A999BJC5D6E71"
+        },
+        {
+            "format": "hibccodablockf",
+            "text": "A999BJC5D6E71"
+        },
+        {
+            "format": "hibcazteccode",
+            "text": "A999BJC5D6E71"
+        }
+    ],
+    "success": true
+}

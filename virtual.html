@@ -3,11 +3,11 @@
 
 <head>
     <meta charset="utf-8" />
-    <meta rd="tq1e9hrmcq.c"/>
+    <meta rd="bn807krs8k.3"/>
 </head>
 
 <body>
-    <script src="dist/viewer.js?v=202509071036"></script>
+    <script src="dist/viewer.js?v=202510121412"></script>
     <script>
         //--－start--- 以下是环境检测提示，方便有问题时自查，正式使用时建议删除
         if(!CSS.supports('overflow:clip')||
@@ -38,19 +38,25 @@
             let stage = example49Data.data;//拿出设计器设计好的模板数据
 
             //example49中使用到了apis/person.json数据，我们也需要在外部准备好
-            let data = {};
+            let data = [];
             //如果你想更细致的控制渲染，比如把模板数据及依赖的真实数据都准备好后，让预览器很快的速度渲染出来，则需要把下面begin data与end data的逻辑读懂
             //--begin data--
             let personResponse = await fetch('apis/person.json');
             let personData = await personResponse.json();
-            // apis/person.json这个key为绑定时使用的tag，如果提供了getBindUrl重写方法，则是该方法返回的key
-            data['apis/person.json'] = personData.data;
+            data.push({
+                bind:{//此bind中id与tag需要与模板中的一致，只需要id和tag即可，其它可省略
+                    id:3,
+                    tag:'apis/person.json'
+                },
+                data:personData.data,//对应的数据
+                error:"",//可选的接口异常时的错误信息，如果接口没有异常省略error即可
+            })
             //--end data--
             //如果begin data与end data中间的逻辑对你来讲看不懂，则这部分代码不写，程序也能正常工作
             //只是这样预览器内部要去获取相应的数据，渲染时间上就会稍长
             //即：要么外部提供好内部需要的所有数据，内部只做渲染，速度快。要么外部不提供数据，内部自动获取，则渲染用时会变长
-            let vf = await viewer.install({
-                version:'202509071036',//安装预览器，如果在其它代码中使用，请确保不要反复安装
+            await viewer.install({
+                version:'202510121412',//安装预览器，如果在其它代码中使用，请确保不要反复安装
                 use: 'default',//预览器内置了 IoT(iot) 流式分页(stack) 标签(label) 静态分页(default)　大屏看板(board) 五种预览，这里使用 静态分页(default) 进行内容渲染。另外获取board及iot的HTML是无意义的，所以当use是这2种类型时，是拿不到任何返回数据的
                 getFontFaceUrl: './apis/fontface.json',//如果在设计的时候使用了自定义字体，则这里一定要配置相应的字体接口，如果设计时未使用自定义字体则不需要配置。注意，当有自定义字体时，通常获得的样式中要包含字体文件，会比较大，这取决于字体文件的大小
                 latent: true,//一定要指定隐藏渲染
@@ -66,7 +72,7 @@
                     }
                 }
             });
-            let renderData = await vf.getHTML({ stage, data, pageShadow: true });//预览器会根据stage模板和提供的data数据返回相应的页面内容 ，其中pageShadow用来控制生成的页面是否带阴影，如果不需要阴影，则可以配置pageShadow: false
+            let renderData = await viewer.getHTML({ stage, data, pageShadow: true });//预览器会根据stage模板和提供的data数据返回相应的页面内容 ，其中pageShadow用来控制生成的页面是否带阴影，如果不需要阴影，则可以配置pageShadow: false
             viewer.uninstall(); //如果在代码中使用，请根据情况进行使用后的销毁处理
 
             /* viewer在install后，可反复多次传入新的数据调用getHTML方法获取相应的样式和分页HTML。只有您确定不再需要时，再调用uninstall卸载即可。并不需要每次调用前install，调用后uninstall*/
