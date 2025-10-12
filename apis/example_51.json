@@ -30,8 +30,8 @@
         },
         "elements": [
             {
-                "id": "mwfjngzm_lg4t6ji8365",
-                "type": "chart/d9y21y",
+                "id": "vjztdlod_lg4t6ji8365",
+                "type": "chart/a2n9m4",
                 "unit": "px",
                 "props": {
                     "x": -32,
@@ -57,8 +57,8 @@
                 }
             },
             {
-                "id": "mwfjngzm_lg4t6ji8421",
-                "type": "chart/d9bx5q",
+                "id": "vjztdlod_lg4t6ji8421",
+                "type": "chart/a2c4y0",
                 "unit": "px",
                 "props": {
                     "x": 310,
@@ -84,8 +84,8 @@
                 }
             },
             {
-                "id": "mwfjngzm_lfuvg8pv131",
-                "type": "dgk0oc",
+                "id": "vjztdlod_lfuvg8pv131",
+                "type": "a54az0",
                 "unit": "px",
                 "props": {
                     "x": 31,
@@ -106,8 +106,8 @@
                 }
             },
             {
-                "id": "mwfjngzm_lfuvg8pv197",
-                "type": "svg/d896lc",
+                "id": "vjztdlod_lfuvg8pv197",
+                "type": "svg/a1snrt",
                 "unit": "px",
                 "props": {
                     "x": 139,
@@ -146,8 +146,8 @@
                 }
             },
             {
-                "id": "mwfjngzm_lfuvg8pv248",
-                "type": "dcpo2y",
+                "id": "vjztdlod_lfuvg8pv248",
+                "type": "a3nfsh",
                 "unit": "px",
                 "props": {
                     "x": 716,
@@ -180,8 +180,8 @@
                 }
             },
             {
-                "id": "mwfjngzm_lfuvg8pv316",
-                "type": "dg8y88",
+                "id": "vjztdlod_lfuvg8pv316",
+                "type": "a51isz",
                 "unit": "px",
                 "props": {
                     "x": 589,
@@ -212,8 +212,8 @@
                 }
             },
             {
-                "id": "mwfjngzm_lfuvg8pv378",
-                "type": "svg/d8epte",
+                "id": "vjztdlod_lfuvg8pv378",
+                "type": "svg/a1vfxu",
                 "unit": "px",
                 "props": {
                     "x": 697,
@@ -248,8 +248,8 @@
                 }
             },
             {
-                "id": "mwfjngzm_lfuvg8pv426",
-                "type": "dgk0oc",
+                "id": "vjztdlod_lfuvg8pv426",
+                "type": "a54az0",
                 "unit": "px",
                 "props": {
                     "x": 467,
@@ -269,8 +269,8 @@
                 }
             },
             {
-                "id": "mwfjngzm_lfuvg8pv154",
-                "type": "svg/d896lc",
+                "id": "vjztdlod_lfuvg8pv154",
+                "type": "svg/a1snrt",
                 "unit": "px",
                 "props": {
                     "x": 197,
@@ -309,8 +309,8 @@
                 }
             },
             {
-                "id": "mwfjngzm_lfuxbd1153",
-                "type": "dapq68",
+                "id": "vjztdlod_lfuxbd1153",
+                "type": "a316g9",
                 "unit": "px",
                 "props": {
                     "x": 826,
@@ -347,8 +347,8 @@
                 }
             },
             {
-                "id": "mwfjngzm_lg4t6ji8269",
-                "type": "svg/de90bi",
+                "id": "vjztdlod_lg4t6ji8269",
+                "type": "svg/a46wyo",
                 "unit": "px",
                 "props": {
                     "x": 139,
@@ -376,8 +376,8 @@
                 }
             },
             {
-                "id": "mwfjngzm_lg4xb6l6187",
-                "type": "dg8y88",
+                "id": "vjztdlod_lg4xb6l6187",
+                "type": "a51isz",
                 "unit": "px",
                 "props": {
                     "x": 723,
@@ -398,7 +398,7 @@
                             }
                         ]
                     },
-                    "format": "b:{\"id\":\"no\",\"body\":[null,\".#\"],\"prefix\":\"实时温度：\",\"postfix\":\"℃\"}",
+                    "usage": "b:{\"id\":\"no\",\"body\":[null,\".#\"],\"prefix\":\"实时温度：\",\"postfix\":\"℃\"}",
                     "match": true,
                     "size": 14,
                     "font": "tahoma",
@@ -418,8 +418,8 @@
                 }
             },
             {
-                "id": "mwfjngzm_lg4xb6l6225",
-                "type": "dg8y88",
+                "id": "vjztdlod_lg4xb6l6225",
+                "type": "a51isz",
                 "unit": "px",
                 "props": {
                     "x": 723,
@@ -440,7 +440,7 @@
                             }
                         ]
                     },
-                    "format": "b:{\"id\":\"no\",\"body\":[null,\".\"],\"prefix\":\"实时水位：\",\"postfix\":\"%\"}",
+                    "usage": "b:{\"id\":\"no\",\"body\":[null,\".\"],\"prefix\":\"实时水位：\",\"postfix\":\"%\"}",
                     "match": true,
                     "size": 14,
                     "font": "tahoma",
@@ -460,8 +460,8 @@
                 }
             },
             {
-                "id": "mwfjngzm_lg4xb6l6264",
-                "type": "dg8y88",
+                "id": "vjztdlod_lg4xb6l6264",
+                "type": "a51isz",
                 "unit": "px",
                 "props": {
                     "x": 723,
@@ -482,7 +482,7 @@
                             }
                         ]
                     },
-                    "format": "f:/*\n    data是根据根据当前绑定的字段取到的数据\n    item是完整的单条数据对象\n    可以把下面的console前的注释去掉查看相应的数据\n*/\nfunction main(data,item){\n    //console.log(data,item);\n    //return data+item.name;\n    return '阀门状态：'+(data==0?'关闭':'打开');\n}",
+                    "usage": "f:/*\n    data是根据根据当前绑定的字段取到的数据\n    item是完整的单条数据对象\n    可以把下面的console前的注释去掉查看相应的数据\n*/\nfunction main(data,item){\n    //console.log(data,item);\n    //return data+item.name;\n    return '阀门状态：'+(data==0?'关闭':'打开');\n}",
                     "match": true,
                     "size": 14,
                     "font": "tahoma",

@@ -30,8 +30,8 @@
         },
         "elements": [
             {
-                "id": "mwfjngzm_ltqurchb278",
-                "type": "d56i48",
+                "id": "vjztdlod_ltqurchb278",
+                "type": "a090f9",
                 "unit": "mm",
                 "props": {
                     "bind": {
@@ -46,8 +46,8 @@
                                     "width": 85.616,
                                     "elements": [
                                         {
-                                            "id": "mwfjngzm_ltqurchb334",
-                                            "type": "dg8y88",
+                                            "id": "vjztdlod_ltqurchb334",
+                                            "type": "a51isz",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 6.861,
@@ -68,7 +68,7 @@
                                                         }
                                                     ]
                                                 },
-                                                "format": "b:{\"id\":\"no\",\"body\":[],\"prefix\":\"序号：\"}",
+                                                "usage": "b:{\"id\":\"no\",\"body\":[],\"prefix\":\"序号：\"}",
                                                 "match": true,
                                                 "size": 3.704,
                                                 "font": "tahoma",
@@ -88,8 +88,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mwfjngzm_ltqurchb335",
-                                            "type": "dg8y88",
+                                            "id": "vjztdlod_ltqurchb335",
+                                            "type": "a51isz",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 6.861,
@@ -110,7 +110,7 @@
                                                         }
                                                     ]
                                                 },
-                                                "format": "b:{\"id\":\"no\",\"body\":[],\"prefix\":\"性别：\"}",
+                                                "usage": "b:{\"id\":\"no\",\"body\":[],\"prefix\":\"性别：\"}",
                                                 "match": true,
                                                 "size": 3.704,
                                                 "font": "tahoma",
@@ -130,8 +130,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mwfjngzm_ltqurchb336",
-                                            "type": "dg8y88",
+                                            "id": "vjztdlod_ltqurchb336",
+                                            "type": "a51isz",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 7.192,
@@ -152,7 +152,7 @@
                                                         }
                                                     ]
                                                 },
-                                                "format": "b:{\"id\":\"no\",\"body\":[],\"prefix\":\"姓名：\"}",
+                                                "usage": "b:{\"id\":\"no\",\"body\":[],\"prefix\":\"姓名：\"}",
                                                 "match": true,
                                                 "size": 3.704,
                                                 "font": "tahoma",
@@ -172,8 +172,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mwfjngzm_ltqurchb372",
-                                            "type": "dgk0oc",
+                                            "id": "vjztdlod_ltqurchb372",
+                                            "type": "a54az0",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 47.958,

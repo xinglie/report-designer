@@ -24,8 +24,8 @@
         "g": [],
         "elements": [
             {
-                "id": "mwfjngzm_lg08uwxe108",
-                "type": "dhh80o",
+                "id": "vjztdlod_lg08uwxe108",
+                "type": "a5ffn4",
                 "unit": "mm",
                 "props": {
                     "text": "<b style=\"font-size:20px\">图片打印自动缩放适应测试</b><br/>\n<br/>\n<br/>\n宽度自适应<br/>\n<img src=\"https://img.alicdn.com/tfs/TB1vGSmI.T1gK0jSZFrXXcNCXXa-1061-512.png\"/>\n<br/><br/>\n测试文字内容，如果自己指定宽度，则需要保证宽度在页面宽度内\n<img src=\"https://img.alicdn.com/tfs/TB1vGSmI.T1gK0jSZFrXXcNCXXa-1061-512.png\" style=\"width:190mm\"/>\n<br /><br/><br/><br/><br/>\n下面这个图片是故意拉伸变形进行高度测试的<br/><br/>\n<img src=\"https://img.alicdn.com/tfs/TB1vGSmI.T1gK0jSZFrXXcNCXXa-1061-512.png\" style=\"height:300mm\"/>",

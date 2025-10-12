@@ -23,8 +23,8 @@
         "g": [],
         "elements": [
             {
-                "id": "mwfjngzm_279",
-                "type": "d4pwg2",
+                "id": "vjztdlod_279",
+                "type": "a00nx6",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -57,7 +57,7 @@
                                     "textStyleStrike": false,
                                     "textMatch": false,
                                     "textContent": "在打印页面，该表格会在同一纸张多栏排版",
-                                    "textFormat": "",
+                                    "usage": "",
                                     "elements": []
                                 }
                             ]
@@ -92,7 +92,7 @@
                                     "textStyleStrike": false,
                                     "textMatch": true,
                                     "textContent": "姓名",
-                                    "textFormat": "",
+                                    "usage": "",
                                     "elements": []
                                 },
                                 {
@@ -122,7 +122,7 @@
                                     "textStyleStrike": false,
                                     "textMatch": true,
                                     "textContent": "性别",
-                                    "textFormat": "",
+                                    "usage": "",
                                     "elements": []
                                 },
                                 {
@@ -152,7 +152,7 @@
                                     "textStyleStrike": false,
                                     "textMatch": true,
                                     "textContent": "地址",
-                                    "textFormat": "",
+                                    "usage": "",
                                     "elements": []
                                 }
                             ]
@@ -187,7 +187,7 @@
                                     "textStyleStrike": false,
                                     "textMatch": true,
                                     "textContent": "",
-                                    "textFormat": "",
+                                    "usage": "",
                                     "bindKey": "name",
                                     "bindName": "姓名"
                                 },
@@ -218,7 +218,7 @@
                                     "textStyleStrike": false,
                                     "textMatch": true,
                                     "textContent": "",
-                                    "textFormat": "",
+                                    "usage": "",
                                     "bindKey": "gender",
                                     "bindName": "性别"
                                 },
@@ -249,7 +249,7 @@
                                     "textStyleStrike": false,
                                     "textMatch": true,
                                     "textContent": "",
-                                    "textFormat": "",
+                                    "usage": "",
                                     "bindKey": "addr",
                                     "bindName": "地址"
                                 }
@@ -285,7 +285,7 @@
                                     "textStyleStrike": false,
                                     "textMatch": true,
                                     "textContent": "",
-                                    "textFormat": ""
+                                    "usage": ""
                                 },
                                 {
                                     "height": 7.94,
@@ -314,7 +314,7 @@
                                     "textStyleStrike": false,
                                     "textMatch": true,
                                     "textContent": "",
-                                    "textFormat": ""
+                                    "usage": ""
                                 },
                                 {
                                     "height": 7.94,
@@ -343,7 +343,7 @@
                                     "textStyleStrike": false,
                                     "textMatch": true,
                                     "textContent": "",
-                                    "textFormat": ""
+                                    "usage": ""
                                 }
                             ]
                         },
@@ -376,7 +376,7 @@
                                     "textStyleStrike": false,
                                     "textMatch": true,
                                     "textContent": "",
-                                    "textFormat": "",
+                                    "usage": "",
                                     "elements": []
                                 },
                                 {
@@ -406,7 +406,7 @@
                                     "textStyleStrike": false,
                                     "textMatch": true,
                                     "textContent": "",
-                                    "textFormat": "",
+                                    "usage": "",
                                     "elements": []
                                 },
                                 {
@@ -436,7 +436,7 @@
                                     "textStyleStrike": false,
                                     "textMatch": true,
                                     "textContent": "",
-                                    "textFormat": "",
+                                    "usage": "",
                                     "elements": []
                                 }
                             ]

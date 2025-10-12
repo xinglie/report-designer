@@ -30,8 +30,8 @@
         },
         "elements": [
             {
-                "id": "mwfjngzm_lt6y4vct327",
-                "type": "d50yw6",
+                "id": "vjztdlod_lt6y4vct327",
+                "type": "a06898",
                 "unit": "mm",
                 "props": {
                     "bind": {
@@ -79,8 +79,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "mwfjngzm_lt6y4vct562",
-                                            "type": "dg8y88",
+                                            "id": "vjztdlod_lt6y4vct562",
+                                            "type": "a51isz",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 0,
@@ -123,8 +123,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "mwfjngzm_lt6y4vct632",
-                                            "type": "dg8y88",
+                                            "id": "vjztdlod_lt6y4vct632",
+                                            "type": "a51isz",
                                             "unit": "mm",
                                             "props": {
                                                 "x": -2.401,
@@ -172,8 +172,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "mwfjngzm_lt6y4vct349",
-                                            "type": "dg8y88",
+                                            "id": "vjztdlod_lt6y4vct349",
+                                            "type": "a51isz",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 4.622,
@@ -194,7 +194,7 @@
                                                         }
                                                     ]
                                                 },
-                                                "format": "b:{\"id\":\"no\",\"body\":[],\"prefix\":\"序号：\"}",
+                                                "usage": "b:{\"id\":\"no\",\"body\":[],\"prefix\":\"序号：\"}",
                                                 "match": true,
                                                 "size": 3.704,
                                                 "font": "tahoma",
@@ -214,8 +214,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mwfjngzm_lt6y4vct369",
-                                            "type": "dg8y88",
+                                            "id": "vjztdlod_lt6y4vct369",
+                                            "type": "a51isz",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 4.622,
@@ -236,7 +236,7 @@
                                                         }
                                                     ]
                                                 },
-                                                "format": "b:{\"id\":\"no\",\"body\":[],\"prefix\":\"性别：\"}",
+                                                "usage": "b:{\"id\":\"no\",\"body\":[],\"prefix\":\"性别：\"}",
                                                 "match": true,
                                                 "size": 3.704,
                                                 "font": "tahoma",
@@ -256,8 +256,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mwfjngzm_lt6y4vct823",
-                                            "type": "dg8y88",
+                                            "id": "vjztdlod_lt6y4vct823",
+                                            "type": "a51isz",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 4.953,
@@ -278,7 +278,7 @@
                                                         }
                                                     ]
                                                 },
-                                                "format": "b:{\"id\":\"no\",\"body\":[],\"prefix\":\"姓名：\"}",
+                                                "usage": "b:{\"id\":\"no\",\"body\":[],\"prefix\":\"姓名：\"}",
                                                 "match": true,
                                                 "size": 3.704,
                                                 "font": "tahoma",
@@ -310,8 +310,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "mwfjngzm_lt6y4vct747",
-                                            "type": "dgk0oc",
+                                            "id": "vjztdlod_lt6y4vct747",
+                                            "type": "a54az0",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 8.922,

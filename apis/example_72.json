@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "mwfjngzm_lv6g4oka410",
-                "type": "d4pwg2",
+                "id": "vjztdlod_lv6g4oka410",
+                "type": "a00nx6",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -419,7 +419,7 @@
                                     "textMatch": true,
                                     "bindKey": "price",
                                     "bindName": "单价",
-                                    "textFormat": "b:{\"id\":\"no\",\"body\":[null,\".##\"],\"prefix\":\"¥\"}"
+                                    "usage": "b:{\"id\":\"no\",\"body\":[null,\".##\"],\"prefix\":\"¥\"}"
                                 },
                                 {
                                     "pBottom": 1.323,
@@ -444,7 +444,7 @@
                                     "rowspan": 1,
                                     "colspan": 1,
                                     "elements": [],
-                                    "bindKey": "d7bz90",
+                                    "bindKey": "a1byrn",
                                     "bindName": "数量"
                                 },
                                 {
@@ -465,7 +465,7 @@
                                     "textSize": 3.704,
                                     "textFont": "tahoma",
                                     "textMatch": true,
-                                    "textFormat": "f:/*\n\tdata是當前綁定的字段取到的數據\n\titem是完整的單條數據對象\n\t可以把下面的console前的註釋去掉查看相應的數據\n*/\nfunction main(data,item){\n\t//console.log(data,item);\n\t//return data+item.name;\n    if(data=='subtotal')\n      return '小计';\n\treturn (data*100).toFixed(2)+'%';\n}",
+                                    "usage": "f:/*\n\tdata是當前綁定的字段取到的數據\n\titem是完整的單條數據對象\n\t可以把下面的console前的註釋去掉查看相應的數據\n*/\nfunction main(data,item){\n\t//console.log(data,item);\n\t//return data+item.name;\n    if(data=='subtotal')\n      return '小计';\n\treturn (data*100).toFixed(2)+'%';\n}",
                                     "height": 13.473,
                                     "width": 32.098,
                                     "rowspan": 1,
@@ -492,7 +492,7 @@
                                     "textSize": 3.704,
                                     "textFont": "tahoma",
                                     "textMatch": true,
-                                    "textFormat": "f:/*\n\tdata是當前綁定的字段取到的數據\n\titem是完整的單條數據對象\n\t可以把下面的console前的註釋去掉查看相應的數據\n*/\nfunction main(data,item){\n\t//console.log(data,item);\n\t//return data+item.name;\n\tlet result = '¥'+data.toFixed(2);\n    if(item.free){\n    \tresult+=`<br/>减免(${item.free})`\n    }\n    return result;\n}",
+                                    "usage": "f:/*\n\tdata是當前綁定的字段取到的數據\n\titem是完整的單條數據對象\n\t可以把下面的console前的註釋去掉查看相應的數據\n*/\nfunction main(data,item){\n\t//console.log(data,item);\n\t//return data+item.name;\n\tlet result = '¥'+data.toFixed(2);\n    if(item.free){\n    \tresult+=`<br/>减免(${item.free})`\n    }\n    return result;\n}",
                                     "height": 13.473,
                                     "width": 32.098,
                                     "rowspan": 1,
@@ -832,8 +832,8 @@
                 }
             },
             {
-                "id": "mwfjngzm_lv6pi07t553",
-                "type": "dg8y88",
+                "id": "vjztdlod_lv6pi07t553",
+                "type": "a51isz",
                 "unit": "mm",
                 "props": {
                     "x": 61.017,
@@ -864,8 +864,8 @@
                 }
             },
             {
-                "id": "mwfjngzm_lv6pi07t636",
-                "type": "dg8y88",
+                "id": "vjztdlod_lv6pi07t636",
+                "type": "a51isz",
                 "unit": "mm",
                 "props": {
                     "x": 121.626,
@@ -896,8 +896,8 @@
                 }
             },
             {
-                "id": "mwfjngzm_lvacugcx315",
-                "type": "dg8y88",
+                "id": "vjztdlod_lvacugcx315",
+                "type": "a51isz",
                 "unit": "mm",
                 "props": {
                     "x": 17.207,
@@ -928,8 +928,8 @@
                 }
             },
             {
-                "id": "mwfjngzm_m7g969np216",
-                "type": "d5y68i",
+                "id": "vjztdlod_m7g969np216",
+                "type": "a0mx9e",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -940,8 +940,8 @@
                                     "width": 209.815,
                                     "elements": [
                                         {
-                                            "id": "mwfjngzm_m7g969np336",
-                                            "type": "d7hih2",
+                                            "id": "vjztdlod_m7g969np336",
+                                            "type": "a1eqxo",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 168.44,

@@ -32,8 +32,8 @@
         },
         "elements": [
             {
-                "id": "mwfjngzm_53",
-                "type": "dgk0oc",
+                "id": "vjztdlod_53",
+                "type": "a54az0",
                 "unit": "px",
                 "props": {
                     "readonly": true,
@@ -60,8 +60,8 @@
                 }
             },
             {
-                "id": "mwfjngzm_54",
-                "type": "dak6y6",
+                "id": "vjztdlod_54",
+                "type": "a2yea8",
                 "unit": "px",
                 "props": {
                     "readonly": true,
@@ -77,7 +77,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "dak6y6": "dak6y6",
+                    "a2yea8": "a2yea8",
                     "imageWidth": 102,
                     "imageHeight": 102,
                     "backgroundX": 0,
@@ -87,8 +87,8 @@
                 }
             },
             {
-                "id": "mwfjngzm_55",
-                "type": "dfxvs4",
+                "id": "vjztdlod_55",
+                "type": "a4vygx",
                 "unit": "px",
                 "props": {
                     "readonly": true,
@@ -121,8 +121,8 @@
                 }
             },
             {
-                "id": "mwfjngzm_56",
-                "type": "d5n3se",
+                "id": "vjztdlod_56",
+                "type": "a0hcxc",
                 "unit": "px",
                 "props": {
                     "readonly": true,
@@ -140,8 +140,8 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "mwfjngzm_57",
-                                            "type": "dg8y88",
+                                            "id": "vjztdlod_57",
+                                            "type": "a51isz",
                                             "unit": "px",
                                             "props": {
                                                 "full": false,
@@ -196,8 +196,8 @@
                                     "colspan": 1,
                                     "elements": [
                                         {
-                                            "id": "mwfjngzm_58",
-                                            "type": "dgv34g",
+                                            "id": "vjztdlod_58",
+                                            "type": "a57351",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": true,
@@ -260,8 +260,8 @@
                 }
             },
             {
-                "id": "mwfjngzm_105",
-                "type": "d63pgk",
+                "id": "vjztdlod_105",
+                "type": "a0ppff",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -272,8 +272,8 @@
                                     "width": 300,
                                     "elements": [
                                         {
-                                            "id": "mwfjngzm_110",
-                                            "type": "dt09su",
+                                            "id": "vjztdlod_110",
+                                            "type": "a9g4ck",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": true,

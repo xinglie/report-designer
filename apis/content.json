@@ -21,8 +21,8 @@
         "g": [],
         "elements": [
             {
-                "id": "mwfjngzm_335",
-                "type": "d4pwg2",
+                "id": "vjztdlod_335",
+                "type": "a00nx6",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -54,11 +54,11 @@
                                     "textStyleItalic": false,
                                     "textStyleStrike": false,
                                     "textContent": "",
-                                    "textFormat": "",
+                                    "usage": "",
                                     "elements": [
                                         {
-                                            "id": "mwfjngzm_336",
-                                            "type": "d4vfo4",
+                                            "id": "vjztdlod_336",
+                                            "type": "a03g37",
                                             "unit": "px",
                                             "props": {
                                                 "rows": [
@@ -90,7 +90,7 @@
                                                                 "textStyleItalic": false,
                                                                 "textStyleStrike": false,
                                                                 "textContent": "",
-                                                                "textFormat": "",
+                                                                "usage": "",
                                                                 "bindKey": "name",
                                                                 "bindName": "姓名"
                                                             },
@@ -120,7 +120,7 @@
                                                                 "textStyleItalic": false,
                                                                 "textStyleStrike": false,
                                                                 "textContent": "",
-                                                                "textFormat": "",
+                                                                "usage": "",
                                                                 "bindKey": "gender",
                                                                 "bindName": "性别"
                                                             }
@@ -154,7 +154,7 @@
                                                                 "textStyleItalic": false,
                                                                 "textStyleStrike": false,
                                                                 "textContent": "",
-                                                                "textFormat": "",
+                                                                "usage": "",
                                                                 "bindKey": "idn",
                                                                 "bindName": "身份证号"
                                                             },
@@ -185,7 +185,7 @@
                                                                 "textStyleStrike": false,
                                                                 "textMatch": true,
                                                                 "textContent": "",
-                                                                "textFormat": "",
+                                                                "usage": "",
                                                                 "bindKey": "addr",
                                                                 "bindName": "地址"
                                                             }
@@ -211,8 +211,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mwfjngzm_386",
-                                            "type": "dg8y88",
+                                            "id": "vjztdlod_386",
+                                            "type": "a51isz",
                                             "unit": "px",
                                             "props": {
                                                 "pinX": false,
@@ -284,7 +284,7 @@
                                     "textStyleItalic": false,
                                     "textStyleStrike": false,
                                     "textContent": "序号",
-                                    "textFormat": "",
+                                    "usage": "",
                                     "elements": []
                                 },
                                 {
@@ -313,7 +313,7 @@
                                     "textStyleItalic": false,
                                     "textStyleStrike": false,
                                     "textContent": "展现量",
-                                    "textFormat": "",
+                                    "usage": "",
                                     "elements": []
                                 },
                                 {
@@ -342,7 +342,7 @@
                                     "textStyleItalic": false,
                                     "textStyleStrike": false,
                                     "textContent": "点击率",
-                                    "textFormat": "",
+                                    "usage": "",
                                     "elements": []
                                 }
                             ]
@@ -376,7 +376,7 @@
                                     "textStyleItalic": false,
                                     "textStyleStrike": false,
                                     "textContent": "",
-                                    "textFormat": "",
+                                    "usage": "",
                                     "bindKey": "f2",
                                     "bindName": "点击量"
                                 },
@@ -406,7 +406,7 @@
                                     "textStyleItalic": false,
                                     "textStyleStrike": false,
                                     "textContent": "",
-                                    "textFormat": "",
+                                    "usage": "",
                                     "bindKey": "f1",
                                     "bindName": "展现量"
                                 },
@@ -436,7 +436,7 @@
                                     "textStyleItalic": false,
                                     "textStyleStrike": false,
                                     "textContent": "",
-                                    "textFormat": "",
+                                    "usage": "",
                                     "bindKey": "f3",
                                     "bindName": "点击率"
                                 }
@@ -471,7 +471,7 @@
                                     "textStyleItalic": false,
                                     "textStyleStrike": false,
                                     "textContent": "本页小计",
-                                    "textFormat": ""
+                                    "usage": ""
                                 },
                                 {
                                     "height": 30,
@@ -499,7 +499,7 @@
                                     "textStyleItalic": false,
                                     "textStyleStrike": false,
                                     "textContent": "",
-                                    "textFormat": ""
+                                    "usage": ""
                                 },
                                 {
                                     "height": 30,
@@ -527,7 +527,7 @@
                                     "textStyleItalic": false,
                                     "textStyleStrike": false,
                                     "textContent": "",
-                                    "textFormat": ""
+                                    "usage": ""
                                 }
                             ]
                         },
@@ -559,7 +559,7 @@
                                     "textStyleItalic": false,
                                     "textStyleStrike": false,
                                     "textContent": "总计",
-                                    "textFormat": "",
+                                    "usage": "",
                                     "elements": []
                                 },
                                 {
@@ -588,11 +588,11 @@
                                     "textStyleItalic": false,
                                     "textStyleStrike": false,
                                     "textContent": "",
-                                    "textFormat": "",
+                                    "usage": "",
                                     "elements": [
                                         {
-                                            "id": "mwfjngzm_337",
-                                            "type": "dg8y88",
+                                            "id": "vjztdlod_337",
+                                            "type": "a51isz",
                                             "unit": "px",
                                             "props": {
                                                 "x": 32,

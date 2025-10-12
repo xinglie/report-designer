@@ -14,7 +14,7 @@
                 {
                     "name": "头像",
                     "key": "avatar",
-                    "use": "dgk0oc",
+                    "use": "a54az0",
                     "props": {
                         "width": 150,
                         "height": 150
@@ -264,7 +264,7 @@
                 {
                     "name": "片断1",
                     "key": "p1",
-                    "use": "d70wsw",
+                    "use": "a16efl",
                     "props": {
                         "width": 500
                     }
@@ -272,7 +272,7 @@
                 {
                     "name": "片断2",
                     "key": "p2",
-                    "use": "d70wsw",
+                    "use": "a16efl",
                     "props": {
                         "width": 500
                     }
@@ -309,12 +309,12 @@
             "fields": [
                 {
                     "name": "关系图数据表",
-                    "key": "dq34js"
+                    "key": "a87lo4"
                 },
                 {
                     "name": "词云",
-                    "key": "dbbv2g",
-                    "use": "chart/dbbv2g"
+                    "key": "a3cb4d",
+                    "use": "chart/a3cb4d"
                 },
                 {
                     "name": "轮播",
@@ -324,15 +324,9 @@
                         {
                             "name": "轮播图测试",
                             "key": "images",
-                            "use": "db6bue"
+                            "use": "a39iyc"
                         }
                     ]
-                },
-                {
-                    "name": "500条数据",
-                    "key": "no",
-                    "id": "bigdata",
-                    "tag": "apis/500.json"
                 }
             ]
         },
@@ -390,7 +384,7 @@
                 },
                 {
                     "name": "数量",
-                    "key": "d7bz90"
+                    "key": "a1byrn"
                 },
                 {
                     "name": "折扣率",
@@ -474,7 +468,7 @@
                 },
                 {
                     "name": "富文本",
-                    "key": "d76g0y"
+                    "key": "a196lm"
                 },
                 {
                     "name": "审核数据",
@@ -536,7 +530,7 @@
                         },
                         {
                             "name": "创建时间",
-                            "key": "base/d5c1ca"
+                            "key": "base/a0bsla"
                         },
                         {
                             "name": "收银员",
@@ -599,7 +593,7 @@
                 {
                     "name": "基础数据批量添加",
                     "key": "base/name",
-                    "use": "dg8y88",
+                    "use": "a51isz",
                     "title": "超市名称",
                     "id": "receipt_base",
                     "props": {
@@ -610,8 +604,8 @@
                     "union": [
                         {
                             "name": "创建时间",
-                            "key": "base/d5c1ca",
-                            "use": "dg8y88",
+                            "key": "base/a0bsla",
+                            "use": "a51isz",
                             "offsetX": 0,
                             "offsetY": 40,
                             "id": "receipt_base",
@@ -624,7 +618,7 @@
                         {
                             "name": "收银员",
                             "key": "base/cashier",
-                            "use": "dg8y88",
+                            "use": "a51isz",
                             "id": "receipt_base",
                             "offsetX": 160,
                             "offsetY": 40,
@@ -645,6 +639,31 @@
                             }
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "name": "BWIP批量测试",
+            "tag": "apis/bwip.json",
+            "id": "bwip",
+            "expand": true,
+            "fields": [
+                {
+                    "name": "BWIP内容",
+                    "key": "text",
+                    "use": "a4qe4v"
+                },
+                {
+                    "name": "BWIP格式",
+                    "key": "format",
+                    "use": "a4qe4v",
+                    "bindIndex": 1
+                },
+                {
+                    "name": "BWIP参数",
+                    "key": "params",
+                    "use": "a4qe4v",
+                    "bindIndex": 2
                 }
             ]
         }

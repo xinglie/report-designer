@@ -32,8 +32,8 @@
         },
         "elements": [
             {
-                "id": "mwfjngzm_56",
-                "type": "d4pwg2",
+                "id": "vjztdlod_56",
+                "type": "a00nx6",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -67,8 +67,8 @@
                                     "textContent": "",
                                     "elements": [
                                         {
-                                            "id": "mwfjngzm_57",
-                                            "type": "d4vfo4",
+                                            "id": "vjztdlod_57",
+                                            "type": "a03g37",
                                             "unit": "px",
                                             "props": {
                                                 "full": false,
@@ -456,7 +456,7 @@
                                     "textContent": "",
                                     "bindKey": "f8",
                                     "bindName": "千次展现成本",
-                                    "textFormat": "b:{\"id\":\"no\",\"body\":[\"#,###\"]}"
+                                    "usage": "b:{\"id\":\"no\",\"body\":[\"#,###\"]}"
                                 },
                                 {
                                     "height": 30,
@@ -486,7 +486,7 @@
                                     "textContent": "",
                                     "bindKey": "f7",
                                     "bindName": "成效金额",
-                                    "textFormat": "b:{\"id\":\"no\",\"body\":[\"#,###\"]}"
+                                    "usage": "b:{\"id\":\"no\",\"body\":[\"#,###\"]}"
                                 },
                                 {
                                     "pBottom": 5,
@@ -517,7 +517,7 @@
                                     "colspan": 1,
                                     "bindKey": "f6",
                                     "bindName": "成交量",
-                                    "textFormat": "b:{\"id\":\"no\",\"body\":[\"#,###\"]}"
+                                    "usage": "b:{\"id\":\"no\",\"body\":[\"#,###\"]}"
                                 },
                                 {
                                     "pBottom": 5,
@@ -548,7 +548,7 @@
                                     "colspan": 1,
                                     "bindKey": "f4",
                                     "bindName": "关注",
-                                    "textFormat": "b:{\"id\":\"no\",\"body\":[\"#,###\"]}"
+                                    "usage": "b:{\"id\":\"no\",\"body\":[\"#,###\"]}"
                                 },
                                 {
                                     "height": 30,
@@ -578,7 +578,7 @@
                                     "textContent": "",
                                     "bindKey": "f3",
                                     "bindName": "点击率",
-                                    "textFormat": "b:{\"id\":\"no\",\"body\":[\"#,###\"]}"
+                                    "usage": "b:{\"id\":\"no\",\"body\":[\"#,###\"]}"
                                 }
                             ]
                         },
@@ -611,7 +611,7 @@
                                     "textStyleStrike": false,
                                     "textContent": "",
                                     "type": "sum",
-                                    "textFormat": "b:{\"id\":\"no\",\"body\":[\"#,###\"]}"
+                                    "usage": "b:{\"id\":\"no\",\"body\":[\"#,###\"]}"
                                 },
                                 {
                                     "height": 30,
@@ -639,7 +639,7 @@
                                     "textStyleStrike": false,
                                     "textContent": "",
                                     "type": "acc",
-                                    "textFormat": "b:{\"id\":\"no\",\"body\":[\"#,###\"]}"
+                                    "usage": "b:{\"id\":\"no\",\"body\":[\"#,###\"]}"
                                 },
                                 {
                                     "pBottom": 5,
@@ -667,7 +667,7 @@
                                     "width": 150,
                                     "rowspan": 1,
                                     "colspan": 1,
-                                    "textFormat": "b:{\"id\":\"no\",\"body\":[\"#,###\"]}"
+                                    "usage": "b:{\"id\":\"no\",\"body\":[\"#,###\"]}"
                                 },
                                 {
                                     "pBottom": 5,
@@ -695,7 +695,7 @@
                                     "width": 150,
                                     "rowspan": 1,
                                     "colspan": 1,
-                                    "textFormat": "b:{\"id\":\"no\",\"body\":[\"#,###\"]}"
+                                    "usage": "b:{\"id\":\"no\",\"body\":[\"#,###\"]}"
                                 },
                                 {
                                     "height": 30,
@@ -723,7 +723,7 @@
                                     "textStyleStrike": false,
                                     "textContent": "",
                                     "type": "sum",
-                                    "textFormat": "b:{\"id\":\"no\",\"body\":[\"#,###\"]}"
+                                    "usage": "b:{\"id\":\"no\",\"body\":[\"#,###\"]}"
                                 }
                             ]
                         },
@@ -757,8 +757,8 @@
                                     "textContent": "",
                                     "elements": [
                                         {
-                                            "id": "mwfjngzm_58",
-                                            "type": "d4vfo4",
+                                            "id": "vjztdlod_58",
+                                            "type": "a03g37",
                                             "unit": "px",
                                             "props": {
                                                 "full": false,
@@ -1002,8 +1002,8 @@
                 }
             },
             {
-                "id": "mwfjngzm_59",
-                "type": "d7hih2",
+                "id": "vjztdlod_59",
+                "type": "a1eqxo",
                 "unit": "px",
                 "props": {
                     "x": 491,
@@ -1035,8 +1035,8 @@
                 }
             },
             {
-                "id": "mwfjngzm_60",
-                "type": "d7hih2",
+                "id": "vjztdlod_60",
+                "type": "a1eqxo",
                 "unit": "px",
                 "props": {
                     "x": 11,
