@@ -20,8 +20,8 @@
         "g": [],
         "elements": [
             {
-                "id": "vjztdlod_143",
-                "type": "a06898",
+                "id": "n2nlndnmow_143",
+                "type": "eaxfn5",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -38,8 +38,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "vjztdlod_152",
-                                            "type": "a51isz",
+                                            "id": "n2nlndnmow_152",
+                                            "type": "ek440e",
                                             "unit": "px",
                                             "props": {
                                                 "x": 0,
@@ -93,8 +93,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "vjztdlod_328",
-                                            "type": "a51isz",
+                                            "id": "n2nlndnmow_328",
+                                            "type": "ek440e",
                                             "unit": "px",
                                             "props": {
                                                 "x": 13,
@@ -139,8 +139,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "vjztdlod_355",
-                                            "type": "a51isz",
+                                            "id": "n2nlndnmow_355",
+                                            "type": "ek440e",
                                             "unit": "px",
                                             "props": {
                                                 "pinX": false,
@@ -191,8 +191,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "vjztdlod_381",
-                                            "type": "a51isz",
+                                            "id": "n2nlndnmow_381",
+                                            "type": "ek440e",
                                             "unit": "px",
                                             "props": {
                                                 "pinX": false,
@@ -247,8 +247,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "vjztdlod_407",
-                                            "type": "a51isz",
+                                            "id": "n2nlndnmow_407",
+                                            "type": "ek440e",
                                             "unit": "px",
                                             "props": {
                                                 "pinX": false,
@@ -299,8 +299,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "vjztdlod_433",
-                                            "type": "a51isz",
+                                            "id": "n2nlndnmow_433",
+                                            "type": "ek440e",
                                             "unit": "px",
                                             "props": {
                                                 "pinX": false,
@@ -356,8 +356,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "vjztdlod_255",
-                                            "type": "a51isz",
+                                            "id": "n2nlndnmow_255",
+                                            "type": "ek440e",
                                             "unit": "px",
                                             "props": {
                                                 "x": 13,
@@ -407,8 +407,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "vjztdlod_273",
-                                            "type": "a51isz",
+                                            "id": "n2nlndnmow_273",
+                                            "type": "ek440e",
                                             "unit": "px",
                                             "props": {
                                                 "x": 21,
@@ -462,8 +462,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "vjztdlod_276",
-                                            "type": "a51isz",
+                                            "id": "n2nlndnmow_276",
+                                            "type": "ek440e",
                                             "unit": "px",
                                             "props": {
                                                 "x": 26,
@@ -521,8 +521,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "vjztdlod_279",
-                                            "type": "a51isz",
+                                            "id": "n2nlndnmow_279",
+                                            "type": "ek440e",
                                             "unit": "px",
                                             "props": {
                                                 "x": 31,
@@ -576,8 +576,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "vjztdlod_282",
-                                            "type": "a51isz",
+                                            "id": "n2nlndnmow_282",
+                                            "type": "ek440e",
                                             "unit": "px",
                                             "props": {
                                                 "x": 39,
@@ -695,8 +695,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "vjztdlod_297",
-                                            "type": "a51isz",
+                                            "id": "n2nlndnmow_297",
+                                            "type": "ek440e",
                                             "unit": "px",
                                             "props": {
                                                 "x": 39,
@@ -738,8 +738,8 @@
                                             }
                                         },
                                         {
-                                            "id": "vjztdlod_315",
-                                            "type": "a51isz",
+                                            "id": "n2nlndnmow_315",
+                                            "type": "ek440e",
                                             "unit": "px",
                                             "props": {
                                                 "x": 257,

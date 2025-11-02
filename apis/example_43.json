@@ -18,8 +18,8 @@
         "g": [],
         "elements": [
             {
-                "id": "vjztdlod_133",
-                "type": "a0mx9e",
+                "id": "n2nlndnmow_133",
+                "type": "ebjq6n",
                 "props": {
                     "rows": [
                         {
@@ -29,8 +29,8 @@
                                     "width": 791,
                                     "elements": [
                                         {
-                                            "id": "vjztdlod_142",
-                                            "type": "a1eqxo",
+                                            "id": "n2nlndnmow_142",
+                                            "type": "eczqs5",
                                             "props": {
                                                 "ext": {},
                                                 "x": 580,
@@ -87,8 +87,8 @@
                 }
             },
             {
-                "id": "vjztdlod_360",
-                "type": "a0k53d",
+                "id": "n2nlndnmow_360",
+                "type": "ebg0fe",
                 "props": {
                     "rows": [
                         {
@@ -98,8 +98,8 @@
                                     "width": 791,
                                     "elements": [
                                         {
-                                            "id": "vjztdlod_387",
-                                            "type": "a57351",
+                                            "id": "n2nlndnmow_387",
+                                            "type": "ekf9a5",
                                             "props": {
                                                 "x": 44,
                                                 "y": 10,
@@ -113,8 +113,8 @@
                                             }
                                         },
                                         {
-                                            "id": "vjztdlod_533",
-                                            "type": "a57351",
+                                            "id": "n2nlndnmow_533",
+                                            "type": "ekf9a5",
                                             "props": {
                                                 "x": 451,
                                                 "y": 10,
@@ -128,8 +128,8 @@
                                             }
                                         },
                                         {
-                                            "id": "vjztdlod_571",
-                                            "type": "a51isz",
+                                            "id": "n2nlndnmow_571",
+                                            "type": "ek440e",
                                             "props": {
                                                 "x": 273,
                                                 "y": -17,
@@ -191,8 +191,8 @@
                 }
             },
             {
-                "id": "vjztdlod_607",
-                "type": "a51isz",
+                "id": "n2nlndnmow_607",
+                "type": "ek440e",
                 "props": {
                     "x": 283,
                     "y": 58,
@@ -222,8 +222,8 @@
                 }
             },
             {
-                "id": "vjztdlod_653",
-                "type": "a54az0",
+                "id": "n2nlndnmow_653",
+                "type": "ek7trn",
                 "props": {
                     "x": 266,
                     "y": 115,
@@ -243,8 +243,8 @@
                 }
             },
             {
-                "id": "vjztdlod_691",
-                "type": "a51isz",
+                "id": "n2nlndnmow_691",
+                "type": "ek440e",
                 "props": {
                     "x": 267,
                     "y": 938,
@@ -274,8 +274,8 @@
                 }
             },
             {
-                "id": "vjztdlod_710",
-                "type": "a00nx6",
+                "id": "n2nlndnmow_710",
+                "type": "eaikm5",
                 "props": {
                     "rows": [
                         {

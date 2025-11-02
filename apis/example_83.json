@@ -31,8 +31,8 @@
         "elements": [
             {
                 "v": "202510041640",
-                "id": "vjztdlod_mgfyt7xe157",
-                "type": "a4qe4v",
+                "id": "n2nlndnmow_mgfyt7xe157",
+                "type": "eje3pn",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -51,12 +51,12 @@
                                 "name": "BWIP内容"
                             },
                             {
-                                "key": "params",
-                                "name": "BWIP参数"
-                            },
-                            {
                                 "key": "format",
                                 "name": "BWIP格式"
+                            },
+                            {
+                                "key": "params",
+                                "name": "BWIP参数"
                             }
                         ]
                     },

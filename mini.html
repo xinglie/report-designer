@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <meta rd="bn807krs8k.3"/>
+    <meta rd="5gba6ir81w.y"/>
     <meta name="viewport"
         content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,viewport-fit=cover" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
@@ -16,7 +16,7 @@
         some other text
         <button style="margin-left: 100px;" id="destroy-rd">销毁设计器</button>
         <button style="margin-left: 10px;" disabled id="setup-rd">安装设计器</button>
-        <button style="margin-left: 10px;" id="virtual">虚拟渲染</button>
+        <!-- <button style="margin-left: 10px;" id="virtual">虚拟渲染</button> -->
         <button style="margin-left: 10px;" id="print">打印</button>
         <div style="margin-left: 10px;">界面全模块化，可任意拆解组装</div>
     </div>
@@ -38,7 +38,7 @@
         <input placeholder="外部输入框测试" />
         bottom text
     </div>
-    <script src="dist/designer.js?v=202510121412"></script>
+    <script src="dist/designer.js?v=202511021136"></script>
     <script>
         //--－start--- 以下是环境检测提示，方便有问题时自查，正式使用时建议删除
         if(!CSS.supports('overflow:clip')||
@@ -54,15 +54,19 @@
         //---end---
         let {searchParams} = new URL(location.href);
         let id = searchParams.get('id');
+        let state = 0;
         let setup = () => {
+            state = 1;
             designer.setup({
-                version:'202510121412',
+                version:'202511021136',
                 rootId: 'app',
                 embed: true,//嵌入模式
                 viewerUrl: './viewer.html?from=mini',
                 getImageUrl: './apis/images.json',
                 getFieldUrl: './apis/fields.json',
                 saveContentUrl:'./apis/content.json?id='+id,//保存设计区内容接口
+                getResourceUrl:'./apis/resource.json',
+                getFontFaceUrl:'./apis/fontface.json',
                 //getTemplateUrl:'./apis/example.json',
                 request({url}){//请求发起前对参数等相关数据进行二次修改，便于适配现有接口。如没特殊需求，不要配置该方法
                     //console.log('request',request,url);
@@ -79,10 +83,11 @@
         };
         let setupBtn = document.getElementById('setup-rd');
         let destroyBtn = document.getElementById('destroy-rd');
-        let virtual = document.getElementById('virtual');
+        //let virtual = document.getElementById('virtual');
         let pt=document.getElementById('print');
         let rightNode=document.getElementById('right');
         let leftNode=document.getElementById('left');
+        let designerNode=document.getElementById('app');
         rightNode.onpointerdown=e=>{
             //自定义多元素拖动，需要授权后使用
             rd.invoke?.('setDragElement',e,{
@@ -186,61 +191,70 @@
             destroyBtn.disabled = false;
         });
         destroyBtn.addEventListener('click', () => {
+            state = 0;
             designer.destroy();
             destroyBtn.disabled = true;
             setupBtn.disabled = false;
         });
         let c = 0;
         let { origin } = location;
-        virtual.addEventListener('click', () => {
-            let pId = c++;//在当前函数内生成一个pId，用于识别创建多个iframe对象后数据通信问题
-            //隐藏iframe
-            let iframe = document.createElement('iframe');
-            iframe.style.cssText = 'position:absolute;top:-500cm;left:-500cm';
-            document.body.append(iframe);
-            let win = iframe.contentWindow;
-            let listen = ({ data }) => {
-                //只有通信数据是自己的才处理
-                if (data.pId == pId) {
-                    if (data.action == 'ready') {//就绪，则传递当前设计器里面的内容
-                        win.postMessage(designer.invoke?.('get'), origin);
-                    } else {//获取虚拟渲染的内容后，删除iframe并移除事件监听
-                        window.removeEventListener('message', listen);
-                        iframe.remove();
-                        //data.renderData即是包含样式及分好页的数据
-                        console.log(data.renderData);
-                    }
-                }
-            };
-            window.addEventListener('message', listen);
-            iframe.src = './proxy.html?pId=' + pId;
-        });
+        // virtual.addEventListener('click', () => {
+        //     if(state & 1){
+        //         let pId = c++;//在当前函数内生成一个pId，用于识别创建多个iframe对象后数据通信问题
+        //         //隐藏iframe
+        //         let iframe = document.createElement('iframe');
+        //         iframe.style.cssText = 'position:absolute;top:-500cm;left:-500cm';
+        //         document.body.append(iframe);
+        //         let win = iframe.contentWindow;
+        //         let listen = ({ data }) => {
+        //             //只有通信数据是自己的才处理
+        //             if (data.pId == pId) {
+        //                 if (data.action == 'ready') {//就绪，则传递当前设计器里面的内容
+        //                     win.postMessage(designer.invoke?.('get'), origin);
+        //                 } else {//获取虚拟渲染的内容后，删除iframe并移除事件监听
+        //                     window.removeEventListener('message', listen);
+        //                     iframe.remove();
+        //                     //data.renderData即是包含样式及分好页的数据
+        //                     console.log(data.renderData);
+        //                 }
+        //             }
+        //         };
+        //         window.addEventListener('message', listen);
+        //         iframe.src = './proxy.html?pId=' + pId;
+        //     }else{
+        //         alert('请先安装设计器')
+        //     }
+        // });
         pt.addEventListener('click', () => {
-            let pId = c++;//在当前函数内生成一个pId，用于识别创建多个iframe对象后数据通信问题
-            //隐藏iframe
-            let iframe = document.createElement('iframe');
-            iframe.style.cssText = 'position:absolute;top:-500cm;left:-500cm';
-            document.body.append(iframe);
-            pt.disabled = true;
-            pt.innerText = '请稍等...'
-            let win = iframe.contentWindow;
-            let listen = ({ data }) => {
-                //只有通信数据是自己的才处理
-                if (data.pId == pId) {
-                    if (data.action == 'ready') {//就绪，则传递当前设计器里面的内容
-                        win.postMessage(designer.invoke?.('get'), origin);
-                    } else {//获取虚拟渲染的内容后，删除iframe并移除事件监听
-                        window.removeEventListener('message', listen);
-                        iframe.remove();
-                        pt.disabled = false;
-                        pt.innerText = '打印'
-                        //data.renderData即是包含样式及分好页的数据
-                        //console.log(data.renderData);
+            if(state & 1){
+                let pId = c++;//在当前函数内生成一个pId，用于识别创建多个iframe对象后数据通信问题
+                //隐藏iframe
+                let iframe = document.createElement('iframe');
+                iframe.style.cssText = 'position:absolute;top:-500cm;left:-500cm';
+                document.body.append(iframe);
+                pt.disabled = true;
+                pt.innerText = '请稍等...'
+                let win = iframe.contentWindow;
+                let listen = ({ data }) => {
+                    //只有通信数据是自己的才处理
+                    if (data.pId == pId) {
+                        if (data.action == 'ready') {//就绪，则传递当前设计器里面的内容
+                            win.postMessage(designer.invoke?.('get'), origin);
+                        } else {//获取虚拟渲染的内容后，删除iframe并移除事件监听
+                            window.removeEventListener('message', listen);
+                            iframe.remove();
+                            pt.disabled = false;
+                            pt.innerText = '打印'
+                            //data.renderData即是包含样式及分好页的数据
+                            //console.log(data.renderData);
+                        }
                     }
-                }
-            };
-            window.addEventListener('message', listen);
-            iframe.src = './proxy.html?pId=' + pId+'&action=print';
+                };
+                window.addEventListener('message', listen);
+                iframe.src = './proxy.html?pId=' + pId+'&action=print';
+            }else{
+                alert('请先安装设计器')
+            }
         });
         setup();
     </script>
