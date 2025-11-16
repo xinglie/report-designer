@@ -2,10 +2,10 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <meta rd="5gba6ir81w.y"/>
+        <meta rd="wk2e1hri0a.2"/>
         <meta name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-        <link type="image/x-icon" href="//gw.alicdn.com/tfs/TB1gRomUlr0gK0jSZFnXXbRRXXa-200-200.png" rel="shortcut icon">
+        <link type="image/x-icon" href="./rd.png" rel="shortcut icon">
         <title>拆分模式测试页</title>
         <style>
             html,body{margin:0;padding:0;overflow:hidden;height:100%;background:#fff}
@@ -24,7 +24,7 @@
             }
             #header{
                 height: 40px;
-                background-color:/*d-cb<*/var(--rd-db)/*>d-cb*/;
+                background-color:/*d-cb<*/var(--rd-cI)/*>d-cb*/;
                 color:#fff;
                 padding: 0 40px 0 20px;
                 margin:10px 0;
@@ -102,7 +102,7 @@
         <div id="foot">
 
         </div>
-        <script src="dist/designer.js?v=202511021136"></script>
+        <script src="dist/designer.js?v=202511160932"></script>
         <script>
             //--－start--- 以下是环境检测提示，方便有问题时自查，正式使用时建议删除
             if(!CSS.supports('overflow:clip')||
@@ -120,7 +120,7 @@
             let setup=()=>{
                 state=1;
                 designer.setup({
-                    version:'202511021136',
+                    version:'202511160932',
                     rootId:'app',
                     embed:true,//嵌入模式
                     panels:{//把内置的浮动面板渲染到现有的节点里
@@ -225,10 +225,12 @@
             //     }
             // });
             pt.addEventListener('click', () => {
-                if(state&1){
+                if(state & 1){
                     let pId = c++;//在当前函数内生成一个pId，用于识别创建多个iframe对象后数据通信问题
                     //隐藏iframe
                     let iframe = document.createElement('iframe');
+                    pt.disabled = true;
+                    pt.innerText = '请稍等...'
                     iframe.style.cssText = 'position:absolute;top:-500cm;left:-500cm';
                     document.body.append(iframe);
                     let win = iframe.contentWindow;
@@ -240,6 +242,8 @@
                             } else {//获取虚拟渲染的内容后，删除iframe并移动事件监听
                                 iframe.remove();
                                 window.removeEventListener('message', listen);
+                                pt.disabled = false;
+                                pt.innerText = '打印'
                                 //data.renderData即是包含样式及分好页的数据
                                 //console.log(data.renderData);
                             }

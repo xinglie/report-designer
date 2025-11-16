@@ -1,11 +1,175 @@
 {
     "data": [
         {
+            "name": "出差申请单",
+            "tag": "apis/trip.json",
+            "id": "trip",
+            "expand": true,
+            "headless": false,
+            "fields": [
+                {
+                    "name": "二维码信息",
+                    "key": "qrCodeInfo"
+                },
+                {
+                    "name": "申请人",
+                    "key": "applicant"
+                },
+                {
+                    "name": "申请人ID",
+                    "key": "applicantId"
+                },
+                {
+                    "name": "申请部门",
+                    "key": "department"
+                },
+                {
+                    "name": "申请部门ID",
+                    "key": "departmentId"
+                },
+                {
+                    "name": "联系电话",
+                    "key": "contactWay"
+                },
+                {
+                    "name": "申请日期",
+                    "key": "applicationDate"
+                },
+                {
+                    "name": "单据编号",
+                    "key": "documentCode"
+                },
+                {
+                    "name": "出差类型",
+                    "key": "tripConditionType"
+                },
+                {
+                    "name": "具体委员会",
+                    "key": "committee"
+                },
+                {
+                    "name": "资金来源",
+                    "key": "fundingSourceCode"
+                },
+                {
+                    "name": "主办方名称",
+                    "key": "sponsorName"
+                },
+                {
+                    "name": "出差理由",
+                    "key": "businessTripReason"
+                },
+                {
+                    "name": "申请日期",
+                    "key": "applicationDate"
+                },
+                {
+                    "name": "城市间交通费（预估）",
+                    "key": "trafficCost"
+                },
+                {
+                    "name": "住宿费（预估）",
+                    "key": "hotelCost"
+                },
+                {
+                    "name": "合计（预估）",
+                    "key": "applicationDate"
+                },
+                {
+                    "name": "人员信息",
+                    "expand": true,
+                    "key": "businessTravelers",
+                    "fields": [
+                        {
+                            "name": "出差人",
+                            "key": "tripStaff"
+                        },
+                        {
+                            "name": "科室/部门",
+                            "key": "department"
+                        },
+                        {
+                            "name": "党内职务",
+                            "key": "innerPartyJob"
+                        },
+                        {
+                            "name": "行政职务",
+                            "key": "administrationJob"
+                        },
+                        {
+                            "name": "职称",
+                            "key": "jobTitle"
+                        },
+                        {
+                            "name": "工作代理人",
+                            "key": "workAgent"
+                        },
+                        {
+                            "name": "本年参会次数",
+                            "key": "mettingYearTimes"
+                        }
+                    ]
+                },
+                {
+                    "name": "行程信息",
+                    "expand": true,
+                    "key": "tripInfos",
+                    "fields": [
+                        {
+                            "name": "出发地",
+                            "key": "startLocation"
+                        },
+                        {
+                            "name": "目的地",
+                            "key": "endLocation"
+                        },
+                        {
+                            "name": "起始日期",
+                            "key": "startDateOfItinerary"
+                        },
+                        {
+                            "name": "结束日期",
+                            "key": "endDateOfItinerary"
+                        },
+                        {
+                            "name": "交通工具",
+                            "key": "transportationTool"
+                        }
+                    ]
+                },
+                {
+                    "name": "流程处理意见",
+                    "expand": true,
+                    "key": "approvalDetails",
+                    "fields": [
+                        {
+                            "name": "节点名称",
+                            "key": "nodeName"
+                        },
+                        {
+                            "name": "审批人",
+                            "key": "approver"
+                        },
+                        {
+                            "name": "手写体签名",
+                            "key": "approvalPersonSign"
+                        },
+                        {
+                            "name": "审批结果",
+                            "key": "approveStatus"
+                        },
+                        {
+                            "name": "审批意见",
+                            "key": "approvalOpinion"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "name": "人物信息",
             "tag": "apis/person.json",
             "id": 3,
-            "expand": true,
-            "headless": false,
             "fields": [
                 {
                     "name": "序号",
@@ -14,7 +178,7 @@
                 {
                     "name": "头像",
                     "key": "avatar",
-                    "use": "ek7trn",
+                    "use": "a50wby",
                     "props": {
                         "width": 150,
                         "height": 150
@@ -46,8 +210,6 @@
                 {
                     "name": "无数据分组",
                     "expand": true,
-                    "id": "3_nodata",
-                    "tag": "apis/person.json",
                     "fields": [
                         {
                             "name": "无数据1",
@@ -264,7 +426,7 @@
                 {
                     "name": "片断1",
                     "key": "p1",
-                    "use": "eckvr5",
+                    "use": "a160pf",
                     "props": {
                         "width": 500
                     }
@@ -272,7 +434,7 @@
                 {
                     "name": "片断2",
                     "key": "p2",
-                    "use": "eckvr5",
+                    "use": "a160pf",
                     "props": {
                         "width": 500
                     }
@@ -309,12 +471,12 @@
             "fields": [
                 {
                     "name": "关系图数据表",
-                    "key": "epl14n"
+                    "key": "b0mzh4"
                 },
                 {
                     "name": "词云",
-                    "key": "egi2in",
-                    "use": "chart/egi2in"
+                    "key": "a3cmol",
+                    "use": "chart/a3cmol"
                 },
                 {
                     "name": "轮播",
@@ -324,7 +486,7 @@
                         {
                             "name": "轮播图测试",
                             "key": "images",
-                            "use": "egan05"
+                            "use": "a3a0cm"
                         }
                     ]
                 }
@@ -384,7 +546,7 @@
                 },
                 {
                     "name": "数量",
-                    "key": "ecw10w"
+                    "key": "an0o2p"
                 },
                 {
                     "name": "折扣率",
@@ -408,37 +570,35 @@
                 },
                 {
                     "name": "表头数据(对象)",
-                    "id": "9_head",
-                    "tag": "apis/complex.json",
                     "expand": true,
+                    "key":"title",
                     "fields": [
                         {
                             "name": "区域",
-                            "key": "title/area"
+                            "key": "area"
                         },
                         {
                             "name": "编码",
-                            "key": "title/code"
+                            "key": "code"
                         }
                     ]
                 },
                 {
                     "name": "列表数据(数组)",
-                    "id": "9_list",
-                    "tag": "apis/complex.json",
+                    "key":"list",
                     "expand": true,
                     "fields": [
                         {
                             "name": "人数",
-                            "key": "list/crowd"
+                            "key": "crowd"
                         },
                         {
                             "name": "随机数",
-                            "key": "list/random"
+                            "key": "random"
                         },
                         {
                             "name": "浏览量",
-                            "key": "list/pv"
+                            "key": "pv"
                         }
                     ]
                 }
@@ -452,61 +612,58 @@
             "fields": [
                 {
                     "name": "基础数据",
-                    "id": "nurse_base",
-                    "tag": "apis/nurse.json",
+                    "key":"base",
                     "expand": true,
                     "fields": [
                         {
                             "name": "姓名",
-                            "key": "base/name"
+                            "key": "name"
                         },
                         {
                             "name": "工号",
-                            "key": "base/no"
+                            "key": "no"
                         }
                     ]
                 },
                 {
                     "name": "富文本",
-                    "key": "ecsb9n"
+                    "key": "amwv8q"
                 },
                 {
                     "name": "审核数据",
-                    "id": "nurse_approve",
-                    "tag": "apis/nurse.json",
+                    "key":"approve",
                     "expand": true,
                     "fields": [
                         {
                             "name": "申请标题",
-                            "key": "approve/title"
+                            "key": "title"
                         },
                         {
                             "name": "护士长意见",
-                            "key": "approve/opinion"
+                            "key": "opinion"
                         },
                         {
                             "name": "层级",
-                            "key": "approve/level"
+                            "key": "level"
                         },
                         {
                             "name": "申请人",
-                            "key": "approve/apply"
+                            "key": "apply"
                         }
                     ]
                 },
                 {
                     "name": "申请数据",
-                    "id": "nurse_apply",
-                    "tag": "apis/nurse.json",
+                    "key":"apply",
                     "expand": true,
                     "fields": [
                         {
                             "name": "申请标题",
-                            "key": "apply/title"
+                            "key": "title"
                         },
                         {
                             "name": "申请历史",
-                            "key": "apply/history"
+                            "key": "history"
                         }
                     ]
                 }
@@ -520,80 +677,77 @@
             "fields": [
                 {
                     "name": "基础数据",
-                    "id": "receipt_base",
-                    "tag": "apis/receipt.json",
+                    "key":"base",
                     "expand": true,
                     "fields": [
                         {
                             "name": "店铺名称",
-                            "key": "base/name"
+                            "key": "name"
                         },
                         {
                             "name": "创建时间",
-                            "key": "base/eb4v5n"
+                            "key": "time"
                         },
                         {
                             "name": "收银员",
-                            "key": "base/cashier"
+                            "key": "cashier"
                         },
                         {
                             "name": "累计积分",
-                            "key": "base/coin"
+                            "key": "coin"
                         }
                     ]
                 },
                 {
                     "name": "物品明细列表",
-                    "id": "receipt_items",
-                    "tag": "apis/receipt.json",
+                    "key":"items",
                     "expand": true,
                     "fields": [
                         {
                             "name": "名称",
-                            "key": "items/name"
+                            "key": "name"
                         },
                         {
                             "name": "数量",
-                            "key": "items/count"
+                            "key": "count"
                         },
                         {
                             "name": "价格",
-                            "key": "items/price"
+                            "key": "price"
                         }
                     ]
                 },
                 {
                     "name": "汇总数据",
-                    "id": "receipt_summary",
-                    "tag": "apis/receipt.json",
+                    "key":"summary",
                     "expand": true,
                     "fields": [
                         {
                             "name": "总价",
-                            "key": "summary/total"
+                            "key": "total"
                         },
                         {
                             "name": "优惠",
-                            "key": "summary/discount"
+                            "key": "discount"
                         },
                         {
                             "name": "实付",
-                            "key": "summary/actual"
+                            "key": "actual"
                         },
                         {
                             "name": "地址",
-                            "key": "summary/address"
+                            "key": "address"
                         },
                         {
                             "name": "电话",
-                            "key": "summary/tel"
+                            "key": "tel"
                         }
                     ]
                 },
                 {
                     "name": "基础数据批量添加",
                     "key": "base/name",
-                    "use": "ek440e",
+                    "use": "a4y9zz",
                     "title": "超市名称",
                     "id": "receipt_base",
                     "props": {
@@ -604,8 +758,8 @@
                     "union": [
                         {
                             "name": "创建时间",
-                            "key": "base/eb4v5n",
-                            "use": "ek440e",
+                            "key": "base/time",
+                            "use": "a4y9zz",
                             "offsetX": 0,
                             "offsetY": 40,
                             "id": "receipt_base",
@@ -618,7 +772,7 @@
                         {
                             "name": "收银员",
                             "key": "base/cashier",
-                            "use": "ek440e",
+                            "use": "a4y9zz",
                             "id": "receipt_base",
                             "offsetX": 160,
                             "offsetY": 40,
@@ -651,18 +805,18 @@
                 {
                     "name": "BWIP内容",
                     "key": "text",
-                    "use": "eje3pn"
+                    "use": "a4nso3"
                 },
                 {
                     "name": "BWIP格式",
                     "key": "format",
-                    "use": "eje3pn",
+                    "use": "a4nso3",
                     "bindIndex": 1
                 },
                 {
                     "name": "BWIP参数",
                     "key": "params",
-                    "use": "eje3pn",
+                    "use": "a4nso3",
                     "bindIndex": 2
                 }
             ]

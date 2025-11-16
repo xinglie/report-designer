@@ -1,10 +1,9 @@
 {
     "data": {
+        "v": "202511131455",
         "unit": "px",
-        "x": [],
-        "y": [],
-        "g": [],
         "page": {
+            "readonly": false,
             "viewer": "default",
             "width": 791,
             "height": 1120,
@@ -12,10 +11,11 @@
             "scale": "auto",
             "update": true,
             "updateInterval": 1,
-            "radius": "0 0 0 0/0 0 0 0",
+            "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
             "xOffset": 0,
             "yOffset": 0,
             "copies": 1,
+            "spacing": 0,
             "blank": 1,
             "labelCol": 1,
             "labelGap": 10,
@@ -32,298 +32,278 @@
         },
         "elements": [
             {
-                "id": "n2nlndnmow_53",
-                "type": "ek7trn",
-                "unit": "px",
-                "props": {
-                    "readonly": true,
-                    "x": 32,
-                    "y": 55,
-                    "width": 300,
-                    "height": 300,
-                    "alpha": 1,
-                    "rotate": 0,
-                    "print": "each",
-                    "image": "https://cdn-icons-png.flaticon.com/128/8914/8914686.png",
-                    "bind": {
-                        "tag": "",
-                        "id": "",
-                        "fields": []
-                    },
-                    "rotateX": false,
-                    "rotateY": false,
-                    "target": "tab",
-                    "winWidth": 500,
-                    "winHeight": 500,
-                    "name": "图片",
-                    "animations": []
-                }
-            },
-            {
-                "id": "n2nlndnmow_54",
-                "type": "efgwy5",
-                "unit": "px",
-                "props": {
-                    "readonly": true,
-                    "x": 412,
-                    "y": 61,
-                    "width": 313,
-                    "height": 430,
-                    "alpha": 1,
-                    "rotate": 0,
-                    "image": "https://cdn-icons-png.flaticon.com/128/8914/8914686.png",
-                    "bind": {
-                        "tag": "",
-                        "id": "",
-                        "fields": []
-                    },
-                    "efgwy5": "efgwy5",
-                    "imageWidth": 102,
-                    "imageHeight": 102,
-                    "backgroundX": 0,
-                    "backgroundY": 0,
-                    "name": "平铺图",
-                    "animations": []
-                }
-            },
-            {
-                "id": "n2nlndnmow_55",
-                "type": "ejp8ze",
-                "unit": "px",
-                "props": {
-                    "readonly": true,
-                    "x": 43,
-                    "y": 436,
-                    "width": 200,
-                    "height": 80,
-                    "alpha": 1,
-                    "rotate": 0,
-                    "print": "each",
-                    "text": "xinglie",
-                    "bind": {
-                        "tag": "",
-                        "id": "",
-                        "fields": []
-                    },
-                    "format": "code128",
-                    "showText": true,
-                    "color": "#000000",
-                    "linewidth": 0,
-                    "textGap": 0,
-                    "size": 10,
-                    "font": "OCR-B",
-                    "textColor": "#000",
-                    "textMargin": 0,
-                    "textPosition": "bottom",
-                    "textAlign": "center",
-                    "name": "条形码",
-                    "animations": []
-                }
-            },
-            {
-                "id": "n2nlndnmow_56",
-                "type": "ebcao5",
+                "v": "202511131455",
+                "id": "wq3mwuynt_mhyq41hh586",
+                "type": "a0l21n",
                 "unit": "px",
                 "props": {
                     "readonly": true,
                     "rows": [
                         {
+                            "height": 95,
                             "cols": [
                                 {
-                                    "height": 83,
-                                    "width": 210,
-                                    "bLeft": true,
-                                    "bTop": true,
-                                    "bRight": true,
-                                    "bBottom": true,
-                                    "rowspan": 1,
-                                    "colspan": 1,
+                                    "width": 791,
                                     "elements": [
                                         {
-                                            "id": "n2nlndnmow_57",
-                                            "type": "ek440e",
+                                            "v": "202511131455",
+                                            "id": "wq3mwuynt_mhyq41hh617",
+                                            "type": "a50wby",
                                             "unit": "px",
                                             "props": {
-                                                "full": false,
-                                                "x": 15,
-                                                "y": 32,
+                                                "readonly": true,
+                                                "x": 16,
+                                                "y": 2,
+                                                "width": 91,
+                                                "height": 91,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": 5,
+                                                "image": "https://cdn-icons-png.flaticon.com/128/4729/4729446.png",
+                                                "bind": {},
+                                                "target": "tab",
+                                                "winWidth": 500,
+                                                "winHeight": 500,
+                                                "name": "图片-1",
+                                                "animations": []
+                                            }
+                                        },
+                                        {
+                                            "v": "202511131455",
+                                            "id": "wq3mwuynt_mhyq41hh661",
+                                            "type": "a4y9zz",
+                                            "unit": "px",
+                                            "props": {
+                                                "readonly": true,
+                                                "x": 558,
+                                                "y": 11,
                                                 "width": 200,
                                                 "height": 25,
                                                 "alpha": 1,
                                                 "rotate": 0,
-                                                "print": "each",
-                                                "text": "",
-                                                "bind": {
-                                                    "tag": "",
-                                                    "id": "",
-                                                    "fields": []
-                                                },
-                                                "format": "",
+                                                "print": 5,
+                                                "text": "xx公司采购专用文档",
+                                                "bind": {},
                                                 "match": true,
                                                 "size": 14,
-                                                "font": "tahoma",
+                                                "font": "inherit",
                                                 "line": 1.5,
                                                 "gap": 0,
-                                                "background": "",
-                                                "color": "#000000",
-                                                "styleBold": false,
-                                                "styleUnderline": false,
-                                                "styleItalic": false,
-                                                "styleStrike": false,
-                                                "styleOverline": false,
-                                                "hpos": "flex-start",
-                                                "vpos": "flex-start",
+                                                "color": "#8a8a8aff",
+                                                "hpos": "flex-end",
+                                                "vpos": "center",
                                                 "bwidth": 0,
                                                 "bcolor": "#000",
                                                 "btype": "solid",
                                                 "target": "tab",
                                                 "winWidth": 500,
                                                 "winHeight": 500,
-                                                "name": "文本",
+                                                "name": "文本-1",
                                                 "animations": []
                                             }
-                                        }
-                                    ]
-                                },
-                                {
-                                    "height": 83,
-                                    "width": 150,
-                                    "bLeft": true,
-                                    "bTop": true,
-                                    "bRight": true,
-                                    "bBottom": true,
-                                    "rowspan": 1,
-                                    "colspan": 1,
-                                    "elements": [
+                                        },
                                         {
-                                            "id": "n2nlndnmow_58",
-                                            "type": "ekf9a5",
+                                            "v": "202511131455",
+                                            "id": "wq3mwuynt_mhyq41hh736",
+                                            "type": "a4y9zz",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": true,
-                                                "full": false,
-                                                "x": 3,
-                                                "y": 44,
+                                                "x": 558,
+                                                "y": 36,
                                                 "width": 200,
-                                                "height": 1,
+                                                "height": 25,
                                                 "alpha": 1,
                                                 "rotate": 0,
-                                                "print": "each",
+                                                "print": 5,
+                                                "text": "公司地址：xxyyzzxxxxxadfa",
+                                                "bind": {},
+                                                "match": true,
+                                                "size": 14,
+                                                "font": "inherit",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#8a8a8aff",
+                                                "hpos": "flex-end",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
                                                 "btype": "solid",
-                                                "color": "#000000",
-                                                "name": "直线",
+                                                "target": "tab",
+                                                "winWidth": 500,
+                                                "winHeight": 500,
+                                                "name": "文本-2",
                                                 "animations": []
                                             }
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "cols": [
-                                {
-                                    "height": 30,
-                                    "width": 210,
-                                    "bLeft": true,
-                                    "bTop": true,
-                                    "bRight": true,
-                                    "bBottom": true,
-                                    "rowspan": 1,
-                                    "colspan": 1,
-                                    "elements": []
-                                },
-                                {
-                                    "height": 30,
-                                    "width": 150,
-                                    "bLeft": true,
-                                    "bTop": true,
-                                    "bRight": true,
-                                    "bBottom": true,
-                                    "rowspan": 1,
-                                    "colspan": 1,
-                                    "elements": []
-                                }
-                            ]
-                        }
-                    ],
-                    "x": 412,
-                    "y": 576,
-                    "width": 361,
-                    "height": 114,
-                    "alpha": 1,
-                    "bdeed": 2,
-                    "bwidth": 1,
-                    "btype": "solid",
-                    "bcolor": "#000000",
-                    "name": "表格",
-                    "animations": []
-                }
-            },
-            {
-                "id": "n2nlndnmow_105",
-                "type": "ebyl7n",
-                "unit": "px",
-                "props": {
-                    "rows": [
-                        {
-                            "height": 202,
-                            "cols": [
-                                {
-                                    "width": 300,
-                                    "elements": [
+                                        },
                                         {
-                                            "id": "n2nlndnmow_110",
-                                            "type": "err20w",
+                                            "v": "202511131455",
+                                            "id": "wq3mwuynt_mhyq41hh742",
+                                            "type": "a4y9zz",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": true,
-                                                "full": false,
-                                                "x": 65,
-                                                "y": 25,
-                                                "width": 150,
-                                                "height": 150,
+                                                "x": 558,
+                                                "y": 61,
+                                                "width": 200,
+                                                "height": 25,
                                                 "alpha": 1,
                                                 "rotate": 0,
-                                                "print": "each",
-                                                "bwidth": 1,
+                                                "print": 5,
+                                                "text": "联系电话：0123-45678-902",
+                                                "bind": {},
+                                                "match": true,
+                                                "size": 14,
+                                                "font": "inherit",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#8a8a8aff",
+                                                "hpos": "flex-end",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
                                                 "btype": "solid",
-                                                "bcolor": "#000000",
-                                                "fillcolor": "",
-                                                "name": "圆形",
+                                                "target": "tab",
+                                                "winWidth": 500,
+                                                "winHeight": 500,
+                                                "name": "文本-3",
                                                 "animations": []
                                             }
                                         }
                                     ],
                                     "btype": [
-                                        "solid",
-                                        "solid",
-                                        "solid",
-                                        "solid"
+                                        "dashed",
+                                        "dashed",
+                                        "dashed",
+                                        "dashed"
                                     ],
                                     "bwidth": [
+                                        0,
+                                        0,
                                         1,
-                                        1,
-                                        1,
-                                        1
+                                        0
                                     ],
                                     "bcolor": [
-                                        "#000",
-                                        "#000",
-                                        "#000",
-                                        "#000"
+                                        "#ccc",
+                                        "#ccc",
+                                        "#ccc",
+                                        "#ccc"
                                     ]
                                 }
                             ]
                         }
                     ],
-                    "x": 77,
-                    "y": 785,
-                    "width": 300,
-                    "height": 202,
+                    "width": 791,
+                    "height": 95,
                     "alpha": 1,
-                    "hgap": 2,
-                    "vgap": 2,
-                    "name": "H-Flex",
+                    "name": "页头-1",
+                    "animations": []
+                }
+            },
+            {
+                "v": "202511131455",
+                "id": "wq3mwuynt_mhyq41hh807",
+                "type": "a0ifpo",
+                "unit": "px",
+                "props": {
+                    "readonly": true,
+                    "rows": [
+                        {
+                            "height": 40,
+                            "cols": [
+                                {
+                                    "width": 791,
+                                    "elements": [
+                                        {
+                                            "v": "202511131455",
+                                            "id": "wq3mwuynt_mhyq41hh836",
+                                            "type": "a1dvpc",
+                                            "unit": "px",
+                                            "props": {
+                                                "readonly": true,
+                                                "x": 573,
+                                                "y": 7,
+                                                "width": 200,
+                                                "height": 25,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": 5,
+                                                "text": "${current}/${total}",
+                                                "match": true,
+                                                "size": 14,
+                                                "font": "inherit",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#000",
+                                                "hpos": "flex-end",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "name": "页码器-1",
+                                                "animations": []
+                                            }
+                                        }
+                                    ],
+                                    "btype": [
+                                        "dashed",
+                                        "dashed",
+                                        "dashed",
+                                        "dashed"
+                                    ],
+                                    "bwidth": [
+                                        1,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "bcolor": [
+                                        "#ccc",
+                                        "#ccc",
+                                        "#ccc",
+                                        "#ccc"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "width": 791,
+                    "height": 40,
+                    "alpha": 1,
+                    "name": "页脚-1",
+                    "animations": []
+                }
+            },
+            {
+                "v": "202511131455",
+                "id": "wq3mwuynt_mhyq41hh985",
+                "type": "a4y9zz",
+                "unit": "px",
+                "props": {
+                    "x": 62,
+                    "y": 135,
+                    "width": 463,
+                    "height": 151,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": 5,
+                    "text": "页头和页脚为只读状态，无法编辑和删除\n\n页头和页脚允许拖入新的元素，但已有的元素不允许编辑和删除\n\n通过该功能可以限定一个模板中必须包含哪些界面，防止误修改和删除",
+                    "bind": {},
+                    "match": true,
+                    "size": 14,
+                    "font": "inherit",
+                    "line": 1.5,
+                    "gap": 0,
+                    "color": "#000",
+                    "hpos": "flex-start",
+                    "vpos": "flex-start",
+                    "bwidth": 0,
+                    "bcolor": "#000",
+                    "btype": "solid",
+                    "target": "tab",
+                    "winWidth": 500,
+                    "winHeight": 500,
+                    "name": "文本-4",
                     "animations": []
                 }
             }

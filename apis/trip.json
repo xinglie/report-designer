@@ -1,0 +1,108 @@
+{
+    "data": {
+	  "qrCodeInfo": "QR123456789",
+	  "applicant": "张三",
+	  "applicantId": 1001,
+	  "department": "技术部",
+	  "departmentId": 2001,
+	  "contactWay": "13800138000",
+	  "applicationDate": "2024-04-01",
+	  "documentCode": "DOC20240401001",
+	  "busiTripType": "DOMESTIC",
+	  "fundingSourceCode": "FUND001",
+	  "tripConditionType": "OFFICIAL",
+	  "committee": "项目评审委员会",
+	  "sponsorName": "中国技术交流协会",
+	  "businessTripReason": "参加全国技术峰会",
+	  "trafficCost": 1200.00,
+	  "hotelCost": 1500.00,
+	  "totalAmount": 2700.00,
+	  "isTakeReward": false,
+	  "isSixMust": true,
+	  "isSixStrictlyForbid": false,
+	  "businessTravelers": [
+		{
+		  "tripStaff": "李四",
+		  "department": "产品部",
+		  "departmentId": 2002,
+		  "innerPartyJob": "组织委员",
+		  "administrationJob": "产品经理",
+		  "jobTitle": "高级工程师",
+		  "workAgent": "王五",
+		  "mettingYearTimes": 3
+		},
+		{
+		  "tripStaff": "王五",
+		  "department": "运维部",
+		  "departmentId": 2003,
+		  "innerPartyJob": "宣传委员",
+		  "administrationJob": "系统管理员",
+		  "jobTitle": "工程师",
+		  "workAgent": "赵六",
+		  "mettingYearTimes": 2
+		},
+		{
+		  "tripStaff": "赵六",
+		  "department": "测试部",
+		  "departmentId": 2004,
+		  "innerPartyJob": "纪律委员",
+		  "administrationJob": "测试工程师",
+		  "jobTitle": "中级工程师",
+		  "workAgent": "孙七",
+		  "mettingYearTimes": 1
+		}
+	  ],
+	  "tripInfos": [
+		{
+		  "startLocation": "北京",
+		  "endLocation": "上海",
+		  "startDateOfItinerary": "2024-04-05",
+		  "endDateOfItinerary": "2024-04-07",
+		  "transportationTool": "高铁"
+		},
+		{
+		  "startLocation": "上海",
+		  "endLocation": "广州",
+		  "startDateOfItinerary": "2024-04-08",
+		  "endDateOfItinerary": "2024-04-10",
+		  "transportationTool": "飞机"
+		},
+		{
+		  "startLocation": "广州",
+		  "endLocation": "深圳",
+		  "startDateOfItinerary": "2024-04-11",
+		  "endDateOfItinerary": "2024-04-12",
+		  "transportationTool": "大巴"
+		}
+	  ],
+	  "approvalDetails": [
+		{
+		  "nodeName": "部门审批",
+		  "approver": "陈经理",
+		  "approverId": 3001,
+		  "approvalPersonSign": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAIAAAAt2Q6oAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMXSURBVFhH7ZkveupAFMXLw2D6feCQsANct1GJxIFkBwgES0DCDpBlObjWIYmjhzknw2T+hEBTUvF+4r2Zc2+Sk8mdG760dT6fX9IMh8PD4YBBp9M5nU4UG+ef/k8wnU45yLKMg/1+jztptVr4d7vdUnwyN1YawJ9GAU0tf2SlsX5cSyI1xmQy0ejJYKXJx8fHYDCQWgEd1gTX8rB7rgSb3CzX8rB7DozHYxSruauCywY3XwE6S7HZbJSXg82nWHOUmV4sFnJaZLVaKeN3wEp5uwtTiAqnTIeHgdlsxsHNxUaORkVC/Xg8YmmqNAD3ov5ZSnoIqhxHclyy2Mvlkjm1owt4puG42+0qJQAJ8/lck/RmaLfbyvgB0U7AKbiOQsfu0gLkeApwS40oUBnWqyaxtVAgNB06po4ywJjVTMVdbAtDJFVC/X4foluaLjwEaJ4j1SCJplOOXayIxY6+vRkF9q48fxSB5kUUC6JSDZJo2tt5DHiEOh8CwHOQZMBdUQeSDJJi5//8/FQsiEo1SKJpe3nCwE/QiSqbtg9nNBpJyqFOJNE0cdVo4+OOUUYpOqCyaZY72O12knKoE0muaZdUq7aU34CSKptWoDSEJigpZdormBJ0gEOqQCU9atq2bRA3HRLtGNH+lSpQikBzBwUqhyqZTr0pvb5BUgVKEWieU9I6gAL3moZjHWdwX7BRlBc4kBro5T8NFLjXtA4yRJfWQ6mBA/um1DzHPhkgyUGBe03bi6XewB5MBprn2M2tucGtDSA1Z71eKxCa9royxshmGLidpEqfVqo5j0aPYn8wuv0OXEz/8Oxez7ZPpka8XXQxXb0rp3Arh2d7e3tjqBZ06pxg/hDeBoWiUREmW7y+BJRneH19lXrTNLG/fW1x82DAaS3ojA4KFLdg2LLiJty6xOOGokmtpm1ZwhYHId4WJHETXpW7O1UZvwy/Xry/v0dfZMmvplmW9Xo9+4XXksqvna+vL/e945L8Po0KCT/WlDzH2kk5vmDWO4mSDFXe4c+h6kf1m2nP5LbpP8iNv7n8Tf6bfg4vL99dY4HZkHqhLwAAAABJRU5ErkJggg==",
+		  "approveStatus": "APPROVED",
+		  "approvalOpinion": "同意出差申请"
+		},
+		{
+		  "nodeName": "财务审核",
+		  "approver": "周主管",
+		  "approverId": 3002,
+		  "approvalPersonSign": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAYAAACiu5n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsIAAA7CARUoSoAAAAK0SURBVGhD7ZoxcsIwEEWdVNDRQckRuAIdJSUlDTOU3ICSEzCUcANKuAXH4AiUDutoydeykiU7JgrwZv5kkGRb39pdy5585FeyF+LT/H0Z3oZjOB6P2XA4zHa7nWn5B1AO+zgcDnm/3y+03W5N6ze9Xo/yP2+1WqbFDx3vOtejuBlmY2TAJWkM+3wG2CiOD71Jv83NcJlZFkKT5naXgeVyaR3Pms/nZoSbkEXQ5Iugm4PVaqUeLIXIYySa2clkkl8uFzPCTxWzLNcC3M9SwHnKkmh9WgiPRqNgo0zoImhyRZDXMIVU2UmwXzNKqmK2KbyGy1aXwH5NMSH8CLyGceLa6soIQKVmlPEaxirMcOXsdrt5u922TJJSNcpkIaX/upsyw+tVThSdx/fsboosxACW+DqVU8r16GiSLMSAzF8K2el0qo6NVQixGxBf9BRXxMEx4HEsuoFl8E0O2W0RVdLIu/HAgTHgcawmwrRKGnk3HjgwBjwOKzqtSMhK/wV3hn2SuYF9i8XC+k06nU5mZDoUhnF1yoQhi+1aIRuPx2ZkOhSGY3OE0dpoVbE9tdD+mWkJaIKQ20oEV7qJIlaHIMObzebOnO/FgsIb0ySlXA4yjOZor0zwb5L2CKBx3J9SLgcZRnP8YoBtGuv12hpDXz9SoNSwFs6E1sZQfnc6HWsMyVXAqmwd6TF4Pp/NGcIpZssXlM9ZQgtnAicgkfnNorzW9rgxZkPkuyHFbPGCWFVlJcb3XGxH5Ie72WxmFTCtalfZOsaKF7OYrbwgh56vEst2LSw5IuT567Lf7/PBYGCdM0TFjTfnsLaG1CEnLysx9mmSH+7YdOgbUh1cN4SufTMsn50ozF3GNZZE49FsSljxpb0AuCbvyrtHrGAdLMNkDLeFqU++Cu//AHh23oafnbfh5ybLvgDZ9vChGtqaPgAAAABJRU5ErkJggg==",
+		  "approveStatus": "PENDING",
+		  "approvalOpinion": "待补充预算明细"
+		},
+		{
+		  "nodeName": "最终审批",
+		  "approver": "刘总",
+		  "approverId": 3003,
+		  "approvalPersonSign": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAIAAAAt2Q6oAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMXSURBVFhH7ZkveupAFMXLw2D6feCQsANct1GJxIFkBwgES0DCDpBlObjWIYmjhzknw2T+hEBTUvF+4r2Zc2+Sk8mdG760dT6fX9IMh8PD4YBBp9M5nU4UG+ef/k8wnU45yLKMg/1+jztptVr4d7vdUnwyN1YawJ9GAU0tf2SlsX5cSyI1xmQy0ejJYKXJx8fHYDCQWgEd1gTX8rB7rgSb3CzX8rB7DozHYxSruauCywY3XwE6S7HZbJSXg82nWHOUmV4sFnJaZLVaKeN3wEp5uwtTiAqnTIeHgdlsxsHNxUaORkVC/Xg8YmmqNAD3ov5ZSnoIqhxHclyy2Mvlkjm1owt4puG42+0qJQAJ8/lck/RmaLfbyvgB0U7AKbiOQsfu0gLkeApwS40oUBnWqyaxtVAgNB06po4ywJjVTMVdbAtDJFVC/X4foluaLjwEaJ4j1SCJplOOXayIxY6+vRkF9q48fxSB5kUUC6JSDZJo2tt5DHiEOh8CwHOQZMBdUQeSDJJi5//8/FQsiEo1SKJpe3nCwE/QiSqbtg9nNBpJyqFOJNE0cdVo4+OOUUYpOqCyaZY72O12knKoE0muaZdUq7aU34CSKptWoDSEJigpZdormBJ0gEOqQCU9atq2bRA3HRLtGNH+lSpQikBzBwUqhyqZTr0pvb5BUgVKEWieU9I6gAL3moZjHWdwX7BRlBc4kBro5T8NFLjXtA4yRJfWQ6mBA/um1DzHPhkgyUGBe03bi6XewB5MBprn2M2tucGtDSA1Z71eKxCa9royxshmGLidpEqfVqo5j0aPYn8wuv0OXEz/8Oxez7ZPpka8XXQxXb0rp3Arh2d7e3tjqBZ06pxg/hDeBoWiUREmW7y+BJRneH19lXrTNLG/fW1x82DAaS3ojA4KFLdg2LLiJty6xOOGokmtpm1ZwhYHId4WJHETXpW7O1UZvwy/Xry/v0dfZMmvplmW9Xo9+4XXksqvna+vL/e945L8Po0KCT/WlDzH2kk5vmDWO4mSDFXe4c+h6kf1m2nP5LbpP8iNv7n8Tf6bfg4vL99dY4HZkHqhLwAAAABJRU5ErkJggg==",
+		  "approveStatus": "REJECTED",
+		  "approvalOpinion": "超出预算范围"
+		}
+	  ]
+	},
+    "success": true,
+    "message": "success"
+}
+

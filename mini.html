@@ -3,11 +3,11 @@
 
 <head>
     <meta charset="utf-8" />
-    <meta rd="5gba6ir81w.y"/>
+    <meta rd="wk2e1hri0a.2"/>
     <meta name="viewport"
         content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,viewport-fit=cover" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <link type="image/x-icon" href="//gw.alicdn.com/tfs/TB1gRomUlr0gK0jSZFnXXbRRXXa-200-200.png" rel="shortcut icon">
+    <link type="image/x-icon" href="./rd.png" rel="shortcut icon">
     <title>嵌入模式测试页</title>
 </head>
 
@@ -25,7 +25,7 @@
             left
         </div>
         <div id="app" class="app"
-            style="width:1300px;height:600px;border:solid 1px #ccc;position: relative;overflow: clip;">
+            style="width:80dvw;height:600px;border:solid 1px #ccc;position: relative;overflow: clip;">
             <div style="display: flex;align-items: center;justify-content: center; height: 100%;">
                 这里可以放一个加载动画...
             </div>
@@ -38,7 +38,7 @@
         <input placeholder="外部输入框测试" />
         bottom text
     </div>
-    <script src="dist/designer.js?v=202511021136"></script>
+    <script src="dist/designer.js?v=202511160932"></script>
     <script>
         //--－start--- 以下是环境检测提示，方便有问题时自查，正式使用时建议删除
         if(!CSS.supports('overflow:clip')||
@@ -58,7 +58,7 @@
         let setup = () => {
             state = 1;
             designer.setup({
-                version:'202511021136',
+                version:'202511160932',
                 rootId: 'app',
                 embed: true,//嵌入模式
                 viewerUrl: './viewer.html?from=mini',
