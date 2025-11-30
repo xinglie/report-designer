@@ -5,7 +5,7 @@
         "y": [],
         "g": [],
         "page": {
-            "viewer": "default",
+            "viewer": "fixed",
             "width": 791,
             "height": 1120,
             "pages": 1,
@@ -32,8 +32,8 @@
         },
         "elements": [
             {
-                "id": "wq3mwuynt_56",
-                "type": "a003dv",
+                "id": "mm1_56",
+                "type": "dyowz6",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -67,8 +67,8 @@
                                     "textContent": "",
                                     "elements": [
                                         {
-                                            "id": "wq3mwuynt_57",
-                                            "type": "a02ppu",
+                                            "id": "mm1_57",
+                                            "type": "dyteg9",
                                             "unit": "px",
                                             "props": {
                                                 "full": false,
@@ -757,8 +757,8 @@
                                     "textContent": "",
                                     "elements": [
                                         {
-                                            "id": "wq3mwuynt_58",
-                                            "type": "a02ppu",
+                                            "id": "mm1_58",
+                                            "type": "dyteg9",
                                             "unit": "px",
                                             "props": {
                                                 "full": false,
@@ -1002,8 +1002,8 @@
                 }
             },
             {
-                "id": "wq3mwuynt_59",
-                "type": "a1dvpc",
+                "id": "mm1_59",
+                "type": "e1okd6",
                 "unit": "px",
                 "props": {
                     "x": 491,
@@ -1035,8 +1035,8 @@
                 }
             },
             {
-                "id": "wq3mwuynt_60",
-                "type": "a1dvpc",
+                "id": "mm1_60",
+                "type": "e1okd6",
                 "unit": "px",
                 "props": {
                     "x": 11,

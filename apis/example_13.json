@@ -6,7 +6,7 @@
         "g": [],
         "page": {
             "readonly": false,
-            "viewer": "default",
+            "viewer": "fixed",
             "width": 209.26,
             "height": 296.3,
             "pages": 1,
@@ -33,8 +33,8 @@
         },
         "elements": [
             {
-                "id": "wq3mwuynt_129",
-                "type": "a4y9zz",
+                "id": "mm1_129",
+                "type": "e7scm9",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -78,8 +78,8 @@
                 }
             },
             {
-                "id": "wq3mwuynt_144",
-                "type": "a50wby",
+                "id": "mm1_144",
+                "type": "e7wu3c",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -108,8 +108,8 @@
                 }
             },
             {
-                "id": "wq3mwuynt_150",
-                "type": "a2wwor",
+                "id": "mm1_150",
+                "type": "e4arbx",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -126,7 +126,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "a2wwor": "a2wwor",
+                    "e4arbx": "e4arbx",
                     "imageWidth": 0,
                     "imageHeight": 0,
                     "backgroundX": 0,
@@ -137,8 +137,8 @@
                 }
             },
             {
-                "id": "wq3mwuynt_153",
-                "type": "a4vno0",
+                "id": "mm1_153",
+                "type": "e7nv56",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -165,8 +165,8 @@
                 }
             },
             {
-                "id": "wq3mwuynt_157",
-                "type": "a4t1c1",
+                "id": "mm1_157",
+                "type": "e7jdo3",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -192,7 +192,7 @@
                     "font": "OCR-B",
                     "textColor": "#000",
                     "textMargin": 0,
-                    "textPosition": "bottom",
+                    "textPosition": "below",
                     "textAlign": "center",
                     "name": "条形码",
                     "locked": false,
@@ -200,8 +200,8 @@
                 }
             },
             {
-                "id": "wq3mwuynt_172",
-                "type": "a4dbc7",
+                "id": "mm1_172",
+                "type": "e6sgtl",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -227,7 +227,7 @@
                     "font": "OCR-B",
                     "textColor": "#000",
                     "textMargin": 0,
-                    "textPosition": "bottom",
+                    "textPosition": "below",
                     "textAlign": "center",
                     "name": "批量条码",
                     "locked": false,
@@ -235,8 +235,8 @@
                 }
             },
             {
-                "id": "wq3mwuynt_178",
-                "type": "a4fxo6",
+                "id": "mm1_178",
+                "type": "e6wyao",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -263,8 +263,8 @@
                 }
             },
             {
-                "id": "wq3mwuynt_181",
-                "type": "a4ik05",
+                "id": "mm1_181",
+                "type": "e71frr",
                 "unit": "mm",
                 "props": {
                     "readonly": false,

@@ -9,7 +9,7 @@
             "xOffset": 0,
             "yOffset": 0,
             "title": "",
-            "viewer": "default",
+            "viewer": "fixed",
             "background": "#ffffff",
             "backgroundImage": "",
             "backgroundRepeat": "full",
@@ -21,8 +21,8 @@
         "g": [],
         "elements": [
             {
-                "id": "wq3mwuynt_335",
-                "type": "a003dv",
+                "id": "mm1_335",
+                "type": "dyowz6",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -57,8 +57,8 @@
                                     "usage": "",
                                     "elements": [
                                         {
-                                            "id": "wq3mwuynt_336",
-                                            "type": "a02ppu",
+                                            "id": "mm1_336",
+                                            "type": "dyteg9",
                                             "unit": "px",
                                             "props": {
                                                 "rows": [
@@ -211,8 +211,8 @@
                                             }
                                         },
                                         {
-                                            "id": "wq3mwuynt_386",
-                                            "type": "a4y9zz",
+                                            "id": "mm1_386",
+                                            "type": "e7scm9",
                                             "unit": "px",
                                             "props": {
                                                 "pinX": false,
@@ -591,8 +591,8 @@
                                     "usage": "",
                                     "elements": [
                                         {
-                                            "id": "wq3mwuynt_337",
-                                            "type": "a4y9zz",
+                                            "id": "mm1_337",
+                                            "type": "e7scm9",
                                             "unit": "px",
                                             "props": {
                                                 "x": 32,

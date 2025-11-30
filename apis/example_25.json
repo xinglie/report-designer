@@ -5,7 +5,7 @@
         "y": [],
         "g": [],
         "page": {
-            "viewer": "default",
+            "viewer": "fixed",
             "width": 791,
             "height": 500,
             "pages": 3,
@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "wq3mwuynt_86",
-                "type": "a4dbc7",
+                "id": "mm1_86",
+                "type": "e6sgtl",
                 "unit": "px",
                 "props": {
                     "x": 50,
@@ -62,15 +62,15 @@
                     "font": "OCR-B",
                     "textColor": "#000",
                     "textMargin": 0,
-                    "textPosition": "bottom",
+                    "textPosition": "below",
                     "textAlign": "center",
                     "name": "批量条码",
                     "animations": []
                 }
             },
             {
-                "id": "wq3mwuynt_93",
-                "type": "a4fxo6",
+                "id": "mm1_93",
+                "type": "e6wyao",
                 "unit": "px",
                 "props": {
                     "x": 50,
@@ -100,8 +100,8 @@
                 }
             },
             {
-                "id": "wq3mwuynt_116",
-                "type": "a4ik05",
+                "id": "mm1_116",
+                "type": "e71frr",
                 "unit": "px",
                 "props": {
                     "x": 50,
@@ -138,8 +138,8 @@
                 }
             },
             {
-                "id": "wq3mwuynt_132",
-                "type": "a0ifpo",
+                "id": "mm1_132",
+                "type": "e06qo6",
                 "unit": "px",
                 "props": {
                     "pinX": true,

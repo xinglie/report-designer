@@ -5,7 +5,7 @@
         "y": [],
         "g": [],
         "page": {
-            "viewer": "default",
+            "viewer": "fixed",
             "width": 791,
             "height": 400,
             "pages": 3,
@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "wq3mwuynt_87",
-                "type": "a4y9zz",
+                "id": "mm1_87",
+                "type": "e7scm9",
                 "unit": "px",
                 "props": {
                     "x": 358,
@@ -66,8 +66,8 @@
                 }
             },
             {
-                "id": "wq3mwuynt_197",
-                "type": "a1dvpc",
+                "id": "mm1_197",
+                "type": "e1okd6",
                 "unit": "px",
                 "props": {
                     "x": 583,
@@ -94,8 +94,8 @@
                 }
             },
             {
-                "id": "wq3mwuynt_217",
-                "type": "a1dvpc",
+                "id": "mm1_217",
+                "type": "e1okd6",
                 "unit": "px",
                 "props": {
                     "x": 587,
@@ -122,8 +122,8 @@
                 }
             },
             {
-                "id": "wq3mwuynt_252",
-                "type": "a4t1c1",
+                "id": "mm1_252",
+                "type": "e7jdo3",
                 "unit": "px",
                 "props": {
                     "x": 52,
@@ -146,15 +146,15 @@
                     "font": "tahoma",
                     "textColor": "#000",
                     "textMargin": 2,
-                    "textPosition": "bottom",
+                    "textPosition": "below",
                     "textAlign": "center",
                     "name": "条形码",
                     "animations": []
                 }
             },
             {
-                "id": "wq3mwuynt_268",
-                "type": "a50wby",
+                "id": "mm1_268",
+                "type": "e7wu3c",
                 "unit": "px",
                 "props": {
                     "x": 88,
@@ -176,8 +176,8 @@
                 }
             },
             {
-                "id": "wq3mwuynt_334",
-                "type": "a4vno0",
+                "id": "mm1_334",
+                "type": "e7nv56",
                 "unit": "px",
                 "props": {
                     "x": 85,
@@ -200,8 +200,8 @@
                 }
             },
             {
-                "id": "wq3mwuynt_lhuc7psk147",
-                "type": "a003dv",
+                "id": "mm1_lhuc7psk147",
+                "type": "dyowz6",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -621,8 +621,8 @@
                 }
             },
             {
-                "id": "wq3mwuynt_lhuc7psk194",
-                "type": "a4qf02",
+                "id": "mm1_lhuc7psk194",
+                "type": "e7ew70",
                 "unit": "px",
                 "props": {
                     "x": 439,

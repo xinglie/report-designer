@@ -13,7 +13,7 @@
     </style>
 </head>
 <body>
-    <script src="dist/viewer.js?v=202511160932"></script>
+    <script src="dist/viewer.js?v=202511301504"></script>
     <script type="module">
         let { searchParams } = new URL(location.href);
         let id = searchParams.get('pId');//从地址栏获取pId并返回回去，供父页面识别
@@ -35,14 +35,14 @@
                 return;
             }
             let { page } = stage;
-            if (page.viewer == 'iot') {
-                console.error('IoT大屏不支持隐藏渲染');
+            if (page.viewer == 'iot'||page.viewer=='board') {
+                alert('IoT和看板不支持打印和虚拟渲染');
                 parent.postMessage({ pId: id }, origin);
             } else {
                 processed = true;
                 let latent = action != 'print';
                 await viewer.install({
-                    version:'202511160932',
+                    version:'202511301504',
                     use: page.viewer,
                     latent,
                     request({url}){//请求发起前对参数等相关数据进行二次修改，便于适配现有接口。如没特殊需求，不要配置该方法

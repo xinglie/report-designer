@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <meta rd="wk2e1hri0a.2"/>
+    <meta rd="vt9q9mrpwm.h"/>
     <meta name="viewport"
         content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,viewport-fit=cover" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
@@ -13,16 +13,14 @@
 
 <body>
     <div style="display: flex;" data-focusable>
-        some other text
         <button style="margin-left: 100px;" id="destroy-rd">销毁设计器</button>
         <button style="margin-left: 10px;" disabled id="setup-rd">安装设计器</button>
         <!-- <button style="margin-left: 10px;" id="virtual">虚拟渲染</button> -->
         <button style="margin-left: 10px;" id="print">打印</button>
-        <div style="margin-left: 10px;">界面全模块化，可任意拆解组装</div>
     </div>
     <div style="display:flex;">
-        <div style="width:150px" draggable="true;" id="left">
-            left
+        <div style="width:150px;padding:10px" draggable="true;" id="left">
+            您可以选中此处文本并直接拖入设计区松开，<br/>设计器支持从其它页面或软件直接拖入文本或图片
         </div>
         <div id="app" class="app"
             style="width:80dvw;height:600px;border:solid 1px #ccc;position: relative;overflow: clip;">
@@ -30,15 +28,15 @@
                 这里可以放一个加载动画...
             </div>
         </div>
-        <div id="right">
-            right
+        <div id="right" style="padding:10px">
+            设计器也支持从其它软件复制文本或图片，<br/>并在设计区中粘贴，粘贴时请注意先清空设计器的剪切板。<br/><br/>设计器对剪切板的使用顺序为：设计器剪切板 &gt; 系统剪切板<br/><br/>清空设计器剪切板请使用剪切板工具栏旁边的"清除按钮"或使用快捷键(Alt+X或Option+X)
         </div>
     </div>
     <div data-focusable>
-        <input placeholder="外部输入框测试" />
-        bottom text
+        <input value="输入框也支持选中文本向设计器拖入" style="width:300px" />
+        设计器自动识别富文本、纯文本和图片。如果您只需要纯文本，请高亮剪切板工具栏中的"T"按钮。
     </div>
-    <script src="dist/designer.js?v=202511160932"></script>
+    <script src="dist/designer.js?v=202511301504"></script>
     <script>
         //--－start--- 以下是环境检测提示，方便有问题时自查，正式使用时建议删除
         if(!CSS.supports('overflow:clip')||
@@ -58,7 +56,7 @@
         let setup = () => {
             state = 1;
             designer.setup({
-                version:'202511160932',
+                version:'202511301504',
                 rootId: 'app',
                 embed: true,//嵌入模式
                 viewerUrl: './viewer.html?from=mini',

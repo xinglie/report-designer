@@ -4,7 +4,7 @@
         "unit": "mm",
         "page": {
             "readonly": false,
-            "viewer": "default",
+            "viewer": "fixed",
             "width": 209.81,
             "height": 296.86,
             "pages": 1,
@@ -31,8 +31,8 @@
         "elements": [
             {
                 "v": "202507141725",
-                "id": "wq3mwuynt_md8lutfh232",
-                "type": "chart/a3f90k",
+                "id": "mm1_md8lutfh232",
+                "type": "chart/e565ni",
                 "unit": "mm",
                 "props": {
                     "x": 5.14,
@@ -49,8 +49,8 @@
             },
             {
                 "v": "202507141725",
-                "id": "wq3mwuynt_md8lutfh255",
-                "type": "chart/a3f90k",
+                "id": "mm1_md8lutfh255",
+                "type": "chart/e565ni",
                 "unit": "mm",
                 "props": {
                     "x": 114.1,
@@ -67,8 +67,8 @@
             },
             {
                 "v": "202507141725",
-                "id": "wq3mwuynt_md8lutfh267",
-                "type": "chart/a3f90k",
+                "id": "mm1_md8lutfh267",
+                "type": "chart/e565ni",
                 "unit": "mm",
                 "props": {
                     "x": 5.15,
@@ -85,8 +85,8 @@
             },
             {
                 "v": "202507141725",
-                "id": "wq3mwuynt_md8lutfh279",
-                "type": "chart/a3f90k",
+                "id": "mm1_md8lutfh279",
+                "type": "chart/e565ni",
                 "unit": "mm",
                 "props": {
                     "x": 114.1,
@@ -103,8 +103,8 @@
             },
             {
                 "v": "202507141725",
-                "id": "wq3mwuynt_md8lutfh291",
-                "type": "chart/a3f90k",
+                "id": "mm1_md8lutfh291",
+                "type": "chart/e565ni",
                 "unit": "mm",
                 "props": {
                     "x": 114.1,
@@ -121,8 +121,8 @@
             },
             {
                 "v": "202507141725",
-                "id": "wq3mwuynt_md8lutfh312",
-                "type": "chart/a3f90k",
+                "id": "mm1_md8lutfh312",
+                "type": "chart/e565ni",
                 "unit": "mm",
                 "props": {
                     "x": 5.14,

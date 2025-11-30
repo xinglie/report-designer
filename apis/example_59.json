@@ -5,7 +5,7 @@
         "y": [],
         "g": [],
         "page": {
-            "viewer": "default",
+            "viewer": "fixed",
             "width": 209.81,
             "height": 296.86,
             "pages": 1,
@@ -28,8 +28,8 @@
         },
         "elements": [
             {
-                "id": "wq3mwuynt_lkakea1l97",
-                "type": "a003dv",
+                "id": "mm1_lkakea1l97",
+                "type": "dyowz6",
                 "unit": "mm",
                 "props": {
                     "rows": [

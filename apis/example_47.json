@@ -9,7 +9,7 @@
         "g": [],
         "page": {
             "readonly": false,
-            "viewer": "default",
+            "viewer": "fixed",
             "width": 791,
             "height": 1120,
             "pages": 1,
@@ -37,8 +37,8 @@
         },
         "elements": [
             {
-                "id": "wq3mwuynt_142",
-                "type": "svg/a7klyz",
+                "id": "mm1_142",
+                "type": "svg/ed580u",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -53,7 +53,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "a2wwor": "infinite",
+                            "e4arbx": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -65,8 +65,8 @@
                 }
             },
             {
-                "id": "wq3mwuynt_106",
-                "type": "a53inx",
+                "id": "mm1_106",
+                "type": "e81bkf",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -83,7 +83,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "a2wwor": "infinite",
+                            "e4arbx": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -95,8 +95,8 @@
                 }
             },
             {
-                "id": "wq3mwuynt_107",
-                "type": "a969ad",
+                "id": "mm1_107",
+                "type": "egdud0",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -130,7 +130,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "a2wwor": "infinite",
+                            "e4arbx": "infinite",
                             "fn": "linear",
                             "delay": 2,
                             "duration": 1,
@@ -142,8 +142,8 @@
                 }
             },
             {
-                "id": "wq3mwuynt_108",
-                "type": "a93mye",
+                "id": "mm1_108",
+                "type": "eg9cvx",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -162,7 +162,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "a2wwor": "infinite",
+                            "e4arbx": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -171,7 +171,7 @@
                             "use": "shakeY"
                         },
                         {
-                            "a2wwor": "infinite",
+                            "e4arbx": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1.52,
@@ -183,8 +183,8 @@
                 }
             },
             {
-                "id": "wq3mwuynt_109",
-                "type": "a53inx",
+                "id": "mm1_109",
+                "type": "e81bkf",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -203,7 +203,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "a2wwor": "infinite",
+                            "e4arbx": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -215,8 +215,8 @@
                 }
             },
             {
-                "id": "wq3mwuynt_110",
-                "type": "a969ad",
+                "id": "mm1_110",
+                "type": "egdud0",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -252,7 +252,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "a2wwor": "infinite",
+                            "e4arbx": "infinite",
                             "fn": "linear",
                             "delay": 2,
                             "duration": 1,
@@ -264,8 +264,8 @@
                 }
             },
             {
-                "id": "wq3mwuynt_111",
-                "type": "a93mye",
+                "id": "mm1_111",
+                "type": "eg9cvx",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -286,7 +286,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "a2wwor": "infinite",
+                            "e4arbx": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -295,7 +295,7 @@
                             "use": "shakeY"
                         },
                         {
-                            "a2wwor": "infinite",
+                            "e4arbx": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1.52,
@@ -307,8 +307,8 @@
                 }
             },
             {
-                "id": "wq3mwuynt_144",
-                "type": "a969ad",
+                "id": "mm1_144",
+                "type": "egdud0",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -342,7 +342,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "a2wwor": 3,
+                            "e4arbx": 3,
                             "fn": "cubic-bezier(0.73,-0.02,0.25,0.99)",
                             "delay": 1.5,
                             "duration": 0.8,

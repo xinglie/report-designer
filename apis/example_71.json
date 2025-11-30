@@ -2,7 +2,7 @@
     "data": {
         "unit": "mm",
         "page": {
-            "viewer": "default",
+            "viewer": "fixed",
             "width": 209.815,
             "height": 296.863,
             "pages": 1,
@@ -29,8 +29,8 @@
         },
         "elements": [
             {
-                "id": "wq3mwuynt_lv1yoyfn445",
-                "type": "a0vjdj",
+                "id": "mm1_lv1yoyfn445",
+                "type": "e0t61l",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -61,8 +61,8 @@
                                     ],
                                     "elements": [
                                         {
-                                            "id": "wq3mwuynt_lv1z6ded259",
-                                            "type": "chart/a2mfcv",
+                                            "id": "mm1_lv1z6ded259",
+                                            "type": "chart/e3stfl",
                                             "unit": "mm",
                                             "props": {
                                                 "full": true,
@@ -83,8 +83,8 @@
                                 {
                                     "elements": [
                                         {
-                                            "id": "wq3mwuynt_lv1yoyfn570",
-                                            "type": "chart/a2by0z",
+                                            "id": "mm1_lv1yoyfn570",
+                                            "type": "chart/e3avj9",
                                             "unit": "mm",
                                             "props": {
                                                 "full": true,
@@ -131,8 +131,8 @@
                                 {
                                     "elements": [
                                         {
-                                            "id": "wq3mwuynt_lv1z7dt4245",
-                                            "type": "chart/a5ohbp",
+                                            "id": "mm1_lv1z7dt4245",
+                                            "type": "chart/e917d3",
                                             "unit": "mm",
                                             "props": {
                                                 "full": true,
@@ -207,8 +207,8 @@
                                 {
                                     "elements": [
                                         {
-                                            "id": "wq3mwuynt_lv1z9nbm215",
-                                            "type": "chart/a2p1ou",
+                                            "id": "mm1_lv1z9nbm215",
+                                            "type": "chart/e3xawo",
                                             "unit": "mm",
                                             "props": {
                                                 "full": 1,

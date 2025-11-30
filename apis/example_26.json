@@ -6,7 +6,7 @@
         "g": [],
         "page": {
             "readonly": false,
-            "viewer": "default",
+            "viewer": "fixed",
             "width": 791,
             "height": 1120,
             "pages": 1,
@@ -33,8 +33,8 @@
         },
         "elements": [
             {
-                "id": "wq3mwuynt_70",
-                "type": "a4dbc7",
+                "id": "mm1_70",
+                "type": "e6sgtl",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -65,7 +65,7 @@
                     "font": "OCR-B",
                     "textColor": "#000",
                     "textMargin": 0,
-                    "textPosition": "bottom",
+                    "textPosition": "below",
                     "textAlign": "center",
                     "name": "批量条码",
                     "locked": false,

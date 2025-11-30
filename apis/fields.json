@@ -60,10 +60,6 @@
                     "key": "businessTripReason"
                 },
                 {
-                    "name": "申请日期",
-                    "key": "applicationDate"
-                },
-                {
                     "name": "城市间交通费（预估）",
                     "key": "trafficCost"
                 },
@@ -178,7 +174,7 @@
                 {
                     "name": "头像",
                     "key": "avatar",
-                    "use": "a50wby",
+                    "use": "e7wu3c",
                     "props": {
                         "width": 150,
                         "height": 150
@@ -426,7 +422,7 @@
                 {
                     "name": "片断1",
                     "key": "p1",
-                    "use": "a160pf",
+                    "use": "e1b3xx",
                     "props": {
                         "width": 500
                     }
@@ -434,7 +430,7 @@
                 {
                     "name": "片断2",
                     "key": "p2",
-                    "use": "a160pf",
+                    "use": "e1b3xx",
                     "props": {
                         "width": 500
                     }
@@ -475,8 +471,8 @@
                 },
                 {
                     "name": "词云",
-                    "key": "a3cmol",
-                    "use": "chart/a3cmol"
+                    "key": "e51o6f",
+                    "use": "chart/e51o6f"
                 },
                 {
                     "name": "轮播",
@@ -486,7 +482,7 @@
                         {
                             "name": "轮播图测试",
                             "key": "images",
-                            "use": "a3a0cm"
+                            "use": "e4x6pc"
                         }
                     ]
                 }
@@ -747,7 +743,7 @@
                 {
                     "name": "基础数据批量添加",
                     "key": "base/name",
-                    "use": "a4y9zz",
+                    "use": "e7scm9",
                     "title": "超市名称",
                     "id": "receipt_base",
                     "props": {
@@ -759,7 +755,7 @@
                         {
                             "name": "创建时间",
                             "key": "base/time",
-                            "use": "a4y9zz",
+                            "use": "e7scm9",
                             "offsetX": 0,
                             "offsetY": 40,
                             "id": "receipt_base",
@@ -772,7 +768,7 @@
                         {
                             "name": "收银员",
                             "key": "base/cashier",
-                            "use": "a4y9zz",
+                            "use": "e7scm9",
                             "id": "receipt_base",
                             "offsetX": 160,
                             "offsetY": 40,
@@ -805,18 +801,18 @@
                 {
                     "name": "BWIP内容",
                     "key": "text",
-                    "use": "a4nso3"
+                    "use": "e7aepx"
                 },
                 {
                     "name": "BWIP格式",
                     "key": "format",
-                    "use": "a4nso3",
+                    "use": "e7aepx",
                     "bindIndex": 1
                 },
                 {
                     "name": "BWIP参数",
                     "key": "params",
-                    "use": "a4nso3",
+                    "use": "e7aepx",
                     "bindIndex": 2
                 }
             ]
