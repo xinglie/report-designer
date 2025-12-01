@@ -174,7 +174,7 @@
                 {
                     "name": "头像",
                     "key": "avatar",
-                    "use": "e7wu3c",
+                    "use": "aar5i9",
                     "props": {
                         "width": 150,
                         "height": 150
@@ -422,7 +422,7 @@
                 {
                     "name": "片断1",
                     "key": "p1",
-                    "use": "e1b3xx",
+                    "use": "a2hxe9",
                     "props": {
                         "width": 500
                     }
@@ -430,7 +430,7 @@
                 {
                     "name": "片断2",
                     "key": "p2",
-                    "use": "e1b3xx",
+                    "use": "a2hxe9",
                     "props": {
                         "width": 500
                     }
@@ -471,8 +471,8 @@
                 },
                 {
                     "name": "词云",
-                    "key": "e51o6f",
-                    "use": "chart/e51o6f"
+                    "key": "a76629",
+                    "use": "chart/a76629"
                 },
                 {
                     "name": "轮播",
@@ -482,7 +482,7 @@
                         {
                             "name": "轮播图测试",
                             "key": "images",
-                            "use": "e4x6pc"
+                            "use": "a70k69"
                         }
                     ]
                 }
@@ -743,7 +743,7 @@
                 {
                     "name": "基础数据批量添加",
                     "key": "base/name",
-                    "use": "e7scm9",
+                    "use": "aaljm9",
                     "title": "超市名称",
                     "id": "receipt_base",
                     "props": {
@@ -755,7 +755,7 @@
                         {
                             "name": "创建时间",
                             "key": "base/time",
-                            "use": "e7scm9",
+                            "use": "aaljm9",
                             "offsetX": 0,
                             "offsetY": 40,
                             "id": "receipt_base",
@@ -768,7 +768,7 @@
                         {
                             "name": "收银员",
                             "key": "base/cashier",
-                            "use": "e7scm9",
+                            "use": "aaljm9",
                             "id": "receipt_base",
                             "offsetX": 160,
                             "offsetY": 40,
@@ -801,18 +801,18 @@
                 {
                     "name": "BWIP内容",
                     "key": "text",
-                    "use": "e7aepx"
+                    "use": "a9z429"
                 },
                 {
                     "name": "BWIP格式",
                     "key": "format",
-                    "use": "e7aepx",
+                    "use": "a9z429",
                     "bindIndex": 1
                 },
                 {
                     "name": "BWIP参数",
                     "key": "params",
-                    "use": "e7aepx",
+                    "use": "a9z429",
                     "bindIndex": 2
                 }
             ]
