@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta rd="2vxhkrgj.p4"/>
+</head>
+
+<body>
+    <script src="dist/viewer.js?v=202601222046"></script>
+    <script>
+        //--－start--- 以下是环境检测提示，方便有问题时自查，正式使用时建议删除
+        if(!CSS.supports('overflow:clip')||
+            !CSS.supports('inset:auto')||
+            !CSS.supports('scale:1')||
+            !CSS.supports('translate:0')||
+            !CSS.supports('rotate:0deg')){
+            console.error('unsupport browser: '+navigator.userAgent);
+        }
+        if (!location.protocol.startsWith('http')) {
+            alert('请配置一个web服务器,通过http的方式访问~')
+        }
+        //---end---
+        /*
+          一般我们会通过如 https://xinglie.github.io/report-designer/viewer.html?id=49
+          查看我们设计好的模板并填充数据后的页面效果。
+
+          viewer.html是设计器提供的页面预览，有时候我们想通过自己的页面或程序进行控制，不使用设计器提供的viewer.html页面
+          那么下面个功能就是把viewer.html页面中需要的样式和html拿出来供开发者自己去控制使用。
+        */
+        (async () => {
+            // 以下示例以 https://xinglie.github.io/report-designer/viewer.html?id=49 为例
+            //1. 先获取设计器设计好的模板
+            let example49Response = await fetch('apis/example_49.json');
+            //这里仅做示例，获取数据异常等情况不再处理
+            let example49Data = await example49Response.json();
+            // example49Data 是形如　{data:{},success:true}的结构，data才是设计器最终保存的数据
+            let stage = example49Data.data;//拿出设计器设计好的模板数据
+
+            //example49中使用到了apis/person.json数据，我们也需要在外部准备好
+            let data = [];
+            //如果你想更细致的控制渲染，比如把模板数据及依赖的真实数据都准备好后，让预览器很快的速度渲染出来，则需要把下面begin data与end data的逻辑读懂
+            //--begin data--
+            let personResponse = await fetch('apis/person.json');
+            let personData = await personResponse.json();
+            data.push({
+                bind:{//此bind中id与tag需要与模板中的一致，只需要id和tag即可，其它可省略
+                    id:3,
+                    tag:'apis/person.json'
+                },
+                data:personData.data,//对应的数据
+                error:"",//可选的接口异常时的错误信息，如果接口没有异常省略error即可
+            })
+            //--end data--
+            //如果begin data与end data中间的逻辑对你来讲看不懂，则这部分代码不写，程序也能正常工作
+            //只是这样预览器内部要去获取相应的数据，渲染时间上就会稍长
+            //即：要么外部提供好内部需要的所有数据，内部只做渲染，速度快。要么外部不提供数据，内部自动获取，则渲染用时会变长
+            await viewer.install({
+                version:'202601222046',//安装预览器，如果在其它代码中使用，请确保不要反复安装
+                use: 'default',//预览器内置了 IoT(iot) 流式分页(stack) 标签(label) 静态分页(default)　大屏看板(board) 五种预览，这里使用 静态分页(default) 进行内容渲染。另外获取board及iot的HTML是无意义的，所以当use是这2种类型时，是拿不到任何返回数据的
+                getFontFaceUrl: './apis/fontface.json',//如果在设计的时候使用了自定义字体，则这里一定要配置相应的字体接口，如果设计时未使用自定义字体则不需要配置。注意，当有自定义字体时，通常获得的样式中要包含字体文件，会比较大，这取决于字体文件的大小
+                latent: true,//一定要指定隐藏渲染
+                request({url}){//请求发起前对参数等相关数据进行二次修改，便于适配现有接口。如没特殊需求，不要配置该方法
+                    //console.log('request',request,url);
+                    if (url.startsWith('//unpkg.') ||
+                        url.startsWith('//at.') ||
+                        url.startsWith('//cdn.') ||
+                        url.startsWith('//cdnjs.')) {
+                        return { //公共cdn不能发送任何凭证。如果自建资源服务器，则可以根据需要调整
+                            options:{},
+                        };
+                    }
+                }
+            });
+            let renderData = await viewer.getHTML({ stage, data, pageShadow: true });//预览器会根据stage模板和提供的data数据返回相应的页面内容 ，其中pageShadow用来控制生成的页面是否带阴影，如果不需要阴影，则可以配置pageShadow: false
+            viewer.uninstall(); //如果在代码中使用，请根据情况进行使用后的销毁处理
+
+            /* viewer在install后，可反复多次传入新的数据调用getHTML方法获取相应的样式和分页HTML。只有您确定不再需要时，再调用uninstall卸载即可。并不需要每次调用前install，调用后uninstall*/
+
+            console.log(renderData);
+            let { page: { width, height }, unit } = stage;
+            //需要注意的是report designer提供了8种单位，而这些单位并不一定被其它程序支持，这里不再处理单位转换的事情，仅跑通流程。
+            if (unit != 'px') {//
+                console.error('非px单位需要转换!!');
+            }
+            // let allStyles = [];
+            // for (let style of renderData.styles) {
+            //     allStyles.push(style);
+            // }
+            let pageStyle = renderData.styles.join('');//把所有样式拼接到一起。
+
+            //以下是测试获取的样式和分页是否正确，把下面这个testHTML字符串内容保存成html文件查看效果
+            /***begin****/
+            //注意html文件最前面的<!DOCTYPE html>声明一定要有~
+            let testHTML = `<!DOCTYPE html><html><head><meta charset="utf-8"/>${pageStyle}</head><body>${renderData.pages.join('')}</body></html>`;
+            console.log(testHTML);
+            window.$testHTML = testHTML;
+            /***end****/
+
+            //以下是测试LODOP分页打印
+            //尺寸+1防止ld自动分页
+            // LODOP.SET_PRINT_PAGESIZE(0, (width + 1) + 'px', (height + 1) + 'px', 'report-designer');
+            // LODOP.SET_PRINT_MODE("POS_BASEON_PAPER", true);
+            // for (let page of renderData.pages){
+            //   console.log(page);
+            //   LODOP.NewPage();//开启新页面
+            //   LODOP.ADD_PRINT_HTM(0, 0, width + 'px', height + 'px', allStyles + page);
+            // }
+            // LODOP.PRINT()
+        })();
+    </script>
+</body>
+
+</html>

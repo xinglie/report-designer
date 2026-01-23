@@ -1,0 +1,74 @@
+{
+    "data": {
+        "rgy1h": [
+            {
+                "name": "name1",
+                "value": 20
+            },
+            {
+                "name": "name2",
+                "value": 40
+            },
+            {
+                "name": "张三",
+                "value": 10
+            },
+            {
+                "name": "李四",
+                "value": 15
+            },
+            {
+                "name": "Han mei mei",
+                "value": 11
+            },
+            {
+                "name": "Li Lei",
+                "value": 20
+            }
+        ],
+        "ss9r1": [
+            {
+                "text": "f1",
+                "color": "red"
+            },
+            {
+                "text": "f2",
+                "color": "#ccc"
+            },
+            {
+                "text": "f3",
+                "color": "#000"
+            },
+            {
+                "text": "f4",
+                "color": "#ccc"
+            },
+            {
+                "text": "f5",
+                "color": "#ccc"
+            },
+            {
+                "text": "f1",
+                "color": "red"
+            },
+            {
+                "text": "f2",
+                "color": "#ccc"
+            },
+            {
+                "text": "f3",
+                "color": "#000"
+            },
+            {
+                "text": "f4",
+                "color": "#ccc"
+            },
+            {
+                "text": "f5",
+                "color": "#ccc"
+            }
+        ]
+    },
+    "success": true,
+    "message": "ok"
+}

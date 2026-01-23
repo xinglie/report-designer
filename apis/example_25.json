@@ -1,0 +1,187 @@
+{
+    "data": {
+        "unit": "px",
+        "x": [],
+        "y": [],
+        "g": [],
+        "page": {
+            "viewer": "fixed",
+            "width": 791,
+            "height": 500,
+            "pages": 3,
+            "scale": "auto",
+            "update": true,
+            "updateInterval": 1,
+            "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+            "xOffset": 0,
+            "yOffset": 0,
+            "copies": 1,
+            "blank": 2,
+            "labelCol": 1,
+            "labelGap": 10,
+            "gridWidth": 20,
+            "gridHeight": 20,
+            "font": "tahoma",
+            "background": "#ffffff",
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundX": 0,
+            "backgroundY": 0
+        },
+        "elements": [
+            {
+                "id": "owfmn2n_86",
+                "type": "rq360",
+                "unit": "px",
+                "props": {
+                    "x": 50,
+                    "y": 26,
+                    "width": 200,
+                    "height": 80,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "bind": {
+                        "tag": "apis/person.json",
+                        "id": "3",
+                        "fields": [
+                            {
+                                "name": "身份证号",
+                                "key": "idn"
+                            }
+                        ]
+                    },
+                    "hspace": 10,
+                    "vspace": 20,
+                    "format": "code128",
+                    "showText": true,
+                    "color": "#000000",
+                    "linewidth": 0,
+                    "textGap": 0,
+                    "size": 10,
+                    "font": "OCR-B",
+                    "textColor": "#000",
+                    "textMargin": 0,
+                    "textPosition": "below",
+                    "textAlign": "center",
+                    "name": "批量条码",
+                    "animations": []
+                }
+            },
+            {
+                "id": "owfmn2n_93",
+                "type": "rr5vy",
+                "unit": "px",
+                "props": {
+                    "x": 50,
+                    "y": 522,
+                    "width": 150,
+                    "height": 150,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "bind": {
+                        "tag": "apis/report.json",
+                        "id": "2",
+                        "fields": [
+                            {
+                                "name": "点击量",
+                                "key": "f2"
+                            }
+                        ]
+                    },
+                    "format": "qrcode",
+                    "colorDark": "#000",
+                    "colorLight": "#fff",
+                    "correctLevel": "H",
+                    "hspace": 30,
+                    "vspace": 30,
+                    "name": "二维码",
+                    "animations": []
+                }
+            },
+            {
+                "id": "owfmn2n_116",
+                "type": "rrp8x",
+                "unit": "px",
+                "props": {
+                    "x": 50,
+                    "y": 1052,
+                    "width": 200,
+                    "height": 25,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "bind": {
+                        "tag": "apis/person.json",
+                        "id": "3",
+                        "fields": [
+                            {
+                                "name": "地址",
+                                "key": "addr"
+                            }
+                        ]
+                    },
+                    "match": true,
+                    "hspace": 30,
+                    "vspace": 30,
+                    "size": 14,
+                    "font": "tahoma",
+                    "line": 1.5,
+                    "gap": 0,
+                    "color": "#000000",
+                    "hpos": "flex-start",
+                    "vpos": "flex-start",
+                    "bwidth": 0,
+                    "bcolor": "#000000",
+                    "btype": "solid",
+                    "name": "批量文本",
+                    "animations": []
+                }
+            },
+            {
+                "id": "owfmn2n_132",
+                "type": "ql7s4",
+                "unit": "px",
+                "props": {
+                    "pinX": true,
+                    "pinY": true,
+                    "rows": [
+                        {
+                            "height": 40,
+                            "cols": [
+                                {
+                                    "width": 791,
+                                    "elements": [],
+                                    "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                                    "btype": [
+                                        "dashed",
+                                        "dashed",
+                                        "dashed",
+                                        "dashed"
+                                    ],
+                                    "bwidth": [
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "bcolor": [
+                                        "#cccccc",
+                                        "#cccccc",
+                                        "#cccccc",
+                                        "#cccccc"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "width": 791,
+                    "height": 40,
+                    "alpha": 1,
+                    "name": "页脚",
+                    "animations": []
+                }
+            }
+        ]
+    },
+    "success": true
+}

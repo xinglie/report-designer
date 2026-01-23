@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta rd="2vxhkrgj.p4"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <link type="image/x-icon" href="./rd.png" rel="shortcut icon">
+        <title>拆分模式测试页</title>
+        <style>
+            html,body{margin:0;padding:0;overflow:hidden;height:100%;background:#fff}
+            .head{display: flex;height:40px;align-items: center;box-shadow: 0 1px #ccc;font-size: 14px;padding-left: 40px}
+            *{box-sizing: border-box;}
+            #toolbar{
+                height: 35px;
+                border-bottom: solid 1px #eee;
+                border-top: solid 1px #eee;
+                background-color: #fcfcfc;
+                padding: 0 60px;
+                min-width: 1100px;
+                display: flex;
+                align-items: center;
+                overflow: hidden;
+            }
+            #header{
+                height: 40px;
+                background-color:/*d-cb<*/var(--rd-cS)/*>d-cb*/;
+                color:#fff;
+                padding: 0 40px 0 20px;
+                margin:10px 0;
+                min-width: 1100px;
+                display: flex;
+                position: relative;
+                z-index: 202;
+            }
+            #left{
+                width:190px;
+                height: 100%;
+                border: #ccc solid 1px;
+                margin:0 10px;
+                flex-shrink: 0;
+            }
+            #right{
+                width:200px;
+                height: 100%;
+                border: #ccc solid 1px;
+                margin:0 10px;
+                flex-shrink: 0;
+            }
+            #right2{
+                width:260px;
+                height: 100%;
+                border: #ccc solid 1px;
+                margin:0 10px 0 0;
+                flex-shrink: 0;
+            }
+            #app{
+                flex:1;
+                height:100%;
+                border:solid 1px #ccc;
+                width: 0px;
+            }
+            #foot{
+                height: 130px;
+                background-color: #fcfcfc;
+                margin: 10px;
+                border: solid 1px #ccc;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="head">
+            拆分模式测试
+            <button style="margin-left: 100px;" id="destroy-rd">销毁设计器</button>
+            <button style="margin-left: 10px;" disabled id="setup-rd">安装设计器</button>
+            <!-- <button style="margin-left: 10px;" id="virtual">虚拟渲染</button> -->
+            <button style="margin-left: 10px;" id="print">打印</button>
+            <div style="margin-left: 10px;">界面全模块化，可任意拆解组装</div>
+        </div>
+        <div id="toolbar">
+
+        </div>
+        <div id="header">
+
+        </div>
+        <div style="display:flex;height: calc(100% - 285px);">
+            <div id="left">
+                left
+            </div>
+            <div id="app">
+                <div style="display: flex;align-items: center;justify-content: center; height: 100%;">
+                    这里可以放一个加载动画...
+                </div>
+            </div>
+            <div id="right">
+                right
+            </div>
+            <div id="right2">
+                right2
+            </div>
+        </div>
+        <div id="foot">
+
+        </div>
+        <script src="dist/designer.js?v=202601222046"></script>
+        <script>
+            //--－start--- 以下是环境检测提示，方便有问题时自查，正式使用时建议删除
+            if(!CSS.supports('overflow:clip')||
+                !CSS.supports('inset:auto')||
+                !CSS.supports('scale:1')||
+                !CSS.supports('translate:0')||
+                !CSS.supports('rotate:0deg')){
+                console.error('unsupport browser: '+navigator.userAgent);
+            }
+            if(!location.protocol.startsWith('http')){
+                alert('请配置一个web服务器,通过http的方式访问~')
+            }
+            //---end---
+            let state=0;
+            let setup=()=>{
+                state=1;
+                designer.setup({
+                    version:'202601222046',
+                    rootId:'app',
+                    embed:true,//嵌入模式
+                    panels:{//把内置的浮动面板渲染到现有的节点里
+                        //内置的所有面板清单
+                        /*
+                            animate 动画面板
+                            data 数据源面板
+                            debug 调试面板
+                            draft 暂存面板
+                            element 元素面板
+                            outline 概览图面板
+                            props 属性面板
+                            record 历史记录面板
+                            resource 图片资源面板
+                            tree 结构树面板
+                            https://xinglie.github.io/report-designer 可查看所有内置面板的功能
+                        */
+                        resource:{//资源面板
+                            scroll:true,//是否滚动
+                            to:'left'//渲染到现有哪个节点里
+                        },
+                        data:{//数据面板
+                            scroll:true,
+                            to:'right'
+                        },
+                        props:{//属性面板
+                            scroll:true,
+                            to:'right2'
+                        },
+                        animate:{//动画面板
+                            to:'foot'
+                        }
+                    },
+                    header:{//设计器的头渲染到哪个节点里
+                        to:'header',
+                    },
+                    toolbar:{//工具栏渲染到哪个节点里
+                        to:'toolbar'
+                    },
+                    viewerUrl:'./viewer.html?from=split',
+                    getImageUrl:'./apis/images.json',
+                    getFieldUrl:'./apis/fields.json',
+                    getTemplateUrl:'./apis/example.json',
+                    getTemplateContentUrl:'./apis/example_${id}.json',
+                    getResourceUrl:'./apis/resource.json',
+                    saveContentUrl:'./apis/content.json',
+                    request({url}){//请求发起前对参数等相关数据进行二次修改，便于适配现有接口。
+                        //console.log('request',request,url);
+                        if (url.startsWith('//unpkg.') ||
+                            url.startsWith('//at.') ||
+                            url.startsWith('//cdn.') ||
+                            url.startsWith('//cdnjs.')) {
+                            return { //公共cdn不能发送任何凭证。如果自建资源服务器，则可以根据需要调整
+                                options:{},
+                            };
+                        }
+                    }
+                });
+            };
+            let setupBtn=document.getElementById('setup-rd');
+            let destroyBtn=document.getElementById('destroy-rd');
+            //let virtual = document.getElementById('virtual');
+            let pt=document.getElementById('print');
+            setupBtn.addEventListener('click',()=>{
+                setup();
+                setupBtn.disabled=true;
+                destroyBtn.disabled=false;
+            });
+            destroyBtn.addEventListener('click',()=>{
+                state=0;
+                designer.destroy();
+                destroyBtn.disabled=true;
+                setupBtn.disabled=false;
+            });
+            let c = 0;
+            let { origin } = location;
+            // virtual.addEventListener('click', () => {
+            //     if(state & 1){
+            //         let pId = c++;//在当前函数内生成一个pId，用于识别创建多个iframe对象后数据通信问题
+            //         //隐藏iframe
+            //         let iframe = document.createElement('iframe');
+            //         iframe.style.cssText = 'position:absolute;top:-500cm;left:-500cm';
+            //         document.body.append(iframe);
+            //         let win = iframe.contentWindow;
+            //         let listen = ({ data }) => {
+            //             //只有通信数据是自己的才处理
+            //             if (data.pId == pId) {
+            //                 if (data.action == 'ready') {//就绪，则传递当前设计器里面的内容
+            //                     win.postMessage(designer.invoke?.('get'), origin);
+            //                 } else {//获取虚拟渲染的内容后，删除iframe并移动事件监听
+            //                     iframe.remove();
+            //                     window.removeEventListener('message', listen);
+            //                     //data.renderData即是包含样式及分好页的数据
+            //                     console.log(data.renderData);
+            //                 }
+            //             }
+            //         };
+            //         window.addEventListener('message', listen);
+            //         iframe.src = './proxy.html?pId=' + pId;
+            //     }else{
+            //         alert('请先安装设计器')
+            //     }
+            // });
+            pt.addEventListener('click', () => {
+                if(state & 1){
+                    let pId = c++;//在当前函数内生成一个pId，用于识别创建多个iframe对象后数据通信问题
+                    //隐藏iframe
+                    let iframe = document.createElement('iframe');
+                    pt.disabled = true;
+                    pt.innerText = '请稍等...'
+                    iframe.style.cssText = 'position:absolute;top:-500cm;left:-500cm';
+                    document.body.append(iframe);
+                    let win = iframe.contentWindow;
+                    let listen = ({ data }) => {
+                        //只有通信数据是自己的才处理
+                        if (data.pId == pId) {
+                            if (data.action == 'ready') {//就绪，则传递当前设计器里面的内容
+                                win.postMessage(designer.invoke?.('get'), origin);
+                            } else {//获取虚拟渲染的内容后，删除iframe并移动事件监听
+                                iframe.remove();
+                                window.removeEventListener('message', listen);
+                                pt.disabled = false;
+                                pt.innerText = '打印'
+                                //data.renderData即是包含样式及分好页的数据
+                                //console.log(data.renderData);
+                            }
+                        }
+                    };
+                    window.addEventListener('message', listen);
+                    iframe.src = './proxy.html?pId=' + pId+'&action=print';
+                }else{
+                    alert('请先安装设计器')
+                }
+            });
+            setup();
+        </script>
+    </body>
+</html>

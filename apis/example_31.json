@@ -1,0 +1,313 @@
+{
+    "data": {
+        "v": "202511131455",
+        "unit": "px",
+        "page": {
+            "readonly": false,
+            "viewer": "fixed",
+            "width": 791,
+            "height": 1120,
+            "pages": 1,
+            "scale": "auto",
+            "update": true,
+            "updateInterval": 1,
+            "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+            "xOffset": 0,
+            "yOffset": 0,
+            "copies": 1,
+            "spacing": 0,
+            "blank": 1,
+            "labelCol": 1,
+            "labelGap": 10,
+            "gridWidth": 20,
+            "gridHeight": 20,
+            "font": "tahoma",
+            "background": "#ffffff",
+            "backgroundImage": "",
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundX": 0,
+            "backgroundY": 0
+        },
+        "elements": [
+            {
+                "v": "202511131455",
+                "id": "owfmn2n_mhyq41hh586",
+                "type": "qlr53",
+                "unit": "px",
+                "props": {
+                    "readonly": true,
+                    "rows": [
+                        {
+                            "height": 95,
+                            "cols": [
+                                {
+                                    "width": 791,
+                                    "elements": [
+                                        {
+                                            "v": "202511131455",
+                                            "id": "owfmn2n_mhyq41hh617",
+                                            "type": "rz8aj",
+                                            "unit": "px",
+                                            "props": {
+                                                "readonly": true,
+                                                "x": 16,
+                                                "y": 2,
+                                                "width": 91,
+                                                "height": 91,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": 5,
+                                                "image": "https://cdn-icons-png.flaticon.com/128/4729/4729446.png",
+                                                "bind": {},
+                                                "target": "tab",
+                                                "winWidth": 500,
+                                                "winHeight": 500,
+                                                "name": "图片-1",
+                                                "animations": []
+                                            }
+                                        },
+                                        {
+                                            "v": "202511131455",
+                                            "id": "owfmn2n_mhyq41hh661",
+                                            "type": "ry5kl",
+                                            "unit": "px",
+                                            "props": {
+                                                "readonly": true,
+                                                "x": 558,
+                                                "y": 11,
+                                                "width": 200,
+                                                "height": 25,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": 5,
+                                                "text": "xx公司采购专用文档",
+                                                "bind": {},
+                                                "match": true,
+                                                "size": 14,
+                                                "font": "inherit",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#8a8a8aff",
+                                                "hpos": "flex-end",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 500,
+                                                "winHeight": 500,
+                                                "name": "文本-1",
+                                                "animations": []
+                                            }
+                                        },
+                                        {
+                                            "v": "202511131455",
+                                            "id": "owfmn2n_mhyq41hh736",
+                                            "type": "ry5kl",
+                                            "unit": "px",
+                                            "props": {
+                                                "readonly": true,
+                                                "x": 558,
+                                                "y": 36,
+                                                "width": 200,
+                                                "height": 25,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": 5,
+                                                "text": "公司地址：xxyyzzxxxxxadfa",
+                                                "bind": {},
+                                                "match": true,
+                                                "size": 14,
+                                                "font": "inherit",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#8a8a8aff",
+                                                "hpos": "flex-end",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 500,
+                                                "winHeight": 500,
+                                                "name": "文本-2",
+                                                "animations": []
+                                            }
+                                        },
+                                        {
+                                            "v": "202511131455",
+                                            "id": "owfmn2n_mhyq41hh742",
+                                            "type": "ry5kl",
+                                            "unit": "px",
+                                            "props": {
+                                                "readonly": true,
+                                                "x": 558,
+                                                "y": 61,
+                                                "width": 200,
+                                                "height": 25,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": 5,
+                                                "text": "联系电话：0123-45678-902",
+                                                "bind": {},
+                                                "match": true,
+                                                "size": 14,
+                                                "font": "inherit",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#8a8a8aff",
+                                                "hpos": "flex-end",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "target": "tab",
+                                                "winWidth": 500,
+                                                "winHeight": 500,
+                                                "name": "文本-3",
+                                                "animations": []
+                                            }
+                                        }
+                                    ],
+                                    "btype": [
+                                        "dashed",
+                                        "dashed",
+                                        "dashed",
+                                        "dashed"
+                                    ],
+                                    "bwidth": [
+                                        0,
+                                        0,
+                                        1,
+                                        0
+                                    ],
+                                    "bcolor": [
+                                        "#ccc",
+                                        "#ccc",
+                                        "#ccc",
+                                        "#ccc"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "width": 791,
+                    "height": 95,
+                    "alpha": 1,
+                    "name": "页头-1",
+                    "animations": []
+                }
+            },
+            {
+                "v": "202511131455",
+                "id": "owfmn2n_mhyq41hh807",
+                "type": "ql7s4",
+                "unit": "px",
+                "props": {
+                    "readonly": true,
+                    "rows": [
+                        {
+                            "height": 40,
+                            "cols": [
+                                {
+                                    "width": 791,
+                                    "elements": [
+                                        {
+                                            "v": "202511131455",
+                                            "id": "owfmn2n_mhyq41hh836",
+                                            "type": "qxl2h",
+                                            "unit": "px",
+                                            "props": {
+                                                "readonly": true,
+                                                "x": 573,
+                                                "y": 7,
+                                                "width": 200,
+                                                "height": 25,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": 5,
+                                                "text": "${current}/${total}",
+                                                "match": true,
+                                                "size": 14,
+                                                "font": "inherit",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#000",
+                                                "hpos": "flex-end",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "name": "页码器-1",
+                                                "animations": []
+                                            }
+                                        }
+                                    ],
+                                    "btype": [
+                                        "dashed",
+                                        "dashed",
+                                        "dashed",
+                                        "dashed"
+                                    ],
+                                    "bwidth": [
+                                        1,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "bcolor": [
+                                        "#ccc",
+                                        "#ccc",
+                                        "#ccc",
+                                        "#ccc"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "width": 791,
+                    "height": 40,
+                    "alpha": 1,
+                    "name": "页脚-1",
+                    "animations": []
+                }
+            },
+            {
+                "v": "202511131455",
+                "id": "owfmn2n_mhyq41hh985",
+                "type": "ry5kl",
+                "unit": "px",
+                "props": {
+                    "x": 62,
+                    "y": 135,
+                    "width": 463,
+                    "height": 151,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": 5,
+                    "text": "页头和页脚为只读状态，无法编辑和删除\n\n页头和页脚允许拖入新的元素，但已有的元素不允许编辑和删除\n\n通过该功能可以限定一个模板中必须包含哪些界面，防止误修改和删除",
+                    "bind": {},
+                    "match": true,
+                    "size": 14,
+                    "font": "inherit",
+                    "line": 1.5,
+                    "gap": 0,
+                    "color": "#000",
+                    "hpos": "flex-start",
+                    "vpos": "flex-start",
+                    "bwidth": 0,
+                    "bcolor": "#000",
+                    "btype": "solid",
+                    "target": "tab",
+                    "winWidth": 500,
+                    "winHeight": 500,
+                    "name": "文本-4",
+                    "animations": []
+                }
+            }
+        ]
+    },
+    "success": true
+}

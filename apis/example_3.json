@@ -1,0 +1,135 @@
+{
+    "data": {
+        "unit": "mm",
+        "page": {
+            "readonly": false,
+            "width": 211.64,
+            "height": 104.76,
+            "pages": 1,
+            "scaleType": "auto",
+            "copies": 1,
+            "xOffset": 0,
+            "yOffset": 0,
+            "title": "",
+            "background": "#ffffff",
+            "backgroundImage": "",
+            "preformat": false,
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundXOffset": 0,
+            "backgroundYOffset": 0
+        },
+        "g": [],
+        "elements": [
+            {
+                "id": "owfmn2n_101",
+                "type": "s1x3e",
+                "unit": "mm",
+                "props": {
+                    "text": "<div>以下是自定义HTML片断，模板引擎使用underscore.template</div>\n<div style=\"color:#666\">其中data是通过属性绑定的数据，fields是绑定的字段数组</div>\n<%for(let i=0;i<data.length;i++){%>\n  <br/>\n <%for(let field of fields){%>\n  \t<div style=\"border:solid 1px red;margin-bottom:2px;\"><%=data[i][field.key]%></div>\n  <%}%>\n<%}%>",
+                    "x": 8.64,
+                    "y": 7.66,
+                    "width": 197.08,
+                    "height": 75.89,
+                    "alpha": 1,
+                    "bind": {
+                        "tag": "apis/area.json",
+                        "id": "1",
+                        "fields": [
+                            {
+                                "name": "山西",
+                                "key": "area_14"
+                            },
+                            {
+                                "name": "内蒙古",
+                                "key": "area_15"
+                            },
+                            {
+                                "name": "河北",
+                                "key": "area_13"
+                            }
+                        ]
+                    },
+                    "name": "HTML",
+                    "locked": false
+                }
+            },
+            {
+                "id": "owfmn2n_102",
+                "type": "ql7s4",
+                "unit": "mm",
+                "props": {
+                    "pinX": true,
+                    "pinY": true,
+                    "rows": [
+                        {
+                            "height": 10.58,
+                            "cols": [
+                                {
+                                    "width": 211.64,
+                                    "elements": [
+                                        {
+                                            "id": "owfmn2n_103",
+                                            "type": "qxl2h",
+                                            "unit": "mm",
+                                            "props": {
+                                                "ext": {},
+                                                "x": 79.38,
+                                                "y": 2.11,
+                                                "width": 52.91,
+                                                "height": 13.23,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "print": "each",
+                                                "text": "当前第${current}页，共${total}页",
+                                                "size": 3.7,
+                                                "font": "tahoma",
+                                                "gap": 0,
+                                                "background": "",
+                                                "color": "#000000",
+                                                "styleBold": false,
+                                                "styleUnderline": false,
+                                                "styleItalic": false,
+                                                "styleStrike": false,
+                                                "hpos": "flex-start",
+                                                "vpos": "flex-start",
+                                                "name": "页码器",
+                                                "locked": false
+                                            }
+                                        }
+                                    ],
+                                    "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                                    "btype": [
+                                        "dashed",
+                                        "dashed",
+                                        "dashed",
+                                        "dashed"
+                                    ],
+                                    "bwidth": [
+                                        0.265,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "bcolor": [
+                                        "#cccccc",
+                                        "#cccccc",
+                                        "#cccccc",
+                                        "#cccccc"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "width": 211.64,
+                    "height": 10.58,
+                    "alpha": 1,
+                    "name": "页脚",
+                    "locked": false
+                }
+            }
+        ]
+    },
+    "success": true
+}

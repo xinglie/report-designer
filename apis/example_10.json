@@ -1,0 +1,168 @@
+{
+    "data": {
+        "unit": "mm",
+        "page": {
+            "readonly": false,
+            "width": 209.26,
+            "height": 296.3,
+            "pages": 1,
+            "xOffset": 0,
+            "yOffset": 0,
+            "title": "",
+            "background": "#ffffff",
+            "backgroundImage": "",
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundXOffset": 0,
+            "backgroundYOffset": 0
+        },
+        "g": [],
+        "elements": [
+            {
+                "id": "owfmn2n_203",
+                "type": "qta6p",
+                "unit": "mm",
+                "props": {
+                    "x": 14.55,
+                    "y": 19.58,
+                    "width": 180.16,
+                    "alpha": 1,
+                    "bind": {
+                        "tag": "apis/richtext.json",
+                        "id": "4",
+                        "fields": [
+                            {
+                                "name": "片断2",
+                                "key": "p2"
+                            }
+                        ]
+                    },
+                    "name": "富文本"
+                }
+            },
+            {
+                "id": "owfmn2n_204",
+                "type": "qlr53",
+                "unit": "mm",
+                "props": {
+                    "pinX": true,
+                    "pinY": true,
+                    "rows": [
+                        {
+                            "height": 10.58,
+                            "cols": [
+                                {
+                                    "width": 209.26,
+                                    "elements": [
+                                        {
+                                            "id": "owfmn2n_217",
+                                            "type": "qxl2h",
+                                            "unit": "mm",
+                                            "props": {
+                                                "ext": {},
+                                                "x": 148.38,
+                                                "y": 1.06,
+                                                "width": 56.91,
+                                                "height": 8.2,
+                                                "rotate": 0,
+                                                "text": "当前第${current}页，共${total}页",
+                                                "size": 3.7,
+                                                "font": "tahoma",
+                                                "alpha": 1,
+                                                "gap": 0,
+                                                "background": "",
+                                                "color": "#000000",
+                                                "styleBold": false,
+                                                "styleUnderline": false,
+                                                "styleItalic": false,
+                                                "styleStrike": false,
+                                                "hpos": "flex-end",
+                                                "vpos": "center",
+                                                "name": "页码器",
+                                                "locked": false
+                                            }
+                                        }
+                                    ],
+                                    "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                                    "btype": [
+                                        "dashed",
+                                        "dashed",
+                                        "dashed",
+                                        "dashed"
+                                    ],
+                                    "bwidth": [
+                                        0,
+                                        0,
+                                        0.265,
+                                        0
+                                    ],
+                                    "bcolor": [
+                                        "#cccccc",
+                                        "#cccccc",
+                                        "#cccccc",
+                                        "#cccccc"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "x": 0,
+                    "y": 0,
+                    "width": 209.26,
+                    "height": 10.58,
+                    "alpha": 1,
+                    "name": "页头",
+                    "locked": false
+                }
+            },
+            {
+                "id": "owfmn2n_205",
+                "type": "ql7s4",
+                "unit": "mm",
+                "props": {
+                    "pinX": true,
+                    "pinY": true,
+                    "rows": [
+                        {
+                            "height": 21.96,
+                            "cols": [
+                                {
+                                    "width": 209.26,
+                                    "elements": [],
+                                    "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                                    "btype": [
+                                        "dashed",
+                                        "dashed",
+                                        "dashed",
+                                        "dashed"
+                                    ],
+                                    "bwidth": [
+                                        0.265,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "bcolor": [
+                                        "#cccccc",
+                                        "#cccccc",
+                                        "#cccccc",
+                                        "#cccccc"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "x": 0,
+                    "y": 274.3362962962963,
+                    "width": 209.26,
+                    "height": 21.96,
+                    "alpha": 1,
+                    "name": "页脚",
+                    "locked": false
+                }
+            }
+        ]
+    },
+    "success": true
+}

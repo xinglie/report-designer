@@ -1,0 +1,94 @@
+{
+    "data": [
+        {
+            "name": "阿朱泡泡体",
+            "id": "azpp",
+            "url": "../fonts/azpp.ttf",
+            "widthMult": 80,
+            "heightMult": 80
+        },
+        {
+            "name": "站酷小薇LOGO体",
+            "id": "zkxwlogo",
+            "url": "../fonts/zkxwlogo.woff"
+        },
+        {
+            "name": "问藏书房",
+            "id": "wcsf",
+            "url": "../fonts/wcsf.ttf",
+            "widthMult": 80,
+            "heightMult": 80
+        },{
+            "name": "千图小兔体",
+            "id": "qtxtt",
+            "url": "../fonts/qtxtt.ttf",
+            "widthMult": 80,
+            "heightMult": 80
+        },
+        {
+            "name": "LED",
+            "id": "ds-digi",
+            "url": "../fonts/ds-digi.ttf",
+            "widthMult": 80,
+            "heightMult": 80
+        },
+        {
+            "name": "Planet Benson",
+            "id": "planetbe",
+            "url": "../fonts/planetbe.ttf",
+            "widthMult": 70,
+            "heightMult": 70
+        },
+        {
+            "name": "Montague",
+            "id": "montague",
+            "url": "../fonts/montague.ttf",
+            "widthMult": 80,
+            "heightMult": 80
+        },
+        {
+            "name": "Angelina",
+            "id": "angelina",
+            "url": "../fonts/angelina.ttf",
+            "widthMult": 80,
+            "heightMult": 80
+        },
+        {
+            "name": "Karma Future",
+            "id": "farmafuture",
+            "url": "../fonts/farmafuture.ttf",
+            "widthMult": 80,
+            "heightMult": 80
+        },
+        {
+            "name": "Famirids",
+            "id": "famirids",
+            "url": "../fonts/famirids.ttf",
+            "widthMult": 80,
+            "heightMult": 80
+        },
+        {
+            "name": "Immortal",
+            "id": "immortal",
+            "url": "../fonts/immortal.ttf",
+            "widthMult": 80,
+            "heightMult": 80
+        },
+        {
+            "name": "Midnight",
+            "id": "midnight",
+            "url": "../fonts/midnight.ttf",
+            "widthMult": 80,
+            "heightMult": 80
+        },
+        {
+            "name": "Big Dots",
+            "id": "bigdots",
+            "url": "../fonts/bigdots.ttf",
+            "widthMult": 80,
+            "heightMult": 80
+        }
+    ],
+    "success": true,
+    "message": "ok"
+}

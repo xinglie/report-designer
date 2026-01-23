@@ -1,0 +1,10 @@
+{
+    "data": {
+        "iot001": 10,
+        "iot002": 20,
+        "iot003": 5,
+        "iot004": 123
+    },
+    "success": true,
+    "message": "ok"
+}

@@ -1,0 +1,470 @@
+{
+    "data": {
+        "unit": "pc",
+        "page": {
+            "readonly": false,
+            "width": 49.438,
+            "height": 70,
+            "pages": 1,
+            "xOffset": 0,
+            "yOffset": 0,
+            "title": "",
+            "background": "#ffffff",
+            "backgroundImage": "",
+            "preformat": false,
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundXOffset": 0,
+            "backgroundYOffset": 0
+        },
+        "g": [],
+        "elements": [
+            {
+                "id": "owfmn2n_141",
+                "type": "qxl2h",
+                "unit": "pc",
+                "props": {
+                    "ext": {
+                        "total": "Y",
+                        "current": "X"
+                    },
+                    "x": 30.688,
+                    "y": 68.438,
+                    "width": 18.75,
+                    "height": 1.563,
+                    "rotate": 0,
+                    "text": "当前第${current}页，共${total}页",
+                    "size": 0.875,
+                    "font": "tahoma",
+                    "alpha": 1,
+                    "gap": 0,
+                    "background": "",
+                    "color": "#000000",
+                    "styleBold": false,
+                    "styleUnderline": false,
+                    "styleItalic": false,
+                    "styleStrike": false,
+                    "hpos": "flex-end",
+                    "vpos": "flex-end",
+                    "name": "页码器",
+                    "locked": false
+                }
+            },
+            {
+                "id": "owfmn2n_142",
+                "type": "qxl2h",
+                "unit": "pc",
+                "props": {
+                    "ext": {
+                        "total": "Y",
+                        "current": "X"
+                    },
+                    "x": 0.688,
+                    "y": 0.438,
+                    "width": 18.75,
+                    "height": 1.563,
+                    "rotate": 0,
+                    "text": "当前第${current}页，共${total}页",
+                    "size": 0.875,
+                    "font": "tahoma",
+                    "alpha": 1,
+                    "gap": 0,
+                    "background": "",
+                    "color": "#000000",
+                    "styleBold": false,
+                    "styleUnderline": false,
+                    "styleItalic": false,
+                    "styleStrike": false,
+                    "hpos": "flex-start",
+                    "vpos": "flex-start",
+                    "name": "页码器",
+                    "locked": false
+                }
+            },
+            {
+                "id": "owfmn2n_190",
+                "type": "qiiz9",
+                "unit": "pc",
+                "props": {
+                    "rows": [
+                        {
+                            "cols": [
+                                {
+                                    "height": 1.875,
+                                    "width": 11.75,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                },
+                                {
+                                    "height": 1.875,
+                                    "width": 11.75,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                },
+                                {
+                                    "height": 1.875,
+                                    "width": 11.75,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                }
+                            ]
+                        },
+                        {
+                            "label": true,
+                            "cols": [
+                                {
+                                    "height": 1.875,
+                                    "width": 11.75,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                },
+                                {
+                                    "height": 1.875,
+                                    "width": 23.5,
+                                    "rowspan": 1,
+                                    "colspan": 2,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": [
+                                        {
+                                            "id": "owfmn2n_208",
+                                            "type": "ry5kl",
+                                            "unit": "pc",
+                                            "props": {
+                                                "x": 1.781,
+                                                "y": 0.125,
+                                                "width": 12.5,
+                                                "height": 1.563,
+                                                "rotate": 0,
+                                                "text": "复杂表头",
+                                                "bind": {
+                                                    "tag": "",
+                                                    "id": "",
+                                                    "fields": []
+                                                },
+                                                "format": "",
+                                                "match": false,
+                                                "size": 0.875,
+                                                "font": "tahoma",
+                                                "alpha": 1,
+                                                "gap": 0,
+                                                "background": "",
+                                                "color": "#000000",
+                                                "styleBold": false,
+                                                "styleUnderline": false,
+                                                "styleItalic": false,
+                                                "styleStrike": false,
+                                                "styleOverline": false,
+                                                "hpos": "flex-start",
+                                                "vpos": "flex-start",
+                                                "bwidth": 0,
+                                                "btype": "solid",
+                                                "bcolor": "#000000",
+                                                "name": "文本",
+                                                "locked": false
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "data": true,
+                            "cols": [
+                                {
+                                    "height": 1.875,
+                                    "width": 11.75,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": [
+                                        {
+                                            "id": "owfmn2n_236",
+                                            "type": "ry5kl",
+                                            "unit": "pc",
+                                            "props": {
+                                                "x": 1.281,
+                                                "y": 0.406,
+                                                "width": 12.5,
+                                                "height": 1.563,
+                                                "rotate": 0,
+                                                "text": "",
+                                                "bind": {
+                                                    "id": "3",
+                                                    "tag": "apis/person.json",
+                                                    "fields": [
+                                                        {
+                                                            "name": "性别",
+                                                            "key": "gender"
+                                                        }
+                                                    ]
+                                                },
+                                                "format": "",
+                                                "match": false,
+                                                "size": 0.875,
+                                                "font": "tahoma",
+                                                "alpha": 1,
+                                                "gap": 0,
+                                                "background": "",
+                                                "color": "#000000",
+                                                "styleBold": false,
+                                                "styleUnderline": false,
+                                                "styleItalic": false,
+                                                "styleStrike": false,
+                                                "styleOverline": false,
+                                                "hpos": "flex-start",
+                                                "vpos": "flex-start",
+                                                "bwidth": 0,
+                                                "btype": "solid",
+                                                "bcolor": "#000000",
+                                                "name": "文本",
+                                                "locked": false
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "height": 1.875,
+                                    "width": 11.75,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": [
+                                        {
+                                            "id": "owfmn2n_233",
+                                            "type": "ry5kl",
+                                            "unit": "pc",
+                                            "props": {
+                                                "x": 3.969,
+                                                "y": 0.531,
+                                                "width": 12.5,
+                                                "height": 1.563,
+                                                "rotate": 0,
+                                                "text": "",
+                                                "bind": {
+                                                    "id": "3",
+                                                    "tag": "apis/person.json",
+                                                    "fields": [
+                                                        {
+                                                            "name": "身份证号",
+                                                            "key": "idn"
+                                                        }
+                                                    ]
+                                                },
+                                                "format": "",
+                                                "match": false,
+                                                "size": 0.875,
+                                                "font": "tahoma",
+                                                "alpha": 1,
+                                                "gap": 0,
+                                                "background": "",
+                                                "color": "#000000",
+                                                "styleBold": false,
+                                                "styleUnderline": false,
+                                                "styleItalic": false,
+                                                "styleStrike": false,
+                                                "styleOverline": false,
+                                                "hpos": "flex-start",
+                                                "vpos": "flex-start",
+                                                "bwidth": 0,
+                                                "btype": "solid",
+                                                "bcolor": "#000000",
+                                                "name": "文本",
+                                                "locked": false
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "height": 1.875,
+                                    "width": 11.75,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": [
+                                        {
+                                            "id": "owfmn2n_228",
+                                            "type": "ry5kl",
+                                            "unit": "pc",
+                                            "props": {
+                                                "x": 3.094,
+                                                "y": 0.156,
+                                                "width": 12.5,
+                                                "height": 1.563,
+                                                "rotate": 0,
+                                                "text": "",
+                                                "bind": {
+                                                    "id": "3",
+                                                    "tag": "apis/person.json",
+                                                    "fields": [
+                                                        {
+                                                            "name": "无数据1",
+                                                            "key": "nodata1"
+                                                        }
+                                                    ]
+                                                },
+                                                "format": "",
+                                                "match": false,
+                                                "size": 0.875,
+                                                "font": "tahoma",
+                                                "alpha": 1,
+                                                "gap": 0,
+                                                "background": "",
+                                                "color": "#000000",
+                                                "styleBold": false,
+                                                "styleUnderline": false,
+                                                "styleItalic": false,
+                                                "styleStrike": false,
+                                                "styleOverline": false,
+                                                "hpos": "flex-start",
+                                                "vpos": "flex-start",
+                                                "bwidth": 0,
+                                                "btype": "solid",
+                                                "bcolor": "#000000",
+                                                "name": "文本",
+                                                "locked": false
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "total": true,
+                            "cols": [
+                                {
+                                    "height": 1.875,
+                                    "width": 11.75,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                },
+                                {
+                                    "height": 1.875,
+                                    "width": 11.75,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                },
+                                {
+                                    "height": 1.875,
+                                    "width": 11.75,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                }
+                            ]
+                        },
+                        {
+                            "cols": [
+                                {
+                                    "height": 1.875,
+                                    "width": 11.75,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                },
+                                {
+                                    "height": 1.875,
+                                    "width": 11.75,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                },
+                                {
+                                    "height": 1.875,
+                                    "width": 11.75,
+                                    "rowspan": 1,
+                                    "colspan": 1,
+                                    "bLeft": true,
+                                    "bTop": true,
+                                    "bRight": true,
+                                    "bBottom": true,
+                                    "elements": []
+                                }
+                            ]
+                        }
+                    ],
+                    "bind": {
+                        "tag": "apis/person.json",
+                        "id": "3"
+                    },
+                    "x": 7.063,
+                    "y": 5.906,
+                    "width": 35.313,
+                    "height": 15.063,
+                    "alpha": 1,
+                    "bwidth": 0.063,
+                    "btype": "solid",
+                    "bcolor": "#000000",
+                    "bdeed": 2,
+                    "spacing": 1.875,
+                    "headFirst": true,
+                    "footLast": true,
+                    "hideHead": false,
+                    "hideLabel": false,
+                    "hideTotal": false,
+                    "hideFoot": false,
+                    "match": true,
+                    "dynamicCols": true,
+                    "avgDynamicColsWidth": "percent",
+                    "name": "自由表格",
+                    "locked": false
+                }
+            }
+        ]
+    },
+    "success": true
+}

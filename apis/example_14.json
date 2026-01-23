@@ -1,0 +1,230 @@
+{
+    "data": {
+        "unit": "mm",
+        "x": [],
+        "y": [],
+        "g": [],
+        "page": {
+            "readonly": false,
+            "viewer": "fixed",
+            "width": 209.26,
+            "height": 296.3,
+            "pages": 1,
+            "scale": "auto",
+            "update": true,
+            "updateInterval": 1,
+            "radius": "0 0 0 0/0 0 0 0",
+            "xOffset": 0,
+            "yOffset": 0,
+            "copies": 1,
+            "blank": 1,
+            "labelCol": 1,
+            "labelGap": 2.646,
+            "gridWidth": 5.292,
+            "gridHeight": 5.292,
+            "font": "tahoma",
+            "background": "#ffffff",
+            "backgroundImage": "",
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundX": 0,
+            "backgroundY": 0
+        },
+        "elements": [
+            {
+                "id": "owfmn2n_88",
+                "type": "svg/s42ja",
+                "unit": "mm",
+                "props": {
+                    "readonly": false,
+                    "x": 51.72,
+                    "y": 64.29,
+                    "width": 0,
+                    "height": 26.45,
+                    "alpha": 1,
+                    "ctrl1X": 51.72,
+                    "ctrl1Y": 64.29,
+                    "ctrl2X": 51.72,
+                    "ctrl2Y": 90.74,
+                    "linewidth": 0.265,
+                    "color": "#000000",
+                    "dash": 0,
+                    "name": "线段",
+                    "locked": false,
+                    "animations": []
+                }
+            },
+            {
+                "id": "owfmn2n_90",
+                "type": "rz8aj",
+                "unit": "mm",
+                "props": {
+                    "readonly": false,
+                    "x": 112.57,
+                    "y": 13.76,
+                    "width": 0,
+                    "height": 26.46,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "webUrl": "",
+                    "image": "",
+                    "bind": {
+                        "tag": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "rotateX": false,
+                    "rotateY": false,
+                    "target": "tab",
+                    "winWidth": 132.292,
+                    "winHeight": 132.292,
+                    "name": "图片",
+                    "locked": false,
+                    "animations": []
+                }
+            },
+            {
+                "id": "owfmn2n_128",
+                "type": "rz8aj",
+                "unit": "mm",
+                "props": {
+                    "readonly": false,
+                    "x": 18.78,
+                    "y": 23.28,
+                    "width": 52.91,
+                    "height": 0,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "webUrl": "",
+                    "image": "",
+                    "bind": {
+                        "tag": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "rotateX": false,
+                    "rotateY": false,
+                    "target": "tab",
+                    "winWidth": 132.292,
+                    "winHeight": 132.292,
+                    "name": "图片",
+                    "locked": false,
+                    "animations": []
+                }
+            },
+            {
+                "id": "owfmn2n_145",
+                "type": "t56ed",
+                "unit": "mm",
+                "props": {
+                    "readonly": false,
+                    "x": 107.67,
+                    "y": 75.13,
+                    "width": 52.91,
+                    "height": 0,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "bcolor": [
+                        "#000",
+                        "#000",
+                        "#000",
+                        "#000"
+                    ],
+                    "btype": [
+                        "solid",
+                        "solid",
+                        "solid",
+                        "solid"
+                    ],
+                    "bwidth": [
+                        0.265,
+                        0.265,
+                        0.265,
+                        0.265
+                    ],
+                    "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                    "name": "矩形",
+                    "locked": false,
+                    "animations": []
+                }
+            },
+            {
+                "id": "owfmn2n_157",
+                "type": "r9ycu",
+                "unit": "mm",
+                "props": {
+                    "readonly": false,
+                    "x": 107.67,
+                    "y": 103.18,
+                    "width": 52.91,
+                    "height": 26.46,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "webUrl": "",
+                    "image": "",
+                    "bind": {
+                        "tag": "",
+                        "id": "",
+                        "fields": []
+                    },
+                    "r9ycu": "r9ycu",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "backgroundX": 0,
+                    "backgroundY": 0,
+                    "name": "背景图",
+                    "locked": false,
+                    "animations": []
+                }
+            },
+            {
+                "id": "owfmn2n_161",
+                "type": "s0b0h",
+                "unit": "mm",
+                "props": {
+                    "readonly": false,
+                    "x": 139.15,
+                    "y": 26.98,
+                    "width": 52.91,
+                    "height": 0.265,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "btype": "solid",
+                    "color": "#000000",
+                    "name": "直线",
+                    "locked": false,
+                    "animations": []
+                }
+            },
+            {
+                "id": "owfmn2n_173",
+                "type": "svg/s42ja",
+                "unit": "mm",
+                "props": {
+                    "readonly": false,
+                    "x": 35.45,
+                    "y": 103.17,
+                    "width": 54.23,
+                    "height": 0,
+                    "alpha": 1,
+                    "ctrl1X": 35.45,
+                    "ctrl1Y": 103.17,
+                    "ctrl2X": 89.68,
+                    "ctrl2Y": 103.17,
+                    "linewidth": 0.265,
+                    "color": "#000000",
+                    "dash": 0,
+                    "name": "线段",
+                    "locked": false,
+                    "animations": []
+                }
+            }
+        ]
+    },
+    "success": true
+}

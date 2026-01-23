@@ -1,0 +1,218 @@
+{
+    "data": {
+        "unit": "mm",
+        "page": {
+            "viewer": "fixed",
+            "width": 209.79,
+            "height": 296.83,
+            "pages": 4,
+            "scaleType": "auto",
+            "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+            "copies": 1,
+            "xOffset": 0,
+            "yOffset": 0,
+            "blank": "remove",
+            "background": "#fff",
+            "backgroundRepeat": "no-repeat",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundXOffset": 0,
+            "backgroundYOffset": 0
+        },
+        "x": [],
+        "y": [],
+        "g": [],
+        "elements": [
+            {
+                "id": "owfmn2n_lfxf57u2119",
+                "type": "qlr53",
+                "unit": "mm",
+                "props": {
+                    "rows": [
+                        {
+                            "height": 15.13,
+                            "cols": [
+                                {
+                                    "width": 209.79,
+                                    "elements": [
+                                        {
+                                            "id": "owfmn2n_lfxf57u2141",
+                                            "type": "qjlp7",
+                                            "unit": "mm",
+                                            "props": {
+                                                "x": 2.15,
+                                                "y": 4.19,
+                                                "width": 52.91,
+                                                "height": 6.61,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "lang": "zh",
+                                                "text": "YYYY-MM-DD HH:mm:ss",
+                                                "type": "text",
+                                                "match": true,
+                                                "size": 3.7,
+                                                "font": "tahoma",
+                                                "line": 1.5,
+                                                "gap": 0,
+                                                "color": "#000",
+                                                "hpos": "center",
+                                                "vpos": "center",
+                                                "bwidth": 0,
+                                                "bcolor": "#000",
+                                                "btype": "solid",
+                                                "qrcodeColorDark": "#000000",
+                                                "qrcodeColorLight": "#ffffff",
+                                                "qrcodeCorrectLevel": "H",
+                                                "name": "日期时间1",
+                                                "animations": []
+                                            }
+                                        }
+                                    ],
+                                    "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                                    "btype": [
+                                        "dashed",
+                                        "dashed",
+                                        "dashed",
+                                        "dashed"
+                                    ],
+                                    "bwidth": [
+                                        0,
+                                        0,
+                                        0.265,
+                                        0
+                                    ],
+                                    "bcolor": [
+                                        "#cccccc",
+                                        "#cccccc",
+                                        "#cccccc",
+                                        "#cccccc"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "width": 209.79,
+                    "height": 15.13,
+                    "alpha": 1,
+                    "name": "页头1",
+                    "animations": []
+                }
+            },
+            {
+                "id": "owfmn2n_lfxf57u2125",
+                "type": "ql7s4",
+                "unit": "mm",
+                "props": {
+                    "rows": [
+                        {
+                            "height": 10.58,
+                            "cols": [
+                                {
+                                    "width": 209.79,
+                                    "elements": [],
+                                    "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                                    "btype": [
+                                        "dashed",
+                                        "dashed",
+                                        "dashed",
+                                        "dashed"
+                                    ],
+                                    "bwidth": [
+                                        0.265,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "bcolor": [
+                                        "#cccccc",
+                                        "#cccccc",
+                                        "#cccccc",
+                                        "#cccccc"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "width": 209.79,
+                    "height": 10.58,
+                    "alpha": 1,
+                    "name": "页脚1",
+                    "animations": []
+                }
+            },
+            {
+                "id": "owfmn2n_lfxf57u2175",
+                "type": "t56ed",
+                "unit": "mm",
+                "props": {
+                    "x": 13.68,
+                    "y": 28.51,
+                    "width": 52.91,
+                    "height": 26.46,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                    "name": "矩形1",
+                    "animations": []
+                }
+            },
+            {
+                "id": "owfmn2n_lfxf57u2191",
+                "type": "t4n1e",
+                "unit": "mm",
+                "props": {
+                    "x": 81.29,
+                    "y": 25.1,
+                    "width": 39.68,
+                    "height": 39.68,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "bwidth": 0.265,
+                    "btype": "solid",
+                    "bcolor": "#000",
+                    "name": "圆形1",
+                    "animations": []
+                }
+            },
+            {
+                "id": "owfmn2n_lfxf57u2216",
+                "type": "t4n1e",
+                "unit": "mm",
+                "props": {
+                    "x": 41.6,
+                    "y": 919.22,
+                    "width": 39.68,
+                    "height": 39.68,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "bwidth": 0.265,
+                    "btype": "solid",
+                    "bcolor": "#000",
+                    "name": "圆形2",
+                    "animations": []
+                }
+            },
+            {
+                "id": "owfmn2n_lfxf57u2221",
+                "type": "t56ed",
+                "unit": "mm",
+                "props": {
+                    "x": 101.12,
+                    "y": 925.72,
+                    "width": 52.91,
+                    "height": 26.46,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": "each",
+                    "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                    "name": "矩形2",
+                    "animations": []
+                }
+            }
+        ]
+    },
+    "success": true
+}

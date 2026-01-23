@@ -1,0 +1,192 @@
+{
+    "data": {
+        "unit": "px",
+        "page": {
+            "readonly": false,
+            "width": 791,
+            "height": 1120,
+            "pages": 1,
+            "xOffset": 0,
+            "yOffset": 0,
+            "title": "",
+            "background": "#ffffff",
+            "backgroundImage": "",
+            "backgroundRepeat": "full",
+            "backgroundWidth": 0,
+            "backgroundHeight": 0,
+            "backgroundXOffset": 0,
+            "backgroundYOffset": 0
+        },
+        "g": [],
+        "elements": [
+            {
+                "id": "owfmn2n_131",
+                "type": "qj2c8",
+                "unit": "px",
+                "props": {
+                    "rows": [
+                        {
+                            "height": 159,
+                            "cols": [
+                                {
+                                    "width": 328,
+                                    "elements": [
+                                        {
+                                            "id": "owfmn2n_195",
+                                            "type": "ry5kl",
+                                            "unit": "px",
+                                            "props": {
+                                                "x": 30,
+                                                "y": 13,
+                                                "width": 99,
+                                                "height": 25,
+                                                "rotate": 0,
+                                                "text": "",
+                                                "bind": {
+                                                    "id": "3",
+                                                    "tag": "apis/person.json",
+                                                    "fields": [
+                                                        {
+                                                            "name": "姓名",
+                                                            "key": "name"
+                                                        }
+                                                    ]
+                                                },
+                                                "format": "",
+                                                "match": false,
+                                                "size": 14,
+                                                "font": "tahoma",
+                                                "alpha": 1,
+                                                "gap": 0,
+                                                "background": "",
+                                                "color": "#000000",
+                                                "styleBold": false,
+                                                "styleUnderline": false,
+                                                "styleItalic": false,
+                                                "styleStrike": false,
+                                                "styleOverline": false,
+                                                "hpos": "flex-start",
+                                                "vpos": "flex-start",
+                                                "bwidth": 0,
+                                                "btype": "solid",
+                                                "bcolor": "#000000",
+                                                "name": "文本",
+                                                "locked": false
+                                            }
+                                        },
+                                        {
+                                            "id": "owfmn2n_424",
+                                            "type": "rz8aj",
+                                            "unit": "px",
+                                            "props": {
+                                                "x": 239,
+                                                "y": 13,
+                                                "width": 45,
+                                                "height": 100,
+                                                "rotate": 0,
+                                                "alpha": 1,
+                                                "webUrl": "",
+                                                "image": "",
+                                                "bind": {
+                                                    "tag": "apis/person.json",
+                                                    "id": "3",
+                                                    "fields": [
+                                                        {
+                                                            "name": "头像",
+                                                            "key": "avatar"
+                                                        }
+                                                    ]
+                                                },
+                                                "rotateX": false,
+                                                "rotateY": false,
+                                                "name": "图片",
+                                                "locked": false
+                                            }
+                                        },
+                                        {
+                                            "id": "owfmn2n_139",
+                                            "type": "ry5kl",
+                                            "unit": "px",
+                                            "props": {
+                                                "x": 29,
+                                                "y": 63,
+                                                "width": 178,
+                                                "height": 25,
+                                                "rotate": 0,
+                                                "text": "",
+                                                "bind": {
+                                                    "tag": "apis/person.json",
+                                                    "id": "3",
+                                                    "fields": [
+                                                        {
+                                                            "name": "地址",
+                                                            "key": "addr"
+                                                        }
+                                                    ]
+                                                },
+                                                "format": "",
+                                                "match": true,
+                                                "size": 14,
+                                                "font": "tahoma",
+                                                "alpha": 1,
+                                                "gap": 0,
+                                                "background": "",
+                                                "color": "#000000",
+                                                "styleBold": false,
+                                                "styleUnderline": false,
+                                                "styleItalic": false,
+                                                "styleStrike": false,
+                                                "styleOverline": false,
+                                                "hpos": "flex-start",
+                                                "vpos": "flex-start",
+                                                "bwidth": 0,
+                                                "btype": "solid",
+                                                "bcolor": "#000000",
+                                                "name": "文本",
+                                                "locked": false
+                                            }
+                                        }
+                                    ],
+                                    "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                                    "btype": [
+                                        "solid",
+                                        "solid",
+                                        "solid",
+                                        "solid"
+                                    ],
+                                    "bwidth": [
+                                        0,
+                                        0,
+                                        0,
+                                        0
+                                    ],
+                                    "bcolor": [
+                                        "#000",
+                                        "#000",
+                                        "#000",
+                                        "#000"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "x": 22,
+                    "y": 54,
+                    "width": 328,
+                    "height": 159,
+                    "alpha": 1,
+                    "bind": {
+                        "id": 3,
+                        "tag": "apis/person.json",
+                        "fields": []
+                    },
+                    "hspace": 10,
+                    "vspace": 16,
+                    "name": "重复容器",
+                    "locked": false
+                }
+            }
+        ]
+    },
+    "success": true
+}

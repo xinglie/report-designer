@@ -1,0 +1,12 @@
+.tmp_*
+.project
+*.idea
+.DS_Store
+node_modules
+todo.md
+dist-*
+providers
+src
+build
+types
+cache

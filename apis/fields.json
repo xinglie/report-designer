@@ -1,0 +1,825 @@
+{
+    "data": [
+        {
+            "name": "出差申请单",
+            "tag": "apis/trip.json",
+            "id": "trip",
+            "expand": true,
+            "headless": false,
+            "fields": [
+                {
+                    "name": "二维码信息",
+                    "key": "qrCodeInfo",
+                    "use": "rxm7m"
+                },
+                {
+                    "name": "申请人",
+                    "key": "applicant"
+                },
+                {
+                    "name": "申请人ID",
+                    "key": "applicantId"
+                },
+                {
+                    "name": "申请部门",
+                    "key": "department"
+                },
+                {
+                    "name": "申请部门ID",
+                    "key": "departmentId"
+                },
+                {
+                    "name": "联系电话",
+                    "key": "contactWay"
+                },
+                {
+                    "name": "申请日期",
+                    "key": "applicationDate"
+                },
+                {
+                    "name": "单据编号",
+                    "key": "documentCode"
+                },
+                {
+                    "name": "出差类型",
+                    "key": "tripConditionType"
+                },
+                {
+                    "name": "具体委员会",
+                    "key": "committee"
+                },
+                {
+                    "name": "资金来源",
+                    "key": "fundingSourceCode"
+                },
+                {
+                    "name": "主办方名称",
+                    "key": "sponsorName"
+                },
+                {
+                    "name": "出差理由",
+                    "key": "businessTripReason"
+                },
+                {
+                    "name": "城市间交通费（预估）",
+                    "key": "trafficCost"
+                },
+                {
+                    "name": "住宿费（预估）",
+                    "key": "hotelCost"
+                },
+                {
+                    "name": "合计（预估）",
+                    "key": "applicationDate"
+                },
+                {
+                    "name": "人员信息",
+                    "expand": true,
+                    "key": "businessTravelers",
+                    "fields": [
+                        {
+                            "name": "出差人",
+                            "key": "tripStaff"
+                        },
+                        {
+                            "name": "科室/部门",
+                            "key": "department"
+                        },
+                        {
+                            "name": "党内职务",
+                            "key": "innerPartyJob"
+                        },
+                        {
+                            "name": "行政职务",
+                            "key": "administrationJob"
+                        },
+                        {
+                            "name": "职称",
+                            "key": "jobTitle"
+                        },
+                        {
+                            "name": "工作代理人",
+                            "key": "workAgent"
+                        },
+                        {
+                            "name": "本年参会次数",
+                            "key": "mettingYearTimes"
+                        }
+                    ]
+                },
+                {
+                    "name": "行程信息",
+                    "expand": true,
+                    "key": "tripInfos",
+                    "fields": [
+                        {
+                            "name": "出发地",
+                            "key": "startLocation"
+                        },
+                        {
+                            "name": "目的地",
+                            "key": "endLocation"
+                        },
+                        {
+                            "name": "起始日期",
+                            "key": "startDateOfItinerary"
+                        },
+                        {
+                            "name": "结束日期",
+                            "key": "endDateOfItinerary"
+                        },
+                        {
+                            "name": "交通工具",
+                            "key": "transportationTool"
+                        }
+                    ]
+                },
+                {
+                    "name": "流程处理意见",
+                    "expand": true,
+                    "key": "approvalDetails",
+                    "fields": [
+                        {
+                            "name": "节点名称",
+                            "key": "nodeName"
+                        },
+                        {
+                            "name": "审批人",
+                            "key": "approver"
+                        },
+                        {
+                            "name": "手写体签名",
+                            "key": "approvalPersonSign",
+                            "use": "rz8aj"
+                        },
+                        {
+                            "name": "审批结果",
+                            "key": "approveStatus"
+                        },
+                        {
+                            "name": "审批意见",
+                            "key": "approvalOpinion"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "人物信息",
+            "tag": "apis/person.json",
+            "id": 3,
+            "fields": [
+                {
+                    "name": "序号",
+                    "key": "order"
+                },
+                {
+                    "name": "头像",
+                    "key": "avatar",
+                    "use": "rz8aj",
+                    "props": {
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "姓名",
+                    "key": "name",
+                    "props": {
+                        "prefix": "姓名："
+                    }
+                },
+                {
+                    "name": "性别",
+                    "key": "gender",
+                    "props": {
+                        "prefix": "性别：",
+                        "postfix": "..."
+                    }
+                },
+                {
+                    "name": "地址",
+                    "key": "addr"
+                },
+                {
+                    "name": "身份证号",
+                    "key": "idn"
+                },
+                {
+                    "name": "无数据分组",
+                    "expand": true,
+                    "fields": [
+                        {
+                            "name": "无数据1",
+                            "key": "nodata1"
+                        },
+                        {
+                            "name": "无数据2",
+                            "key": "nodata2"
+                        },
+                        {
+                            "name": "无数据3",
+                            "key": "nodata3"
+                        }
+                    ]
+                },
+                {
+                    "name": "姓名与性别聚合",
+                    "key": "name&gender"
+                }
+            ]
+        },
+        {
+            "name": "物联网",
+            "tag": "apis/iot.json",
+            "id": "iot",
+            "fields": [
+                {
+                    "name": "温度",
+                    "key": "iot001"
+                },
+                {
+                    "name": "水位",
+                    "key": "iot002"
+                },
+                {
+                    "name": "阀门",
+                    "key": "iot003"
+                },
+                {
+                    "name": "资源",
+                    "key": "iot004"
+                }
+            ]
+        },
+        {
+            "name": "报表字段",
+            "tag": "apis/report.json",
+            "id": 2,
+            "expand": true,
+            "headless": false,
+            "fields": [
+                {
+                    "name": "月份",
+                    "key": "month"
+                },
+                {
+                    "name": "展现量",
+                    "key": "f1"
+                },
+                {
+                    "name": "点击量",
+                    "key": "f2"
+                },
+                {
+                    "name": "点击率",
+                    "key": "f3"
+                },
+                {
+                    "name": "关注",
+                    "key": "f4"
+                },
+                {
+                    "name": "收藏量",
+                    "key": "f5"
+                },
+                {
+                    "name": "成交量",
+                    "key": "f6"
+                },
+                {
+                    "name": "成交金额",
+                    "key": "f7"
+                },
+                {
+                    "name": "千次展现成本",
+                    "key": "f8"
+                },
+                {
+                    "name": "预售金额",
+                    "key": "f9"
+                }
+            ]
+        },
+        {
+            "name": "地区数据",
+            "tag": "apis/area.json",
+            "id": 1,
+            "fields": [
+                {
+                    "name": "河北",
+                    "key": "area_13"
+                },
+                {
+                    "name": "山西",
+                    "key": "area_14"
+                },
+                {
+                    "name": "内蒙古",
+                    "key": "area_15"
+                },
+                {
+                    "name": "辽宁",
+                    "key": "area_21"
+                },
+                {
+                    "name": "吉林",
+                    "key": "area_22"
+                },
+                {
+                    "name": "黑龙江",
+                    "key": "area_23"
+                },
+                {
+                    "name": "江苏",
+                    "key": "area_32"
+                },
+                {
+                    "name": "浙江",
+                    "key": "area_33"
+                },
+                {
+                    "name": "安徽",
+                    "key": "area_34"
+                },
+                {
+                    "name": "福建",
+                    "key": "area_35"
+                },
+                {
+                    "name": "江西",
+                    "key": "area_36"
+                },
+                {
+                    "name": "山东",
+                    "key": "area_37"
+                },
+                {
+                    "name": "河南",
+                    "key": "area_41"
+                },
+                {
+                    "name": "湖北",
+                    "key": "area_42"
+                },
+                {
+                    "name": "湖南",
+                    "key": "area_43"
+                },
+                {
+                    "name": "广东",
+                    "key": "area_44"
+                },
+                {
+                    "name": "广西",
+                    "key": "area_45"
+                },
+                {
+                    "name": "海南",
+                    "key": "area_46"
+                },
+                {
+                    "name": "四川",
+                    "key": "area_51"
+                },
+                {
+                    "name": "贵州",
+                    "key": "area_52"
+                },
+                {
+                    "name": "云南",
+                    "key": "area_53"
+                },
+                {
+                    "name": "西藏",
+                    "key": "area_54"
+                },
+                {
+                    "name": "陕西",
+                    "key": "area_61"
+                },
+                {
+                    "name": "甘肃",
+                    "key": "area_62"
+                },
+                {
+                    "name": "青海",
+                    "key": "area_63"
+                },
+                {
+                    "name": "宁夏",
+                    "key": "area_64"
+                },
+                {
+                    "name": "新疆",
+                    "key": "area_65"
+                }
+            ]
+        },
+        {
+            "name": "富文本1",
+            "tag": "apis/richtext.json",
+            "id": 4,
+            "fields": [
+                {
+                    "name": "片断1",
+                    "key": "p1",
+                    "use": "qta6p",
+                    "props": {
+                        "width": 500
+                    }
+                },
+                {
+                    "name": "片断2",
+                    "key": "p2",
+                    "use": "qta6p",
+                    "props": {
+                        "width": 500
+                    }
+                }
+            ]
+        },
+        {
+            "name": "资产卡片",
+            "tag": "apis/asset.json",
+            "id": 5,
+            "fields": [
+                {
+                    "name": "资产编码",
+                    "key": "assetcode"
+                },
+                {
+                    "name": "资产名称",
+                    "key": "assetname"
+                },
+                {
+                    "name": "投用日期",
+                    "key": "assetdate"
+                },
+                {
+                    "name": "使用部门",
+                    "key": "assetdept"
+                }
+            ]
+        },
+        {
+            "name": "表单绑定",
+            "tag": "apis/form.json",
+            "id": 6,
+            "fields": [
+                {
+                    "name": "关系图数据表",
+                    "key": "b0mzh4"
+                },
+                {
+                    "name": "词云",
+                    "key": "rgy1h",
+                    "use": "chart/rgy1h"
+                },
+                {
+                    "name": "轮播",
+                    "id": "6_caroousel",
+                    "tag": "apis/carousel.json",
+                    "fields": [
+                        {
+                            "name": "轮播图测试",
+                            "key": "images",
+                            "use": "re98m"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "课程表",
+            "id": 7,
+            "tag": "apis/schedule.json",
+            "fields": [
+                {
+                    "name": "上/下午",
+                    "key": "time"
+                },
+                {
+                    "name": "课时",
+                    "key": "period"
+                },
+                {
+                    "name": "星期一",
+                    "key": "mon"
+                },
+                {
+                    "name": "星期二",
+                    "key": "tue"
+                },
+                {
+                    "name": "星期三",
+                    "key": "wen"
+                },
+                {
+                    "name": "星期四",
+                    "key": "thu"
+                },
+                {
+                    "name": "星期五",
+                    "key": "fri"
+                }
+            ]
+        },
+        {
+            "name": "车辆检修单",
+            "id": 8,
+            "tag": "apis/vehicle.json",
+            "fields": [
+                {
+                    "name": "序号",
+                    "key": "order"
+                },
+                {
+                    "name": "服务项目",
+                    "key": "title"
+                },
+                {
+                    "name": "单价",
+                    "key": "price"
+                },
+                {
+                    "name": "数量",
+                    "key": "an0o2p"
+                },
+                {
+                    "name": "折扣率",
+                    "key": "discount"
+                },
+                {
+                    "name": "费用",
+                    "key": "cost"
+                }
+            ]
+        },
+        {
+            "name": "复杂的数据结构",
+            "expand": true,
+            "id": 9,
+            "tag": "apis/complex.json",
+            "fields": [
+                {
+                    "name": "根节点测试",
+                    "key": "root"
+                },
+                {
+                    "name": "表头数据(对象)",
+                    "expand": true,
+                    "key": "title",
+                    "fields": [
+                        {
+                            "name": "区域",
+                            "key": "area"
+                        },
+                        {
+                            "name": "编码",
+                            "key": "code"
+                        }
+                    ]
+                },
+                {
+                    "name": "列表数据(数组)",
+                    "key": "list",
+                    "expand": true,
+                    "fields": [
+                        {
+                            "name": "人数",
+                            "key": "crowd"
+                        },
+                        {
+                            "name": "随机数",
+                            "key": "random"
+                        },
+                        {
+                            "name": "浏览量",
+                            "key": "pv"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "护士层级申请",
+            "expand": false,
+            "id": "nurse",
+            "tag": "apis/nurse.json",
+            "fields": [
+                {
+                    "name": "基础数据",
+                    "key": "base",
+                    "expand": true,
+                    "fields": [
+                        {
+                            "name": "姓名",
+                            "key": "name"
+                        },
+                        {
+                            "name": "工号",
+                            "key": "no"
+                        }
+                    ]
+                },
+                {
+                    "name": "富文本",
+                    "key": "amwv8q"
+                },
+                {
+                    "name": "审核数据",
+                    "key": "approve",
+                    "expand": true,
+                    "fields": [
+                        {
+                            "name": "申请标题",
+                            "key": "title"
+                        },
+                        {
+                            "name": "护士长意见",
+                            "key": "opinion"
+                        },
+                        {
+                            "name": "层级",
+                            "key": "level"
+                        },
+                        {
+                            "name": "申请人",
+                            "key": "apply"
+                        }
+                    ]
+                },
+                {
+                    "name": "申请数据",
+                    "key": "apply",
+                    "expand": true,
+                    "fields": [
+                        {
+                            "name": "申请标题",
+                            "key": "title"
+                        },
+                        {
+                            "name": "申请历史",
+                            "key": "history"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "小票数据",
+            "expand": true,
+            "id": "receipt",
+            "tag": "apis/receipt.json",
+            "fields": [
+                {
+                    "name": "基础数据",
+                    "key": "base",
+                    "expand": true,
+                    "fields": [
+                        {
+                            "name": "店铺名称",
+                            "key": "name"
+                        },
+                        {
+                            "name": "创建时间",
+                            "key": "time"
+                        },
+                        {
+                            "name": "收银员",
+                            "key": "cashier"
+                        },
+                        {
+                            "name": "累计积分",
+                            "key": "coin"
+                        }
+                    ]
+                },
+                {
+                    "name": "物品明细列表",
+                    "key": "items",
+                    "expand": true,
+                    "fields": [
+                        {
+                            "name": "名称",
+                            "key": "name"
+                        },
+                        {
+                            "name": "数量",
+                            "key": "count"
+                        },
+                        {
+                            "name": "价格",
+                            "key": "price"
+                        }
+                    ]
+                },
+                {
+                    "name": "汇总数据",
+                    "key": "summary",
+                    "expand": true,
+                    "fields": [
+                        {
+                            "name": "总价",
+                            "key": "total"
+                        },
+                        {
+                            "name": "优惠",
+                            "key": "discount"
+                        },
+                        {
+                            "name": "实付",
+                            "key": "actual"
+                        },
+                        {
+                            "name": "地址",
+                            "key": "address"
+                        },
+                        {
+                            "name": "电话",
+                            "key": "tel"
+                        }
+                    ]
+                },
+                {
+                    "name": "基础数据批量添加",
+                    "key": "base/name",
+                    "use": "ry5kl",
+                    "title": "超市名称",
+                    "id": "receipt_base",
+                    "props": {
+                        "width": 240,
+                        "height": 30,
+                        "size": 18
+                    },
+                    "union": [
+                        {
+                            "name": "创建时间",
+                            "key": "base/time",
+                            "use": "ry5kl",
+                            "offsetX": 0,
+                            "offsetY": 40,
+                            "id": "receipt_base",
+                            "tag": "apis/receipt.json",
+                            "props": {
+                                "width": 150,
+                                "height": 20
+                            }
+                        },
+                        {
+                            "name": "收银员",
+                            "key": "base/cashier",
+                            "use": "ry5kl",
+                            "id": "receipt_base",
+                            "offsetX": 160,
+                            "offsetY": 40,
+                            "props": {
+                                "width": 80,
+                                "height": 20
+                            }
+                        },
+                        {
+                            "name": "累计积分",
+                            "key": "base/coin",
+                            "id": "receipt_base",
+                            "offsetX": 0,
+                            "offsetY": 70,
+                            "props": {
+                                "hpos": "flex-start",
+                                "width": 240
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "BWIP批量测试",
+            "tag": "apis/bwip.json",
+            "id": "bwip",
+            "expand": true,
+            "fields": [
+                {
+                    "name": "BWIP内容",
+                    "key": "text",
+                    "use": "rue1s"
+                },
+                {
+                    "name": "BWIP格式",
+                    "key": "format",
+                    "use": "rue1s",
+                    "bindIndex": 1
+                },
+                {
+                    "name": "BWIP参数",
+                    "key": "params",
+                    "use": "rue1s",
+                    "bindIndex": 2
+                }
+            ]
+        }
+    ],
+    "success": true,
+    "message": ""
+}
