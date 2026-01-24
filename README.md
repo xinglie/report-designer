@@ -30,7 +30,7 @@ https://demo.report-designer.cn/split.html
 
 微信服务号
 
-<img width="246" alt="wechat service account" src="./service.png"/>
+<img width="500" alt="wechat service account" src="./service.png"/>
 
 ### 官方网站
 https://report-designer.cn
