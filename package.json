@@ -1,0 +1,9 @@
+{
+  "name": "report-designer",
+  "description": "element online editor",
+  "author": "kooboy_li <kooboy_li@163.com>",
+  "private": true,
+  "scripts": {
+    "server": "anywhere -h localhost -p 8282"
+  }
+}

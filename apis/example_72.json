@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "owfmn2n_lv6g4oka410",
-                "type": "qfu6e",
+                "id": "wu0zdezmtk_lv6g4oka410",
+                "type": "b90ko",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -444,7 +444,7 @@
                                     "rowspan": 1,
                                     "colspan": 1,
                                     "elements": [],
-                                    "bindKey": "qx1pi",
+                                    "bindKey": "bpci4",
                                     "bindName": "数量"
                                 },
                                 {
@@ -832,8 +832,8 @@
                 }
             },
             {
-                "id": "owfmn2n_lv6pi07t553",
-                "type": "ry5kl",
+                "id": "wu0zdezmtk_lv6pi07t553",
+                "type": "cxy02",
                 "unit": "mm",
                 "props": {
                     "x": 61.017,
@@ -864,8 +864,8 @@
                 }
             },
             {
-                "id": "owfmn2n_lv6pi07t636",
-                "type": "ry5kl",
+                "id": "wu0zdezmtk_lv6pi07t636",
+                "type": "cxy02",
                 "unit": "mm",
                 "props": {
                     "x": 121.626,
@@ -896,8 +896,8 @@
                 }
             },
             {
-                "id": "owfmn2n_lvacugcx315",
-                "type": "ry5kl",
+                "id": "wu0zdezmtk_lvacugcx315",
+                "type": "cxy02",
                 "unit": "mm",
                 "props": {
                     "x": 17.207,
@@ -928,8 +928,8 @@
                 }
             },
             {
-                "id": "owfmn2n_m7g969np216",
-                "type": "qlr53",
+                "id": "wu0zdezmtk_m7g969np216",
+                "type": "beo36",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -940,8 +940,8 @@
                                     "width": 209.815,
                                     "elements": [
                                         {
-                                            "id": "owfmn2n_m7g969np336",
-                                            "type": "qxl2h",
+                                            "id": "wu0zdezmtk_m7g969np336",
+                                            "type": "bpz46",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 168.44,

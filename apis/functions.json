@@ -1,0 +1,21 @@
+{
+    "success": true,
+    "data": [
+        {
+            "text": "测试函数A",
+            "value": "/**\n  * 这是测试注释\n  */\nlet main = a => a;"
+        },
+        {
+            "text": "测试超长函数B名称设置的非常长",
+            "value": "// 测试单行注释 \nlet main= b => {\n    return b**2;\n};"
+        },
+        {
+            "text": "字符串重复",
+            "value": "// 重复输入的字符串 \nlet main= str => {\n    return (str + '').repeat(2);\n};"
+        },
+        {
+            "text": "数字翻倍",
+            "value": "// 翻倍输入的数字 \nlet main= num => {\n    return num + num;\n};"
+        }
+    ]
+}

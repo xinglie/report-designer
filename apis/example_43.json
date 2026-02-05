@@ -18,8 +18,8 @@
         "g": [],
         "elements": [
             {
-                "id": "owfmn2n_133",
-                "type": "qlr53",
+                "id": "wu0zdezmtk_133",
+                "type": "beo36",
                 "props": {
                     "rows": [
                         {
@@ -29,8 +29,8 @@
                                     "width": 791,
                                     "elements": [
                                         {
-                                            "id": "owfmn2n_142",
-                                            "type": "qxl2h",
+                                            "id": "wu0zdezmtk_142",
+                                            "type": "bpz46",
                                             "props": {
                                                 "ext": {},
                                                 "x": 580,
@@ -87,8 +87,8 @@
                 }
             },
             {
-                "id": "owfmn2n_360",
-                "type": "ql7s4",
+                "id": "wu0zdezmtk_360",
+                "type": "be1h4",
                 "props": {
                     "rows": [
                         {
@@ -98,8 +98,8 @@
                                     "width": 791,
                                     "elements": [
                                         {
-                                            "id": "owfmn2n_387",
-                                            "type": "s0b0h",
+                                            "id": "wu0zdezmtk_387",
+                                            "type": "cz786",
                                             "props": {
                                                 "x": 44,
                                                 "y": 10,
@@ -113,8 +113,8 @@
                                             }
                                         },
                                         {
-                                            "id": "owfmn2n_533",
-                                            "type": "s0b0h",
+                                            "id": "wu0zdezmtk_533",
+                                            "type": "cz786",
                                             "props": {
                                                 "x": 451,
                                                 "y": 10,
@@ -128,8 +128,8 @@
                                             }
                                         },
                                         {
-                                            "id": "owfmn2n_571",
-                                            "type": "ry5kl",
+                                            "id": "wu0zdezmtk_571",
+                                            "type": "cxy02",
                                             "props": {
                                                 "x": 273,
                                                 "y": -17,
@@ -191,8 +191,8 @@
                 }
             },
             {
-                "id": "owfmn2n_607",
-                "type": "ry5kl",
+                "id": "wu0zdezmtk_607",
+                "type": "cxy02",
                 "props": {
                     "x": 283,
                     "y": 58,
@@ -222,8 +222,8 @@
                 }
             },
             {
-                "id": "owfmn2n_653",
-                "type": "rz8aj",
+                "id": "wu0zdezmtk_653",
+                "type": "cykm4",
                 "props": {
                     "x": 266,
                     "y": 115,
@@ -243,8 +243,8 @@
                 }
             },
             {
-                "id": "owfmn2n_691",
-                "type": "ry5kl",
+                "id": "wu0zdezmtk_691",
+                "type": "cxy02",
                 "props": {
                     "x": 267,
                     "y": 938,
@@ -274,8 +274,8 @@
                 }
             },
             {
-                "id": "owfmn2n_710",
-                "type": "qfu6e",
+                "id": "wu0zdezmtk_710",
+                "type": "b90ko",
                 "props": {
                     "rows": [
                         {

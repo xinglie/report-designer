@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "owfmn2n_86",
-                "type": "rq360",
+                "id": "wu0zdezmtk_86",
+                "type": "coit8",
                 "unit": "px",
                 "props": {
                     "x": 50,
@@ -69,8 +69,8 @@
                 }
             },
             {
-                "id": "owfmn2n_93",
-                "type": "rr5vy",
+                "id": "wu0zdezmtk_93",
+                "type": "cp5fa",
                 "unit": "px",
                 "props": {
                     "x": 50,
@@ -100,8 +100,8 @@
                 }
             },
             {
-                "id": "owfmn2n_116",
-                "type": "rrp8x",
+                "id": "wu0zdezmtk_116",
+                "type": "cps1c",
                 "unit": "px",
                 "props": {
                     "x": 50,
@@ -138,8 +138,8 @@
                 }
             },
             {
-                "id": "owfmn2n_132",
-                "type": "ql7s4",
+                "id": "wu0zdezmtk_132",
+                "type": "be1h4",
                 "unit": "px",
                 "props": {
                     "pinX": true,
