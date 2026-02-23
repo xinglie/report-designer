@@ -33,8 +33,8 @@
         },
         "elements": [
             {
-                "id": "wu0zdezmtk_129",
-                "type": "cxy02",
+                "id": "xzj_129",
+                "type": "h9wwq",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -78,8 +78,8 @@
                 }
             },
             {
-                "id": "wu0zdezmtk_144",
-                "type": "cykm4",
+                "id": "xzj_144",
+                "type": "ha3k0",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -108,8 +108,8 @@
                 }
             },
             {
-                "id": "wu0zdezmtk_150",
-                "type": "c86vs",
+                "id": "xzj_150",
+                "type": "h4qsy",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -126,7 +126,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "c86vs": "c86vs",
+                    "h4qsy": "h4qsy",
                     "imageWidth": 0,
                     "imageHeight": 0,
                     "backgroundX": 0,
@@ -137,8 +137,8 @@
                 }
             },
             {
-                "id": "wu0zdezmtk_153",
-                "type": "cxbe0",
+                "id": "xzj_153",
+                "type": "h9q9g",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -165,8 +165,8 @@
                 }
             },
             {
-                "id": "wu0zdezmtk_157",
-                "type": "cw25w",
+                "id": "xzj_157",
+                "type": "h9jm6",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -200,8 +200,8 @@
                 }
             },
             {
-                "id": "wu0zdezmtk_172",
-                "type": "coit8",
+                "id": "xzj_172",
+                "type": "h8fqi",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -235,8 +235,8 @@
                 }
             },
             {
-                "id": "wu0zdezmtk_178",
-                "type": "cp5fa",
+                "id": "xzj_178",
+                "type": "h8mds",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -263,8 +263,8 @@
                 }
             },
             {
-                "id": "wu0zdezmtk_181",
-                "type": "cps1c",
+                "id": "xzj_181",
+                "type": "h8t12",
                 "unit": "mm",
                 "props": {
                     "readonly": false,

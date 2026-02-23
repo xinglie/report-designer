@@ -1,0 +1,451 @@
+{
+    "data": {
+        "v": "202602061214",
+        "unit": "px",
+        "page": {
+            "readonly": false,
+            "viewer": "board",
+            "width": 1920,
+            "height": 1080,
+            "pages": 1,
+            "scale": "auto",
+            "update": true,
+            "updateInterval": 5,
+            "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+            "xOffset": 0,
+            "yOffset": 0,
+            "copies": 1,
+            "spacing": 0,
+            "blank": 2,
+            "labelCol": 1,
+            "labelGap": 10,
+            "gridWidth": 20,
+            "gridHeight": 20,
+            "font": "tahoma",
+            "background": "#fff",
+            "backgroundImage": "//report-designer.cn/res/images/bg01.png",
+            "backgroundRepeat": "no-repeat",
+            "backgroundWidth": 1920,
+            "backgroundHeight": 1080,
+            "backgroundX": "0",
+            "backgroundY": "0"
+        },
+        "elements": [
+            {
+                "v": "202602061214",
+                "id": "xzj_mlajozkj181",
+                "type": "h4qsy",
+                "unit": "px",
+                "props": {
+                    "readonly": false,
+                    "x": 0,
+                    "y": 0,
+                    "width": 1920,
+                    "height": 104,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "image": "//report-designer.cn/res/images/header.png",
+                    "bind": {},
+                    "h4qsy": "no-repeat",
+                    "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
+                    "imageWidth": 1920,
+                    "imageHeight": 100,
+                    "backgroundX": "50%",
+                    "backgroundY": "50%",
+                    "name": "背景图-1",
+                    "animations": []
+                }
+            },
+            {
+                "v": "202602061214",
+                "id": "xzj_mlakcicw250",
+                "type": "h9wwq",
+                "unit": "px",
+                "props": {
+                    "readonly": false,
+                    "x": 826,
+                    "y": 12,
+                    "width": 263,
+                    "height": 63,
+                    "alpha": 1,
+                    "rotate": 0,
+                    "print": 5,
+                    "text": "数据可视化",
+                    "bind": {},
+                    "match": true,
+                    "ellipsis": true,
+                    "size": 31,
+                    "font": "inherit",
+                    "line": 1.5,
+                    "gap": 2,
+                    "color": "#5dc2feff",
+                    "styleBold": true,
+                    "hpos": "center",
+                    "vpos": "center",
+                    "bwidth": 0,
+                    "bcolor": "#000",
+                    "btype": "solid",
+                    "target": "tab",
+                    "winWidth": 500,
+                    "winHeight": 500,
+                    "name": "文本-1",
+                    "animations": []
+                }
+            },
+            {
+                "v": "202602061214",
+                "id": "xzj_mlapkf54416",
+                "type": "gze1w",
+                "unit": "px",
+                "props": {
+                    "readonly": false,
+                    "rows": [
+                        {
+                            "width": 547,
+                            "cols": [
+                                {
+                                    "elements": [
+                                        {
+                                            "v": "202602061214",
+                                            "id": "xzj_mlapkf54495",
+                                            "type": "chart/h32zg",
+                                            "unit": "px",
+                                            "props": {
+                                                "readonly": false,
+                                                "x": 0,
+                                                "y": 0,
+                                                "width": 507,
+                                                "height": 236,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "bind": {},
+                                                "options": "f:let main = (data, fields) => {\n    //data是绑定数据源的接口数据，fields是图表绑定了数据源中的哪些字段\n    //可以在绑定数据后，去掉下面的console.log前的注释查看相应的数据\n    //console.log(data, fields)\n    //最后返回图表完整配置\n    let labels = [];\n    let datasets = [];\n    if(fields?.length) {\n        for(let bf of fields) {\n            labels.push(bf.name);\n            let ds = [];\n            let readData = data;\n            let lastKey = bf.key;\n            if(lastKey.includes('/')){\n                let keys = lastKey.split('/');\n                lastKey = keys.pop();\n                while (readData && keys.length){\n                    readData = readData[keys.shift()];\n                }\n            }\n            if(Array.isArray(readData)) {\n\n                for(let d of readData){\n                    ds.push(d[lastKey]);\n                }\n            } else {\n                ds.push(readData);\n            }\n            datasets.push({label:bf.name,data:ds});\n        }\n    } else {\n        labels = ['nodata'];\n        datasets = [{label: 'nodata',data: []}];\n    }\n    return {\n        type: 'bar',\n        data: {\n            labels: labels,\n            datasets: datasets\n        },\n        options: {\n            responsive: true,\n            maintainAspectRatio: false,\n          scales: {\n              x: {\n                ticks: { color: '#ffffff' },\n                title: { color: '#ffffff' },\n                border: {\n                  color: 'white'\n                }\n              },\n              y: {\n                ticks: { color: '#ffffff' },\n                title: { color: '#ffffff' },\n                border: {\n                  color: 'white'\n                }\n              }\n            },\n            plugins: {\n                legend: {\n                    position: 'top',\n                  \tlabels:{\n                      color:'white'\n                    }\n                },\n                title: {\n                    display: true,\n                    text: 'Chart.js Bar Chart',\n                  \tcolor:'white'\n                }\n            }\n        },\n    }\n};",
+                                                "name": "Chart.js-1",
+                                                "animations": []
+                                            }
+                                        }
+                                    ],
+                                    "height": 276,
+                                    "btype": [
+                                        "solid",
+                                        "solid",
+                                        "solid",
+                                        "solid"
+                                    ],
+                                    "bwidth": [
+                                        1,
+                                        1,
+                                        1,
+                                        1
+                                    ],
+                                    "bcolor": [
+                                        "#000",
+                                        "#000",
+                                        "#000",
+                                        "#000"
+                                    ]
+                                },
+                                {
+                                    "elements": [
+                                        {
+                                            "v": "202602061214",
+                                            "id": "xzj_mlapkf54507",
+                                            "type": "chart/h39mq",
+                                            "unit": "px",
+                                            "props": {
+                                                "readonly": false,
+                                                "x": 0,
+                                                "y": 0,
+                                                "width": 507,
+                                                "height": 236,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "bind": {},
+                                                "options": "f:let main = (data, fields) => {\n    //data是绑定数据源的接口数据，fields是图表绑定了数据源中的哪些字段\n    //可以在绑定数据后，去掉下面的console.log前的注释查看相应的数据\n    //console.log(data, fields)\n    //最后返回图表完整配置\n    return {\n        xAxis: {\n          data: ['2017-10-24', '2017-10-25', '2017-10-26', '2017-10-27'],\n          axisLabel: {\n              color: 'white'\n          },\n          axisLine: {\n            lineStyle: {\n              color: 'white',  // 蓝色示例\n              width: 1\n            }\n          },\n        },\n        yAxis: {\n          axisLabel: {\n              color: 'white'\n          },\n          axisLine: {\n            lineStyle: {\n              color: 'white',  // 蓝色示例\n              width: 1\n            }\n          },\n        },\n        series: [{\n            type: 'candlestick',\n            data: [\n              [20, 34, 10, 38],\n              [40, 35, 30, 50],\n              [31, 38, 33, 44],\n              [38, 15, 5, 42]\n            ]\n        }]\n    };\n};",
+                                                "name": "ECharts-1",
+                                                "animations": []
+                                            }
+                                        }
+                                    ],
+                                    "height": 276,
+                                    "btype": [
+                                        "solid",
+                                        "solid",
+                                        "solid",
+                                        "solid"
+                                    ],
+                                    "bwidth": [
+                                        1,
+                                        1,
+                                        1,
+                                        1
+                                    ],
+                                    "bcolor": [
+                                        "#000",
+                                        "#000",
+                                        "#000",
+                                        "#000"
+                                    ]
+                                },
+                                {
+                                    "elements": [
+                                        {
+                                            "v": "202602061214",
+                                            "id": "xzj_mlapkf54756",
+                                            "type": "chart/cscatter",
+                                            "unit": "px",
+                                            "props": {
+                                                "readonly": false,
+                                                "x": 0,
+                                                "y": 0,
+                                                "width": 507,
+                                                "height": 236,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "bind": {},
+                                                "options": "f:let main = (data, fields) => {\n    //data是绑定数据源的接口数据，fields是图表绑定了数据源中的哪些字段\n    //可以在绑定数据后，去掉下面的console.log前的注释查看相应的数据\n    //console.log(data, fields)\n    //最后返回图表完整配置\n    return {\n        xAxis: {\n          axisLabel: {\n              color: 'white'\n          },\n          axisLine: {\n            lineStyle: {\n              color: 'white',  // 蓝色示例\n              width: 1\n            }\n          },\n        },\n        yAxis: {\n          axisLabel: {\n              color: 'white'\n          },\n          axisLine: {\n            lineStyle: {\n              color: 'white',  // 蓝色示例\n              width: 1\n            }\n          },\n        },\n        series: [{\n            symbolSize: 20,\n            data: [\n                [10.0, 8.04],\n                [8.07, 6.95],\n                [13.0, 7.58],\n                [9.05, 8.81],\n                [11.0, 8.33],\n                [14.0, 7.66],\n                [13.4, 6.81],\n                [10.0, 6.33],\n                [14.0, 8.96],\n                [12.5, 6.82],\n                [9.15, 7.2],\n                [11.5, 7.2],\n                [3.03, 4.23],\n                [12.2, 7.83],\n                [2.02, 4.47],\n                [1.05, 3.33],\n                [4.05, 4.96],\n                [6.03, 7.24],\n                [12.0, 6.26],\n                [12.0, 8.84],\n                [7.08, 5.82],\n                [5.02, 5.68]\n            ],\n            type: 'scatter'\n        }]\n    }\n};",
+                                                "name": "散点图-1",
+                                                "animations": []
+                                            }
+                                        }
+                                    ],
+                                    "height": 276,
+                                    "btype": [
+                                        "solid",
+                                        "solid",
+                                        "solid",
+                                        "solid"
+                                    ],
+                                    "bwidth": [
+                                        1,
+                                        1,
+                                        1,
+                                        1
+                                    ],
+                                    "bcolor": [
+                                        "#000",
+                                        "#000",
+                                        "#000",
+                                        "#000"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "x": 26,
+                    "y": 127,
+                    "width": 547,
+                    "height": 928,
+                    "alpha": 1,
+                    "hgap": 2,
+                    "vgap": 50,
+                    "border": "//report-designer.cn/res/images/panel.png",
+                    "borderWidth": [
+                        20,
+                        20,
+                        20,
+                        20
+                    ],
+                    "borderSlice": "30",
+                    "borderParams": "0 round",
+                    "name": "V-格子-1",
+                    "animations": []
+                }
+            },
+            {
+                "v": "202602061214",
+                "id": "xzj_mlapkf54445",
+                "type": "gze1w",
+                "unit": "px",
+                "props": {
+                    "readonly": false,
+                    "rows": [
+                        {
+                            "width": 547,
+                            "cols": [
+                                {
+                                    "elements": [
+                                        {
+                                            "v": "202602061214",
+                                            "id": "xzj_mlapkf54501",
+                                            "type": "chart/h3ga0",
+                                            "unit": "px",
+                                            "props": {
+                                                "readonly": false,
+                                                "x": 0,
+                                                "y": 0,
+                                                "width": 507,
+                                                "height": 402,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "bind": {},
+                                                "options": "f:let main = (data, fields) => {\n    //data是绑定数据源的接口数据，fields是图表绑定了数据源中的哪些字段\n    //可以在绑定数据后，去掉下面的console.log前的注释查看相应的数据\n    //console.log(data, fields)\n    //最后返回图表完整配置\n    let value = 0;\n    if(fields &&\n       fields.length &&\n       data){\n        if(Array.isArray(data) &&\n           data.length){\n            data = data[0];\n        }\n        value = Math.min(data[fields[0].key] || 0, 1);\n    }\n    return {\n        series: [{\n            type: 'liquidFill',\n            data: [value]\n        }]\n    };\n};",
+                                                "name": "水波球-1",
+                                                "animations": []
+                                            }
+                                        }
+                                    ],
+                                    "height": 442,
+                                    "btype": [
+                                        "solid",
+                                        "solid",
+                                        "solid",
+                                        "solid"
+                                    ],
+                                    "bwidth": [
+                                        1,
+                                        1,
+                                        1,
+                                        1
+                                    ],
+                                    "bcolor": [
+                                        "#000",
+                                        "#000",
+                                        "#000",
+                                        "#000"
+                                    ]
+                                },
+                                {
+                                    "elements": [
+                                        {
+                                            "v": "202602061214",
+                                            "id": "xzj_mlapkf54504",
+                                            "type": "chart/h5uom",
+                                            "unit": "px",
+                                            "props": {
+                                                "readonly": false,
+                                                "x": 0,
+                                                "y": 0,
+                                                "width": 507,
+                                                "height": 398,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "bind": {},
+                                                "options": "f:let main = (data, fields) => {\n    //data是绑定数据源的接口数据，fields是图表绑定了数据源中的哪些字段\n    //可以在绑定数据后，去掉下面的console.log前的注释查看相应的数据\n    //console.log(data, fields)\n    //最后返回图表完整配置\n    let wordClouds,rotationRange = [0, 0];\n    if(fields?.length &&\n       data){\n        if(Array.isArray(data) &&\n           data.length){\n            data = data[0];\n        }\n        wordClouds = data[fields[0].key];\n        rotationRange = [-90, 90];\n    }\n    return {\n        series: [{\n            type: 'wordCloud',\n            rotationRange,\n            shrinkToFit: true,\n            data: wordClouds || [{name:'default name',value:0},{name:'default name2',value:1},{name:'default name3',value:2}]\n        }]\n    };\n};",
+                                                "name": "词云-1",
+                                                "animations": []
+                                            }
+                                        }
+                                    ],
+                                    "height": 438,
+                                    "btype": [
+                                        "solid",
+                                        "solid",
+                                        "solid",
+                                        "solid"
+                                    ],
+                                    "bwidth": [
+                                        1,
+                                        1,
+                                        1,
+                                        1
+                                    ],
+                                    "bcolor": [
+                                        "#000",
+                                        "#000",
+                                        "#000",
+                                        "#000"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "x": 1338,
+                    "y": 127,
+                    "width": 547,
+                    "height": 930,
+                    "alpha": 1,
+                    "hgap": 2,
+                    "vgap": 50,
+                    "border": "//report-designer.cn/res/images/panel.png",
+                    "borderWidth": [
+                        20,
+                        20,
+                        20,
+                        20
+                    ],
+                    "borderSlice": "30",
+                    "borderParams": "0 round",
+                    "name": "V-格子-2",
+                    "animations": []
+                }
+            },
+            {
+                "v": "202602061214",
+                "id": "xzj_mlapkf54681",
+                "type": "gz7em",
+                "unit": "px",
+                "props": {
+                    "readonly": false,
+                    "rows": [
+                        {
+                            "height": 925,
+                            "cols": [
+                                {
+                                    "elements": [
+                                        {
+                                            "v": "202602061214",
+                                            "id": "xzj_mldg1pkf222",
+                                            "type": "chart/h39mq",
+                                            "unit": "px",
+                                            "props": {
+                                                "x": 0,
+                                                "y": 0,
+                                                "width": 667,
+                                                "height": 885,
+                                                "alpha": 1,
+                                                "rotate": 0,
+                                                "bind": {},
+                                                "options": "f:let main = (data, fields) => {\n\t//data是绑定数据源的接口数据，fields是图表绑定了数据源中的哪些字段\n\t//可以在绑定数据后，去掉下面的console.log前的注释查看相应的数据\n\t//console.log(data, fields)\n\t//最后返回图表完整配置\n\treturn {\n\t\ttooltip: {\n\t\t\ttrigger: 'item',\n\t\t\tformatter: function (params) {\n\t\t\t\tif (params.value) {\n\t\t\t\t\treturn params.name + ' : ' + params.value[2];\n\t\t\t\t} else {\n\t\t\t\t\treturn params.name;\n\t\t\t\t}\n\t\t\t}\n\t\t},\n\t\tgeo: {\n\t\t\tmap: 'china',\n\t\t\troam: false, //开启鼠标缩放和漫游\n\t\t\tzoom: 1, //地图缩放级别\n\t\t\tselectedMode: false, //选中模式：single | multiple\n\t\t\tleft: 0,\n\t\t\tright: 0,\n\t\t\ttop: 0,\n\t\t\tbottom: 0,\n\t\t\tlayoutCenter: ['50%', '50%'], //设置后left/right/top/bottom等属性无效\n\t\t\tlayoutSize: '100%', //保持地图宽高比\n\t\t\tlabel: {\n\t\t\t\temphasis: {\n\t\t\t\t\tshow: false\n\t\t\t\t}\n\t\t\t},\n\t\t\titemStyle: {\n\t\t\t\tnormal: {\n\t\t\t\t\tareaColor: '#101f32',\n\t\t\t\t\tborderWidth: 1.1,\n\t\t\t\t\tborderColor: '#43d0d6'\n\t\t\t\t},\n\t\t\t\temphasis: {\n\t\t\t\t\tareaColor: '#069'\n\t\t\t\t}\n\t\t\t}\n\t\t},\n\t\tseries: []\n\t};\n};",
+                                                "name": "ECharts-2",
+                                                "animations": []
+                                            }
+                                        }
+                                    ],
+                                    "width": 707,
+                                    "btype": [
+                                        "solid",
+                                        "solid",
+                                        "solid",
+                                        "solid"
+                                    ],
+                                    "bwidth": [
+                                        1,
+                                        1,
+                                        1,
+                                        1
+                                    ],
+                                    "bcolor": [
+                                        "#000",
+                                        "#000",
+                                        "#000",
+                                        "#000"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "x": 607,
+                    "y": 127,
+                    "width": 707,
+                    "height": 925,
+                    "alpha": 1,
+                    "hgap": 2,
+                    "vgap": 2,
+                    "border": "//report-designer.cn/res/images/panel.png",
+                    "borderWidth": [
+                        20,
+                        20,
+                        20,
+                        20
+                    ],
+                    "borderSlice": "30",
+                    "borderParams": "0 round",
+                    "name": "H-格子-1",
+                    "animations": []
+                }
+            }
+        ]
+    },
+    "success": true
+}

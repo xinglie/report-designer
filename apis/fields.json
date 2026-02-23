@@ -10,7 +10,7 @@
                 {
                     "name": "二维码信息",
                     "key": "qrCodeInfo",
-                    "use": "cxbe0"
+                    "use": "h9q9g"
                 },
                 {
                     "name": "申请人",
@@ -150,7 +150,7 @@
                         {
                             "name": "手写体签名",
                             "key": "approvalPersonSign",
-                            "use": "cykm4"
+                            "use": "ha3k0"
                         },
                         {
                             "name": "审批结果",
@@ -176,7 +176,7 @@
                 {
                     "name": "头像",
                     "key": "avatar",
-                    "use": "cykm4",
+                    "use": "ha3k0",
                     "props": {
                         "width": 150,
                         "height": 150
@@ -424,7 +424,7 @@
                 {
                     "name": "片断1",
                     "key": "p1",
-                    "use": "bo3a0",
+                    "use": "h0baa",
                     "props": {
                         "width": 500
                     }
@@ -432,7 +432,7 @@
                 {
                     "name": "片断2",
                     "key": "p2",
-                    "use": "bo3a0",
+                    "use": "h0baa",
                     "props": {
                         "width": 500
                     }
@@ -473,8 +473,8 @@
                 },
                 {
                     "name": "词云",
-                    "key": "cbyk4",
-                    "use": "chart/cbyk4"
+                    "key": "h5uom",
+                    "use": "chart/h5uom"
                 },
                 {
                     "name": "轮播",
@@ -484,7 +484,7 @@
                         {
                             "name": "轮播图测试",
                             "key": "images",
-                            "use": "cbby2"
+                            "use": "h5o1c"
                         }
                     ]
                 }
@@ -745,7 +745,7 @@
                 {
                     "name": "基础数据批量添加",
                     "key": "base/name",
-                    "use": "cxy02",
+                    "use": "h9wwq",
                     "title": "超市名称",
                     "id": "receipt_base",
                     "props": {
@@ -757,7 +757,7 @@
                         {
                             "name": "创建时间",
                             "key": "base/time",
-                            "use": "cxy02",
+                            "use": "h9wwq",
                             "offsetX": 0,
                             "offsetY": 40,
                             "id": "receipt_base",
@@ -770,7 +770,7 @@
                         {
                             "name": "收银员",
                             "key": "base/cashier",
-                            "use": "cxy02",
+                            "use": "h9wwq",
                             "id": "receipt_base",
                             "offsetX": 160,
                             "offsetY": 40,
@@ -803,18 +803,18 @@
                 {
                     "name": "BWIP内容",
                     "key": "text",
-                    "use": "csx3m"
+                    "use": "h96bm"
                 },
                 {
                     "name": "BWIP格式",
                     "key": "format",
-                    "use": "csx3m",
+                    "use": "h96bm",
                     "bindIndex": 1
                 },
                 {
                     "name": "BWIP参数",
                     "key": "params",
-                    "use": "csx3m",
+                    "use": "h96bm",
                     "bindIndex": 2
                 }
             ]

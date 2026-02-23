@@ -1,25 +1,27 @@
 {
     "data": {
+        "v": "202602061214",
         "unit": "mm",
         "page": {
+            "readonly": false,
             "viewer": "fixed",
-            "width": 209.815,
-            "height": 296.863,
+            "width": 209.82,
+            "height": 296.86,
             "pages": 1,
             "scale": "auto",
             "update": true,
             "updateInterval": 1,
-            "radius": "0 0 0 0/0 0 0 0",
+            "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
             "xOffset": 0,
             "yOffset": 0,
-            "space": 0,
             "copies": 1,
+            "spacing": 0,
             "blank": 1,
             "labelCol": 1,
-            "labelGap": 2.646,
+            "labelGap": 2.65,
+            "gridWidth": 5.29,
+            "gridHeight": 5.29,
             "font": "tahoma",
-            "gridWidth": 5.292,
-            "gridHeight": 5.292,
             "background": "#fff",
             "backgroundRepeat": "no-repeat",
             "backgroundWidth": 0,
@@ -29,13 +31,15 @@
         },
         "elements": [
             {
-                "id": "wu0zdezmtk_lv1yoyfn445",
-                "type": "bj2dk",
+                "v": "202602061214",
+                "id": "xzj_lv1yoyfn445",
+                "type": "gz7em",
                 "unit": "mm",
                 "props": {
+                    "readonly": false,
                     "rows": [
                         {
-                            "height": 84.838,
+                            "height": 84.84,
                             "cols": [
                                 {
                                     "scroll": true,
@@ -48,10 +52,10 @@
                                         "solid"
                                     ],
                                     "bwidth": [
-                                        0.265,
-                                        0.265,
-                                        0.265,
-                                        0.265
+                                        0.27,
+                                        0.27,
+                                        0.27,
+                                        0.27
                                     ],
                                     "bcolor": [
                                         "#000",
@@ -61,15 +65,16 @@
                                     ],
                                     "elements": [
                                         {
-                                            "id": "wu0zdezmtk_lv1z6ded259",
-                                            "type": "chart/c5ofk",
+                                            "v": "202602061214",
+                                            "id": "xzj_lv1z6ded259",
+                                            "type": "chart/h407u",
                                             "unit": "mm",
                                             "props": {
-                                                "full": true,
-                                                "x": 12.77,
-                                                "y": -13.869,
-                                                "width": 79.375,
-                                                "height": 79.375,
+                                                "readonly": false,
+                                                "x": 0,
+                                                "y": 0,
+                                                "width": 94.47,
+                                                "height": 84.31,
                                                 "alpha": 1,
                                                 "rotate": 0,
                                                 "bind": {},
@@ -83,15 +88,16 @@
                                 {
                                     "elements": [
                                         {
-                                            "id": "wu0zdezmtk_lv1yoyfn570",
-                                            "type": "chart/c35zc",
+                                            "v": "202602061214",
+                                            "id": "xzj_lv1yoyfn570",
+                                            "type": "chart/h39mq",
                                             "unit": "mm",
                                             "props": {
-                                                "full": true,
-                                                "x": -18.91,
-                                                "y": -22.917,
-                                                "width": 132.292,
-                                                "height": 79.375,
+                                                "readonly": false,
+                                                "x": 0,
+                                                "y": 0,
+                                                "width": 94.47,
+                                                "height": 84.31,
                                                 "alpha": 1,
                                                 "rotate": 0,
                                                 "bind": {},
@@ -111,10 +117,10 @@
                                         "solid"
                                     ],
                                     "bwidth": [
-                                        0.265,
-                                        0.265,
-                                        0.265,
-                                        0.265
+                                        0.27,
+                                        0.27,
+                                        0.27,
+                                        0.27
                                     ],
                                     "bcolor": [
                                         "#000",
@@ -126,20 +132,21 @@
                             ]
                         },
                         {
-                            "height": 83.021,
+                            "height": 83.02,
                             "cols": [
                                 {
                                     "elements": [
                                         {
-                                            "id": "wu0zdezmtk_lv1z7dt4245",
-                                            "type": "chart/d484m",
+                                            "v": "202602061214",
+                                            "id": "xzj_lv1z7dt4245",
+                                            "type": "chart/hcv96",
                                             "unit": "mm",
                                             "props": {
-                                                "full": true,
-                                                "x": 25.585,
-                                                "y": -27.505,
-                                                "width": 132.292,
-                                                "height": 79.375,
+                                                "readonly": false,
+                                                "x": 0,
+                                                "y": 0,
+                                                "width": 199.47,
+                                                "height": 82.49,
                                                 "alpha": 1,
                                                 "rotate": 0,
                                                 "bind": {
@@ -187,10 +194,10 @@
                                         "solid"
                                     ],
                                     "bwidth": [
-                                        0.265,
-                                        0.265,
-                                        0.265,
-                                        0.265
+                                        0.27,
+                                        0.27,
+                                        0.27,
+                                        0.27
                                     ],
                                     "bcolor": [
                                         "#000",
@@ -202,25 +209,25 @@
                             ]
                         },
                         {
-                            "height": 92.539,
+                            "height": 92.54,
                             "cols": [
                                 {
                                     "elements": [
                                         {
-                                            "id": "wu0zdezmtk_lv1z9nbm215",
-                                            "type": "chart/c6b1m",
+                                            "v": "202602061214",
+                                            "id": "xzj_mlbn4z8k288",
+                                            "type": "chart/cscatter",
                                             "unit": "mm",
                                             "props": {
-                                                "full": 1,
-                                                "x": 28.641,
+                                                "x": 0,
                                                 "y": 0,
-                                                "width": 132.292,
-                                                "height": 79.375,
+                                                "width": 199.47,
+                                                "height": 92.01,
                                                 "alpha": 1,
                                                 "rotate": 0,
                                                 "bind": {},
-                                                "options": "f:function main(data, fields){\n\t//data是綁定數據源的接口數據，fields是圖表綁定了數據源中的哪些字段\n\t//可以在綁定數據後，去掉下面的debugger前的註釋查看相應的數據\n\t//debugger\n\t//下面返回的是圖表完整的option配置\n    return {\n        xAxis: { },\n        yAxis: { },\n        series: [{\n            symbolSize: 20,\n            data: [\n                [10.0, 8.04],\n                [8.07, 6.95],\n                [13.0, 7.58],\n                [9.05, 8.81],\n                [11.0, 8.33],\n                [14.0, 7.66],\n                [13.4, 6.81],\n                [10.0, 6.33],\n                [14.0, 8.96],\n                [12.5, 6.82],\n                [9.15, 7.2],\n                [11.5, 7.2],\n                [3.03, 4.23],\n                [12.2, 7.83],\n                [2.02, 4.47],\n                [1.05, 3.33],\n                [4.05, 4.96],\n                [6.03, 7.24],\n                [12.0, 6.26],\n                [12.0, 8.84],\n                [7.08, 5.82],\n                [5.02, 5.68]\n            ],\n            type: 'scatter'\n        }]\n    }\n}",
-                                                "name": "散點圖-1",
+                                                "options": "f:let main = (data, fields) => {\n    //data是绑定数据源的接口数据，fields是图表绑定了数据源中的哪些字段\n    //可以在绑定数据后，去掉下面的console.log前的注释查看相应的数据\n    //console.log(data, fields)\n    //最后返回图表完整配置\n    return {\n        xAxis: { },\n        yAxis: { },\n        series: [{\n            symbolSize: 20,\n            data: [\n                [10.0, 8.04],\n                [8.07, 6.95],\n                [13.0, 7.58],\n                [9.05, 8.81],\n                [11.0, 8.33],\n                [14.0, 7.66],\n                [13.4, 6.81],\n                [10.0, 6.33],\n                [14.0, 8.96],\n                [12.5, 6.82],\n                [9.15, 7.2],\n                [11.5, 7.2],\n                [3.03, 4.23],\n                [12.2, 7.83],\n                [2.02, 4.47],\n                [1.05, 3.33],\n                [4.05, 4.96],\n                [6.03, 7.24],\n                [12.0, 6.26],\n                [12.0, 8.84],\n                [7.08, 5.82],\n                [5.02, 5.68]\n            ],\n            type: 'scatter'\n        }]\n    }\n};",
+                                                "name": "散点图-1",
                                                 "animations": []
                                             }
                                         }
@@ -235,10 +242,10 @@
                                         "solid"
                                     ],
                                     "bwidth": [
-                                        0.265,
-                                        0.265,
-                                        0.265,
-                                        0.265
+                                        0.27,
+                                        0.27,
+                                        0.27,
+                                        0.27
                                     ],
                                     "bcolor": [
                                         "#000",
@@ -250,13 +257,14 @@
                             ]
                         }
                     ],
-                    "x": 4.909,
-                    "y": 7.442,
+                    "x": 4.91,
+                    "y": 7.44,
                     "width": 200,
-                    "height": 280.398,
+                    "height": 280.4,
                     "alpha": 1,
                     "hgap": 10,
                     "vgap": 10,
+                    "borderWidth": [],
                     "name": "H-格子-1",
                     "animations": []
                 }

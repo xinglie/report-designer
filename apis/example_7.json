@@ -20,24 +20,24 @@
         },
         "g": [
             [
-                "wu0zdezmtk_167",
-                "wu0zdezmtk_168",
-                "wu0zdezmtk_169",
-                "wu0zdezmtk_172"
+                "xzj_167",
+                "xzj_168",
+                "xzj_169",
+                "xzj_172"
             ],
             [
-                "wu0zdezmtk_170",
-                "wu0zdezmtk_171"
+                "xzj_170",
+                "xzj_171"
             ],
             [
-                "wu0zdezmtk_173",
-                "wu0zdezmtk_174"
+                "xzj_173",
+                "xzj_174"
             ]
         ],
         "elements": [
             {
-                "id": "wu0zdezmtk_167",
-                "type": "cxy02",
+                "id": "xzj_167",
+                "type": "h9wwq",
                 "unit": "in",
                 "props": {
                     "x": 0.177,
@@ -74,8 +74,8 @@
                 }
             },
             {
-                "id": "wu0zdezmtk_168",
-                "type": "cxy02",
+                "id": "xzj_168",
+                "type": "h9wwq",
                 "unit": "in",
                 "props": {
                     "pinX": false,
@@ -114,8 +114,8 @@
                 }
             },
             {
-                "id": "wu0zdezmtk_169",
-                "type": "cxy02",
+                "id": "xzj_169",
+                "type": "h9wwq",
                 "unit": "in",
                 "props": {
                     "pinX": false,
@@ -154,8 +154,8 @@
                 }
             },
             {
-                "id": "wu0zdezmtk_170",
-                "type": "cykm4",
+                "id": "xzj_170",
+                "type": "ha3k0",
                 "unit": "in",
                 "props": {
                     "x": 3.083,
@@ -178,8 +178,8 @@
                 }
             },
             {
-                "id": "wu0zdezmtk_171",
-                "type": "cykm4",
+                "id": "xzj_171",
+                "type": "ha3k0",
                 "unit": "in",
                 "props": {
                     "x": 5.823,
@@ -202,8 +202,8 @@
                 }
             },
             {
-                "id": "wu0zdezmtk_172",
-                "type": "cxy02",
+                "id": "xzj_172",
+                "type": "h9wwq",
                 "unit": "in",
                 "props": {
                     "x": 2.656,
@@ -240,8 +240,8 @@
                 }
             },
             {
-                "id": "wu0zdezmtk_173",
-                "type": "cxy02",
+                "id": "xzj_173",
+                "type": "h9wwq",
                 "unit": "in",
                 "props": {
                     "x": 0.896,
@@ -278,8 +278,8 @@
                 }
             },
             {
-                "id": "wu0zdezmtk_174",
-                "type": "cykm4",
+                "id": "xzj_174",
+                "type": "ha3k0",
                 "unit": "in",
                 "props": {
                     "x": 0.781,

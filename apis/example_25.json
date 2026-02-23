@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "wu0zdezmtk_86",
-                "type": "coit8",
+                "id": "xzj_86",
+                "type": "h8fqi",
                 "unit": "px",
                 "props": {
                     "x": 50,
@@ -69,8 +69,8 @@
                 }
             },
             {
-                "id": "wu0zdezmtk_93",
-                "type": "cp5fa",
+                "id": "xzj_93",
+                "type": "h8mds",
                 "unit": "px",
                 "props": {
                     "x": 50,
@@ -100,8 +100,8 @@
                 }
             },
             {
-                "id": "wu0zdezmtk_116",
-                "type": "cps1c",
+                "id": "xzj_116",
+                "type": "h8t12",
                 "unit": "px",
                 "props": {
                     "x": 50,
@@ -138,8 +138,8 @@
                 }
             },
             {
-                "id": "wu0zdezmtk_132",
-                "type": "be1h4",
+                "id": "xzj_132",
+                "type": "gxq8e",
                 "unit": "px",
                 "props": {
                     "pinX": true,

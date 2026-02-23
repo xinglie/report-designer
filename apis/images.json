@@ -44,6 +44,54 @@
             {
                 "src": "//cdn-icons-png.flaticon.com/128/1008/1008928.png",
                 "title": "危险"
+            },
+            {
+                "src": "//report-designer.cn/res/images/bg01.png",
+                "title": "大屏背景"
+            },
+            {
+                "src": "//report-designer.cn/res/images/bg02.png",
+                "title": "大屏背景"
+            },
+            {
+                "src": "//report-designer.cn/res/images/bg03.png",
+                "title": "大屏背景"
+            },
+            {
+                "src": "//report-designer.cn/res/images/header.png",
+                "title": "标题背景"
+            },
+             {
+                "src": "//report-designer.cn/res/images/header1.png",
+                "title": "标题背景1"
+            },
+            {
+                "src": "//report-designer.cn/res/images/border-diamonds.png",
+                "title": "边框",
+                "params": {
+                    "width": [
+                        20,
+                        20,
+                        20,
+                        20
+                    ],
+                    "slice": "30",
+                    "rest": "0 round"
+                }
+            },
+            {
+                "src": "//report-designer.cn/res/images/panel.png",
+                "title": "边框蓝",
+                "params": {
+                    "width": [
+                        10,
+                        10,
+                        10,
+                        10
+                    ],
+                    "slice": "20",
+                    "rest": "0 round"
+                }
             }
         ],
         "total": 100000

@@ -20,8 +20,8 @@
         "g": [],
         "elements": [
             {
-                "id": "wu0zdezmtk_754",
-                "type": "cps1c",
+                "id": "xzj_754",
+                "type": "h8t12",
                 "unit": "px",
                 "props": {
                     "x": 95,
@@ -64,8 +64,8 @@
                 }
             },
             {
-                "id": "wu0zdezmtk_824",
-                "type": "cps1c",
+                "id": "xzj_824",
+                "type": "h8t12",
                 "unit": "px",
                 "props": {
                     "pinX": false,
@@ -110,8 +110,8 @@
                 }
             },
             {
-                "id": "wu0zdezmtk_833",
-                "type": "cps1c",
+                "id": "xzj_833",
+                "type": "h8t12",
                 "unit": "px",
                 "props": {
                     "pinX": false,
@@ -156,8 +156,8 @@
                 }
             },
             {
-                "id": "wu0zdezmtk_836",
-                "type": "cps1c",
+                "id": "xzj_836",
+                "type": "h8t12",
                 "unit": "px",
                 "props": {
                     "pinX": false,
