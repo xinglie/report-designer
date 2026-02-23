@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "xzj_lv6g4oka410",
-                "type": "gvih2",
+                "id": "q0nzg0z_lv6g4oka410",
+                "type": "pp30j",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -444,7 +444,7 @@
                                     "rowspan": 1,
                                     "colspan": 1,
                                     "elements": [],
-                                    "bindKey": "h0oku",
+                                    "bindKey": "ps1ip",
                                     "bindName": "数量"
                                 },
                                 {
@@ -832,8 +832,8 @@
                 }
             },
             {
-                "id": "xzj_lv6pi07t553",
-                "type": "h9wwq",
+                "id": "q0nzg0z_lv6pi07t553",
+                "type": "pzfs4",
                 "unit": "mm",
                 "props": {
                     "x": 61.017,
@@ -864,8 +864,8 @@
                 }
             },
             {
-                "id": "xzj_lv6pi07t636",
-                "type": "h9wwq",
+                "id": "q0nzg0z_lv6pi07t636",
+                "type": "pzfs4",
                 "unit": "mm",
                 "props": {
                     "x": 121.626,
@@ -896,8 +896,8 @@
                 }
             },
             {
-                "id": "xzj_lvacugcx315",
-                "type": "h9wwq",
+                "id": "q0nzg0z_lvacugcx315",
+                "type": "pzfs4",
                 "unit": "mm",
                 "props": {
                     "x": 17.207,
@@ -928,8 +928,8 @@
                 }
             },
             {
-                "id": "xzj_m7g969np216",
-                "type": "gy3iy",
+                "id": "q0nzg0z_m7g969np216",
+                "type": "pqd60",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -940,8 +940,8 @@
                                     "width": 209.815,
                                     "elements": [
                                         {
-                                            "id": "xzj_m7g969np336",
-                                            "type": "h0v84",
+                                            "id": "q0nzg0z_m7g969np336",
+                                            "type": "ps52i",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 168.44,

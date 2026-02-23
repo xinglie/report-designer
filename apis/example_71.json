@@ -32,8 +32,8 @@
         "elements": [
             {
                 "v": "202602061214",
-                "id": "xzj_lv1yoyfn445",
-                "type": "gz7em",
+                "id": "q0nzg0z_lv1yoyfn445",
+                "type": "pr20n",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -66,8 +66,8 @@
                                     "elements": [
                                         {
                                             "v": "202602061214",
-                                            "id": "xzj_lv1z6ded259",
-                                            "type": "chart/h407u",
+                                            "id": "q0nzg0z_lv1z6ded259",
+                                            "type": "chart/pui9u",
                                             "unit": "mm",
                                             "props": {
                                                 "readonly": false,
@@ -89,8 +89,8 @@
                                     "elements": [
                                         {
                                             "v": "202602061214",
-                                            "id": "xzj_lv1yoyfn570",
-                                            "type": "chart/h39mq",
+                                            "id": "q0nzg0z_lv1yoyfn570",
+                                            "type": "chart/pu42m",
                                             "unit": "mm",
                                             "props": {
                                                 "readonly": false,
@@ -138,8 +138,8 @@
                                     "elements": [
                                         {
                                             "v": "202602061214",
-                                            "id": "xzj_lv1z7dt4245",
-                                            "type": "chart/hcv96",
+                                            "id": "q0nzg0z_lv1z7dt4245",
+                                            "type": "chart/q0the",
                                             "unit": "mm",
                                             "props": {
                                                 "readonly": false,
@@ -215,7 +215,7 @@
                                     "elements": [
                                         {
                                             "v": "202602061214",
-                                            "id": "xzj_mlbn4z8k288",
+                                            "id": "q0nzg0z_mlbn4z8k288",
                                             "type": "chart/cscatter",
                                             "unit": "mm",
                                             "props": {
