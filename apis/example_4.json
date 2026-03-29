@@ -21,8 +21,8 @@
         "g": [],
         "elements": [
             {
-                "id": "q0nzg0z_353",
-                "type": "ppa45",
+                "id": "izda4mj_353",
+                "type": "dnbm7",
                 "unit": "pc",
                 "props": {
                     "rows": [
@@ -39,8 +39,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "q0nzg0z_591",
-                                            "type": "pzfs4",
+                                            "id": "izda4mj_591",
+                                            "type": "eww53",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 10.578,
@@ -94,8 +94,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "q0nzg0z_481",
-                                            "type": "pzfs4",
+                                            "id": "izda4mj_481",
+                                            "type": "eww53",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.313,
@@ -144,8 +144,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "q0nzg0z_535",
-                                            "type": "pzfs4",
+                                            "id": "izda4mj_535",
+                                            "type": "eww53",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
@@ -196,8 +196,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "q0nzg0z_563",
-                                            "type": "pzfs4",
+                                            "id": "izda4mj_563",
+                                            "type": "eww53",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
@@ -253,8 +253,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "q0nzg0z_364",
-                                            "type": "pzfs4",
+                                            "id": "izda4mj_364",
+                                            "type": "eww53",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.656,
@@ -308,8 +308,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "q0nzg0z_382",
-                                            "type": "pzfs4",
+                                            "id": "izda4mj_382",
+                                            "type": "eww53",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.688,
@@ -363,8 +363,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "q0nzg0z_385",
-                                            "type": "pzfs4",
+                                            "id": "izda4mj_385",
+                                            "type": "eww53",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.969,
@@ -460,8 +460,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "q0nzg0z_654",
-                                            "type": "pzfs4",
+                                            "id": "izda4mj_654",
+                                            "type": "eww53",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,

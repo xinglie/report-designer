@@ -37,8 +37,8 @@
         },
         "elements": [
             {
-                "id": "q0nzg0z_142",
-                "type": "svg/q3dsc",
+                "id": "izda4mj_142",
+                "type": "svg/fj6kl",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -53,7 +53,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "pv3ko": "infinite",
+                            "ea3vn": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -65,8 +65,8 @@
                 }
             },
             {
-                "id": "q0nzg0z_106",
-                "type": "q012y",
+                "id": "izda4mj_106",
+                "type": "ezv4r",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -83,7 +83,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "pv3ko": "infinite",
+                            "ea3vn": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -95,8 +95,8 @@
                 }
             },
             {
-                "id": "q0nzg0z_107",
-                "type": "q5jw2",
+                "id": "izda4mj_107",
+                "type": "fy1ix",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -130,7 +130,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "pv3ko": "infinite",
+                            "ea3vn": "infinite",
                             "fn": "linear",
                             "delay": 2,
                             "duration": 1,
@@ -142,8 +142,8 @@
                 }
             },
             {
-                "id": "q0nzg0z_108",
-                "type": "q5gc9",
+                "id": "izda4mj_108",
+                "type": "fx1v1",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -162,7 +162,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "pv3ko": "infinite",
+                            "ea3vn": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -171,7 +171,7 @@
                             "use": "shakeY"
                         },
                         {
-                            "pv3ko": "infinite",
+                            "ea3vn": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1.52,
@@ -183,8 +183,8 @@
                 }
             },
             {
-                "id": "q0nzg0z_109",
-                "type": "q012y",
+                "id": "izda4mj_109",
+                "type": "ezv4r",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -203,7 +203,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "pv3ko": "infinite",
+                            "ea3vn": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -215,8 +215,8 @@
                 }
             },
             {
-                "id": "q0nzg0z_110",
-                "type": "q5jw2",
+                "id": "izda4mj_110",
+                "type": "fy1ix",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -252,7 +252,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "pv3ko": "infinite",
+                            "ea3vn": "infinite",
                             "fn": "linear",
                             "delay": 2,
                             "duration": 1,
@@ -264,8 +264,8 @@
                 }
             },
             {
-                "id": "q0nzg0z_111",
-                "type": "q5gc9",
+                "id": "izda4mj_111",
+                "type": "fx1v1",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -286,7 +286,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "pv3ko": "infinite",
+                            "ea3vn": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -295,7 +295,7 @@
                             "use": "shakeY"
                         },
                         {
-                            "pv3ko": "infinite",
+                            "ea3vn": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1.52,
@@ -307,8 +307,8 @@
                 }
             },
             {
-                "id": "q0nzg0z_144",
-                "type": "q5jw2",
+                "id": "izda4mj_144",
+                "type": "fy1ix",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -342,7 +342,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "pv3ko": 3,
+                            "ea3vn": 3,
                             "fn": "cubic-bezier(0.73,-0.02,0.25,0.99)",
                             "delay": 1.5,
                             "duration": 0.8,

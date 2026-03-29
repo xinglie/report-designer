@@ -20,24 +20,24 @@
         },
         "g": [
             [
-                "q0nzg0z_167",
-                "q0nzg0z_168",
-                "q0nzg0z_169",
-                "q0nzg0z_172"
+                "izda4mj_167",
+                "izda4mj_168",
+                "izda4mj_169",
+                "izda4mj_172"
             ],
             [
-                "q0nzg0z_170",
-                "q0nzg0z_171"
+                "izda4mj_170",
+                "izda4mj_171"
             ],
             [
-                "q0nzg0z_173",
-                "q0nzg0z_174"
+                "izda4mj_173",
+                "izda4mj_174"
             ]
         ],
         "elements": [
             {
-                "id": "q0nzg0z_167",
-                "type": "pzfs4",
+                "id": "izda4mj_167",
+                "type": "eww53",
                 "unit": "in",
                 "props": {
                     "x": 0.177,
@@ -74,8 +74,8 @@
                 }
             },
             {
-                "id": "q0nzg0z_168",
-                "type": "pzfs4",
+                "id": "izda4mj_168",
+                "type": "eww53",
                 "unit": "in",
                 "props": {
                     "pinX": false,
@@ -114,8 +114,8 @@
                 }
             },
             {
-                "id": "q0nzg0z_169",
-                "type": "pzfs4",
+                "id": "izda4mj_169",
+                "type": "eww53",
                 "unit": "in",
                 "props": {
                     "pinX": false,
@@ -154,8 +154,8 @@
                 }
             },
             {
-                "id": "q0nzg0z_170",
-                "type": "pzxj5",
+                "id": "izda4mj_170",
+                "type": "exdz1",
                 "unit": "in",
                 "props": {
                     "x": 3.083,
@@ -178,8 +178,8 @@
                 }
             },
             {
-                "id": "q0nzg0z_171",
-                "type": "pzxj5",
+                "id": "izda4mj_171",
+                "type": "exdz1",
                 "unit": "in",
                 "props": {
                     "x": 5.823,
@@ -202,8 +202,8 @@
                 }
             },
             {
-                "id": "q0nzg0z_172",
-                "type": "pzfs4",
+                "id": "izda4mj_172",
+                "type": "eww53",
                 "unit": "in",
                 "props": {
                     "x": 2.656,
@@ -240,8 +240,8 @@
                 }
             },
             {
-                "id": "q0nzg0z_173",
-                "type": "pzfs4",
+                "id": "izda4mj_173",
+                "type": "eww53",
                 "unit": "in",
                 "props": {
                     "x": 0.896,
@@ -278,8 +278,8 @@
                 }
             },
             {
-                "id": "q0nzg0z_174",
-                "type": "pzxj5",
+                "id": "izda4mj_174",
+                "type": "exdz1",
                 "unit": "in",
                 "props": {
                     "x": 0.781,

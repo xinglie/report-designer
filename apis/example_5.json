@@ -21,8 +21,8 @@
         "g": [],
         "elements": [
             {
-                "id": "q0nzg0z_141",
-                "type": "ps52i",
+                "id": "izda4mj_141",
+                "type": "dz7kv",
                 "unit": "pc",
                 "props": {
                     "ext": {
@@ -52,8 +52,8 @@
                 }
             },
             {
-                "id": "q0nzg0z_142",
-                "type": "ps52i",
+                "id": "izda4mj_142",
+                "type": "dz7kv",
                 "unit": "pc",
                 "props": {
                     "ext": {
@@ -83,8 +83,8 @@
                 }
             },
             {
-                "id": "q0nzg0z_190",
-                "type": "ppa45",
+                "id": "izda4mj_190",
+                "type": "dnbm7",
                 "unit": "pc",
                 "props": {
                     "rows": [
@@ -150,8 +150,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "q0nzg0z_208",
-                                            "type": "pzfs4",
+                                            "id": "izda4mj_208",
+                                            "type": "eww53",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 1.781,
@@ -205,8 +205,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "q0nzg0z_236",
-                                            "type": "pzfs4",
+                                            "id": "izda4mj_236",
+                                            "type": "eww53",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 1.281,
@@ -260,8 +260,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "q0nzg0z_233",
-                                            "type": "pzfs4",
+                                            "id": "izda4mj_233",
+                                            "type": "eww53",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 3.969,
@@ -315,8 +315,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "q0nzg0z_228",
-                                            "type": "pzfs4",
+                                            "id": "izda4mj_228",
+                                            "type": "eww53",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 3.094,
