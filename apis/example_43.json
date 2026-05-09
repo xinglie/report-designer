@@ -18,8 +18,8 @@
         "g": [],
         "elements": [
             {
-                "id": "izda4mj_133",
-                "type": "ds9xn",
+                "id": "e5mzg_133",
+                "type": "kd8wj",
                 "props": {
                     "rows": [
                         {
@@ -29,8 +29,8 @@
                                     "width": 791,
                                     "elements": [
                                         {
-                                            "id": "izda4mj_142",
-                                            "type": "dz7kv",
+                                            "id": "e5mzg_142",
+                                            "type": "klsx5",
                                             "props": {
                                                 "ext": {},
                                                 "x": 580,
@@ -87,8 +87,8 @@
                 }
             },
             {
-                "id": "izda4mj_360",
-                "type": "drs3p",
+                "id": "e5mzg_360",
+                "type": "kbw9p",
                 "props": {
                     "rows": [
                         {
@@ -98,8 +98,8 @@
                                     "width": 791,
                                     "elements": [
                                         {
-                                            "id": "izda4mj_387",
-                                            "type": "ezv4r",
+                                            "id": "e5mzg_387",
+                                            "type": "le68n",
                                             "props": {
                                                 "x": 44,
                                                 "y": 10,
@@ -113,8 +113,8 @@
                                             }
                                         },
                                         {
-                                            "id": "izda4mj_533",
-                                            "type": "ezv4r",
+                                            "id": "e5mzg_533",
+                                            "type": "le68n",
                                             "props": {
                                                 "x": 451,
                                                 "y": 10,
@@ -128,8 +128,8 @@
                                             }
                                         },
                                         {
-                                            "id": "izda4mj_571",
-                                            "type": "eww53",
+                                            "id": "e5mzg_571",
+                                            "type": "ld9tf",
                                             "props": {
                                                 "x": 273,
                                                 "y": -17,
@@ -191,8 +191,8 @@
                 }
             },
             {
-                "id": "izda4mj_607",
-                "type": "eww53",
+                "id": "e5mzg_607",
+                "type": "ld9tf",
                 "props": {
                     "x": 283,
                     "y": 58,
@@ -222,8 +222,8 @@
                 }
             },
             {
-                "id": "izda4mj_653",
-                "type": "exdz1",
+                "id": "e5mzg_653",
+                "type": "ldq11",
                 "props": {
                     "x": 266,
                     "y": 115,
@@ -243,8 +243,8 @@
                 }
             },
             {
-                "id": "izda4mj_691",
-                "type": "eww53",
+                "id": "e5mzg_691",
+                "type": "ld9tf",
                 "props": {
                     "x": 267,
                     "y": 938,
@@ -274,8 +274,8 @@
                 }
             },
             {
-                "id": "izda4mj_710",
-                "type": "dlu4d",
+                "id": "e5mzg_710",
+                "type": "k7ud7",
                 "props": {
                     "rows": [
                         {

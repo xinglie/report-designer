@@ -20,8 +20,8 @@
         "g": [],
         "elements": [
             {
-                "id": "izda4mj_131",
-                "type": "dntg5",
+                "id": "e5mzg_131",
+                "type": "k9701",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -32,8 +32,8 @@
                                     "width": 328,
                                     "elements": [
                                         {
-                                            "id": "izda4mj_195",
-                                            "type": "eww53",
+                                            "id": "e5mzg_195",
+                                            "type": "ld9tf",
                                             "unit": "px",
                                             "props": {
                                                 "x": 30,
@@ -75,8 +75,8 @@
                                             }
                                         },
                                         {
-                                            "id": "izda4mj_424",
-                                            "type": "exdz1",
+                                            "id": "e5mzg_424",
+                                            "type": "ldq11",
                                             "unit": "px",
                                             "props": {
                                                 "x": 239,
@@ -104,8 +104,8 @@
                                             }
                                         },
                                         {
-                                            "id": "izda4mj_139",
-                                            "type": "eww53",
+                                            "id": "e5mzg_139",
+                                            "type": "ld9tf",
                                             "unit": "px",
                                             "props": {
                                                 "x": 29,

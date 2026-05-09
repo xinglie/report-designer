@@ -33,8 +33,8 @@
         },
         "elements": [
             {
-                "id": "izda4mj_129",
-                "type": "eww53",
+                "id": "e5mzg_129",
+                "type": "ld9tf",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -78,8 +78,8 @@
                 }
             },
             {
-                "id": "izda4mj_144",
-                "type": "exdz1",
+                "id": "e5mzg_144",
+                "type": "ldq11",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -108,8 +108,8 @@
                 }
             },
             {
-                "id": "izda4mj_150",
-                "type": "ea3vn",
+                "id": "e5mzg_150",
+                "type": "kzb9h",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -126,7 +126,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "ea3vn": "ea3vn",
+                    "kzb9h": "kzb9h",
                     "imageWidth": 0,
                     "imageHeight": 0,
                     "backgroundX": 0,
@@ -137,8 +137,8 @@
                 }
             },
             {
-                "id": "izda4mj_153",
-                "type": "eweb5",
+                "id": "e5mzg_153",
+                "type": "lcde7",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -165,8 +165,8 @@
                 }
             },
             {
-                "id": "izda4mj_157",
-                "type": "evwh7",
+                "id": "e5mzg_157",
+                "type": "lbx6l",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -200,8 +200,8 @@
                 }
             },
             {
-                "id": "izda4mj_172",
-                "type": "enhc5",
+                "id": "e5mzg_172",
+                "type": "l8bhp",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -235,8 +235,8 @@
                 }
             },
             {
-                "id": "izda4mj_178",
-                "type": "enz63",
+                "id": "e5mzg_178",
+                "type": "l8rpb",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -263,8 +263,8 @@
                 }
             },
             {
-                "id": "izda4mj_181",
-                "type": "eoh01",
+                "id": "e5mzg_181",
+                "type": "l97wx",
                 "unit": "mm",
                 "props": {
                     "readonly": false,

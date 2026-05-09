@@ -20,8 +20,8 @@
         "g": [],
         "elements": [
             {
-                "id": "izda4mj_754",
-                "type": "eoh01",
+                "id": "e5mzg_754",
+                "type": "l97wx",
                 "unit": "px",
                 "props": {
                     "x": 95,
@@ -64,8 +64,8 @@
                 }
             },
             {
-                "id": "izda4mj_824",
-                "type": "eoh01",
+                "id": "e5mzg_824",
+                "type": "l97wx",
                 "unit": "px",
                 "props": {
                     "pinX": false,
@@ -110,8 +110,8 @@
                 }
             },
             {
-                "id": "izda4mj_833",
-                "type": "eoh01",
+                "id": "e5mzg_833",
+                "type": "l97wx",
                 "unit": "px",
                 "props": {
                     "pinX": false,
@@ -156,8 +156,8 @@
                 }
             },
             {
-                "id": "izda4mj_836",
-                "type": "eoh01",
+                "id": "e5mzg_836",
+                "type": "l97wx",
                 "unit": "px",
                 "props": {
                     "pinX": false,
