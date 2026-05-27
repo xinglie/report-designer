@@ -33,8 +33,8 @@
         },
         "elements": [
             {
-                "id": "e5mzg_303",
-                "type": "k9701",
+                "id": "mznjm2u2m_303",
+                "type": "fnar3",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -51,8 +51,8 @@
                                     "width": 300,
                                     "elements": [
                                         {
-                                            "id": "e5mzg_307",
-                                            "type": "lcde7",
+                                            "id": "mznjm2u2m_307",
+                                            "type": "gkie3",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": false,
@@ -85,8 +85,8 @@
                                             }
                                         },
                                         {
-                                            "id": "e5mzg_342",
-                                            "type": "lcde7",
+                                            "id": "mznjm2u2m_342",
+                                            "type": "gkie3",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": false,
@@ -121,8 +121,8 @@
                                             }
                                         },
                                         {
-                                            "id": "e5mzg_348",
-                                            "type": "lbx6l",
+                                            "id": "mznjm2u2m_348",
+                                            "type": "gk45o",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": false,
@@ -162,8 +162,8 @@
                                             }
                                         },
                                         {
-                                            "id": "e5mzg_368",
-                                            "type": "ld9tf",
+                                            "id": "mznjm2u2m_368",
+                                            "type": "glp3c",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": false,

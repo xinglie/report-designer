@@ -33,8 +33,8 @@
         "elements": [
             {
                 "v": "202602061214",
-                "id": "e5mzg_mlajozkj181",
-                "type": "kzb9h",
+                "id": "mznjm2u2m_mlajozkj181",
+                "type": "g6o7i",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -46,7 +46,7 @@
                     "rotate": 0,
                     "image": "//report-designer.cn/res/images/header.png",
                     "bind": {},
-                    "kzb9h": "no-repeat",
+                    "g6o7i": "no-repeat",
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
                     "imageWidth": 1920,
                     "imageHeight": 100,
@@ -58,8 +58,8 @@
             },
             {
                 "v": "202602061214",
-                "id": "e5mzg_mlakcicw250",
-                "type": "ld9tf",
+                "id": "mznjm2u2m_mlakcicw250",
+                "type": "glp3c",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -94,8 +94,8 @@
             },
             {
                 "v": "202602061214",
-                "id": "e5mzg_mlapkf54416",
-                "type": "khat1",
+                "id": "mznjm2u2m_mlapkf54416",
+                "type": "fut70",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -107,8 +107,8 @@
                                     "elements": [
                                         {
                                             "v": "202602061214",
-                                            "id": "e5mzg_mlapkf54495",
-                                            "type": "chart/kt0ax",
+                                            "id": "mznjm2u2m_mlapkf54495",
+                                            "type": "chart/g343r",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": false,
@@ -149,8 +149,8 @@
                                     "elements": [
                                         {
                                             "v": "202602061214",
-                                            "id": "e5mzg_mlapkf54507",
-                                            "type": "chart/ktwq5",
+                                            "id": "mznjm2u2m_mlapkf54507",
+                                            "type": "chart/g3ic6",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": false,
@@ -191,7 +191,7 @@
                                     "elements": [
                                         {
                                             "v": "202602061214",
-                                            "id": "e5mzg_mlapkf54756",
+                                            "id": "mznjm2u2m_mlapkf54756",
                                             "type": "chart/cscatter",
                                             "unit": "px",
                                             "props": {
@@ -254,8 +254,8 @@
             },
             {
                 "v": "202602061214",
-                "id": "e5mzg_mlapkf54445",
-                "type": "khat1",
+                "id": "mznjm2u2m_mlapkf54445",
+                "type": "fut70",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -267,8 +267,8 @@
                                     "elements": [
                                         {
                                             "v": "202602061214",
-                                            "id": "e5mzg_mlapkf54501",
-                                            "type": "chart/kut5d",
+                                            "id": "mznjm2u2m_mlapkf54501",
+                                            "type": "chart/g3wkl",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": false,
@@ -309,8 +309,8 @@
                                     "elements": [
                                         {
                                             "v": "202602061214",
-                                            "id": "e5mzg_mlapkf54504",
-                                            "type": "chart/l20j5",
+                                            "id": "mznjm2u2m_mlapkf54504",
+                                            "type": "chart/g91m0",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": false,
@@ -372,8 +372,8 @@
             },
             {
                 "v": "202602061214",
-                "id": "e5mzg_mlapkf54681",
-                "type": "kfy67",
+                "id": "mznjm2u2m_mlapkf54681",
+                "type": "fu0q6",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -385,8 +385,8 @@
                                     "elements": [
                                         {
                                             "v": "202602061214",
-                                            "id": "e5mzg_mldg1pkf222",
-                                            "type": "chart/ktwq5",
+                                            "id": "mznjm2u2m_mldg1pkf222",
+                                            "type": "chart/g3ic6",
                                             "unit": "px",
                                             "props": {
                                                 "x": 0,

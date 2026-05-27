@@ -23,8 +23,8 @@
         "g": [],
         "elements": [
             {
-                "id": "e5mzg_101",
-                "type": "lfz33",
+                "id": "mznjm2u2m_101",
+                "type": "go2hu",
                 "unit": "mm",
                 "props": {
                     "text": "<div>以下是自定义HTML片断，模板引擎使用underscore.template</div>\n<div style=\"color:#666\">其中data是通过属性绑定的数据，fields是绑定的字段数组</div>\n<%for(let i=0;i<data.length;i++){%>\n  <br/>\n <%for(let field of fields){%>\n  \t<div style=\"border:solid 1px red;margin-bottom:2px;\"><%=data[i][field.key]%></div>\n  <%}%>\n<%}%>",
@@ -56,8 +56,8 @@
                 }
             },
             {
-                "id": "e5mzg_102",
-                "type": "kbw9p",
+                "id": "mznjm2u2m_102",
+                "type": "fq2e0",
                 "unit": "mm",
                 "props": {
                     "pinX": true,
@@ -70,8 +70,8 @@
                                     "width": 211.64,
                                     "elements": [
                                         {
-                                            "id": "e5mzg_103",
-                                            "type": "klsx5",
+                                            "id": "mznjm2u2m_103",
+                                            "type": "fxz2c",
                                             "unit": "mm",
                                             "props": {
                                                 "ext": {},
