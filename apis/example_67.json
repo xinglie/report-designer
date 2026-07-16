@@ -30,8 +30,8 @@
         },
         "elements": [
             {
-                "id": "mznjm2u2m_ltqurchb278",
-                "type": "fnar3",
+                "id": "dbhy2q4mm_ltqurchb278",
+                "type": "clt67",
                 "unit": "mm",
                 "props": {
                     "bind": {
@@ -46,8 +46,8 @@
                                     "width": 85.616,
                                     "elements": [
                                         {
-                                            "id": "mznjm2u2m_ltqurchb334",
-                                            "type": "glp3c",
+                                            "id": "dbhy2q4mm_ltqurchb334",
+                                            "type": "e2trv",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 6.861,
@@ -88,8 +88,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mznjm2u2m_ltqurchb335",
-                                            "type": "glp3c",
+                                            "id": "dbhy2q4mm_ltqurchb335",
+                                            "type": "e2trv",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 6.861,
@@ -130,8 +130,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mznjm2u2m_ltqurchb336",
-                                            "type": "glp3c",
+                                            "id": "dbhy2q4mm_ltqurchb336",
+                                            "type": "e2trv",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 7.192,
@@ -172,8 +172,8 @@
                                             }
                                         },
                                         {
-                                            "id": "mznjm2u2m_ltqurchb372",
-                                            "type": "gm3br",
+                                            "id": "dbhy2q4mm_ltqurchb372",
+                                            "type": "e3ghu",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 47.958,

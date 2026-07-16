@@ -33,8 +33,8 @@
         "elements": [
             {
                 "v": "202511131455",
-                "id": "mznjm2u2m_mhyq41hh586",
-                "type": "fr939",
+                "id": "dbhy2q4mm_mhyq41hh586",
+                "type": "coys2",
                 "unit": "px",
                 "props": {
                     "readonly": true,
@@ -47,8 +47,8 @@
                                     "elements": [
                                         {
                                             "v": "202511131455",
-                                            "id": "mznjm2u2m_mhyq41hh617",
-                                            "type": "gm3br",
+                                            "id": "dbhy2q4mm_mhyq41hh617",
+                                            "type": "e3ghu",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": true,
@@ -70,8 +70,8 @@
                                         },
                                         {
                                             "v": "202511131455",
-                                            "id": "mznjm2u2m_mhyq41hh661",
-                                            "type": "glp3c",
+                                            "id": "dbhy2q4mm_mhyq41hh661",
+                                            "type": "e2trv",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": true,
@@ -104,8 +104,8 @@
                                         },
                                         {
                                             "v": "202511131455",
-                                            "id": "mznjm2u2m_mhyq41hh736",
-                                            "type": "glp3c",
+                                            "id": "dbhy2q4mm_mhyq41hh736",
+                                            "type": "e2trv",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": true,
@@ -138,8 +138,8 @@
                                         },
                                         {
                                             "v": "202511131455",
-                                            "id": "mznjm2u2m_mhyq41hh742",
-                                            "type": "glp3c",
+                                            "id": "dbhy2q4mm_mhyq41hh742",
+                                            "type": "e2trv",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": true,
@@ -202,8 +202,8 @@
             },
             {
                 "v": "202511131455",
-                "id": "mznjm2u2m_mhyq41hh807",
-                "type": "fq2e0",
+                "id": "dbhy2q4mm_mhyq41hh807",
+                "type": "coc23",
                 "unit": "px",
                 "props": {
                     "readonly": true,
@@ -216,8 +216,8 @@
                                     "elements": [
                                         {
                                             "v": "202511131455",
-                                            "id": "mznjm2u2m_mhyq41hh836",
-                                            "type": "fxz2c",
+                                            "id": "dbhy2q4mm_mhyq41hh836",
+                                            "type": "d0brk",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": true,
@@ -276,8 +276,8 @@
             },
             {
                 "v": "202511131455",
-                "id": "mznjm2u2m_mhyq41hh985",
-                "type": "glp3c",
+                "id": "dbhy2q4mm_mhyq41hh985",
+                "type": "e2trv",
                 "unit": "px",
                 "props": {
                     "x": 62,

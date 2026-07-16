@@ -24,8 +24,8 @@
         "g": [],
         "elements": [
             {
-                "id": "mznjm2u2m_lfxf57u2119",
-                "type": "fr939",
+                "id": "dbhy2q4mm_lfxf57u2119",
+                "type": "coys2",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -36,8 +36,8 @@
                                     "width": 209.79,
                                     "elements": [
                                         {
-                                            "id": "mznjm2u2m_lfxf57u2141",
-                                            "type": "fo37x",
+                                            "id": "dbhy2q4mm_lfxf57u2141",
+                                            "type": "cmfw6",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 2.15,
@@ -99,8 +99,8 @@
                 }
             },
             {
-                "id": "mznjm2u2m_lfxf57u2125",
-                "type": "fq2e0",
+                "id": "dbhy2q4mm_lfxf57u2125",
+                "type": "coc23",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -141,8 +141,8 @@
                 }
             },
             {
-                "id": "mznjm2u2m_lfxf57u2175",
-                "type": "hg53f",
+                "id": "dbhy2q4mm_lfxf57u2175",
+                "type": "fhy7m",
                 "unit": "mm",
                 "props": {
                     "x": 13.68,
@@ -158,8 +158,8 @@
                 }
             },
             {
-                "id": "mznjm2u2m_lfxf57u2191",
-                "type": "hfqv0",
+                "id": "dbhy2q4mm_lfxf57u2191",
+                "type": "fg21p",
                 "unit": "mm",
                 "props": {
                     "x": 81.29,
@@ -177,8 +177,8 @@
                 }
             },
             {
-                "id": "mznjm2u2m_lfxf57u2216",
-                "type": "hfqv0",
+                "id": "dbhy2q4mm_lfxf57u2216",
+                "type": "fg21p",
                 "unit": "mm",
                 "props": {
                     "x": 41.6,
@@ -196,8 +196,8 @@
                 }
             },
             {
-                "id": "mznjm2u2m_lfxf57u2221",
-                "type": "hg53f",
+                "id": "dbhy2q4mm_lfxf57u2221",
+                "type": "fhy7m",
                 "unit": "mm",
                 "props": {
                     "x": 101.12,

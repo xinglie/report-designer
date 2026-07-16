@@ -31,8 +31,8 @@
         "elements": [
             {
                 "v": "202509221710",
-                "id": "mznjm2u2m_m4dmffox1284",
-                "type": "glp3c",
+                "id": "dbhy2q4mm_m4dmffox1284",
+                "type": "e2trv",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -66,8 +66,8 @@
             },
             {
                 "v": "202509221710",
-                "id": "mznjm2u2m_m4dmffox1309",
-                "type": "fm41u",
+                "id": "dbhy2q4mm_m4dmffox1309",
+                "type": "ckjq9",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -879,8 +879,8 @@
             },
             {
                 "v": "202509221710",
-                "id": "mznjm2u2m_m4doj6w1210",
-                "type": "flbl0",
+                "id": "dbhy2q4mm_m4doj6w1210",
+                "type": "cjx0a",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -1203,8 +1203,8 @@
             },
             {
                 "v": "202509221710",
-                "id": "mznjm2u2m_m4doporr388",
-                "type": "fm41u",
+                "id": "dbhy2q4mm_m4doporr388",
+                "type": "ckjq9",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -1483,8 +1483,8 @@
             },
             {
                 "v": "202509221710",
-                "id": "mznjm2u2m_m4fknebm252",
-                "type": "fwe4o",
+                "id": "dbhy2q4mm_m4fknebm252",
+                "type": "cx65p",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -1497,7 +1497,7 @@
                         "tag": "apis/nurse.json",
                         "fields": [
                             {
-                                "key": "fwsd3",
+                                "key": "cz2bm",
                                 "name": "富文本"
                             }
                         ]
