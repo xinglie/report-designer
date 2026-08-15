@@ -32,8 +32,8 @@
         "elements": [
             {
                 "v": "202602061214",
-                "id": "dbhy2q4mm_lv1yoyfn445",
-                "type": "csr3w",
+                "id": "izy_lv1yoyfn445",
+                "type": "ql548",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -66,8 +66,8 @@
                                     "elements": [
                                         {
                                             "v": "202602061214",
-                                            "id": "dbhy2q4mm_lv1z6ded259",
-                                            "type": "chart/db213",
+                                            "id": "izy_lv1z6ded259",
+                                            "type": "chart/qrg1t",
                                             "unit": "mm",
                                             "props": {
                                                 "readonly": false,
@@ -89,8 +89,8 @@
                                     "elements": [
                                         {
                                             "v": "202602061214",
-                                            "id": "dbhy2q4mm_lv1yoyfn570",
-                                            "type": "chart/d8j57",
+                                            "id": "izy_lv1yoyfn570",
+                                            "type": "chart/qqd5b",
                                             "unit": "mm",
                                             "props": {
                                                 "readonly": false,
@@ -138,8 +138,8 @@
                                     "elements": [
                                         {
                                             "v": "202602061214",
-                                            "id": "dbhy2q4mm_lv1z7dt4245",
-                                            "type": "chart/e94zl",
+                                            "id": "izy_lv1z7dt4245",
+                                            "type": "chart/r2sj2",
                                             "unit": "mm",
                                             "props": {
                                                 "readonly": false,
@@ -215,7 +215,7 @@
                                     "elements": [
                                         {
                                             "v": "202602061214",
-                                            "id": "dbhy2q4mm_mlbn4z8k288",
+                                            "id": "izy_mlbn4z8k288",
                                             "type": "chart/cscatter",
                                             "unit": "mm",
                                             "props": {

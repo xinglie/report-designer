@@ -21,8 +21,8 @@
         "g": [],
         "elements": [
             {
-                "id": "dbhy2q4mm_353",
-                "type": "cl6g8",
+                "id": "izy_353",
+                "type": "qi2w5",
                 "unit": "pc",
                 "props": {
                     "rows": [
@@ -39,8 +39,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "dbhy2q4mm_591",
-                                            "type": "e2trv",
+                                            "id": "izy_591",
+                                            "type": "r0zow",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 10.578,
@@ -94,8 +94,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "dbhy2q4mm_481",
-                                            "type": "e2trv",
+                                            "id": "izy_481",
+                                            "type": "r0zow",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.313,
@@ -144,8 +144,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "dbhy2q4mm_535",
-                                            "type": "e2trv",
+                                            "id": "izy_535",
+                                            "type": "r0zow",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
@@ -196,8 +196,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "dbhy2q4mm_563",
-                                            "type": "e2trv",
+                                            "id": "izy_563",
+                                            "type": "r0zow",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
@@ -253,8 +253,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "dbhy2q4mm_364",
-                                            "type": "e2trv",
+                                            "id": "izy_364",
+                                            "type": "r0zow",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.656,
@@ -308,8 +308,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "dbhy2q4mm_382",
-                                            "type": "e2trv",
+                                            "id": "izy_382",
+                                            "type": "r0zow",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.688,
@@ -363,8 +363,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "dbhy2q4mm_385",
-                                            "type": "e2trv",
+                                            "id": "izy_385",
+                                            "type": "r0zow",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.969,
@@ -460,8 +460,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "dbhy2q4mm_654",
-                                            "type": "e2trv",
+                                            "id": "izy_654",
+                                            "type": "r0zow",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
