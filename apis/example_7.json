@@ -20,24 +20,24 @@
         },
         "g": [
             [
-                "izy_167",
-                "izy_168",
-                "izy_169",
-                "izy_172"
+                "dljztc_167",
+                "dljztc_168",
+                "dljztc_169",
+                "dljztc_172"
             ],
             [
-                "izy_170",
-                "izy_171"
+                "dljztc_170",
+                "dljztc_171"
             ],
             [
-                "izy_173",
-                "izy_174"
+                "dljztc_173",
+                "dljztc_174"
             ]
         ],
         "elements": [
             {
-                "id": "izy_167",
-                "type": "r0zow",
+                "id": "dljztc_167",
+                "type": "b06xp",
                 "unit": "in",
                 "props": {
                     "x": 0.177,
@@ -74,8 +74,8 @@
                 }
             },
             {
-                "id": "izy_168",
-                "type": "r0zow",
+                "id": "dljztc_168",
+                "type": "b06xp",
                 "unit": "in",
                 "props": {
                     "pinX": false,
@@ -114,8 +114,8 @@
                 }
             },
             {
-                "id": "izy_169",
-                "type": "r0zow",
+                "id": "dljztc_169",
+                "type": "b06xp",
                 "unit": "in",
                 "props": {
                     "pinX": false,
@@ -154,8 +154,8 @@
                 }
             },
             {
-                "id": "izy_170",
-                "type": "r166b",
+                "id": "dljztc_170",
+                "type": "b0l0r",
                 "unit": "in",
                 "props": {
                     "x": 3.083,
@@ -178,8 +178,8 @@
                 }
             },
             {
-                "id": "izy_171",
-                "type": "r166b",
+                "id": "dljztc_171",
+                "type": "b0l0r",
                 "unit": "in",
                 "props": {
                     "x": 5.823,
@@ -202,8 +202,8 @@
                 }
             },
             {
-                "id": "izy_172",
-                "type": "r0zow",
+                "id": "dljztc_172",
+                "type": "b06xp",
                 "unit": "in",
                 "props": {
                     "x": 2.656,
@@ -240,8 +240,8 @@
                 }
             },
             {
-                "id": "izy_173",
-                "type": "r0zow",
+                "id": "dljztc_173",
+                "type": "b06xp",
                 "unit": "in",
                 "props": {
                     "x": 0.896,
@@ -278,8 +278,8 @@
                 }
             },
             {
-                "id": "izy_174",
-                "type": "r166b",
+                "id": "dljztc_174",
+                "type": "b0l0r",
                 "unit": "in",
                 "props": {
                     "x": 0.781,

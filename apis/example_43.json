@@ -18,8 +18,8 @@
         "g": [],
         "elements": [
             {
-                "id": "izy_133",
-                "type": "qk27q",
+                "id": "dljztc_133",
+                "type": "a3bt1",
                 "props": {
                     "rows": [
                         {
@@ -29,8 +29,8 @@
                                     "width": 791,
                                     "elements": [
                                         {
-                                            "id": "izy_142",
-                                            "type": "qnax8",
+                                            "id": "dljztc_142",
+                                            "type": "a7mqn",
                                             "props": {
                                                 "ext": {},
                                                 "x": 580,
@@ -87,8 +87,8 @@
                 }
             },
             {
-                "id": "izy_360",
-                "type": "qjp8w",
+                "id": "dljztc_360",
+                "type": "a2xpz",
                 "props": {
                     "rows": [
                         {
@@ -98,8 +98,8 @@
                                     "width": 791,
                                     "elements": [
                                         {
-                                            "id": "izy_387",
-                                            "type": "r1cnq",
+                                            "id": "dljztc_387",
+                                            "type": "b0z3t",
                                             "props": {
                                                 "x": 44,
                                                 "y": 10,
@@ -113,8 +113,8 @@
                                             }
                                         },
                                         {
-                                            "id": "izy_533",
-                                            "type": "r1cnq",
+                                            "id": "dljztc_533",
+                                            "type": "b0z3t",
                                             "props": {
                                                 "x": 451,
                                                 "y": 10,
@@ -128,8 +128,8 @@
                                             }
                                         },
                                         {
-                                            "id": "izy_571",
-                                            "type": "r0zow",
+                                            "id": "dljztc_571",
+                                            "type": "b06xp",
                                             "props": {
                                                 "x": 273,
                                                 "y": -17,
@@ -191,8 +191,8 @@
                 }
             },
             {
-                "id": "izy_607",
-                "type": "r0zow",
+                "id": "dljztc_607",
+                "type": "b06xp",
                 "props": {
                     "x": 283,
                     "y": 58,
@@ -222,8 +222,8 @@
                 }
             },
             {
-                "id": "izy_653",
-                "type": "r166b",
+                "id": "dljztc_653",
+                "type": "b0l0r",
                 "props": {
                     "x": 266,
                     "y": 115,
@@ -243,8 +243,8 @@
                 }
             },
             {
-                "id": "izy_691",
-                "type": "r0zow",
+                "id": "dljztc_691",
+                "type": "b06xp",
                 "props": {
                     "x": 267,
                     "y": 938,
@@ -274,8 +274,8 @@
                 }
             },
             {
-                "id": "izy_710",
-                "type": "qgti8",
+                "id": "dljztc_710",
+                "type": "a074l",
                 "props": {
                     "rows": [
                         {

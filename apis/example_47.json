@@ -37,8 +37,8 @@
         },
         "elements": [
             {
-                "id": "izy_142",
-                "type": "svg/r7h3w",
+                "id": "dljztc_142",
+                "type": "svg/bh0l3",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -53,7 +53,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "qs5zh": "infinite",
+                            "ahsy3": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -65,8 +65,8 @@
                 }
             },
             {
-                "id": "izy_106",
-                "type": "r1cnq",
+                "id": "dljztc_106",
+                "type": "b0z3t",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -83,7 +83,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "qs5zh": "infinite",
+                            "ahsy3": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -95,8 +95,8 @@
                 }
             },
             {
-                "id": "izy_107",
-                "type": "rcc65",
+                "id": "dljztc_107",
+                "type": "bvhq5",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -130,7 +130,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "qs5zh": "infinite",
+                            "ahsy3": "infinite",
                             "fn": "linear",
                             "delay": 2,
                             "duration": 1,
@@ -142,8 +142,8 @@
                 }
             },
             {
-                "id": "izy_108",
-                "type": "rc5oq",
+                "id": "dljztc_108",
+                "type": "bv3n3",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -162,7 +162,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "qs5zh": "infinite",
+                            "ahsy3": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -171,7 +171,7 @@
                             "use": "shakeY"
                         },
                         {
-                            "qs5zh": "infinite",
+                            "ahsy3": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1.52,
@@ -183,8 +183,8 @@
                 }
             },
             {
-                "id": "izy_109",
-                "type": "r1cnq",
+                "id": "dljztc_109",
+                "type": "b0z3t",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -203,7 +203,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "qs5zh": "infinite",
+                            "ahsy3": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -215,8 +215,8 @@
                 }
             },
             {
-                "id": "izy_110",
-                "type": "rcc65",
+                "id": "dljztc_110",
+                "type": "bvhq5",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -252,7 +252,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "qs5zh": "infinite",
+                            "ahsy3": "infinite",
                             "fn": "linear",
                             "delay": 2,
                             "duration": 1,
@@ -264,8 +264,8 @@
                 }
             },
             {
-                "id": "izy_111",
-                "type": "rc5oq",
+                "id": "dljztc_111",
+                "type": "bv3n3",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -286,7 +286,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "qs5zh": "infinite",
+                            "ahsy3": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1,
@@ -295,7 +295,7 @@
                             "use": "shakeY"
                         },
                         {
-                            "qs5zh": "infinite",
+                            "ahsy3": "infinite",
                             "fn": "linear",
                             "delay": 0,
                             "duration": 1.52,
@@ -307,8 +307,8 @@
                 }
             },
             {
-                "id": "izy_144",
-                "type": "rcc65",
+                "id": "dljztc_144",
+                "type": "bvhq5",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -342,7 +342,7 @@
                     "locked": false,
                     "animations": [
                         {
-                            "qs5zh": 3,
+                            "ahsy3": 3,
                             "fn": "cubic-bezier(0.73,-0.02,0.25,0.99)",
                             "delay": 1.5,
                             "duration": 0.8,

@@ -32,8 +32,8 @@
         },
         "elements": [
             {
-                "id": "izy_56",
-                "type": "qgti8",
+                "id": "dljztc_56",
+                "type": "a074l",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -67,8 +67,8 @@
                                     "textContent": "",
                                     "elements": [
                                         {
-                                            "id": "izy_57",
-                                            "type": "qh6h2",
+                                            "id": "dljztc_57",
+                                            "type": "a0l7n",
                                             "unit": "px",
                                             "props": {
                                                 "full": false,
@@ -757,8 +757,8 @@
                                     "textContent": "",
                                     "elements": [
                                         {
-                                            "id": "izy_58",
-                                            "type": "qh6h2",
+                                            "id": "dljztc_58",
+                                            "type": "a0l7n",
                                             "unit": "px",
                                             "props": {
                                                 "full": false,
@@ -1002,8 +1002,8 @@
                 }
             },
             {
-                "id": "izy_59",
-                "type": "qnax8",
+                "id": "dljztc_59",
+                "type": "a7mqn",
                 "unit": "px",
                 "props": {
                     "x": 491,
@@ -1035,8 +1035,8 @@
                 }
             },
             {
-                "id": "izy_60",
-                "type": "qnax8",
+                "id": "dljztc_60",
+                "type": "a7mqn",
                 "unit": "px",
                 "props": {
                     "x": 11,

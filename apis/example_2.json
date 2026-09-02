@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "izy_75",
-                "type": "r0zow",
+                "id": "dljztc_75",
+                "type": "b06xp",
                 "unit": "mm",
                 "props": {
                     "x": 0,
@@ -66,8 +66,8 @@
                 }
             },
             {
-                "id": "izy_76",
-                "type": "r0zow",
+                "id": "dljztc_76",
+                "type": "b06xp",
                 "unit": "mm",
                 "props": {
                     "x": 0,
@@ -100,8 +100,8 @@
                 }
             },
             {
-                "id": "izy_77",
-                "type": "r0mq2",
+                "id": "dljztc_77",
+                "type": "ay8if",
                 "unit": "mm",
                 "props": {
                     "x": 63.76,
@@ -131,8 +131,8 @@
                 }
             },
             {
-                "id": "izy_95",
-                "type": "r1cnq",
+                "id": "dljztc_95",
+                "type": "b0z3t",
                 "unit": "mm",
                 "props": {
                     "x": 0,
@@ -149,8 +149,8 @@
                 }
             },
             {
-                "id": "izy_100",
-                "type": "r1cnq",
+                "id": "dljztc_100",
+                "type": "b0z3t",
                 "unit": "mm",
                 "props": {
                     "x": 0,
@@ -167,8 +167,8 @@
                 }
             },
             {
-                "id": "izy_103",
-                "type": "r0zow",
+                "id": "dljztc_103",
+                "type": "b06xp",
                 "unit": "mm",
                 "props": {
                     "x": 3.15,
@@ -201,8 +201,8 @@
                 }
             },
             {
-                "id": "izy_118",
-                "type": "r0zow",
+                "id": "dljztc_118",
+                "type": "b06xp",
                 "unit": "mm",
                 "props": {
                     "x": 3.15,
@@ -235,8 +235,8 @@
                 }
             },
             {
-                "id": "izy_121",
-                "type": "r0zow",
+                "id": "dljztc_121",
+                "type": "b06xp",
                 "unit": "mm",
                 "props": {
                     "x": 3.15,
@@ -269,8 +269,8 @@
                 }
             },
             {
-                "id": "izy_125",
-                "type": "r0zow",
+                "id": "dljztc_125",
+                "type": "b06xp",
                 "unit": "mm",
                 "props": {
                     "x": 96.76,
@@ -303,8 +303,8 @@
                 }
             },
             {
-                "id": "izy_131",
-                "type": "r0zow",
+                "id": "dljztc_131",
+                "type": "b06xp",
                 "unit": "mm",
                 "props": {
                     "x": 96.76,
@@ -337,8 +337,8 @@
                 }
             },
             {
-                "id": "izy_138",
-                "type": "r0zow",
+                "id": "dljztc_138",
+                "type": "b06xp",
                 "unit": "mm",
                 "props": {
                     "x": 3.15,
@@ -372,8 +372,8 @@
                 }
             },
             {
-                "id": "izy_143",
-                "type": "r0zow",
+                "id": "dljztc_143",
+                "type": "b06xp",
                 "unit": "mm",
                 "props": {
                     "x": 91.72,
@@ -407,8 +407,8 @@
                 }
             },
             {
-                "id": "izy_146",
-                "type": "r0zow",
+                "id": "dljztc_146",
+                "type": "b06xp",
                 "unit": "mm",
                 "props": {
                     "x": 3.15,
@@ -442,8 +442,8 @@
                 }
             },
             {
-                "id": "izy_152",
-                "type": "r0zow",
+                "id": "dljztc_152",
+                "type": "b06xp",
                 "unit": "mm",
                 "props": {
                     "x": 91.72,
@@ -477,8 +477,8 @@
                 }
             },
             {
-                "id": "izy_158",
-                "type": "r0zow",
+                "id": "dljztc_158",
+                "type": "b06xp",
                 "unit": "mm",
                 "props": {
                     "x": 3.15,
@@ -512,8 +512,8 @@
                 }
             },
             {
-                "id": "izy_161",
-                "type": "r0zow",
+                "id": "dljztc_161",
+                "type": "b06xp",
                 "unit": "mm",
                 "props": {
                     "x": 3.15,
@@ -546,8 +546,8 @@
                 }
             },
             {
-                "id": "izy_184",
-                "type": "r0zow",
+                "id": "dljztc_184",
+                "type": "b06xp",
                 "unit": "mm",
                 "props": {
                     "x": 49.56,
@@ -580,8 +580,8 @@
                 }
             },
             {
-                "id": "izy_190",
-                "type": "r1cnq",
+                "id": "dljztc_190",
+                "type": "b0z3t",
                 "unit": "mm",
                 "props": {
                     "x": 0,
@@ -598,8 +598,8 @@
                 }
             },
             {
-                "id": "izy_201",
-                "type": "r0mq2",
+                "id": "dljztc_201",
+                "type": "ay8if",
                 "unit": "mm",
                 "props": {
                     "x": 31.93,
@@ -629,8 +629,8 @@
                 }
             },
             {
-                "id": "izy_214",
-                "type": "r0zow",
+                "id": "dljztc_214",
+                "type": "b06xp",
                 "unit": "mm",
                 "props": {
                     "x": 3.15,
@@ -663,8 +663,8 @@
                 }
             },
             {
-                "id": "izy_220",
-                "type": "r1cnq",
+                "id": "dljztc_220",
+                "type": "b0z3t",
                 "unit": "mm",
                 "props": {
                     "x": 0,
@@ -681,8 +681,8 @@
                 }
             },
             {
-                "id": "izy_223",
-                "type": "r166b",
+                "id": "dljztc_223",
+                "type": "b0l0r",
                 "unit": "mm",
                 "props": {
                     "x": 8.59,
@@ -704,8 +704,8 @@
                 }
             },
             {
-                "id": "izy_236",
-                "type": "r0zow",
+                "id": "dljztc_236",
+                "type": "b06xp",
                 "unit": "mm",
                 "props": {
                     "x": 42.75,

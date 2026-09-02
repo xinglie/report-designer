@@ -31,8 +31,8 @@
         },
         "elements": [
             {
-                "id": "izy_mayy98h6192",
-                "type": "r292t",
+                "id": "dljztc_mayy98h6192",
+                "type": "b2xj3",
                 "unit": "mm",
                 "props": {
                     "rows": [
@@ -43,8 +43,8 @@
                                     "width": 58.208,
                                     "elements": [
                                         {
-                                            "id": "izy_mayy98h6197",
-                                            "type": "r0zow",
+                                            "id": "dljztc_mayy98h6197",
+                                            "type": "b06xp",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -86,8 +86,8 @@
                                             }
                                         },
                                         {
-                                            "id": "izy_mayy98h6234",
-                                            "type": "r0zow",
+                                            "id": "dljztc_mayy98h6234",
+                                            "type": "b06xp",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -129,8 +129,8 @@
                                             }
                                         },
                                         {
-                                            "id": "izy_mayy98h6241",
-                                            "type": "r0zow",
+                                            "id": "dljztc_mayy98h6241",
+                                            "type": "b06xp",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -172,8 +172,8 @@
                                             }
                                         },
                                         {
-                                            "id": "izy_mayy98h6253",
-                                            "type": "r0zow",
+                                            "id": "dljztc_mayy98h6253",
+                                            "type": "b06xp",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -215,8 +215,8 @@
                                             }
                                         },
                                         {
-                                            "id": "izy_mayyf0dd392",
-                                            "type": "r1cnq",
+                                            "id": "dljztc_mayyf0dd392",
+                                            "type": "b0z3t",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -244,8 +244,8 @@
                                     "width": 58.208,
                                     "elements": [
                                         {
-                                            "id": "izy_mb0q85st519",
-                                            "type": "r1cnq",
+                                            "id": "dljztc_mb0q85st519",
+                                            "type": "b0z3t",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 2.645,
@@ -262,8 +262,8 @@
                                             }
                                         },
                                         {
-                                            "id": "izy_mayy98h6335",
-                                            "type": "r0zow",
+                                            "id": "dljztc_mayy98h6335",
+                                            "type": "b06xp",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -304,8 +304,8 @@
                                             }
                                         },
                                         {
-                                            "id": "izy_mayy98h6364",
-                                            "type": "r0zow",
+                                            "id": "dljztc_mayy98h6364",
+                                            "type": "b06xp",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -346,8 +346,8 @@
                                             }
                                         },
                                         {
-                                            "id": "izy_mayyf0dd230",
-                                            "type": "r0zow",
+                                            "id": "dljztc_mayyf0dd230",
+                                            "type": "b06xp",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -403,8 +403,8 @@
                                     "width": 58.208,
                                     "elements": [
                                         {
-                                            "id": "izy_maz069u7518",
-                                            "type": "r1cnq",
+                                            "id": "dljztc_maz069u7518",
+                                            "type": "b0z3t",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -422,8 +422,8 @@
                                             }
                                         },
                                         {
-                                            "id": "izy_mayzygym370",
-                                            "type": "r0zow",
+                                            "id": "dljztc_mayzygym370",
+                                            "type": "b06xp",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -465,8 +465,8 @@
                                             }
                                         },
                                         {
-                                            "id": "izy_mayzygym399",
-                                            "type": "r0zow",
+                                            "id": "dljztc_mayzygym399",
+                                            "type": "b06xp",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -508,8 +508,8 @@
                                             }
                                         },
                                         {
-                                            "id": "izy_mayzygym406",
-                                            "type": "r0zow",
+                                            "id": "dljztc_mayzygym406",
+                                            "type": "b06xp",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -551,8 +551,8 @@
                                             }
                                         },
                                         {
-                                            "id": "izy_mayzygym413",
-                                            "type": "r0zow",
+                                            "id": "dljztc_mayzygym413",
+                                            "type": "b06xp",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -584,8 +584,8 @@
                                             }
                                         },
                                         {
-                                            "id": "izy_mayzygym443",
-                                            "type": "r0zow",
+                                            "id": "dljztc_mayzygym443",
+                                            "type": "b06xp",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -626,8 +626,8 @@
                                             }
                                         },
                                         {
-                                            "id": "izy_mayzygym452",
-                                            "type": "r0zow",
+                                            "id": "dljztc_mayzygym452",
+                                            "type": "b06xp",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,
@@ -668,8 +668,8 @@
                                             }
                                         },
                                         {
-                                            "id": "izy_mayzygym548",
-                                            "type": "r0t7h",
+                                            "id": "dljztc_mayzygym548",
+                                            "type": "az0oj",
                                             "unit": "mm",
                                             "props": {
                                                 "full": false,

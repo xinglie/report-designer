@@ -20,8 +20,8 @@
         "g": [],
         "elements": [
             {
-                "id": "izy_203",
-                "type": "qm80q",
+                "id": "dljztc_203",
+                "type": "a6ghh",
                 "unit": "mm",
                 "props": {
                     "x": 14.55,
@@ -42,8 +42,8 @@
                 }
             },
             {
-                "id": "izy_204",
-                "type": "qk27q",
+                "id": "dljztc_204",
+                "type": "a3bt1",
                 "unit": "mm",
                 "props": {
                     "pinX": true,
@@ -56,8 +56,8 @@
                                     "width": 209.26,
                                     "elements": [
                                         {
-                                            "id": "izy_217",
-                                            "type": "qnax8",
+                                            "id": "dljztc_217",
+                                            "type": "a7mqn",
                                             "unit": "mm",
                                             "props": {
                                                 "ext": {},
@@ -117,8 +117,8 @@
                 }
             },
             {
-                "id": "izy_205",
-                "type": "qjp8w",
+                "id": "dljztc_205",
+                "type": "a2xpz",
                 "unit": "mm",
                 "props": {
                     "pinX": true,

@@ -20,8 +20,8 @@
         "g": [],
         "elements": [
             {
-                "id": "izy_143",
-                "type": "qi2w5",
+                "id": "dljztc_143",
+                "type": "a0zap",
                 "unit": "px",
                 "props": {
                     "rows": [
@@ -38,8 +38,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "izy_152",
-                                            "type": "r0zow",
+                                            "id": "dljztc_152",
+                                            "type": "b06xp",
                                             "unit": "px",
                                             "props": {
                                                 "x": 0,
@@ -93,8 +93,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "izy_328",
-                                            "type": "r0zow",
+                                            "id": "dljztc_328",
+                                            "type": "b06xp",
                                             "unit": "px",
                                             "props": {
                                                 "x": 13,
@@ -139,8 +139,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "izy_355",
-                                            "type": "r0zow",
+                                            "id": "dljztc_355",
+                                            "type": "b06xp",
                                             "unit": "px",
                                             "props": {
                                                 "pinX": false,
@@ -191,8 +191,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "izy_381",
-                                            "type": "r0zow",
+                                            "id": "dljztc_381",
+                                            "type": "b06xp",
                                             "unit": "px",
                                             "props": {
                                                 "pinX": false,
@@ -247,8 +247,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "izy_407",
-                                            "type": "r0zow",
+                                            "id": "dljztc_407",
+                                            "type": "b06xp",
                                             "unit": "px",
                                             "props": {
                                                 "pinX": false,
@@ -299,8 +299,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "izy_433",
-                                            "type": "r0zow",
+                                            "id": "dljztc_433",
+                                            "type": "b06xp",
                                             "unit": "px",
                                             "props": {
                                                 "pinX": false,
@@ -356,8 +356,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "izy_255",
-                                            "type": "r0zow",
+                                            "id": "dljztc_255",
+                                            "type": "b06xp",
                                             "unit": "px",
                                             "props": {
                                                 "x": 13,
@@ -407,8 +407,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "izy_273",
-                                            "type": "r0zow",
+                                            "id": "dljztc_273",
+                                            "type": "b06xp",
                                             "unit": "px",
                                             "props": {
                                                 "x": 21,
@@ -462,8 +462,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "izy_276",
-                                            "type": "r0zow",
+                                            "id": "dljztc_276",
+                                            "type": "b06xp",
                                             "unit": "px",
                                             "props": {
                                                 "x": 26,
@@ -521,8 +521,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "izy_279",
-                                            "type": "r0zow",
+                                            "id": "dljztc_279",
+                                            "type": "b06xp",
                                             "unit": "px",
                                             "props": {
                                                 "x": 31,
@@ -576,8 +576,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "izy_282",
-                                            "type": "r0zow",
+                                            "id": "dljztc_282",
+                                            "type": "b06xp",
                                             "unit": "px",
                                             "props": {
                                                 "x": 39,
@@ -695,8 +695,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "izy_297",
-                                            "type": "r0zow",
+                                            "id": "dljztc_297",
+                                            "type": "b06xp",
                                             "unit": "px",
                                             "props": {
                                                 "x": 39,
@@ -738,8 +738,8 @@
                                             }
                                         },
                                         {
-                                            "id": "izy_315",
-                                            "type": "r0zow",
+                                            "id": "dljztc_315",
+                                            "type": "b06xp",
                                             "unit": "px",
                                             "props": {
                                                 "x": 257,

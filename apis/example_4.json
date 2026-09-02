@@ -21,8 +21,8 @@
         "g": [],
         "elements": [
             {
-                "id": "izy_353",
-                "type": "qi2w5",
+                "id": "dljztc_353",
+                "type": "a0zap",
                 "unit": "pc",
                 "props": {
                     "rows": [
@@ -39,8 +39,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "izy_591",
-                                            "type": "r0zow",
+                                            "id": "dljztc_591",
+                                            "type": "b06xp",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 10.578,
@@ -94,8 +94,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "izy_481",
-                                            "type": "r0zow",
+                                            "id": "dljztc_481",
+                                            "type": "b06xp",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.313,
@@ -144,8 +144,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "izy_535",
-                                            "type": "r0zow",
+                                            "id": "dljztc_535",
+                                            "type": "b06xp",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
@@ -196,8 +196,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "izy_563",
-                                            "type": "r0zow",
+                                            "id": "dljztc_563",
+                                            "type": "b06xp",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
@@ -253,8 +253,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "izy_364",
-                                            "type": "r0zow",
+                                            "id": "dljztc_364",
+                                            "type": "b06xp",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.656,
@@ -308,8 +308,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "izy_382",
-                                            "type": "r0zow",
+                                            "id": "dljztc_382",
+                                            "type": "b06xp",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.688,
@@ -363,8 +363,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "izy_385",
-                                            "type": "r0zow",
+                                            "id": "dljztc_385",
+                                            "type": "b06xp",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.969,
@@ -460,8 +460,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "izy_654",
-                                            "type": "r0zow",
+                                            "id": "dljztc_654",
+                                            "type": "b06xp",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
