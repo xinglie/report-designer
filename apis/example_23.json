@@ -33,8 +33,8 @@
         },
         "elements": [
             {
-                "id": "dljztc_303",
-                "type": "a1ddr",
+                "id": "mmy2ymr_303",
+                "type": "nmg5d",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -51,8 +51,8 @@
                                     "width": 300,
                                     "elements": [
                                         {
-                                            "id": "dljztc_307",
-                                            "type": "az0oj",
+                                            "id": "mmy2ymr_307",
+                                            "type": "pan1d",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": false,
@@ -85,8 +85,8 @@
                                             }
                                         },
                                         {
-                                            "id": "dljztc_342",
-                                            "type": "az0oj",
+                                            "id": "mmy2ymr_342",
+                                            "type": "pan1d",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": false,
@@ -121,8 +121,8 @@
                                             }
                                         },
                                         {
-                                            "id": "dljztc_348",
-                                            "type": "ay8if",
+                                            "id": "mmy2ymr_348",
+                                            "type": "pa0xd",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": false,
@@ -162,8 +162,8 @@
                                             }
                                         },
                                         {
-                                            "id": "dljztc_368",
-                                            "type": "b06xp",
+                                            "id": "mmy2ymr_368",
+                                            "type": "pb95d",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": false,

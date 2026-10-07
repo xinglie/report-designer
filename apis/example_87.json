@@ -23,7 +23,7 @@
             "gridHeight": 20,
             "font": "tahoma",
             "background": "#fff",
-            "backgroundImage": "//report-designer.cn/res/images/bg01.png",
+            "backgroundImage": "./resources/bg01.png",
             "backgroundRepeat": "no-repeat",
             "backgroundWidth": 1920,
             "backgroundHeight": 1080,
@@ -33,8 +33,8 @@
         "elements": [
             {
                 "v": "202602061214",
-                "id": "dljztc_mlajozkj181",
-                "type": "ahsy3",
+                "id": "mmy2ymr_mlajozkj181",
+                "type": "om2ld",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -44,9 +44,9 @@
                     "height": 104,
                     "alpha": 1,
                     "rotate": 0,
-                    "image": "//report-designer.cn/res/images/header.png",
+                    "image": "./resources/header.png",
                     "bind": {},
-                    "ahsy3": "no-repeat",
+                    "om2ld": "no-repeat",
                     "radius": "0% 0% 0% 0%/0% 0% 0% 0%",
                     "imageWidth": 1920,
                     "imageHeight": 100,
@@ -58,8 +58,8 @@
             },
             {
                 "v": "202602061214",
-                "id": "dljztc_mlakcicw250",
-                "type": "b06xp",
+                "id": "mmy2ymr_mlakcicw250",
+                "type": "pb95d",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -94,8 +94,8 @@
             },
             {
                 "v": "202602061214",
-                "id": "dljztc_mlapkf54416",
-                "type": "a5a8b",
+                "id": "mmy2ymr_mlapkf54416",
+                "type": "nxi5d",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -107,8 +107,8 @@
                                     "elements": [
                                         {
                                             "v": "202602061214",
-                                            "id": "dljztc_mlapkf54495",
-                                            "type": "chart/ad3xf",
+                                            "id": "mmy2ymr_mlapkf54495",
+                                            "type": "chart/ob0ld",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": false,
@@ -149,8 +149,8 @@
                                     "elements": [
                                         {
                                             "v": "202602061214",
-                                            "id": "dljztc_mlapkf54507",
-                                            "type": "chart/adi0h",
+                                            "id": "mmy2ymr_mlapkf54507",
+                                            "type": "chart/oc8td",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": false,
@@ -191,7 +191,7 @@
                                     "elements": [
                                         {
                                             "v": "202602061214",
-                                            "id": "dljztc_mlapkf54756",
+                                            "id": "mmy2ymr_mlapkf54756",
                                             "type": "chart/cscatter",
                                             "unit": "px",
                                             "props": {
@@ -239,7 +239,7 @@
                     "alpha": 1,
                     "hgap": 2,
                     "vgap": 50,
-                    "border": "//report-designer.cn/res/images/panel.png",
+                    "border": "./resources/panel.png",
                     "borderWidth": [
                         20,
                         20,
@@ -254,8 +254,8 @@
             },
             {
                 "v": "202602061214",
-                "id": "dljztc_mlapkf54445",
-                "type": "a5a8b",
+                "id": "mmy2ymr_mlapkf54445",
+                "type": "nxi5d",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -267,8 +267,8 @@
                                     "elements": [
                                         {
                                             "v": "202602061214",
-                                            "id": "dljztc_mlapkf54501",
-                                            "type": "chart/adw3j",
+                                            "id": "mmy2ymr_mlapkf54501",
+                                            "type": "chart/odh1d",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": false,
@@ -309,8 +309,8 @@
                                     "elements": [
                                         {
                                             "v": "202602061214",
-                                            "id": "dljztc_mlapkf54504",
-                                            "type": "chart/amw1t",
+                                            "id": "mmy2ymr_mlapkf54504",
+                                            "type": "chart/ouo5d",
                                             "unit": "px",
                                             "props": {
                                                 "readonly": false,
@@ -357,7 +357,7 @@
                     "alpha": 1,
                     "hgap": 2,
                     "vgap": 50,
-                    "border": "//report-designer.cn/res/images/panel.png",
+                    "border": "./resources/panel.png",
                     "borderWidth": [
                         20,
                         20,
@@ -372,8 +372,8 @@
             },
             {
                 "v": "202602061214",
-                "id": "dljztc_mlapkf54681",
-                "type": "a4w59",
+                "id": "mmy2ymr_mlapkf54681",
+                "type": "nww1d",
                 "unit": "px",
                 "props": {
                     "readonly": false,
@@ -385,8 +385,8 @@
                                     "elements": [
                                         {
                                             "v": "202602061214",
-                                            "id": "dljztc_mldg1pkf222",
-                                            "type": "chart/adi0h",
+                                            "id": "mmy2ymr_mldg1pkf222",
+                                            "type": "chart/oc8td",
                                             "unit": "px",
                                             "props": {
                                                 "x": 0,
@@ -432,7 +432,7 @@
                     "alpha": 1,
                     "hgap": 2,
                     "vgap": 2,
-                    "border": "//report-designer.cn/res/images/panel.png",
+                    "border": "./resources/panel.png",
                     "borderWidth": [
                         20,
                         20,

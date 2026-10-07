@@ -33,8 +33,8 @@
         },
         "elements": [
             {
-                "id": "dljztc_129",
-                "type": "b06xp",
+                "id": "mmy2ymr_129",
+                "type": "pb95d",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -78,8 +78,8 @@
                 }
             },
             {
-                "id": "dljztc_144",
-                "type": "b0l0r",
+                "id": "mmy2ymr_144",
+                "type": "pbv9d",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -108,8 +108,8 @@
                 }
             },
             {
-                "id": "dljztc_150",
-                "type": "ahsy3",
+                "id": "mmy2ymr_150",
+                "type": "om2ld",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -126,7 +126,7 @@
                         "id": "",
                         "fields": []
                     },
-                    "ahsy3": "ahsy3",
+                    "om2ld": "om2ld",
                     "imageWidth": 0,
                     "imageHeight": 0,
                     "backgroundX": 0,
@@ -137,8 +137,8 @@
                 }
             },
             {
-                "id": "dljztc_153",
-                "type": "az0oj",
+                "id": "mmy2ymr_153",
+                "type": "pan1d",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -165,8 +165,8 @@
                 }
             },
             {
-                "id": "dljztc_157",
-                "type": "ay8if",
+                "id": "mmy2ymr_157",
+                "type": "pa0xd",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -200,8 +200,8 @@
                 }
             },
             {
-                "id": "dljztc_172",
-                "type": "av3tz",
+                "id": "mmy2ymr_172",
+                "type": "p6c9d",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -235,8 +235,8 @@
                 }
             },
             {
-                "id": "dljztc_178",
-                "type": "avhx1",
+                "id": "mmy2ymr_178",
+                "type": "p6ydd",
                 "unit": "mm",
                 "props": {
                     "readonly": false,
@@ -263,8 +263,8 @@
                 }
             },
             {
-                "id": "dljztc_181",
-                "type": "avw03",
+                "id": "mmy2ymr_181",
+                "type": "p7khd",
                 "unit": "mm",
                 "props": {
                     "readonly": false,

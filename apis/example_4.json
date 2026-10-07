@@ -21,8 +21,8 @@
         "g": [],
         "elements": [
             {
-                "id": "dljztc_353",
-                "type": "a0zap",
+                "id": "mmy2ymr_353",
+                "type": "nlu1d",
                 "unit": "pc",
                 "props": {
                     "rows": [
@@ -39,8 +39,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "dljztc_591",
-                                            "type": "b06xp",
+                                            "id": "mmy2ymr_591",
+                                            "type": "pb95d",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 10.578,
@@ -94,8 +94,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "dljztc_481",
-                                            "type": "b06xp",
+                                            "id": "mmy2ymr_481",
+                                            "type": "pb95d",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.313,
@@ -144,8 +144,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "dljztc_535",
-                                            "type": "b06xp",
+                                            "id": "mmy2ymr_535",
+                                            "type": "pb95d",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
@@ -196,8 +196,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "dljztc_563",
-                                            "type": "b06xp",
+                                            "id": "mmy2ymr_563",
+                                            "type": "pb95d",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,
@@ -253,8 +253,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "dljztc_364",
-                                            "type": "b06xp",
+                                            "id": "mmy2ymr_364",
+                                            "type": "pb95d",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.656,
@@ -308,8 +308,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "dljztc_382",
-                                            "type": "b06xp",
+                                            "id": "mmy2ymr_382",
+                                            "type": "pb95d",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.688,
@@ -363,8 +363,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "dljztc_385",
-                                            "type": "b06xp",
+                                            "id": "mmy2ymr_385",
+                                            "type": "pb95d",
                                             "unit": "pc",
                                             "props": {
                                                 "x": 0.969,
@@ -460,8 +460,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "dljztc_654",
-                                            "type": "b06xp",
+                                            "id": "mmy2ymr_654",
+                                            "type": "pb95d",
                                             "unit": "pc",
                                             "props": {
                                                 "pinX": false,

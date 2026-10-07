@@ -46,27 +46,27 @@
                 "title": "危险"
             },
             {
-                "src": "//report-designer.cn/res/images/bg01.png",
+                "src": "./resources/bg01.png",
                 "title": "大屏背景"
             },
             {
-                "src": "//report-designer.cn/res/images/bg02.png",
+                "src": "./resources/bg02.png",
                 "title": "大屏背景"
             },
             {
-                "src": "//report-designer.cn/res/images/bg03.png",
+                "src": "./resources/bg03.png",
                 "title": "大屏背景"
             },
             {
-                "src": "//report-designer.cn/res/images/header.png",
+                "src": "./resources/header.png",
                 "title": "标题背景"
             },
              {
-                "src": "//report-designer.cn/res/images/header1.png",
+                "src": "./resources/header1.png",
                 "title": "标题背景1"
             },
             {
-                "src": "//report-designer.cn/res/images/border-diamonds.png",
+                "src": "./resources/border-diamonds.png",
                 "title": "边框",
                 "params": {
                     "width": [
@@ -80,7 +80,7 @@
                 }
             },
             {
-                "src": "//report-designer.cn/res/images/panel.png",
+                "src": "./resources/panel.png",
                 "title": "边框蓝",
                 "params": {
                     "width": [

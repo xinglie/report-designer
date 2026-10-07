@@ -30,8 +30,8 @@
         },
         "elements": [
             {
-                "id": "dljztc_lt6y4vct327",
-                "type": "a0zap",
+                "id": "mmy2ymr_lt6y4vct327",
+                "type": "nlu1d",
                 "unit": "mm",
                 "props": {
                     "bind": {
@@ -79,8 +79,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "dljztc_lt6y4vct562",
-                                            "type": "b06xp",
+                                            "id": "mmy2ymr_lt6y4vct562",
+                                            "type": "pb95d",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 0,
@@ -123,8 +123,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "dljztc_lt6y4vct632",
-                                            "type": "b06xp",
+                                            "id": "mmy2ymr_lt6y4vct632",
+                                            "type": "pb95d",
                                             "unit": "mm",
                                             "props": {
                                                 "x": -2.401,
@@ -172,8 +172,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "dljztc_lt6y4vct349",
-                                            "type": "b06xp",
+                                            "id": "mmy2ymr_lt6y4vct349",
+                                            "type": "pb95d",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 4.622,
@@ -214,8 +214,8 @@
                                             }
                                         },
                                         {
-                                            "id": "dljztc_lt6y4vct369",
-                                            "type": "b06xp",
+                                            "id": "mmy2ymr_lt6y4vct369",
+                                            "type": "pb95d",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 4.622,
@@ -256,8 +256,8 @@
                                             }
                                         },
                                         {
-                                            "id": "dljztc_lt6y4vct823",
-                                            "type": "b06xp",
+                                            "id": "mmy2ymr_lt6y4vct823",
+                                            "type": "pb95d",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 4.953,
@@ -310,8 +310,8 @@
                                     "bBottom": true,
                                     "elements": [
                                         {
-                                            "id": "dljztc_lt6y4vct747",
-                                            "type": "b0l0r",
+                                            "id": "mmy2ymr_lt6y4vct747",
+                                            "type": "pbv9d",
                                             "unit": "mm",
                                             "props": {
                                                 "x": 8.922,

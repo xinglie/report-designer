@@ -146,7 +146,7 @@ let toPrinter = (printerName, file) => {
             //window平台安装SumatraPDF.exe
             //https://www.sumatrapdfreader.org/free-pdf-reader
             //下面的路径需要修改为您安装的目录
-            exec(`C:\\your path to\\SumatraPDF.exe -print-to "${printerName}" -silent "${file}"`, error => {
+            exec(`C:\\your path to\\SumatraPDF.exe -print-to "${printerName}" -silent -print-settings "noscale" "${file}"`, error => {
                 if (error) {
                     reject(error);
                 } else {
